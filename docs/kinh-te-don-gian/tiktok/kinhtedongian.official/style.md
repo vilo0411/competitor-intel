@@ -1,6 +1,6 @@
 Đã xem khung hình (grid + hook) và lời thoại (`audio/audio_raw.txt`) của 5 video top: Đặc vụ Nón Sơn (1,2 tr), Tiệm kính vắng khách (713k), 1.000 tỷ rơi xuống (469k), Cơn sóng làm giàu (388k), Giám đốc mua xe 5 tỷ (331k). Cả 5 là video dọc **dài 4–10 phút**, khác hẳn dạng clip tin 15–60 giây kênh đăng trước tháng 10/2026.
 
-> Ghi chú số đo: `style.json` bị trống `transcript`/`wpm` (lỗi bước hậu xử lý), nhưng whisper vẫn ra lời đầy đủ trong `audio/audio_raw.txt`. Tốc độ đọc dưới đây tính tay từ file đó.
+> Phạm vi: đây là đặc điểm của 5 video nhiều view nhất. Chưa xem video sàn (1,5–3k view) của cùng format, nên chưa biết đặc điểm nào phân biệt bài tốt với bài yếu.
 
 ### Hình ảnh
 - **Hai bộ khung hình, cùng một hệ thống đồ hoạ phẳng, không có người thật hay footage:**
@@ -24,12 +24,12 @@
   - "7x giàu nhờ đất, 9x giàu nhờ chứng khoán, 2k giàu nhờ coin. Vậy con sóng đổi đời tiếp theo nằm ở đâu?"
 - **Cấu trúc kịch bản lặp lại**: nghịch lý → mô tả cảnh quen thuộc ("Anh em cứ để ý mà xem…") → câu bẻ lái **"Khoan…"** ("Khoan, gọi cho cục tình báo vội.") → **hứa hẹn có "cú lật kèo" ở cuối** và xin theo dõi, lưu video, "xem hết tới giây cuối cùng" ngay trong khoảng 30 giây đầu → bóc tách bằng số (giá thuê mặt bằng, số khách, biên lợi nhuận, thuế suất) → câu chốt mang tính bài học → **câu hỏi mở để kéo bình luận** ("Anh em đi cắt kính cận thường tốn bao nhiêu tiền…?").
 - Giọng văn xưng **"anh em"**, đời thường, nhiều hình ảnh ("cỗ máy in tiền êm ái", "hai cỗ máy in tiền ngầm"). Lời kể dài 975–2.226 từ mỗi video.
-- **Tốc độ đọc khoảng 220–240 từ/phút** (khoảng 3,7–4 âm tiết/giây), nhanh và đều. Độ to khoảng −18 LUFS, gần như không có khoảng lặng dài.
+- **Tốc độ đọc 216–245 âm tiết/phút** (khoảng 3,6–4,1 âm tiết/giây), nhanh và đều. Độ to khoảng −18 LUFS, gần như không có khoảng lặng dài.
 - Hình **minh hoạ đúng câu đang đọc**, nhưng beat chỉ rơi vào đầu câu hoặc đầu ý, không rơi theo từng từ khoá. 3 giây đầu chỉ có 1–4 beat.
 - Một số video cuối còn **chào bán gói hội viên 70.000đ/tháng** ("không lạm dụng AI").
 
 ### Áp dụng cho DSC
 - **Kiểu "mascot + bảng minh hoạ"** khớp với format `series` dọc 9x16 (skill `dsc-toon`). Có thể dựng một host cố định ngồi bàn, khung 16:9 bo góc nằm giữa màn hình dọc, và preset biểu đồ (núi, cột, so sánh A/B).
 - **Kiểu "hồ sơ bí ẩn"** khớp với `faceless` 9x16 (`video-producer`): nền giấy, icon phẳng, `statement` + `compare`. Nếu chỉ cần bản ngắn 45–60 giây cắt từ video dài thì dùng `shorts-kinetic` (`hook_2tier`, `big_counter`, `ab_compare`).
-- **Giữ**: mở bằng nghịch lý từ cảnh quen thuộc, câu "Khoan…", hứa có cú lật ở cuối, xin lưu video sớm, kết bằng câu hỏi để kéo bình luận.
-- **Thay**: DSC nên tăng nhịp hình (khoảng 1–1,5 giây/beat thay vì 3 giây), vì phần lớn thời lượng của đối thủ là màn hình gần như tĩnh. Số liệu nên ghi nguồn trên màn hình, vì đối thủ đưa nhiều con số ước tính (biên lợi nhuận, số khách) mà không trích nguồn.
+- **Giữ khi thử**: mở bằng nghịch lý từ cảnh quen thuộc, câu "Khoan…", hứa có cú lật ở cuối, xin lưu video sớm. Câu hỏi kéo bình luận ở cuối là đặc trưng của kênh nhưng bình luận/view ở video lớn và video sàn bằng nhau (0,05%); chia sẻ/view mới khác (0,80% so với 0,25%).
+- **Khác biệt có thể tạo**: ghi nguồn số liệu trên màn hình, vì đối thủ đưa nhiều con số ước tính (biên lợi nhuận, số khách) mà không trích nguồn. Nhịp hình nhanh hơn (1–1,5 giây/beat thay vì khoảng 3 giây) chỉ nên là một phép thử: trong 5 video này, hai video đổi hình chậm nhất (3,6 giây/beat) đạt 713k và 469k, video nhanh nhất (1,6 giây/beat) đạt 331k.

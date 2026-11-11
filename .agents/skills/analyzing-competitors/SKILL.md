@@ -36,7 +36,7 @@ docs/<ten-doi-thu>/                    (public trên GitHub Pages)
 ├── competitor.json          tên hiển thị + danh sách kênh theo nền tảng
 ├── summary.json             số liệu gọn cho agent đọc
 ├── history/<YYYY-MM-DD>.json   ảnh chụp số liệu mỗi lần chạy
-└── tiktok/<handle>/         videos.json, profile.json, labels.json, labels.todo.json, covers/, style/<id>/, style.md
+└── tiktok/<handle>/         videos.json, profile.json, labels.json, labels.todo.json, covers/, style/<id>/, style.md, snapshots/<YYYY-MM-DD>.json (view từng video mỗi lần lấy dữ liệu)
 docs/_runs/<id>.json         kết quả từng lần chạy (status, log)
 ```
 
@@ -102,14 +102,19 @@ Lưu ý khi đọc số đo:
 
 Ghi `docs/<ten-doi-thu>/insights.md` bằng Markdown đơn giản (`###`, gạch đầu dòng, `**đậm**`). Phần này được nhúng lên đầu báo cáo. Gồm:
 
-1. **Công thức thắng**: loại hình, phong cách và mẫu tiêu đề của các video top.
-2. **Loại hình nào thắng**: view trung vị theo nhóm (`summary.json` → `categories`).
+1. **Mẫu nội dung đáng thử**: loại hình, phong cách và tiêu đề quan sát được; phân biệt đặc trưng định dạng với yếu tố phân biệt bài tốt/yếu.
+2. **Loại hình nào thắng**: trung vị, tỷ lệ hit và "so với bài cùng thời" theo nhóm (`summary.json` → `evidence.categories`). Chỉ gọi một nhóm là thắng khi báo cáo tô màu nhóm đó.
 3. **Nhịp đăng**: video/tuần, xu hướng theo tháng, kênh còn hoạt động không (`daysSinceLast`), giờ và thứ đăng.
-4. **Độ dài**: so view trung vị giữa các mức độ dài.
+4. **Độ dài**: so trong cùng loại nội dung (`evidence.durationStrata`), không so gộp toàn kênh.
 5. **Áp dụng cho DSC**: 3–4 việc cụ thể, gắn với format có sẵn (toon, news, shorts) và kênh đích.
 
 Quy tắc:
-- Dùng **trung vị** khi so sánh, vì vài video viral kéo lệch trung bình.
+- Đọc `summary.json` → `tiktok[].evidence` trước khi viết kết luận. Dùng hướng dẫn [references/evidence-review.md](references/evidence-review.md) để diễn giải kiểm tra độ ổn định, so sánh cùng quý, tương tác và cặp video đối chứng.
+- Mỗi đề xuất cần có: quan sát + số mẫu → yếu tố chưa tách được → giả thuyết → thử nghiệm cho DSC và chỉ số đánh giá. Mức chắc chắn của đề xuất không được vượt bằng chứng ở phần phân tích.
+- Không suy ra giữ chân từ tương tác, người xem quay lại từ cast, hay khoảng trống thị trường từ việc chưa ghi nhận bài mới. Giờ/hashtag có view cao chỉ là tương quan; không chuyển thẳng thành lịch đăng cho DSC.
+- Dùng **trung vị cùng với tỷ lệ hit** khi so sánh: trung bình bị vài video viral kéo lệch, còn trung vị một mình thì che mất việc đa số bài nằm ở sàn.
+- Kênh có `summary.json` → `era` (đổi format): phân tích riêng format hiện tại; các số `timeBuckets`, `weekdays`, `durations`, `tags`, `scope` đã chỉ tính giai đoạn này.
+- Kỳ gần nhất thường toàn bài dưới 7 ngày tuổi (bảng ghi "bài <7 ngày"): không kết luận view giảm từ kỳ đó.
 - Nhóm dưới khoảng 5 video chỉ là tín hiệu yếu, phải nói rõ.
 - Hai yếu tố trùng giai đoạn thì nêu rõ là chưa tách được nguyên nhân, không kết luận nhân quả.
 - Repo **public**: không ghi số liệu nội bộ của DSC (doanh thu, chi phí, KPI chưa công bố) vào `insights.md` hay `style.md`.
@@ -128,11 +133,15 @@ Gửi các con số chính (follower, view trung vị, top 3 video, loại hình
 
 ## Nội dung báo cáo
 
-Mỗi biểu đồ trả lời **một câu hỏi**; tiêu đề biểu đồ là câu trả lời script tính từ dữ liệu. Thanh của nhóm thắng tô màu, nhóm khác xám, vạch đứt là trung vị kênh. Nhóm dưới 5 video (tháng dưới 3 video) bị làm nhạt, gắn nhãn "ít mẫu", không bao giờ được chọn là nhóm thắng.
+Mỗi biểu đồ trả lời **một câu hỏi**; tiêu đề biểu đồ là câu trả lời script tính từ dữ liệu.
 
-Mỗi kênh có: số liệu chính (follower, view trung vị, tương tác, video/tuần, cảnh báo nếu ngừng đăng quá 30 ngày); điểm chính tự động (`summary.json` → `takeaways`); top 10 video; phong cách dựng; loại nội dung thắng; % số video so với % tổng view theo nhóm; xu hướng theo tháng; mức phụ thuộc viral; giờ/thứ đăng, độ dài, hashtag; bảng dữ liệu đầy đủ. Từ 2 kênh trở lên có thêm phần "So sánh các kênh".
+- **Dòng thời gian**: mỗi video là một chấm theo ngày đăng, trục view thang log, kèm đường trung vị theo tuần/tháng và số video đăng mỗi kỳ. Kênh đổi format có thêm một biểu đồ phóng to format hiện tại.
+- **Phân bố view**: số video theo từng mức view và phần tổng view mỗi mức mang về.
+- **So sánh nhóm** (loại nội dung, giờ, thứ, độ dài): dải P25–P75 và trung vị trên trục "gấp mấy lần bài đăng trong ±7 ngày". Chỉ tô màu khi một nhóm vượt rõ nhóm kế tiếp và qua kiểm tra ngẫu nhiên; nếu không, tiêu đề ghi "không nhóm nào nổi trội rõ". Nhóm dưới 5 video bị làm nhạt, gắn nhãn "ít mẫu".
 
-Phần **Nhận định** do agent viết, nên đi xa hơn các câu tự động: giải thích **vì sao** video thắng (dựa vào khung hình và tiêu đề) và đề xuất việc cụ thể cho DSC. Đừng chép lại phần "Điểm chính".
+Mỗi kênh có: số liệu chính (follower, view trung vị, tương tác, video/tuần, cảnh báo nếu ngừng đăng quá 30 ngày); điểm chính tự động (`summary.json` → `takeaways`); top 10 video; phong cách dựng; loại nội dung thắng; % số video so với % tổng view theo nhóm; dòng thời gian; phân bố view và số hit; giờ/thứ đăng, độ dài, hashtag; bảng dữ liệu đầy đủ. Từ 2 kênh trở lên có thêm phần "So sánh các kênh".
+
+Phần **Nhận định** do agent viết: nêu giả thuyết giải thích kết quả dựa trên hình và lời đã xem, kiểm tra bằng video đối chứng nếu có, rồi đề xuất việc cụ thể cho DSC. Không gọi giả thuyết là nguyên nhân đã chứng minh. Đừng chép lại phần "Điểm chính".
 
 Tỷ lệ tương tác = (like + bình luận + chia sẻ + lưu) / view.
 

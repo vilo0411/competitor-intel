@@ -1,21 +1,24 @@
-### Công thức thắng
-- 3 video lớn nhất đều là **"What is X?" kể bằng gorilla**: Tax Evasion (6,5 tr), Insurance (3,2 tr), Money Laundering (1,9 tr). Cả 3 đăng tháng 5–6/2025, dài 28–61 giây, sticker đổi khoảng 1 giây/lần, lời kể "caveman English" và tiền quy ra chuối.
-- Mẫu tiêu đề thắng ở giai đoạn đầu: **"Gorillas explain <Khái niệm>"**. Đây là một danh từ quen thuộc mà ai cũng từng nghe nhưng chưa hiểu rõ.
+### Mẫu nội dung đáng thử
+- 3 video lớn nhất đều là **"What is X?" kể bằng gorilla**: Tax Evasion (6,5 tr), Insurance (3,2 tr), Money Laundering (1,9 tr). Cả 3 đăng tháng 5–6/2025, dài 28–61 giây, sticker đổi khoảng 1 giây/lần, lời kể "caveman English" và tiền quy ra chuối. Ba video này mang về 45% tổng view của kênh.
+- Đây là **đặc điểm của mẫu top** (chỉ xem khung hình và lời thoại của 3 video này). Cùng khuôn "Gorillas explain <Khái niệm>" cũng cho ra bài thấp hơn hàng chục lần trong cùng tháng: Tax Evasion 6,5 tr so với Bail 104k (cách 7 ngày, cùng 61 giây); Insurance 3,2 tr so với Buy Now Pay Later 145k. Khuôn kịch bản không phải yếu tố phân biệt; chưa xem các video thấp nên chưa biết khác ở đâu.
+- Giả thuyết cần kiểm tra bằng các cặp trên: khái niệm càng quen tai và càng "cấm kỵ" (trốn thuế, rửa tiền) thì càng dễ lan.
 
 ### Loại hình nào thắng
-- **Tội phạm & mặt tối tài chính** có trung vị **300k** view (11 video), sau đó là **Khái niệm tài chính** 189k (31 video). **Tin thời sự / chính trị** chỉ đạt 56k (19 video), chiếm 31% số video nhưng chỉ mang về 12% tổng view.
-- Lưu ý: tin thời sự gần như chỉ đăng ở giai đoạn sau (2025-11 → 2026-05), đúng lúc view của cả kênh đang giảm. Vì vậy **chưa tách được** việc nhóm này kém là do chủ đề hay do kênh đang đi xuống. Ngoại lệ là "ICE explained" đạt 1,1 tr.
+- **Tội phạm & mặt tối tài chính** có trung vị 300k (11 video), bằng 2,1× các bài đăng cùng thời; vẫn dẫn đầu khi bỏ 1 và 3 video lớn nhất kênh, và trong quý 2/2025 đạt 659k so với 291k của Khái niệm tài chính (5 và 17 video). Với 11 video, chênh lệch này **chưa qua được kiểm tra ngẫu nhiên**, nên là tín hiệu vừa, chưa phải kết luận.
+- **Tin thời sự / chính trị** có trung vị 56k (19 video) nhưng gần như chỉ đăng từ tháng 11/2025, lúc view cả kênh đã giảm. So với bài cùng thời nhóm này đạt 0,9×, tức ngang các bài khác cùng giai đoạn. Dữ liệu **không cho thấy tin thời sự kém hơn**; video "ICE explained" đạt 1,1 tr.
 
 ### Nhịp đăng
-- Trung bình 1,1 video/tuần, nhưng dồn vào lúc đầu: tháng 5–6/2025 có 23 video với trung vị khoảng 290–330k. Từ tháng 11/2025 chỉ còn 4–5 video/tháng, trung vị 27–197k.
-- **Kênh đã ngừng đăng khoảng 166 ngày** (video cuối 29/05/2026). Đối thủ không còn hoạt động, nên đây là khoảng trống cho định dạng này.
-- Đăng buổi chiều 14–18h (giờ VN) có trung vị cao nhất (232k), nhưng tín hiệu này yếu vì giờ đăng thay đổi theo giai đoạn.
+- Trung bình 1,1 video/tuần nhưng dồn vào đầu: quý 2/2025 có 23 video, trung vị 291k, 3 video từ 1,5 tr. Các quý sau: 163k → 62k → 91k → 43k, không còn video nào từ 1,5 tr.
+- Chưa ghi nhận video mới trong dữ liệu thu thập từ 29/05/2026 (khoảng 166 ngày). Có hai cách đọc và dữ liệu không phân xử được: định dạng còn chỗ trống, hoặc định dạng đã bão hoà (view giảm đều suốt một năm trước khi dừng). Kênh tiếng Anh dừng đăng cũng không nói gì về thị trường Việt Nam.
+- Giờ đăng: không khung nào nổi trội rõ. Thứ Bảy đạt 4,8× bài cùng thời nhưng chỉ có 7 video; không dùng làm lịch đăng.
 
 ### Độ dài
-- Video **≤30 giây** có trung vị **559k** (11 video), gấp khoảng 4,5 lần nhóm 61–90 giây (125k, 37 video). Tuy nhiên các video ngắn đều nằm trong giai đoạn kênh đang lên, nên chưa kết luận được nguyên nhân là do độ dài. Riêng video Tax Evasion dài 61 giây vẫn đạt 6,5 tr.
+- Trong nhóm Khái niệm tài chính, video **đến 35 giây** đạt trung vị 440k và 1,0× bài cùng thời (10 video); 35–60 giây 0,7× (9 video); trên 60 giây 0,5× (12 video). Hướng "ngắn hơn thì tốt hơn" nhất quán qua ba mức, nhưng mỗi mức chỉ khoảng 10 video.
+- Nhóm Tội phạm & mặt tối không theo hướng này (trên 60 giây vẫn 2,0×, 8 video; Tax Evasion dài 61 giây). Chưa đủ cơ sở để áp một mốc 25–35 giây cho mọi chủ đề.
 
 ### Áp dụng cho DSC
-1. **Làm loạt "… là gì?" bằng format `shorts-sticker`** (skill `dsc-shorts`), dài 25–35 giây. Bắt đầu với các khái niệm đã thắng ở đối thủ nhưng gắn với bối cảnh Việt Nam: trốn thuế, rửa tiền, bảo hiểm, điểm tín dụng (CIC), vay thế chấp, tiền giả.
-2. **Ưu tiên nhóm "mặt tối tài chính"**: lừa đảo đa cấp, app vay, chiếm đoạt qua link giả (phishing), thao túng chứng khoán. Đây là nhóm có trung vị cao nhất ở đối thủ và cũng gần với nỗi lo của người xem Việt.
-3. **Hạn chế "tin thời sự bằng gorilla"**: ở đối thủ nhóm này kém nhất. Tin nóng nên để format `dsc-news`, còn kênh sticker tập trung vào khái niệm.
-4. **Xây cast cố định** (Vượn, Sếp Vượn, Vượn Thuế…) và chuẩn hoá giọng "câu cụt" tiếng Việt từ sớm, vì nhận diện nhân vật chính là thứ khiến người xem quay lại.
+1. **Thử loạt "… là gì?" bằng `shorts-sticker`** (skill `dsc-shorts`). Quan sát: 3 video từ 1,5 tr đều theo khuôn này. Chưa tách được: cùng khuôn cũng cho bài 100–150k, và cả 3 video lớn đều rơi vào 2 tháng đầu của kênh. Giả thuyết: mức quen tai của khái niệm quyết định. Thử nghiệm: 10 tập, một nửa khái niệm "ai cũng nghe" (trốn thuế, rửa tiền, bảo hiểm), một nửa khái niệm chuyên hơn (CIC, vay thế chấp); đo tỷ lệ tập vượt 10× trung vị của kênh đăng sau 7 ngày.
+2. **Đưa nhóm "mặt tối tài chính" vào đợt thử đầu** (lừa đảo đa cấp, app vay, link giả, thao túng chứng khoán). Quan sát: 2,1× bài cùng thời, giữ vị trí khi bỏ video lớn nhất. Chưa tách được: 11 video. Thử nghiệm: xen kẽ với tập khái niệm trung tính, so trung vị và tỷ lệ hit hai nhóm.
+3. **Thử độ dài trên cùng một kịch bản.** Quan sát: khái niệm tài chính ngắn đến 35 giây đạt 1,0× so với 0,5× ở bản trên 60 giây. Chưa tách được: các video ngắn tập trung ở giai đoạn đầu. Thử nghiệm: dựng hai bản 30 giây và 60 giây cho cùng 4–5 khái niệm, đăng luân phiên.
+4. **Không loại tin thời sự vì dữ liệu này.** Nếu DSC dùng `dsc-news` cho tin nóng thì đó là lựa chọn về định vị kênh; đối thủ không cung cấp bằng chứng tin thời sự bằng sticker kém hơn.
+5. **Cast cố định và giọng "câu cụt"** là đặc trưng nhận diện của định dạng, đáng giữ khi Việt hoá. Dữ liệu công khai không đo được người xem quay lại, nên không coi đây là nguyên nhân tăng view.

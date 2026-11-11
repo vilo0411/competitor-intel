@@ -107,8 +107,13 @@ raw_json, out_json, out_txt, raw_srt, out_srt = sys.argv[1:]
 if os.path.isfile(raw_srt):
     shutil.copyfile(raw_srt, out_srt)
 
-with open(raw_json, "r", encoding="utf-8") as f:
+# whisper-cli splits multi-byte characters (Vietnamese diacritics) across tokens, so the raw JSON is not
+# valid UTF-8 token by token. Keep the stray bytes as surrogates, join the tokens, then decode the joined word.
+with open(raw_json, "r", encoding="utf-8", errors="surrogateescape") as f:
     j = json.load(f)
+
+def fix(s):
+    return s.encode("utf-8", "surrogateescape").decode("utf-8", "replace")
 
 segments = []
 words = []
@@ -141,7 +146,11 @@ for idx, seg in enumerate(j.get("transcription", [])):
             words[-1]["word"] += clean
             words[-1]["end"] = round(t_end, 2)
 
-full_text = " ".join(full_text_parts)
+for w in words:
+    w["word"] = fix(w["word"])
+for seg in segments:
+    seg["text"] = fix(seg["text"])
+full_text = " ".join(seg["text"] for seg in segments)
 with open(out_txt, "w", encoding="utf-8") as f:
     f.write(full_text + "\n")
 
@@ -151,7 +160,6 @@ normalized = {
     "text": full_text,
     "segments": segments,
     "words": words,
-    "transcription": j.get("transcription", []),
 }
 with open(out_json, "w", encoding="utf-8") as f:
     json.dump(normalized, f, indent=2, ensure_ascii=False)
