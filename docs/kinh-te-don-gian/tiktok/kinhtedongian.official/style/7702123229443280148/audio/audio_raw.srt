@@ -1,0 +1,204 @@
+1
+00:00:00,000 --> 00:00:04,920
+ Tại sao các giám đốc mua xe sang 5 tỷ luôn đứng tên công ty, chứ không bao giờ đứng tên cá nhân?
+
+2
+00:00:04,920 --> 00:00:15,740
+ Bạn có bao giờ thắc mắc tại sao các ông chủ doanh nghiệp khi đi mua xe Mercedes, BMW hay Porsche trị giá 3 tỷ đến 5 tỷ đồng để đi làm và chở gia đình đi chơi cuối tuần?
+
+3
+00:00:15,740 --> 00:00:24,180
+ Nhưng trên giấy đăng ký xe lại hầu như không bao giờ đứng tên cá nhân của họ mà luôn đứng tên công ty trách nhiệm hữu hạn hoặc công ty cổ phần do họ làm giám đốc không?
+
+4
+00:00:24,500 --> 00:00:37,620
+ Anh em nhớ bấm theo dõi kênh Kinh tế Đơn Giản, lưu lại video và xem hết bài toán kế toán thuế cực kỳ khôn ngoan này để hiểu cách giới chủ doanh nghiệp biến một tiêu sản cá nhân đắt đỏ thành công cụ giảm hàng trăm triệu đồng tiền thuế hợp pháp mỗi năm nhé!
+
+5
+00:00:37,620 --> 00:00:47,680
+ Đối với một người đi làm hưởng lương thông thường, nếu bạn muốn mua một chiếc ô tô giá lăn bánh 2 tỷ hay 3 tỷ đồng đứng tên cá nhân, bạn phải lấy tiền túi sau thuế ra để mua.
+
+6
+00:00:48,760 --> 00:01:01,740
+ Nghĩa là công ty trả lương hoặc chia cổ tức cho bạn, bạn phải nột thuế thu nhập cá nhân từ 5% đến 35%, cầm số tiền còn lại ra showroom trả đủ 100% giá xe kèm 10% thuế giá trị gia tăng VAT.
+
+7
+00:01:01,740 --> 00:01:09,240
+ Mua xe xong, mỗi tháng bạn tốn thêm 5 triệu tiền xăng, 3 triệu tiền gửi xe, bảo hiểm thân vỏ, thay dầu bảo dưỡng định kỳ.
+
+8
+00:01:09,620 --> 00:01:15,320
+ Tất cả đều rút trực tiếp từ ví tiền cá nhân của bạn mà không được nhà nước hoàn lại hay khấu trừ bất cứ một đồng nào.
+
+9
+00:01:15,320 --> 00:01:21,740
+ Thế nhưng, nếu bạn là chủ một doanh nghiệp đang làm ăn có lãi và phải đóng thuế thu nhập doanh nghiệp ở mức 20% mỗi năm,
+
+10
+00:01:21,740 --> 00:01:28,840
+ việc đặt bút ký mua chiếc xe đó dưới tên công ty sẽ lập tức xoay chuyển hoàn toàn cục diện tài chính qua 3 tầng lợi ích kế toán.
+
+11
+00:01:29,200 --> 00:01:35,720
+ Tầng lợi ích thứ nhất nằm ở khoản khấu trừ thuế giá trị gia tăng đầu vào và trích khấu hao tài sản cố định.
+
+12
+00:01:35,720 --> 00:01:40,540
+ Khi công ty xuất tiền mua xe ô tô phục vụ hoạt động tinh doanh và có hóa đơn VAT hợp lệ,
+
+13
+00:01:40,540 --> 00:01:47,340
+ công ty được khấu trừ thuế GTGT đầu vào và đưa giá trị chiếc xe vào bảng khấu hao từ 6 đến 10 năm
+
+14
+00:01:47,340 --> 00:01:50,900
+ để tính vào chi phí hợp lý được trừ khi tính thuế thu nhập doanh nghiệp.
+
+15
+00:01:50,900 --> 00:01:55,740
+ Tất nhiên, pháp luật thuế Việt Nam cũng có hàng rào chặn việc lạm dụng siêu xe rất chặt chẽ.
+
+16
+00:01:56,360 --> 00:02:01,200
+ Theo quy định về chi phí được trừ khi tính thuế thu nhập doanh nghiệp được phân tích trên Thư viện pháp luật
+
+17
+00:02:01,200 --> 00:02:06,100
+ và hướng dẫn khấu trừ thuế đối với ô tô từ 9 chỗ ngồi trở xuống tại Thư viện pháp luật,
+
+18
+00:02:06,100 --> 00:02:10,620
+ nếu công ty của bạn không kinh doanh ngành vận tải hành khách, du lịch hay khách sạn,
+
+19
+00:02:10,620 --> 00:02:16,240
+ thì phần nguyên giá xe dưới 9 chỗ được tính vào chi phí hợp lý tối đa là 1,6 tỷ đồng một chiếc.
+
+20
+00:02:16,240 --> 00:02:21,440
+ Nhưng nếu trong giấy phép kinh doanh của công ty có đăng ký và hoạt động thực tế mảng vận tải hành khách
+
+21
+00:02:21,440 --> 00:02:23,380
+ cho thuê xe hoặc du lịch khách sạn,
+
+22
+00:02:23,700 --> 00:02:29,720
+ thì toàn bộ 100% giá trị chiếc xe 4 tỷ hay 5 tỷ đồng đều được đưa vào chi phí khấu hao hợp lệ.
+
+23
+00:02:29,720 --> 00:02:33,660
+ Tầng lợi ích thứ 2 còn béo bở hơn trong suốt vòng đời sử dụng xe.
+
+24
+00:02:33,660 --> 00:02:37,180
+ Một khi chiếc xe đã là tài sản hợp pháp trên sổ sách của công ty,
+
+25
+00:02:37,180 --> 00:02:39,380
+ thì toàn bộ hóa đơn đổ xăng hàng tuần,
+
+26
+00:02:39,380 --> 00:02:42,280
+ phí cầu đường, tiền thay lốp, bảo dưỡng tại hãng,
+
+27
+00:02:42,280 --> 00:02:47,020
+ phí bảo hiểm vật chất xe và cả tiền lương 12 triệu mỗi tháng trả cho tài xế riêng
+
+28
+00:02:47,020 --> 00:02:49,340
+ đều trở thành chi phí vận hành doanh nghiệp.
+
+29
+00:02:49,340 --> 00:02:53,480
+ Cứ mỗi 100 triệu đồng tiền xăng xe bảo dưỡng được hạch toán vào chi phí công ty
+
+30
+00:02:53,480 --> 00:02:56,040
+ là lợi nhuận chịu thuế giảm đi 100 triệu,
+
+31
+00:02:56,040 --> 00:02:59,560
+ giúp ông chủ tiết kiệm ngay 20 triệu đồng tiền thuế thu nhập doanh nghiệp,
+
+32
+00:02:59,560 --> 00:03:01,740
+ cộng với 10% thuế VAT đầu vào.
+
+33
+00:03:02,400 --> 00:03:04,660
+ Tầng lợi ích thứ 3 là đòn bẩy ngân hàng.
+
+34
+00:03:04,660 --> 00:03:06,380
+ Khi mua xe đứng tên công ty,
+
+35
+00:03:06,380 --> 00:03:11,800
+ các ngân hàng thương mại sẵn sàng cho doanh nghiệp vay tới 70% đến 80% giá trị chiếc xe
+
+36
+00:03:11,800 --> 00:03:14,220
+ và toàn bộ tiền lãi vay ngân hàng hàng tháng
+
+37
+00:03:14,220 --> 00:03:18,200
+ lại tiếp tục được hạch toán thẳng vào chi phí tài chính để trừ thuế một lần nữa.
+
+38
+00:03:18,200 --> 00:03:22,640
+ Đến sau 5 năm, khi chiếc xe đã trích khấu hao gần hết trên sổ sách kế toán,
+
+39
+00:03:22,640 --> 00:03:25,860
+ công ty chỉ việc làm thủ tục thanh lý bán lại chiếc xe đó
+
+40
+00:03:25,860 --> 00:03:29,580
+ cho chính cá nhân ông chủ hoặc người nhà với mức giá thanh lý cực thấp.
+
+41
+00:03:30,120 --> 00:03:33,400
+ Người nghèo kiếm tiền, nộp thuế xong mới lấy phần còn lại đi tiêu.
+
+42
+00:03:33,400 --> 00:03:37,000
+ Còn chủ doanh nghiệp lấy tiền doanh thu mua tài sản phục vụ mình trước,
+
+43
+00:03:37,000 --> 00:03:41,460
+ biến chi tiêu thành chi phí hợp lý, rồi mới nộp thuế trên phần lợi nhuận con thưa.
+
+44
+00:03:41,460 --> 00:03:44,300
+ Hiện kênh Kinh tế đơn giản đang mở gói hội viên.
+
+45
+00:03:44,300 --> 00:03:47,280
+ Anh em bấm vào tham gia để xem thêm nhiều video bổ ích
+
+46
+00:03:47,280 --> 00:03:49,420
+ về xu hướng kinh doanh và cạm bẫy kinh doanh.
+
+47
+00:03:49,420 --> 00:03:51,420
+ Mức giá chỉ 70.000 đồng một tháng.
+
+48
+00:03:51,420 --> 00:03:54,440
+ Thay vì uống một ly trà sữa hay ăn một tô phở,
+
+49
+00:03:54,440 --> 00:03:57,500
+ thì mình tiết kiệm một chút để xem nhiều kiến thức bổ ích,
+
+50
+00:03:57,500 --> 00:04:00,740
+ có chọn lọc và được biên tập kỹ càng, không lạm dụng AI.
+
+51
+00:04:00,740 --> 00:04:02,360
+ Cảm ơn anh em rất nhiều!
+

@@ -1,0 +1,97 @@
+{
+  "id": "7697093977106926868",
+  "duration": 462.058005,
+  "language": "",
+  "changes": 62,
+  "secPerChange": 7.334254047619047,
+  "cuts": 16,
+  "changesFirst3s": 1,
+  "firstChangeAt": 0.133333,
+  "wpm": 0,
+  "speechCoverage": 0,
+  "lufs": -18.8,
+  "hook": "",
+  "transcript": "",
+  "grids": [
+    "grid_001.jpg",
+    "grid_002.jpg",
+    "grid_003.jpg",
+    "grid_004.jpg",
+    "grid_005.jpg",
+    "grid_006.jpg",
+    "grid_007.jpg",
+    "grid_008.jpg",
+    "grid_009.jpg",
+    "grid_010.jpg",
+    "grid_011.jpg",
+    "grid_012.jpg"
+  ],
+  "motion": {
+    "beats": 131,
+    "beatsPerMin": 17.02,
+    "medianBeat": 2.83,
+    "beatsFirst3s": 1,
+    "entrances": {
+      "cut": 92,
+      "drop": 5,
+      "slide-left": 14,
+      "slide-right": 15,
+      "fade": 1,
+      "draw-down": 2,
+      "draw-left": 1,
+      "slide-up": 1
+    },
+    "caption": {
+      "swaps": 16,
+      "medianInterval": 30.04,
+      "box": [
+        0.044,
+        0.413,
+        0.911,
+        0.15
+      ]
+    },
+    "firstBeats": [
+      {
+        "t": 0.13,
+        "at": null,
+        "fx": "cut"
+      },
+      {
+        "t": 5.13,
+        "at": null,
+        "fx": "cut"
+      },
+      {
+        "t": 6.16,
+        "at": null,
+        "fx": "drop"
+      },
+      {
+        "t": 7.96,
+        "at": null,
+        "fx": "cut"
+      },
+      {
+        "t": 9.24,
+        "at": null,
+        "fx": "cut"
+      },
+      {
+        "t": 10.33,
+        "at": null,
+        "fx": "cut"
+      },
+      {
+        "t": 10.78,
+        "at": null,
+        "fx": "cut"
+      },
+      {
+        "t": 15.66,
+        "at": null,
+        "fx": "cut"
+      }
+    ]
+  }
+}

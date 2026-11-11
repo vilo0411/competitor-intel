@@ -20,9 +20,44 @@
           ]
         }
       ]
+    },
+    {
+      "slug": "kinh-te-don-gian",
+      "name": "Kinh Tế Đơn Giản",
+      "updated": "2026-11-11",
+      "todo": [
+        "gắn nhãn",
+        "style.md",
+        "nhận định"
+      ],
+      "report": "kinh-te-don-gian/kinh-te-don-gian.html",
+      "summary": "kinh-te-don-gian/summary.json",
+      "channels": [
+        {
+          "handle": "kinhtedongian.official",
+          "followers": 262300,
+          "medianViews": 1247,
+          "labelsTodo": "kinh-te-don-gian/tiktok/kinhtedongian.official/labels.todo.json",
+          "styles": [
+            "kinh-te-don-gian/tiktok/kinhtedongian.official/style/7697093977106926868/style.json",
+            "kinh-te-don-gian/tiktok/kinhtedongian.official/style/7697963191405432084/style.json",
+            "kinh-te-don-gian/tiktok/kinhtedongian.official/style/7698381666473315604/style.json",
+            "kinh-te-don-gian/tiktok/kinhtedongian.official/style/7699120393377828116/style.json",
+            "kinh-te-don-gian/tiktok/kinhtedongian.official/style/7702123229443280148/style.json"
+          ]
+        }
+      ]
     }
   ],
   "runs": [
+    {
+      "id": "20261111-091719-kinh-t-n-gi-n",
+      "status": "ok",
+      "slug": "kinh-te-don-gian",
+      "name": "Kinh Tế Đơn Giản",
+      "finishedAt": "2026-11-11T10:07:55.033Z",
+      "seconds": 2998
+    },
     {
       "id": "20261111-090846-gorillanomics",
       "status": "ok",

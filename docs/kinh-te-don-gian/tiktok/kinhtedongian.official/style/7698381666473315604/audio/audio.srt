@@ -1,0 +1,424 @@
+1
+00:00:00,000 --> 00:00:10,460
+ Giả sử sáng mai thức dậy, mở cửa phòng trọ ra, bạn thấy trước mặt mình là một núi tiền mặt trị giá đúng 1.000 tỷ đồng từ trên trời rơi xuống hoặc từ một phi vụ ngầm nào đó.
+
+2
+00:00:10,460 --> 00:00:14,140
+ Phản ứng đầu tiên của bạn chắc chắn là nghĩ ngay tới cảnh đổi đời.
+
+3
+00:00:14,140 --> 00:00:22,480
+ Chạy ra đại lý tậu ngay một chiếc siêu xe 20 tỷ, mua một căn biệt thự ven sông 100 tỷ rồi ung dung đi du lịch vòng quanh thế giới đúng không?
+
+4
+00:00:22,980 --> 00:00:33,340
+ Nhưng khoan mừng vội, ngay khoảnh khắc bạn xách bao tải tiền mặt đó bước vào ngân hàng nộp tiền hoặc ký hợp đồng mua siêu xe, hệ thống cảnh báo giao dịch đáng ngờ sẽ lập tức bật đèn đỏ.
+
+5
+00:00:33,340 --> 00:00:41,080
+ Chỉ 24 giờ sau, cơ quan thuế và bộ phận phòng chống tội phạm tài chính sẽ mời bạn lên làm việc với một câu hỏi cực kỳ đơn giản.
+
+6
+00:00:41,080 --> 00:00:49,280
+ Trên hệ thống bảo hiểm và thuế thu nhập cá nhân, lương của bạn đang là 12 triệu đồng một tháng, vậy 100 tỷ đồng tiền mặt này từ đâu mà có?
+
+7
+00:00:50,000 --> 00:00:56,940
+ Nếu bạn không đưa ra được giấy tờ chứng minh nguồn gốc hợp pháp của số tiền đó, toàn bộ tài sản sẽ bị phong tỏa để điều tra ngay lập tức.
+
+8
+00:00:56,940 --> 00:01:00,660
+ Đó chính là nghịch lý lớn nhất của thế giới tội phạm tài chính.
+
+9
+00:01:00,660 --> 00:01:11,120
+ Kiếm được hàng trăm tỷ đồng từ cờ bạc mạng hay buôn lậu đã khó, nhưng làm sao để hợp thức hóa và tiêu được số tiền đó ngoài ánh sáng mà không bị bóc lịch lại khó hơn gấp chục lần.
+
+10
+00:01:11,640 --> 00:01:24,520
+ Thậm chí trên thị trường ngầm quốc tế, các băng nhóm tội phạm sẵn sàng chấp nhận mất đứt từ 30% đến 40% tổng số tiền kiếm được làm chi phí hao hụt chỉ để đổi lấy 60% tiền sạch có giấy khai sinh hợp pháp.
+
+11
+00:01:24,520 --> 00:01:30,420
+ Vậy một đồng tiền bẩn đã đi qua những lồng giặt kinh tế nào để biến thành tiền sạch đóng thuế đàng hoang?
+
+12
+00:01:30,860 --> 00:01:37,780
+ Anh em nhớ bấm theo dõi kênh nha, lưu lại video và xem hết tới giây cuối cùng để giải mã toàn bộ góc khuất tài chính này nha.
+
+13
+00:01:37,780 --> 00:01:43,920
+ Tầng thứ nhất, nguồn gốc của chữ giặt tiền và bước chia nhỏ qua những con la tài chính.
+
+14
+00:01:43,920 --> 00:01:53,200
+ Trước hết, bạn có bao giờ thắc mắc tại sao hành vi hợp thức hóa tiền bất chính trong tiếng Anh lẫn tiếng Việt đều được gọi là giặt tiền hay rửa tiền không?
+
+15
+00:01:53,620 --> 00:02:03,360
+ Thuật ngữ này bắt nguồn từ nước Mỹ vào những năm 1920 khi ông chùm mafia khép tiếng Al Capone kiếm được hàng núi tiền mặt từ việc buôn rượu lậu và sòng bạc.
+
+16
+00:02:03,360 --> 00:02:09,320
+ Để che mắt sở thuế Mỹ, ông ta đã bỏ tiền mở một chuỗi tiệm giặt là quần áo tự động thu tiền su lẻ.
+
+17
+00:02:09,320 --> 00:02:18,780
+ Mỗi cuối ngày, đàn em của ông ta lại đem tiền bẩn trộn lẫn vào các hộp tiền su của máy giặt rồi khai báo với sở thuế rằng hôm nay các tiệm giặt là cực kỳ đông khách.
+
+18
+00:02:18,820 --> 00:02:25,960
+ Bởi vì thời đó, không một thanh tra thuế nào có thể đứng đếm xem có bao nhiêu người dân đã thực sự bước vào tiệm bỏ su giặt quần áo.
+
+19
+00:02:25,960 --> 00:02:34,940
+ Bước sang thời đại ngân hàng số ngày nay, khi dòng tiền từ các trang web cờ bạc xuyên biên giới không còn là tiền su mà là những con số điện tử nhảy múa mỗi giây.
+
+20
+00:02:34,940 --> 00:02:41,360
+ Bước đầu tiên trong công thức rửa tiền, gọi là phân tán, placement, trở nên tinh vi hơn rất nhiều.
+
+21
+00:02:41,780 --> 00:02:49,040
+ Kẻ cầm đầu không bao giờ dùng tài khoản cá nhân để nhận tiền, mà xây dựng một mạng lưới hàng ngàn con la tài chính MoneyMules,
+
+22
+00:02:49,040 --> 00:02:59,700
+ tức là những sinh viên, người lao động nghèo ở vùng sâu vùng xa nhẹ dạ cả tin, đồng ý mở tài khoản ngân hàng và cho thuê dữ liệu khuôn mặt sinh chắc học với giá chỉ vài triệu đồng.
+
+23
+00:02:59,700 --> 00:03:07,580
+ Khi con bạc nạp tiền vào hệ thống, thuật toán tự động lập tức xé nhỏ số tiền thành hàng vạn giao dịch lẻ tẻ dưới ngưỡng phải báo cáo của ngân hàng,
+
+24
+00:03:07,580 --> 00:03:16,960
+ bắn lòng vòng qua hàng trăm tài khoản con la khác nhau chỉ trong tích tắc, rồi lập tức quy đổi sang các tài sản ẩn danh ở nước ngoài trước khi tài khoản bị khóa.
+
+25
+00:03:16,960 --> 00:03:22,800
+ Tầng thứ hai, tại sao các ngành bán dịch vụ không có hàng tồn kho lại là thiên đường của giới rửa tiền?
+
+26
+00:03:22,800 --> 00:03:31,440
+ Nhưng tiền nằm trong tài khoản ảo hay ví tiền số ẩn danh thì vẫn chưa thể dùng để mua đất đai, cổ phần công ty hay biệt thự đứng tên chính chủ được.
+
+27
+00:03:31,440 --> 00:03:40,160
+ Để đưa tiền quay trở lại nền kinh tế thực, chúng bắt buộc phải bước vào giai đoạn quan trọng nhất, dựng lên các doanh nghiệp bình phong để tự nộp thuế cho nhà nước.
+
+28
+00:03:40,160 --> 00:03:46,400
+ Nếu đặt bạn vào vị trí một kẻ đang cầm 100 tỷ đồng tiền mặt muốn mở công ty để hợp thức hóa doanh thu,
+
+29
+00:03:46,900 --> 00:03:47,940
+ bạn sẽ chọn mở ngay gì?
+
+30
+00:03:47,940 --> 00:03:53,560
+ Nếu bạn mở một siêu thị điện máy hay một sưởng sản xuất quần áo, bạn sẽ thất bại ngay lập tức.
+
+31
+00:03:53,560 --> 00:03:59,800
+ Bởi vì muốn khai báo hôm nay bán được 1.000 chiếc TV hay 10.000 chiếc áo để hợp thức hóa tiền lãi,
+
+32
+00:03:59,800 --> 00:04:05,020
+ bạn bắt buộc phải có hóa đơn đầu vào chứng minh mình đã nhập 1.000 chiếc TV đó từ hãng
+
+33
+00:04:05,020 --> 00:04:09,720
+ hoặc nhập bao nhiêu tấn vải, tốn bao nhiêu số điện công nghiệp để dệt ra số áo đó.
+
+34
+00:04:09,720 --> 00:04:16,220
+ Hàng hóa vật lý có kiểm toán tồn kho đầu vào và đầu ra cực kỳ chặt chẽ, không thể tự dưng bịa ra được.
+
+35
+00:04:16,900 --> 00:04:22,500
+ Đó là lý do giới tội phạm tài chính trên toàn thế giới luôn săn lùng những ngành kinh doanh có một đặc điểm chung.
+
+36
+00:04:22,500 --> 00:04:26,080
+ Bán dịch vụ vô hình và tiêu hao gần như bằng không.
+
+37
+00:04:26,080 --> 00:04:31,740
+ Điển hình như các tiệm chăm sóc sắc đẹp, thẩm mỹ viện, câu lạc bộ pizza, phòng tập thể hình,
+
+38
+00:04:31,740 --> 00:04:35,820
+ bãi rửa xe, khu vui chơi giải trí hoặc dịch vụ tư vấn phần mềm.
+
+39
+00:04:35,820 --> 00:04:37,520
+ Hãy thử làm một phép tính đơn giản.
+
+40
+00:04:37,520 --> 00:04:42,840
+ Một tiệm chăm sóc sắc đẹp chỉ tốn tiền thuê mặt bằng và vài chục lọ kem dưỡng da, tinh dầu.
+
+41
+00:04:42,840 --> 00:04:45,960
+ Hôm nay tiệm chỉ có đúng 5 vị khách thật bước vào.
+
+42
+00:04:45,960 --> 00:04:49,340
+ Nhưng cuối ngày, chủ tiệm tự lấy tiền bẩn trong két da,
+
+43
+00:04:49,340 --> 00:04:52,840
+ tự in thêm 200 tờ hóa đơn thanh toán tiền mặt cho các gói,
+
+44
+00:04:52,840 --> 00:04:56,140
+ liệu trình chăm sóc da chuyên sâu giá 5 triệu đồng một lần.
+
+45
+00:04:56,140 --> 00:04:59,320
+ Rồi đàng hoàng đem một tỷ đồng đó nộp vào ngân hàng
+
+46
+00:04:59,320 --> 00:05:02,800
+ và đóng thuế giá trị gia tăng, thuế thu nhập doanh nghiệp đầy đủ.
+
+47
+00:05:02,800 --> 00:05:05,460
+ Sáng hôm sau, khi nhìn vào sổ sách,
+
+48
+00:05:05,460 --> 00:05:09,340
+ dịch vụ massage và chăm sóc da là thứ diễn ra trên cơ thể khách hàng
+
+49
+00:05:09,340 --> 00:05:12,320
+ rồi biến mất vào không khí, không hề có phế liệu,
+
+50
+00:05:12,320 --> 00:05:15,000
+ không có vỏ hộp tồn kho để kiểm đếm ngược lại.
+
+51
+00:05:15,000 --> 00:05:19,420
+ Chấp nhận mất khoảng 10-20% tiền thuế và chi phí thuê mặt bằng,
+
+52
+00:05:19,420 --> 00:05:24,420
+ 80% số tiền bẩn còn lại đã nhiễm nhiên biến thành lợi nhuận kinh doanh hợp pháp.
+
+53
+00:05:24,420 --> 00:05:28,300
+ Nhưng mở tiệm dịch vụ thì mỗi tháng chỉ giặt được vài tỷ đồng.
+
+54
+00:05:28,920 --> 00:05:31,840
+ Vậy với những dòng tiền bẩn lên tới hàng nghìn tỷ đồng thì sao?
+
+55
+00:05:31,840 --> 00:05:36,200
+ Đoạn hay nhất về kỹ nghệ rửa tiền thời đại 4.0 nằm ngay ở đây này.
+
+56
+00:05:36,200 --> 00:05:37,760
+ Tầng thứ 3
+
+57
+00:05:37,760 --> 00:05:42,840
+ Chiêu thức định giá theo cảm xúc và đốt tiền tặng quà ảo trên không gian mạng
+
+58
+00:05:42,840 --> 00:05:46,520
+ Để dịch chuyển hàng trăm tỷ đồng chỉ trong một giao dịch duy nhất
+
+59
+00:05:46,520 --> 00:05:48,760
+ mà không cần in hàng vạn tờ hóa đơn lẻ,
+
+60
+00:05:48,760 --> 00:05:51,900
+ giới rửa tiền cao cấp lợi dụng triệt để những mặt hàng
+
+61
+00:05:51,900 --> 00:05:53,620
+ không có khung giá chuẩn trên thị trường,
+
+62
+00:05:53,620 --> 00:05:56,680
+ nơi giá trị nằm ở cảm xúc của người mua.
+
+63
+00:05:57,320 --> 00:05:59,700
+ Điển hình nhất là các thương vụ mua bán tranh nghệ thuật,
+
+64
+00:05:59,700 --> 00:06:03,160
+ đồ cổ, đá quý thô hoặc những trậu cây cảnh đột biến.
+
+65
+00:06:03,160 --> 00:06:05,600
+ Một bức tranh của một họa sĩ vô danh
+
+66
+00:06:05,600 --> 00:06:09,040
+ hay một nhành cây cảnh thực chất chỉ có giá trị vật lý vài triệu đồng.
+
+67
+00:06:09,600 --> 00:06:14,240
+ Thế nhưng kẻ rửa tiền sẽ dùng một công ty sân sau đóng vai nhà sưu tầm chịu chơi,
+
+68
+00:06:14,240 --> 00:06:21,820
+ công khai ký hợp đồng mua lại bức tranh hoặc cái cây đó từ chính mình với mức giá 50 tỷ đồng trước sự chứng kiến của giới truyền thông.
+
+69
+00:06:21,820 --> 00:06:24,920
+ Chỉ bằng một hợp đồng mua bán tài sản vô định giá,
+
+70
+00:06:24,920 --> 00:06:30,920
+ 50 tỷ đồng tiền bẩn đã đường hoàng bước vào tài khoản cá nhân dưới danh nghĩa tiền bán tài sản hợp pháp.
+
+71
+00:06:31,380 --> 00:06:39,380
+ Tình vi hơn nữa trong kỷ nguyên mạng xã hội là hình thức rửa tiền qua quà tặng ảo, virtual gifting và khóa học trực tuyến.
+
+72
+00:06:39,380 --> 00:06:44,640
+ Thay vì mở cửa hàng ngoài đời thực, các đường dây tạo ra hàng loạt tài khoản phát sóng trực tiếp,
+
+73
+00:06:44,640 --> 00:06:51,680
+ live stream, chơi game, ca hát hoặc bán các khóa học làm giàu dạng video quay sẵn có giá hàng chục triệu đồng.
+
+74
+00:06:51,680 --> 00:06:55,900
+ Sau đó, chúng dùng hàng ngàn tài khoản ngân hàng rác chứa tiền bẩn ở khắp nơi,
+
+75
+00:06:56,040 --> 00:07:01,900
+ nạp tiền vào ứng dụng, liên tục bấm tặng những vật phẩm ảo đắt tiền nhất như tên lửa, siêu xe ảo
+
+76
+00:07:01,900 --> 00:07:04,740
+ hoặc bấm mua hàng ngàn khóa học trực tuyến của chính mình.
+
+77
+00:07:04,740 --> 00:07:09,480
+ Nền tảng mạng xã hội ở giữa sẽ thu phí hoa hồng từ 30-50%,
+
+78
+00:07:09,480 --> 00:07:14,920
+ còn 50-70% số tiền còn lại sẽ được chính tập đoàn công nghệ quốc tế đó tổng hợp
+
+79
+00:07:14,920 --> 00:07:20,760
+ và truyền khoản trả thẳng về tài khoản ngân hàng của đối tượng vào cuối tháng với nội dung cực kỳ sạch sẽ.
+
+80
+00:07:20,760 --> 00:07:23,620
+ Thanh toán doanh thu bản quyền nhà sáng tạo nội dung
+
+81
+00:07:23,620 --> 00:07:26,920
+ Tầng thứ tư, cú lật kèo ở cuối video
+
+82
+00:07:26,920 --> 00:07:31,380
+ Tại sao mọi vỏ bọc tinh vi nhất đều sập bẫy trước mắt thần Big Data?
+
+83
+00:07:31,380 --> 00:07:36,520
+ Nghe toàn bộ những chiêu thức từ tiệm dịch vụ không tồn kho, thổi giá cây cảnh nghệ thuật
+
+84
+00:07:36,520 --> 00:07:41,040
+ cho tới bơm quà tặng ảo trên mạng có vẻ kín kẽ đến mức hoàn hảo đúng không anh em?
+
+85
+00:07:41,560 --> 00:07:51,820
+ Vậy tại sao chỉ trong một vài năm trở lại đây, hàng loạt đường dây rửa tiền nghìn tỷ ẩn dưới vỏ bọc các tổng tài, doanh nhân trẻ vẫn liên tiếp bị cơ quan điều tra bóc gỡ tận gốc?
+
+86
+00:07:52,360 --> 00:07:56,200
+ Câu trả lời nằm ở cú lật kèo công nghệ mà tội phạm không lường trước được
+
+87
+00:07:56,200 --> 00:08:01,940
+ Sự tuyệt chủng của giao dịch tiền mặt và hệ thống đối chiếu dữ liệu lớn Big Data liên ngành
+
+88
+00:08:01,940 --> 00:08:11,160
+ Nếu như thời của ông chùm Al Capone trăm năm trước, thanh tra thuế phải đi đếm từng đồng su bằng tay, thì ngày nay toàn bộ nền kinh tế đã được số hóa
+
+89
+00:08:11,160 --> 00:08:17,380
+ Khi hơn 90% người dân đi ăn bát phở hay làm đẹp ở spa đều quét mã QR chuyển khoản
+
+90
+00:08:17,380 --> 00:08:24,320
+ Một cơ sở kinh doanh dịch vụ bỗng dưng khai báo doanh thu hàng chục tỷ đồng mỗi tháng với tỷ lệ khách trả tiền mặt cao bất thường
+
+91
+00:08:24,320 --> 00:08:29,720
+ sẽ lập tức bị thuật toán trí tuệ nhân tạo của cơ quan thuế và ngân hàng tự động khoanh vùng đỏ
+
+92
+00:08:29,720 --> 00:08:36,000
+ Đáng sợ hơn với giới tội phạm là ngày nay, các cơ quan chức năng không còn kiểm tra từng tờ hóa đơn riêng lẻ
+
+93
+00:08:36,000 --> 00:08:39,480
+ mà đối chiếu chéo dữ liệu từ hàng chục nguồn cùng lúc
+
+94
+00:08:39,480 --> 00:08:43,320
+ Bạn khai báo tiệm spa hay nhà hàng của mình đón 500 khách một ngày
+
+95
+00:08:43,320 --> 00:08:48,840
+ nhưng dữ liệu hóa đơn tiền điện, tiền nước tại địa chỉ đó lại chỉ ngang một hộ gia đình bình thường
+
+96
+00:08:48,840 --> 00:08:55,520
+ và dữ liệu chạm phát sóng viễn thông cho thấy cả ngày khu vực đó chỉ có lác đác vài chục thuê bao di động ghé qua
+
+97
+00:08:55,520 --> 00:09:01,680
+ Bạn dùng hàng ngàn tài khoản ảo bơm tiền tặng quà trên livestream hay đặt đơn hàng khống trên sàn thương mại điện tử
+
+98
+00:09:01,680 --> 00:09:06,700
+ Nhưng hệ thống an ninh mạng dễ dàng quét ra hàng ngàn tài khoản khách hàng hào phóng đó
+
+99
+00:09:06,700 --> 00:09:10,120
+ lại phát sinh giao dịch từ cùng một giải địa chỉ IP máy chủ ảo
+
+100
+00:09:10,120 --> 00:09:15,380
+ và dòng tiền nạp vào đều xuất phát từ một chùm tài khoản không chính chủ vừa mới mở
+
+101
+00:09:15,380 --> 00:09:23,540
+ Suy cho cùng, một nền kinh tế số nơi mọi đồng tiền di chuyển đều phải đi qua cổng xác thực sinh chắc học và để lại dấu vết dữ liệu vĩnh viễn
+
+102
+00:09:23,540 --> 00:09:28,880
+ Chiếc lồng giặt tiền dù có được thiết kế tinh vi qua bao nhiêu lớp vỏ bọc doanh nhân hay từ thiện đi chăng nữa
+
+103
+00:09:28,880 --> 00:09:33,540
+ thì sớm muộn cũng tự phơi bày điểm bất hợp lý trên bảng cân đối dữ liệu
+
+104
+00:09:33,540 --> 00:09:37,740
+ Anh em đi ngoài đường có bao giờ nhìn thấy một cửa hàng dịch vụ vắng hoe quanh năm
+
+105
+00:09:37,740 --> 00:09:41,480
+ nhưng ông chủ lại đổi siêu xe liên tục và tự đặt dấu hỏi chưa
+
+106
+00:09:41,480 --> 00:09:45,320
+ Hãy để lại bình luận và nhớ ấn theo dõi kênh Kinh tế Đơn Giản nha
+

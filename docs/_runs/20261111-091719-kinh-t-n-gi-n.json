@@ -1,0 +1,20 @@
+{
+  "id": "20261111-091719-kinh-t-n-gi-n",
+  "request": {
+    "id": "20261111-091719-kinh-t-n-gi-n",
+    "name": "Kinh Tế Đơn Giản",
+    "channels": [
+      "@kinhtedongian.official"
+    ],
+    "refresh": false,
+    "style": 5,
+    "limit": 300
+  },
+  "finishedAt": "2026-11-11T10:07:55.033Z",
+  "status": "ok",
+  "slug": "kinh-te-don-gian",
+  "name": "Kinh Tế Đơn Giản",
+  "report": "kinh-te-don-gian/kinh-te-don-gian.html",
+  "seconds": 2998,
+  "log": "↓ @kinhtedongian.official: lấy danh sách video…\n  phân tích phong cách dựng video 1/5…\n  phân tích phong cách dựng video 2/5…\n  phân tích phong cách dựng video 3/5…\n  phân tích phong cách dựng video 4/5…\n  phân tích phong cách dựng video 5/5…\n✓ @kinhtedongian.official: 300 video, view trung vị 1k, 300 video chưa gắn nhãn\n\nBáo cáo: /home/runner/work/competitor-intel/competitor-intel/docs/kinh-te-don-gian/kinh-te-don-gian.html\n         /home/runner/work/competitor-intel/competitor-intel/docs/kinh-te-don-gian/kinh-te-don-gian.md"
+}

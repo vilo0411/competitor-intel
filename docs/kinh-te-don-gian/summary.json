@@ -1,0 +1,811 @@
+{
+  "name": "Kinh Tế Đơn Giản",
+  "updated": "2026-11-11",
+  "tiktok": [
+    {
+      "handle": "kinhtedongian.official",
+      "profile": {
+        "followers": 262300,
+        "hearts": 8400000,
+        "videoCount": 914,
+        "nickname": "Kinh Tế Đơn Giản",
+        "bio": "Hotline\n0968.856.419\nHoặc ib @nguyenhungthanh\nHệ sinh thái chung @Kinh Tế Gì Thế"
+      },
+      "stats": {
+        "n": 300,
+        "first": "2026-05-23",
+        "last": "2026-11-11",
+        "daysSinceLast": 0,
+        "totalViews": 5597081,
+        "meanViews": 18656.93666666667,
+        "medianViews": 1247,
+        "maxViews": 1200000,
+        "minViews": 168,
+        "medianER": 0.03199697878568496,
+        "postsPerWeek": 12.236947609961053,
+        "medianGapDays": 0.07424768518518518,
+        "postsLast30": 86,
+        "medianDuration": 58.5,
+        "originalSoundShare": 0.8066666666666666,
+        "viralCount": 58
+      },
+      "takeaways": {
+        "viral": "Top 3 video chiếm 42,6% tổng view: kênh sống nhờ vài cú viral, video thường chỉ quanh 1k",
+        "trend": "View trung vị tăng: 831 ở 3 tháng đầu → 3k ở 3 tháng gần nhất",
+        "cadence": "Đăng 12,2 video/tuần; tháng dày nhất T6/26 có 129 video; 30 ngày qua: 86 video",
+        "time": "Đăng sáng (5–11h) (giờ VN) có view trung vị cao nhất: 2k; thứ tốt nhất là T6 (1k)",
+        "duration": "Độ dài >90s có view trung vị cao nhất: 2k (103 video)",
+        "tags": "Hashtag đi kèm view cao hơn trung vị kênh: #tintuc24h, #tintuc, #kinhtegithe"
+      },
+      "timeBuckets": [
+        {
+          "name": "Sáng (5–11h)",
+          "count": 16,
+          "median": 1819.5
+        },
+        {
+          "name": "Trưa (11–14h)",
+          "count": 41,
+          "median": 1701
+        },
+        {
+          "name": "Chiều (14–18h)",
+          "count": 54,
+          "median": 1465.5
+        },
+        {
+          "name": "Tối (18–23h)",
+          "count": 179,
+          "median": 964
+        },
+        {
+          "name": "Đêm (23–5h)",
+          "count": 10,
+          "median": 1434.5
+        }
+      ],
+      "categories": [
+        {
+          "name": "Chưa phân loại",
+          "count": 300,
+          "median": 1247,
+          "mean": 18656.93666666667
+        }
+      ],
+      "months": [
+        {
+          "name": "2026-05",
+          "count": 42,
+          "median": 715,
+          "mean": 6018.928571428572
+        },
+        {
+          "name": "2026-06",
+          "count": 129,
+          "median": 880,
+          "mean": 3745.170542635659
+        },
+        {
+          "name": "2026-07",
+          "count": 17,
+          "median": 782,
+          "mean": 1074
+        },
+        {
+          "name": "2026-08",
+          "count": 21,
+          "median": 1304,
+          "mean": 1983.5714285714287
+        },
+        {
+          "name": "2026-09",
+          "count": 2,
+          "median": 6845.5,
+          "mean": 6845.5
+        },
+        {
+          "name": "2026-10",
+          "count": 64,
+          "median": 3717.5,
+          "mean": 73747.515625
+        },
+        {
+          "name": "2026-11",
+          "count": 25,
+          "median": 1500,
+          "mean": 2708.56
+        }
+      ],
+      "weekdays": [
+        {
+          "name": "T2",
+          "count": 42,
+          "median": 1137
+        },
+        {
+          "name": "T3",
+          "count": 42,
+          "median": 906.5
+        },
+        {
+          "name": "T4",
+          "count": 43,
+          "median": 1398
+        },
+        {
+          "name": "T5",
+          "count": 48,
+          "median": 1263.5
+        },
+        {
+          "name": "T6",
+          "count": 38,
+          "median": 1489.5
+        },
+        {
+          "name": "T7",
+          "count": 46,
+          "median": 1129
+        },
+        {
+          "name": "CN",
+          "count": 41,
+          "median": 1280
+        }
+      ],
+      "durations": [
+        {
+          "name": "≤30s",
+          "count": 66,
+          "median": 1091
+        },
+        {
+          "name": "31–45s",
+          "count": 55,
+          "median": 732
+        },
+        {
+          "name": "46–60s",
+          "count": 49,
+          "median": 1221
+        },
+        {
+          "name": "61–90s",
+          "count": 27,
+          "median": 772
+        },
+        {
+          "name": ">90s",
+          "count": 103,
+          "median": 2120
+        }
+      ],
+      "tags": [
+        {
+          "name": "#kinhtedongian",
+          "count": 266,
+          "median": 1275.5
+        },
+        {
+          "name": "#tiktoknews",
+          "count": 161,
+          "median": 876
+        },
+        {
+          "name": "#xuhuong",
+          "count": 157,
+          "median": 833
+        },
+        {
+          "name": "#kinhtegithe",
+          "count": 92,
+          "median": 2530
+        },
+        {
+          "name": "#tintuc",
+          "count": 71,
+          "median": 3188
+        },
+        {
+          "name": "#thutuongleminhhung",
+          "count": 51,
+          "median": 828
+        },
+        {
+          "name": "#tongbithuchutichnuoctolam",
+          "count": 50,
+          "median": 768.5
+        },
+        {
+          "name": "#hung001",
+          "count": 24,
+          "median": 1417
+        },
+        {
+          "name": "#vingroup",
+          "count": 11,
+          "median": 1103
+        },
+        {
+          "name": "#vietnam",
+          "count": 10,
+          "median": 919.5
+        },
+        {
+          "name": "#daituongphanvangiang",
+          "count": 9,
+          "median": 740
+        },
+        {
+          "name": "#batdongsan",
+          "count": 8,
+          "median": 2055
+        },
+        {
+          "name": "#tintuc24h",
+          "count": 6,
+          "median": 5191
+        },
+        {
+          "name": "#vinfast",
+          "count": 4,
+          "median": 532.5
+        },
+        {
+          "name": "#nhadat",
+          "count": 4,
+          "median": 2055
+        }
+      ],
+      "styles": [
+        {
+          "id": "7697093977106926868",
+          "duration": 462.058005,
+          "language": "",
+          "changes": 62,
+          "secPerChange": 7.334254047619047,
+          "cuts": 16,
+          "changesFirst3s": 1,
+          "firstChangeAt": 0.133333,
+          "wpm": 0,
+          "speechCoverage": 0,
+          "lufs": -18.8,
+          "hook": "",
+          "motion": {
+            "beats": 131,
+            "beatsPerMin": 17.02,
+            "medianBeat": 2.83,
+            "beatsFirst3s": 1,
+            "entrances": {
+              "cut": 92,
+              "drop": 5,
+              "slide-left": 14,
+              "slide-right": 15,
+              "fade": 1,
+              "draw-down": 2,
+              "draw-left": 1,
+              "slide-up": 1
+            },
+            "caption": {
+              "swaps": 16,
+              "medianInterval": 30.04,
+              "box": [
+                0.044,
+                0.413,
+                0.911,
+                0.15
+              ]
+            },
+            "firstBeats": [
+              {
+                "t": 0.13,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 5.13,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 6.16,
+                "at": null,
+                "fx": "drop"
+              },
+              {
+                "t": 7.96,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 9.24,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 10.33,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 10.78,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 15.66,
+                "at": null,
+                "fx": "cut"
+              }
+            ]
+          },
+          "title": "ĐẶC VỤ NON SON #nonson #kinhtedongian #kinhtegithe #tintuc",
+          "views": 1200000,
+          "folder": "tiktok/kinhtedongian.official/style/7697093977106926868"
+        },
+        {
+          "id": "7697963191405432084",
+          "duration": 355.677007,
+          "language": "",
+          "changes": 23,
+          "secPerChange": 14.819875291666667,
+          "cuts": 16,
+          "changesFirst3s": 1,
+          "firstChangeAt": 0.2,
+          "wpm": 0,
+          "speechCoverage": 0,
+          "lufs": -18.2,
+          "hook": "",
+          "motion": {
+            "beats": 90,
+            "beatsPerMin": 15.19,
+            "medianBeat": 3.56,
+            "beatsFirst3s": 1,
+            "entrances": {
+              "cut": 52,
+              "slide-right": 15,
+              "fade": 10,
+              "slide-left": 9,
+              "drop": 1,
+              "slide-up": 2,
+              "draw-down": 1
+            },
+            "caption": {
+              "swaps": 27,
+              "medianInterval": 10.08,
+              "box": [
+                0.022,
+                0.313,
+                0.956,
+                0.125
+              ]
+            },
+            "firstBeats": [
+              {
+                "t": 0.2,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 4.94,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 6.73,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 7.71,
+                "at": null,
+                "fx": "slide-right"
+              },
+              {
+                "t": 8.69,
+                "at": null,
+                "fx": "slide-right"
+              },
+              {
+                "t": 12.05,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 15.61,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 16.53,
+                "at": null,
+                "fx": "cut"
+              }
+            ]
+          },
+          "title": "TIỆM KÍNH VẮNG KHÁCH VẪN SỐNG KHỎE  #kinhtedongian #kinhtegithe #tintuc #matkinh",
+          "views": 712800,
+          "folder": "tiktok/kinhtedongian.official/style/7697963191405432084"
+        },
+        {
+          "id": "7698381666473315604",
+          "duration": 586.376009,
+          "language": "",
+          "changes": 32,
+          "secPerChange": 17.76896996969697,
+          "cuts": 21,
+          "changesFirst3s": 1,
+          "firstChangeAt": 0.2,
+          "wpm": 0,
+          "speechCoverage": 0,
+          "lufs": -18.4,
+          "hook": "",
+          "motion": {
+            "beats": 116,
+            "beatsPerMin": 11.87,
+            "medianBeat": 3.64,
+            "beatsFirst3s": 2,
+            "entrances": {
+              "cut": 98,
+              "slide-right": 7,
+              "drop": 4,
+              "fade": 3,
+              "draw-right": 1,
+              "slide-left": 2,
+              "draw-down": 1
+            },
+            "caption": {
+              "swaps": 20,
+              "medianInterval": 17.27,
+              "box": [
+                0.067,
+                0.325,
+                0.844,
+                0.126
+              ]
+            },
+            "firstBeats": [
+              {
+                "t": 0.2,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 0.65,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 6.52,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 14.01,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 14.6,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 18.24,
+                "at": null,
+                "fx": "slide-right"
+              },
+              {
+                "t": 21.17,
+                "at": null,
+                "fx": "drop"
+              },
+              {
+                "t": 28.63,
+                "at": null,
+                "fx": "cut"
+              }
+            ]
+          },
+          "title": "NẾU MỘT NGÀY BẠN CÓ 1000 TỶ TIỀN MẶT TRÊN TRỜI RƠI XUỐNG ? #kinhtedongian #kinhtegithe #tintuc",
+          "views": 469100,
+          "folder": "tiktok/kinhtedongian.official/style/7698381666473315604"
+        },
+        {
+          "id": "7699120393377828116",
+          "duration": 339.976009,
+          "language": "",
+          "changes": 29,
+          "secPerChange": 11.332533633333332,
+          "cuts": 18,
+          "changesFirst3s": 1,
+          "firstChangeAt": 0.2,
+          "wpm": 0,
+          "speechCoverage": 0,
+          "lufs": -18,
+          "hook": "",
+          "motion": {
+            "beats": 67,
+            "beatsPerMin": 11.83,
+            "medianBeat": 2.72,
+            "beatsFirst3s": 3,
+            "entrances": {
+              "cut": 27,
+              "slide-right": 17,
+              "slide-left": 8,
+              "slide-up": 3,
+              "draw-down": 1,
+              "fade": 3,
+              "drop": 5,
+              "draw-up": 2,
+              "draw-right": 1
+            },
+            "caption": {
+              "swaps": 5,
+              "medianInterval": 84.14,
+              "box": [
+                0.022,
+                0.225,
+                0.933,
+                0.113
+              ]
+            },
+            "firstBeats": [
+              {
+                "t": 0.2,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 0.57,
+                "at": null,
+                "fx": "slide-right"
+              },
+              {
+                "t": 2.27,
+                "at": null,
+                "fx": "slide-left"
+              },
+              {
+                "t": 4.34,
+                "at": null,
+                "fx": "slide-up"
+              },
+              {
+                "t": 6.04,
+                "at": null,
+                "fx": "slide-right"
+              },
+              {
+                "t": 16.63,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 17,
+                "at": null,
+                "fx": "draw-down"
+              },
+              {
+                "t": 22.29,
+                "at": null,
+                "fx": "slide-right"
+              }
+            ]
+          },
+          "title": "CƠN SÓNG LÀM GIÀU TIẾP THEO MỌI NGƯỜI NGHỈ LÀ GÌ AD ĐI LÀM TÔ MÌ TÔM CÁI #kinhtedongian #kinhtegithe #tintuc #coin #chungkhoan #batdongsan",
+          "views": 387900,
+          "folder": "tiktok/kinhtedongian.official/style/7699120393377828116"
+        },
+        {
+          "id": "7702123229443280148",
+          "duration": 245.17,
+          "language": "",
+          "changes": 44,
+          "secPerChange": 5.448222222222222,
+          "cuts": 13,
+          "changesFirst3s": 1,
+          "firstChangeAt": 0.2,
+          "wpm": 0,
+          "speechCoverage": 0,
+          "lufs": -18.2,
+          "hook": "",
+          "motion": {
+            "beats": 107,
+            "beatsPerMin": 26.21,
+            "medianBeat": 1.63,
+            "beatsFirst3s": 4,
+            "entrances": {
+              "cut": 51,
+              "slide-left": 16,
+              "fade": 13,
+              "slide-right": 16,
+              "draw-down": 4,
+              "draw-right": 3,
+              "slide-up": 1,
+              "drop": 2,
+              "draw-up": 1
+            },
+            "caption": {
+              "swaps": 16,
+              "medianInterval": 4.36,
+              "box": [
+                0.311,
+                0.938,
+                0.6,
+                0.063
+              ]
+            },
+            "firstBeats": [
+              {
+                "t": 0.2,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 1.23,
+                "at": null,
+                "fx": "slide-left"
+              },
+              {
+                "t": 1.91,
+                "at": null,
+                "fx": "slide-left"
+              },
+              {
+                "t": 2.72,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 3.1,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 12.26,
+                "at": null,
+                "fx": "fade"
+              },
+              {
+                "t": 12.8,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 14.17,
+                "at": null,
+                "fx": "slide-left"
+              }
+            ]
+          },
+          "title": "Tại sao các Giám đốc mua xe sang 5 tỷ luôn đứng tên Công ty chứ không bao giờ đứng tên cá nhân? #kinhtedongian #kinhtegithe #tintuc",
+          "views": 331000,
+          "folder": "tiktok/kinhtedongian.official/style/7702123229443280148"
+        }
+      ],
+      "top": [
+        {
+          "id": "7697093977106926868",
+          "title": "ĐẶC VỤ NON SON #nonson #kinhtedongian #kinhtegithe #tintuc",
+          "url": "https://www.tiktok.com/@kinhtedongian.official/video/7697093977106926868",
+          "views": 1200000,
+          "er": 0.110785,
+          "duration": 462,
+          "date": "2026-10-16",
+          "time": "09:55",
+          "category": "Chưa phân loại",
+          "ratio": 962.3095429029671
+        },
+        {
+          "id": "7697963191405432084",
+          "title": "TIỆM KÍNH VẮNG KHÁCH VẪN SỐNG KHỎE  #kinhtedongian #kinhtegithe #tintuc #matkinh",
+          "url": "https://www.tiktok.com/@kinhtedongian.official/video/7697963191405432084",
+          "views": 712800,
+          "er": 0.0660016835016835,
+          "duration": 355,
+          "date": "2026-10-18",
+          "time": "18:08",
+          "category": "Chưa phân loại",
+          "ratio": 571.6118684843625
+        },
+        {
+          "id": "7698381666473315604",
+          "title": "NẾU MỘT NGÀY BẠN CÓ 1000 TỶ TIỀN MẶT TRÊN TRỜI RƠI XUỐNG ? #kinhtedongian #kinhtegithe #tintuc",
+          "url": "https://www.tiktok.com/@kinhtedongian.official/video/7698381666473315604",
+          "views": 469100,
+          "er": 0.08661692602856534,
+          "duration": 586,
+          "date": "2026-10-19",
+          "time": "21:12",
+          "category": "Chưa phân loại",
+          "ratio": 376.1828388131516
+        },
+        {
+          "id": "7699120393377828116",
+          "title": "CƠN SÓNG LÀM GIÀU TIẾP THEO MỌI NGƯỜI NGHỈ LÀ GÌ AD ĐI LÀM TÔ MÌ TÔM CÁI #kinhtedongian #kinhtegithe #tintuc #coin #chungkhoan #batdongsan",
+          "url": "https://www.tiktok.com/@kinhtedongian.official/video/7699120393377828116",
+          "views": 387900,
+          "er": 0.08524619747357566,
+          "duration": 339,
+          "date": "2026-10-21",
+          "time": "20:59",
+          "category": "Chưa phân loại",
+          "ratio": 311.0665597433841
+        },
+        {
+          "id": "7702123229443280148",
+          "title": "Tại sao các Giám đốc mua xe sang 5 tỷ luôn đứng tên Công ty chứ không bao giờ đứng tên cá nhân? #kinhtedongian #kinhtegithe #tintuc",
+          "url": "https://www.tiktok.com/@kinhtedongian.official/video/7702123229443280148",
+          "views": 331000,
+          "er": 0.044939577039274925,
+          "duration": 245,
+          "date": "2026-10-29",
+          "time": "23:11",
+          "category": "Chưa phân loại",
+          "ratio": 265.43704891740174
+        },
+        {
+          "id": "7697594989961809172",
+          "title": "Chuỗi nhà thuốc quá quen với mọi gia đình #kinhtedongian #kinhtegithe #tintuc ",
+          "url": "https://www.tiktok.com/@kinhtedongian.official/video/7697594989961809172",
+          "views": 213000,
+          "er": 0.05410798122065728,
+          "duration": 278,
+          "date": "2026-10-17",
+          "time": "18:20",
+          "category": "Chưa phân loại",
+          "ratio": 170.80994386527667
+        },
+        {
+          "id": "7702387339212999937",
+          "title": "tại sao nhiều quán vắng khai doanh thu 10 tỷ ? #kinhtedongian #kinhtegithe #tintuc",
+          "url": "https://www.tiktok.com/@kinhtedongian.official/video/7702387339212999937",
+          "views": 183100,
+          "er": 0.0379191698525396,
+          "duration": 184,
+          "date": "2026-10-30",
+          "time": "16:16",
+          "category": "Chưa phân loại",
+          "ratio": 146.83239775461107
+        },
+        {
+          "id": "7698328391631654165",
+          "title": "Tiền bẩn từ cb được rửa như thế nào ? #kinhtedongian #kinhtegithe #tintuc ",
+          "url": "https://www.tiktok.com/@kinhtedongian.official/video/7698328391631654165",
+          "views": 152500,
+          "er": 0.0715344262295082,
+          "duration": 544,
+          "date": "2026-10-19",
+          "time": "17:46",
+          "category": "Chưa phân loại",
+          "ratio": 122.2935044105854
+        },
+        {
+          "id": "7699863674399247636",
+          "title": "BUÔN VE CHAI ĐỒNG NÁT VUA CỦA MỌI NGHỀ #kinhtedongian #kinhtegithe #tintuc",
+          "url": "https://www.tiktok.com/@kinhtedongian.official/video/7699863674399247636",
+          "views": 152400,
+          "er": 0.08214566929133858,
+          "duration": 267,
+          "date": "2026-10-23",
+          "time": "21:03",
+          "category": "Chưa phân loại",
+          "ratio": 122.21331194867682
+        },
+        {
+          "id": "7654930194410523924",
+          "title": "Đại tá Phạm Thanh Tùng - Phó Giám đốc Công an tỉnh Vĩnh Long, được Bộ trưởng Bộ Công an điều động giữ chức Phó Giám đốc Công an tỉnh Tây Ninh. #congan #tiktoknews #xuhuong #Kinhtedongian ",
+          "url": "https://www.tiktok.com/@kinhtedongian.official/video/7654930194410523924",
+          "views": 130400,
+          "er": 0.007361963190184049,
+          "duration": 59,
+          "date": "2026-06-24",
+          "time": "19:28",
+          "category": "Chưa phân loại",
+          "ratio": 104.57097032878909
+        }
+      ]
+    }
+  ]
+}
