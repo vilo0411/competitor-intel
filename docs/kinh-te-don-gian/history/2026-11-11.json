@@ -30,6 +30,8 @@
         "viralCount": 58
       },
       "takeaways": {
+        "category": "Khái niệm tài chính thắng: trung vị 5k view/video, gấp 5,4× nhóm thấp nhất (Tin thời sự / chính trị)",
+        "share": "Tin thời sự / chính trị chiếm 73,0% số video nhưng chỉ mang về 17,8% tổng view",
         "viral": "Top 3 video chiếm 42,6% tổng view: kênh sống nhờ vài cú viral, video thường chỉ quanh 1k",
         "trend": "View trung vị tăng: 831 ở 3 tháng đầu → 3k ở 3 tháng gần nhất",
         "cadence": "Đăng 12,2 video/tuần; tháng dày nhất T6/26 có 129 video; 30 ngày qua: 86 video",
@@ -66,10 +68,28 @@
       ],
       "categories": [
         {
-          "name": "Chưa phân loại",
-          "count": 300,
-          "median": 1247,
-          "mean": 18656.93666666667
+          "name": "Khái niệm tài chính",
+          "count": 18,
+          "median": 4904.5,
+          "mean": 52902.666666666664
+        },
+        {
+          "name": "Giải mã mô hình kinh doanh",
+          "count": 46,
+          "median": 2288,
+          "mean": 59000.69565217391
+        },
+        {
+          "name": "Tội phạm & mặt tối tài chính",
+          "count": 17,
+          "median": 2153,
+          "mean": 54903.117647058825
+        },
+        {
+          "name": "Tin thời sự / chính trị",
+          "count": 219,
+          "median": 910,
+          "mean": 4554.557077625571
         }
       ],
       "months": [
@@ -694,7 +714,7 @@
           "duration": 462,
           "date": "2026-10-16",
           "time": "09:55",
-          "category": "Chưa phân loại",
+          "category": "Giải mã mô hình kinh doanh",
           "ratio": 962.3095429029671
         },
         {
@@ -706,7 +726,7 @@
           "duration": 355,
           "date": "2026-10-18",
           "time": "18:08",
-          "category": "Chưa phân loại",
+          "category": "Giải mã mô hình kinh doanh",
           "ratio": 571.6118684843625
         },
         {
@@ -718,7 +738,7 @@
           "duration": 586,
           "date": "2026-10-19",
           "time": "21:12",
-          "category": "Chưa phân loại",
+          "category": "Tội phạm & mặt tối tài chính",
           "ratio": 376.1828388131516
         },
         {
@@ -730,7 +750,7 @@
           "duration": 339,
           "date": "2026-10-21",
           "time": "20:59",
-          "category": "Chưa phân loại",
+          "category": "Khái niệm tài chính",
           "ratio": 311.0665597433841
         },
         {
@@ -742,7 +762,7 @@
           "duration": 245,
           "date": "2026-10-29",
           "time": "23:11",
-          "category": "Chưa phân loại",
+          "category": "Khái niệm tài chính",
           "ratio": 265.43704891740174
         },
         {
@@ -754,7 +774,7 @@
           "duration": 278,
           "date": "2026-10-17",
           "time": "18:20",
-          "category": "Chưa phân loại",
+          "category": "Giải mã mô hình kinh doanh",
           "ratio": 170.80994386527667
         },
         {
@@ -766,7 +786,7 @@
           "duration": 184,
           "date": "2026-10-30",
           "time": "16:16",
-          "category": "Chưa phân loại",
+          "category": "Tội phạm & mặt tối tài chính",
           "ratio": 146.83239775461107
         },
         {
@@ -778,7 +798,7 @@
           "duration": 544,
           "date": "2026-10-19",
           "time": "17:46",
-          "category": "Chưa phân loại",
+          "category": "Tội phạm & mặt tối tài chính",
           "ratio": 122.2935044105854
         },
         {
@@ -790,7 +810,7 @@
           "duration": 267,
           "date": "2026-10-23",
           "time": "21:03",
-          "category": "Chưa phân loại",
+          "category": "Giải mã mô hình kinh doanh",
           "ratio": 122.21331194867682
         },
         {
@@ -802,7 +822,7 @@
           "duration": 59,
           "date": "2026-06-24",
           "time": "19:28",
-          "category": "Chưa phân loại",
+          "category": "Tin thời sự / chính trị",
           "ratio": 104.57097032878909
         }
       ]

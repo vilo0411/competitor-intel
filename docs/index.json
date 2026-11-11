@@ -25,11 +25,7 @@
       "slug": "kinh-te-don-gian",
       "name": "Kinh Tế Đơn Giản",
       "updated": "2026-11-11",
-      "todo": [
-        "gắn nhãn",
-        "style.md",
-        "nhận định"
-      ],
+      "todo": [],
       "report": "kinh-te-don-gian/kinh-te-don-gian.html",
       "summary": "kinh-te-don-gian/summary.json",
       "channels": [
