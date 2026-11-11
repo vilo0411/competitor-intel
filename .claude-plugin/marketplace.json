@@ -1,0 +1,11 @@
+{
+  "name": "competitor-intel",
+  "owner": { "name": "DSC Academy" },
+  "plugins": [
+    {
+      "name": "competitor-intel",
+      "source": "./",
+      "description": "Skill analyzing-competitors: phân tích kênh TikTok đối thủ qua GitHub Actions."
+    }
+  ]
+}

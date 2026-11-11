@@ -1,0 +1,7 @@
+{
+  "name": "competitor-intel",
+  "version": "0.1.0",
+  "description": "Phân tích đối thủ TikTok chạy trên GitHub Actions — không cần cài Node/yt-dlp ở máy, báo cáo đăng lên GitHub Pages.",
+  "author": { "name": "DSC Academy" },
+  "repository": "https://github.com/vilo0411/competitor-intel"
+}
