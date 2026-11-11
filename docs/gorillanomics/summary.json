@@ -30,6 +30,8 @@
         "viralCount": 12
       },
       "takeaways": {
+        "category": "Tội phạm & mặt tối tài chính thắng: trung vị 300k view/video, gấp 5,3× nhóm thấp nhất (Tin thời sự / chính trị)",
+        "share": "Tin thời sự / chính trị chiếm 31,1% số video nhưng chỉ mang về 12,0% tổng view",
         "viral": "Top 3 video chiếm 45,1% tổng view: kênh sống nhờ vài cú viral, video thường chỉ quanh 153k",
         "trend": "View trung vị giảm: 289k ở 3 tháng đầu → 56k ở 3 tháng gần nhất",
         "cadence": "Đăng 1,1 video/tuần; tháng dày nhất T6/25 có 13 video; 30 ngày qua: 0 video",
@@ -66,10 +68,22 @@
       ],
       "categories": [
         {
-          "name": "Chưa phân loại",
-          "count": 61,
-          "median": 153400,
-          "mean": 422059.01639344264
+          "name": "Tội phạm & mặt tối tài chính",
+          "count": 11,
+          "median": 299500,
+          "mean": 1005590.9090909091
+        },
+        {
+          "name": "Khái niệm tài chính",
+          "count": 31,
+          "median": 188900,
+          "mean": 373903.22580645164
+        },
+        {
+          "name": "Tin thời sự / chính trị",
+          "count": 19,
+          "median": 56000,
+          "mean": 162794.73684210525
         }
       ],
       "months": [
@@ -345,7 +359,7 @@
           "duration": 61,
           "date": "2025-06-10",
           "time": "14:30",
-          "category": "Chưa phân loại",
+          "category": "Tội phạm & mặt tối tài chính",
           "ratio": 42.3728813559322
         },
         {
@@ -357,7 +371,7 @@
           "duration": 29,
           "date": "2025-06-02",
           "time": "14:15",
-          "category": "Chưa phân loại",
+          "category": "Khái niệm tài chính",
           "ratio": 20.860495436766623
         },
         {
@@ -369,7 +383,7 @@
           "duration": 28,
           "date": "2025-05-24",
           "time": "02:35",
-          "category": "Chưa phân loại",
+          "category": "Tội phạm & mặt tối tài chính",
           "ratio": 12.385919165580182
         },
         {
@@ -381,7 +395,7 @@
           "duration": 60,
           "date": "2025-06-05",
           "time": "13:23",
-          "category": "Chưa phân loại",
+          "category": "Khái niệm tài chính",
           "ratio": 9.778357235984355
         },
         {
@@ -393,7 +407,7 @@
           "duration": 61,
           "date": "2026-01-24",
           "time": "03:12",
-          "category": "Chưa phân loại",
+          "category": "Tin thời sự / chính trị",
           "ratio": 7.170795306388527
         },
         {
@@ -405,7 +419,7 @@
           "duration": 25,
           "date": "2025-05-25",
           "time": "00:34",
-          "category": "Chưa phân loại",
+          "category": "Khái niệm tài chính",
           "ratio": 5.902216427640156
         },
         {
@@ -417,7 +431,7 @@
           "duration": 27,
           "date": "2025-06-04",
           "time": "13:47",
-          "category": "Chưa phân loại",
+          "category": "Khái niệm tài chính",
           "ratio": 4.648631029986962
         },
         {
@@ -429,7 +443,7 @@
           "duration": 28,
           "date": "2025-05-26",
           "time": "01:56",
-          "category": "Chưa phân loại",
+          "category": "Tội phạm & mặt tối tài chính",
           "ratio": 4.294654498044329
         },
         {
@@ -441,7 +455,7 @@
           "duration": 24,
           "date": "2025-06-06",
           "time": "14:38",
-          "category": "Chưa phân loại",
+          "category": "Khái niệm tài chính",
           "ratio": 3.6408083441981747
         },
         {
@@ -453,7 +467,7 @@
           "duration": 61,
           "date": "2025-10-25",
           "time": "07:06",
-          "category": "Chưa phân loại",
+          "category": "Tội phạm & mặt tối tài chính",
           "ratio": 3.591264667535854
         }
       ]
