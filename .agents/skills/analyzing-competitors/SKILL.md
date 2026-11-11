@@ -93,7 +93,8 @@ Sau đó viết `tiktok/<handle>/style.md`. Phần này được nhúng vào m�
 
 Lưu ý khi đọc số đo:
 - `cuts` (ngưỡng 0.3) chỉ đếm cắt cảnh hẳn. `changes` (ngưỡng 0.06) đếm cả việc đổi sticker hay hình minh hoạ trên nền tĩnh. Video hoạt hình, sticker thường có `cuts` gần 0 nhưng `changes` rất cao.
-- Khi có `motion`, dùng `medianBeat` thay cho `secPerChange`: `changes` đếm lẫn cả phụ đề, còn beat thì đã tách phụ đề ra. Dải `caption` được nhận ra vì là vùng thấp đổi lặp lại ở cùng chỗ. Phải xem grid để xác nhận đó đúng là phụ đề chứ không phải nhãn hay số đếm.
+- Khi có `motion`, dùng `medianBeat` thay cho `secPerChange`. Dải `caption` được nhận ra vì là vùng thấp đổi lặp lại **ở cùng chỗ**. Phải xem grid để xác nhận đó đúng là phụ đề chứ không phải nhãn hay số đếm.
+- **Phụ đề đi theo sticker** (như Gorillanomics: chữ nằm ngay dưới hình, đổi chỗ theo hình) thì không thành dải cố định. Khi đó beat **gồm cả đổi chữ** và `caption` chỉ bắt được một phần. Phải nói rõ điều này, rồi ước lượng nhịp sticker riêng bằng grid (đếm số ô liền nhau dùng chung một sticker).
 - `firstBeats` + `hook` cho biết hình có đổi đúng nhịp lời không (ví dụ beat rơi đúng từ khoá). Ghi điều này vào mục "Lời và nhịp kể".
 - Mô tả phải dựa vào khung hình và lời thoại đã xem, không đoán. Muốn mổ xẻ sâu một video thì dùng skill `analyzing-video` (nếu project hiện tại có).
 
