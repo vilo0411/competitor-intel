@@ -90,14 +90,45 @@ async function download(url, file) {
 
 // Phong cách dựng của một video: khung hình + lưới montage + chép lời (whisper-cli, miễn phí) rồi đo nhịp.
 // Ngưỡng 0.06 bắt cả kiểu đổi hình minh hoạ trên nền tĩnh, còn 0.3 chỉ bắt cắt cảnh hẳn.
+// Motion timeline (scripts/video/motion-timeline.mjs, adapted from rea-video): measured sticker beats, entrances and
+// caption pacing. --split 0.06 because explainer shorts swap pictures on a static background.
+function measureMotion(mp4, dir) {
+  const md = path.join(dir, 'motion');
+  const r = spawnSync(process.execPath, [path.join(VIDEO_SCRIPTS, 'motion-timeline.mjs'), mp4, md, '--split', '0.06', '--words', path.join(dir, 'audio', 'audio.json')],
+    { encoding: 'utf8', maxBuffer: 1 << 26 });
+  const m = readJson(path.join(md, 'motion.json'));
+  if (r.status !== 0 || !m) { console.warn(`  ! motion-timeline lỗi: ${(r.stderr || '').trim().split('\n').pop()}`); return null; }
+  const beats = m.stickerBeats.beats, fx = {};
+  for (const b of beats) fx[b.fx] = (fx[b.fx] || 0) + 1;
+  return {
+    beats: beats.length, beatsPerMin: m.stickerBeats.perMinute, medianBeat: m.stickerBeats.medianInterval,
+    beatsFirst3s: beats.filter(b => b.t > 0 && b.t < 3).length, entrances: fx,
+    caption: m.captionTrack ? { swaps: m.captionTrack.swaps, medianInterval: m.captionTrack.medianInterval, box: m.captionTrack.box } : null,
+    // the first beats with the word spoken at that moment: the hook's picture/word sync
+    firstBeats: beats.slice(0, 8).map(b => ({ t: b.t, at: b.at, fx: b.fx })),
+  };
+}
+
+function downloadVideo(v, mp4) {
+  return fs.existsSync(mp4) || spawnSync('yt-dlp', ['-q', '-f', 'b[ext=mp4]/b', '-o', mp4, v.url]).status === 0;
+}
+
 function analyzeStyle(v, dir) {
   const out = path.join(dir, 'style.json');
   const cached = readJson(out);
-  if (cached) return cached;
+  if (cached && (cached.motion !== undefined || OFFLINE)) return cached;
   if (OFFLINE) return null;
   fs.mkdirSync(dir, { recursive: true });
   const mp4 = path.join(dir, 'video.mp4');
-  if (!fs.existsSync(mp4) && spawnSync('yt-dlp', ['-q', '-f', 'b[ext=mp4]/b', '-o', mp4, v.url]).status !== 0) return null;
+  if (cached) {
+    // backfill: style measured before the motion timeline existed
+    if (!downloadVideo(v, mp4)) return cached;
+    cached.motion = measureMotion(mp4, dir);
+    writeJson(out, cached);
+    fs.rmSync(mp4, { force: true });
+    return cached;
+  }
+  if (!downloadVideo(v, mp4)) return null;
   const dur = Number(spawnSync('ffprobe', ['-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', mp4], { encoding: 'utf8' }).stdout) || v.duration || 60;
   const sh = (script, ...a) => spawnSync('bash', [path.join(VIDEO_SCRIPTS, script), ...a.map(String)], { encoding: 'utf8', maxBuffer: 1 << 26 });
   sh('extract-frames.sh', mp4, path.join(dir, 'frames'), dur <= 90 ? 2 : 1, 180, 'auto', '3x5');
@@ -120,6 +151,7 @@ function analyzeStyle(v, dir) {
     hook: words.filter(w => w.start < 3).map(w => w.word).join(' ').trim(),
     transcript: (audio.text || '').trim(),
     grids: fs.existsSync(path.join(dir, 'frames')) ? fs.readdirSync(path.join(dir, 'frames')).filter(n => n.startsWith('grid_')).sort() : [],
+    motion: measureMotion(mp4, dir),
   };
   writeJson(out, style);
   // Giữ lưới montage, khung chuyển cảnh và lời thoại; bỏ video và khung lẻ cho nhẹ thư mục
@@ -353,18 +385,38 @@ function styleHtml(c) {
   const m = k => median(ss.map(x => x[k]).filter(x => x != null));
   // whisper tách tiếng Việt theo âm tiết nên đơn vị là âm tiết, không phải từ
   const unit = ss[0].language === 'vi' ? 'âm tiết/phút' : 'từ/phút';
-  const head = `Đổi hình mỗi **${vn(m('secPerChange'))} giây**, đọc **${Math.round(m('wpm'))} ${unit}**, lời phủ ${pct(m('speechCoverage'))} thời lượng`;
-  const kp = [
+  // measured beats (motion timeline) when available; caption swaps are excluded from beats
+  const mo = ss.filter(x => x.motion);
+  const mm = k => median(mo.map(x => x.motion[k]).filter(x => x != null));
+  const caps = mo.filter(x => x.motion.caption);
+  const capInt = median(caps.map(x => x.motion.caption.medianInterval));
+  const fxAll = {};
+  for (const x of mo) for (const [k, n] of Object.entries(x.motion.entrances || {})) fxAll[k] = (fxAll[k] || 0) + n;
+  const fxTotal = Object.values(fxAll).reduce((a, b) => a + b, 0);
+  const FXV = { cut: 'cắt cứng', pop: 'pop (phóng to)', drop: 'rơi xuống', fade: 'mờ dần', 'slide-left': 'trượt trái', 'slide-right': 'trượt phải', 'slide-up': 'trượt lên', 'draw-right': 'vẽ dần', 'draw-left': 'vẽ dần', 'draw-down': 'vẽ dần', 'draw-up': 'vẽ dần' };
+  const topFx = Object.entries(fxAll).sort((a, b) => b[1] - a[1])[0];
+  const beatS = mo.length ? mm('medianBeat') : m('secPerChange');
+  const head = `Đổi hình mỗi **${vn(beatS)} giây**, đọc **${Math.round(m('wpm'))} ${unit}**, lời phủ ${pct(m('speechCoverage'))} thời lượng`;
+  const kp = mo.length ? [
+    ['Nhịp hình', `${vn(beatS)}s/beat`, `${Math.round(mm('beatsPerMin'))} beat/phút · không tính phụ đề`],
+    ['3 giây đầu', `${Math.round(mm('beatsFirst3s'))} beat`, 'trung vị các video top'],
+    ['Kiểu vào hình', topFx ? FXV[topFx[0]] || topFx[0] : '—', topFx ? `${pct(topFx[1] / fxTotal)} số beat` : ''],
+    ['Phụ đề', caps.length ? `${vn(capInt)}s/cụm` : 'không thấy', caps.length ? `${caps.length}/${mo.length} video có dải phụ đề đổi đều` : 'không có dải chữ đổi đều'],
+    ['Tốc độ đọc', `${Math.round(m('wpm'))} ${unit}`, `lời phủ ${pct(m('speechCoverage'))} thời lượng`],
+    ['Độ to', m('lufs') ? `${vn(m('lufs'))} LUFS` : '—', ss[0].language ? `ngôn ngữ: ${ss[0].language}` : ''],
+  ] : [
     ['Đổi hình', `${vn(m('secPerChange'))}s/lần`, `${vn(60 / m('secPerChange'), 0)} lần/phút · cắt cảnh hẳn: ${Math.round(m('cuts'))}`],
     ['3 giây đầu', `${Math.round(m('changesFirst3s'))} lần đổi hình`, 'trung vị các video top'],
     ['Tốc độ đọc', `${Math.round(m('wpm'))} ${unit}`, ss[0].language ? `ngôn ngữ: ${ss[0].language}` : ''],
     ['Độ to', m('lufs') ? `${vn(m('lufs'))} LUFS` : '—', `lời phủ ${pct(m('speechCoverage'))} thời lượng`],
   ];
+  const beatLine = x => x.motion?.firstBeats?.length ? `<p class="small muted">Beat đầu: ${x.motion.firstBeats.map(b => `${vn(b.t)}s ${esc(FXV[b.fx] || b.fx)}${b.at ? ` “${esc(b.at)}”` : ''}`).join(' → ')}</p>` : '';
   const card = x => `<article class="scard">
 <a href="${esc(x.video.url)}" target="_blank" rel="noopener" class="stitle"><b>${fmt(x.video.views)} view</b> · ${esc(x.video.title.replace(/#[\p{L}\p{N}_]+/gu, '').trim().slice(0, 70))}</a>
 ${fs.existsSync(path.join(OUT, x.base, 'hook.jpg')) ? `<img class="hook" src="${esc(x.base)}/hook.jpg" alt="6 khung hình của 3 giây đầu">` : ''}
 <p class="hookq"><span class="q">3 giây đầu nói</span>“${esc(x.hook || '(không lời)')}”</p>
-<div class="chips"><span>đổi hình ${vn(x.secPerChange)}s/lần</span><span>${x.changesFirst3s} lần trong 3s đầu</span><span>${Math.round(x.wpm)} ${unit}</span><span>${Math.round(x.duration)}s</span>${x.lufs ? `<span>${vn(x.lufs)} LUFS</span>` : ''}</div>
+<div class="chips">${x.motion ? `<span>beat ${vn(x.motion.medianBeat)}s</span><span>${x.motion.beatsFirst3s} beat trong 3s đầu</span>${x.motion.caption ? `<span>phụ đề ${vn(x.motion.caption.medianInterval)}s/cụm</span>` : ''}` : `<span>đổi hình ${vn(x.secPerChange)}s/lần</span><span>${x.changesFirst3s} lần trong 3s đầu</span>`}<span>${Math.round(x.wpm)} ${unit}</span><span>${Math.round(x.duration)}s</span>${x.lufs ? `<span>${vn(x.lufs)} LUFS</span>` : ''}</div>
+${beatLine(x)}
 <details><summary>Khung hình (${x.grids.length} lưới) & lời thoại</summary>${x.grids.map(g => `<img class="grid" src="${esc(x.base)}/frames/${esc(g)}" alt="" loading="lazy">`).join('')}<p class="transcript">${esc(x.transcript)}</p></details>
 </article>`;
   return `${chart('Họ dựng video thế nào?', head, `<div class="kpis small">${kp.map(([k, v, sub]) => `<div class="kpi"><span>${k}</span><b>${v}</b><small>${esc(sub)}</small></div>`).join('')}</div>
@@ -435,8 +487,8 @@ function reportMd(cs, insights) {
       '**Điểm chính**', '', ...Object.values(c.takeaways).map(x => `- ${x}`), '',
       '| # | Video | View | Tương tác | Giây | Ngày |' + (c.labeled ? ' Loại |' : ''), '|---|---|---|---|---|---|' + (c.labeled ? '---|' : ''),
       ...c.top.map((v, i) => `| ${i + 1} | [${v.title.slice(0, 60).replace(/\|/g, '/')}](${v.url}) | ${fmt(v.views)} | ${pct(v.er)} | ${v.duration} | ${v.date} |` + (c.labeled ? ` ${v.category} |` : '')), '');
-    if (c.styles?.length) L.push('**Phong cách dựng (video top)**', '', ...(c.styleNotes ? [c.styleNotes.trim(), ''] : []), `| Video | View | Đổi hình | 3s đầu | ${c.styles[0].language === 'vi' ? 'Âm tiết' : 'Từ'}/phút | 3 giây đầu nói |`, '|---|---|---|---|---|---|',
-      ...c.styles.map(x => `| [${x.video.title.slice(0, 40).replace(/\|/g, '/')}](${x.video.url}) | ${fmt(x.video.views)} | ${vn(x.secPerChange)}s | ${x.changesFirst3s} | ${Math.round(x.wpm)} | ${(x.hook || '').replace(/\|/g, '/')} |`), '');
+    if (c.styles?.length) L.push('**Phong cách dựng (video top)**', '', ...(c.styleNotes ? [c.styleNotes.trim(), ''] : []), `| Video | View | Đổi hình | 3s đầu | Phụ đề | ${c.styles[0].language === 'vi' ? 'Âm tiết' : 'Từ'}/phút | 3 giây đầu nói |`, '|---|---|---|---|---|---|---|',
+      ...c.styles.map(x => `| [${x.video.title.slice(0, 40).replace(/\|/g, '/')}](${x.video.url}) | ${fmt(x.video.views)} | ${x.motion ? `${vn(x.motion.medianBeat)}s/beat` : `${vn(x.secPerChange)}s`} | ${x.motion ? x.motion.beatsFirst3s : x.changesFirst3s} | ${x.motion?.caption ? `${vn(x.motion.caption.medianInterval)}s/cụm` : '—'} | ${Math.round(x.wpm)} | ${(x.hook || '').replace(/\|/g, '/')} |`), '');
     if (c.labeled) L.push('| Loại hình | Số video | View trung vị |', '|---|---|---|', ...c.categories.map(x => `| ${x.name} | ${x.count} | ${fmt(x.median)} |`), '');
     L.push('| Tháng | Số video | View trung vị |', '|---|---|---|', ...c.months.map(m => `| ${m.name} | ${m.count} | ${fmt(m.median)} |`), '');
   }

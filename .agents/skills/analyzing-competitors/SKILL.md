@@ -81,7 +81,8 @@ TikTok không có trường "loại hình", agent tự phân loại. Đọc `tik
 
 Đây là phần trả lời câu hỏi **"họ làm video thế nào"**. Với từng video trong `tiktok/<handle>/style/<id>/`:
 - dùng Read xem `frames/grid_*.jpg` (mỗi ô có đóng dấu thời gian) và `hook.jpg`,
-- đọc lời thoại trong `style.json` → `transcript`, cùng các số đo `secPerChange`, `changesFirst3s`, `wpm`, `lufs`.
+- đọc lời thoại trong `style.json` → `transcript`, cùng các số đo `secPerChange`, `changesFirst3s`, `wpm`, `lufs`,
+- đọc `style.json` → `motion` (đo bằng `scripts/video/motion-timeline.mjs`): `medianBeat` (số giây mỗi lần đổi hình, **không tính phụ đề**), `beatsPerMin`, `beatsFirst3s`, `entrances` (số beat theo kiểu vào hình: cut/pop/drop/slide-*/draw-*/fade), `caption` (dải phụ đề: `medianInterval` giây/cụm, `box` vị trí), `firstBeats` (các beat đầu kèm từ đang đọc). Chi tiết từng phần tử nằm ở `motion/motion.md`.
 
 Sau đó viết `tiktok/<handle>/style.md`. Phần này được nhúng vào mục "Họ dựng video thế nào?" của báo cáo. Gồm:
 
@@ -92,6 +93,8 @@ Sau đó viết `tiktok/<handle>/style.md`. Phần này được nhúng vào m�
 
 Lưu ý khi đọc số đo:
 - `cuts` (ngưỡng 0.3) chỉ đếm cắt cảnh hẳn. `changes` (ngưỡng 0.06) đếm cả việc đổi sticker hay hình minh hoạ trên nền tĩnh. Video hoạt hình, sticker thường có `cuts` gần 0 nhưng `changes` rất cao.
+- Khi có `motion`, dùng `medianBeat` thay cho `secPerChange`: `changes` đếm lẫn cả phụ đề, còn beat thì đã tách phụ đề ra. Dải `caption` được nhận ra vì là vùng thấp đổi lặp lại ở cùng chỗ. Phải xem grid để xác nhận đó đúng là phụ đề chứ không phải nhãn hay số đếm.
+- `firstBeats` + `hook` cho biết hình có đổi đúng nhịp lời không (ví dụ beat rơi đúng từ khoá). Ghi điều này vào mục "Lời và nhịp kể".
 - Mô tả phải dựa vào khung hình và lời thoại đã xem, không đoán. Muốn mổ xẻ sâu một video thì dùng skill `analyzing-video` (nếu project hiện tại có).
 
 ### Bước 4: Nhận định
