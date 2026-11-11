@@ -124,7 +124,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add -A docs requests
+          git add -A # only docs/ and requests/ change on the runner; avoids pathspec errors when requests/ is absent
           if git diff --cached --quiet; then echo "Nothing to commit"; exit 0; fi
           git commit -q -m "ci: update reports (${{ github.event_name }})"
           for i in 1 2 3 4 5; do
