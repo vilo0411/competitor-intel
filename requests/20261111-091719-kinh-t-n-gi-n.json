@@ -1,0 +1,8 @@
+{
+  "id": "20261111-091719-kinh-t-n-gi-n",
+  "name": "Kinh Tế Đơn Giản",
+  "channels": ["@kinhtedongian.official"],
+  "refresh": false,
+  "style": 5,
+  "limit": 300
+}
