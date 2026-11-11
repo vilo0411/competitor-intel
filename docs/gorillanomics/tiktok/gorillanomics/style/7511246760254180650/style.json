@@ -17,5 +17,69 @@
     "grid_002.jpg",
     "grid_003.jpg",
     "grid_004.jpg"
-  ]
+  ],
+  "motion": {
+    "beats": 55,
+    "beatsPerMin": 111.56,
+    "medianBeat": 0.5,
+    "beatsFirst3s": 5,
+    "entrances": {
+      "cut": 51,
+      "drop": 1,
+      "draw-up": 1,
+      "draw-down": 2
+    },
+    "caption": {
+      "swaps": 25,
+      "medianInterval": 0.9,
+      "box": [
+        0.289,
+        0.575,
+        0.489,
+        0.088
+      ]
+    },
+    "firstBeats": [
+      {
+        "t": 0.22,
+        "at": "is",
+        "fx": "cut"
+      },
+      {
+        "t": 0.73,
+        "at": null,
+        "fx": "drop"
+      },
+      {
+        "t": 1.38,
+        "at": "get",
+        "fx": "cut"
+      },
+      {
+        "t": 1.9,
+        "at": "Gorilla",
+        "fx": "cut"
+      },
+      {
+        "t": 2.42,
+        "at": "very",
+        "fx": "cut"
+      },
+      {
+        "t": 3.2,
+        "at": "but",
+        "fx": "cut"
+      },
+      {
+        "t": 4.08,
+        "at": "What",
+        "fx": "cut"
+      },
+      {
+        "t": 5.2,
+        "at": "What",
+        "fx": "cut"
+      }
+    ]
+  }
 }

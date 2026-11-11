@@ -17,5 +17,70 @@
     "grid_002.jpg",
     "grid_003.jpg",
     "grid_004.jpg"
-  ]
+  ],
+  "motion": {
+    "beats": 42,
+    "beatsPerMin": 88.73,
+    "medianBeat": 0.6,
+    "beatsFirst3s": 5,
+    "entrances": {
+      "cut": 37,
+      "drop": 2,
+      "draw-up": 1,
+      "fade": 1,
+      "draw-right": 1
+    },
+    "caption": {
+      "swaps": 21,
+      "medianInterval": 0.8,
+      "box": [
+        0.2,
+        0.6,
+        0.622,
+        0.063
+      ]
+    },
+    "firstBeats": [
+      {
+        "t": 0,
+        "at": "what",
+        "fx": "cut"
+      },
+      {
+        "t": 0.33,
+        "at": "money",
+        "fx": "cut"
+      },
+      {
+        "t": 1.13,
+        "at": "big",
+        "fx": "drop"
+      },
+      {
+        "t": 1.87,
+        "at": "run",
+        "fx": "draw-up"
+      },
+      {
+        "t": 2.3,
+        "at": "guerrilla",
+        "fx": "cut"
+      },
+      {
+        "t": 2.97,
+        "at": "guerrilla",
+        "fx": "cut"
+      },
+      {
+        "t": 3.83,
+        "at": "steal",
+        "fx": "cut"
+      },
+      {
+        "t": 4.3,
+        "at": "smuggle",
+        "fx": "cut"
+      }
+    ]
+  }
 }

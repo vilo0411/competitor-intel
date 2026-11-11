@@ -82,9 +82,9 @@ Cập nhật 2026-11-11 · TikTok: @gorillanomics. Biểu đồ xem trong `goril
 
 | Video | View | Đổi hình | 3s đầu | Phụ đề | Từ/phút | 3 giây đầu nói |
 |---|---|---|---|---|---|---|
-| [Gorillas explain Tax Evasion #economic #](https://www.tiktok.com/@gorillanomics/video/7514219246356942122) | 6,5 tr | 0,9s | 5 | — | 192 | What is tax evasion? Gorilla work 9 to 5. |
-| [Gorillas explain Insurance #economic #fi](https://www.tiktok.com/@gorillanomics/video/7511246760254180650) | 3,2 tr | 0,7s | 4 | — | 215 | What is insurance? Gorilla get new car. Gorilla very happy, |
-| [Gorillas explain Money Laundering #econo](https://www.tiktok.com/@gorillanomics/video/7507727025692495146) | 1,9 tr | 0,9s | 3 | — | 194 | what is money laundering big boss run guerrilla gang guerrilla |
+| [Gorillas explain Tax Evasion #economic #](https://www.tiktok.com/@gorillanomics/video/7514219246356942122) | 6,5 tr | 0,6s/beat | 4 | 1,2s/cụm | 192 | What is tax evasion? Gorilla work 9 to 5. |
+| [Gorillas explain Insurance #economic #fi](https://www.tiktok.com/@gorillanomics/video/7511246760254180650) | 3,2 tr | 0,5s/beat | 5 | 0,9s/cụm | 215 | What is insurance? Gorilla get new car. Gorilla very happy, |
+| [Gorillas explain Money Laundering #econo](https://www.tiktok.com/@gorillanomics/video/7507727025692495146) | 1,9 tr | 0,6s/beat | 5 | 0,8s/cụm | 194 | what is money laundering big boss run guerrilla gang guerrilla |
 
 | Loại hình | Số video | View trung vị |
 |---|---|---|

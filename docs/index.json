@@ -24,6 +24,14 @@
   ],
   "runs": [
     {
+      "id": "20261111-090846-gorillanomics",
+      "status": "ok",
+      "slug": "gorillanomics",
+      "name": "Gorillanomics",
+      "finishedAt": "2026-11-11T09:10:31.762Z",
+      "seconds": 13
+    },
+    {
       "id": "20261111-082710-gorillanomics",
       "status": "ok",
       "slug": "gorillanomics",

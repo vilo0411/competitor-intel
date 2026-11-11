@@ -22,5 +22,74 @@
     "grid_007.jpg",
     "grid_008.jpg",
     "grid_009.jpg"
-  ]
+  ],
+  "motion": {
+    "beats": 88,
+    "beatsPerMin": 86.37,
+    "medianBeat": 0.6,
+    "beatsFirst3s": 4,
+    "entrances": {
+      "cut": 76,
+      "drop": 2,
+      "fade": 3,
+      "draw-right": 1,
+      "draw-up": 1,
+      "slide-left": 1,
+      "slide-right": 2,
+      "draw-down": 1,
+      "slide-up": 1
+    },
+    "caption": {
+      "swaps": 34,
+      "medianInterval": 1.2,
+      "box": [
+        0.222,
+        0.6,
+        0.556,
+        0.063
+      ]
+    },
+    "firstBeats": [
+      {
+        "t": 0,
+        "at": "What",
+        "fx": "cut"
+      },
+      {
+        "t": 0.33,
+        "at": "is",
+        "fx": "cut"
+      },
+      {
+        "t": 1.47,
+        "at": "Gorilla",
+        "fx": "drop"
+      },
+      {
+        "t": 2.07,
+        "at": "9",
+        "fx": "cut"
+      },
+      {
+        "t": 2.57,
+        "at": "5.",
+        "fx": "cut"
+      },
+      {
+        "t": 3.1,
+        "at": "Big",
+        "fx": "cut"
+      },
+      {
+        "t": 3.57,
+        "at": "gorilla",
+        "fx": "cut"
+      },
+      {
+        "t": 5,
+        "at": "hard",
+        "fx": "cut"
+      }
+    ]
+  }
 }

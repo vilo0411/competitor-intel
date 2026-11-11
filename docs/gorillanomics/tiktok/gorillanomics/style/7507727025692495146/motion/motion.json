@@ -1,0 +1,2087 @@
+{
+  "source": "video.mp4",
+  "width": 720,
+  "height": 1280,
+  "duration": 28.47,
+  "analysisFps": 15,
+  "analysisSize": [
+    180,
+    320
+  ],
+  "boxUnits": "fraction of frame [x, y, w, h]",
+  "captionTrack": {
+    "box": [
+      0.2,
+      0.6,
+      0.622,
+      0.063
+    ],
+    "swaps": 21,
+    "medianInterval": 0.8
+  },
+  "shots": [
+    {
+      "index": 1,
+      "start": 0,
+      "end": 0.33,
+      "startWord": "what",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.533,
+            0.475,
+            0.267,
+            0.038
+          ],
+          "shape": "block",
+          "colour": "#4d4d4d"
+        }
+      ],
+      "events": [
+        {
+          "t0": 0.2,
+          "t1": 0.27,
+          "box": [
+            0.111,
+            0.388,
+            0.378,
+            0.238
+          ],
+          "area": 0.053,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#616c91",
+          "word": "is"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 2,
+      "start": 0.33,
+      "end": 2.3,
+      "startWord": "money",
+      "fps": 15,
+      "layer": {
+        "share": 0.013,
+        "box": [
+          0.111,
+          0.388,
+          0.778,
+          0.163
+        ]
+      },
+      "static": [],
+      "events": [
+        {
+          "t0": 1.13,
+          "t1": 1.6,
+          "box": [
+            0.111,
+            0.375,
+            0.778,
+            0.263
+          ],
+          "area": 0.051,
+          "kind": "appear",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#161926",
+          "word": "big"
+        },
+        {
+          "t0": 1.87,
+          "t1": 2.2,
+          "box": [
+            0.311,
+            0.363,
+            0.422,
+            0.3
+          ],
+          "area": 0.048,
+          "kind": "change",
+          "easing": "ease_in",
+          "sweep": "up",
+          "slide": null,
+          "scale": null,
+          "colour": "#303448",
+          "word": "run"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 3,
+      "start": 2.3,
+      "end": 2.97,
+      "startWord": "guerrilla",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.556,
+            0.363,
+            0.444,
+            0.275
+          ],
+          "shape": "block",
+          "colour": "#252c44"
+        },
+        {
+          "box": [
+            0.044,
+            0.5,
+            0.444,
+            0.138
+          ],
+          "shape": "block",
+          "colour": "#141926"
+        }
+      ],
+      "events": [
+        {
+          "t0": 2.53,
+          "t1": 2.6,
+          "box": [
+            0.089,
+            0.363,
+            0.378,
+            0.163
+          ],
+          "area": 0.034,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#2c2e45",
+          "word": "gang"
+        },
+        {
+          "t0": 2.53,
+          "t1": 2.93,
+          "box": [
+            0.356,
+            0.6,
+            0.289,
+            0.063
+          ],
+          "area": 0.013,
+          "kind": "change",
+          "easing": "ease_out",
+          "sweep": "left",
+          "slide": null,
+          "scale": null,
+          "colour": "#ababad",
+          "word": "gang",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 4,
+      "start": 2.97,
+      "end": 3.83,
+      "startWord": "guerrilla",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.178,
+            0.363,
+            0.244,
+            0.275
+          ],
+          "shape": "block",
+          "colour": "#272d45"
+        },
+        {
+          "box": [
+            0.556,
+            0.363,
+            0.244,
+            0.275
+          ],
+          "shape": "block",
+          "colour": "#272d46"
+        }
+      ],
+      "events": [
+        {
+          "t0": 3.33,
+          "t1": 3.73,
+          "box": [
+            0.356,
+            0.6,
+            0.289,
+            0.063
+          ],
+          "area": 0.013,
+          "kind": "change",
+          "easing": "ease_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#a5a4a5",
+          "word": "goons",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 5,
+      "start": 3.83,
+      "end": 4.3,
+      "startWord": "steal",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.2,
+            0.338,
+            0.6,
+            0.325
+          ],
+          "shape": "block",
+          "colour": "#2d385d"
+        }
+      ],
+      "events": [
+        {
+          "t0": 4.13,
+          "t1": 4.2,
+          "box": [
+            0.311,
+            0.6,
+            0.378,
+            0.063
+          ],
+          "area": 0.016,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#3c3f53",
+          "word": "smuggle",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 6,
+      "start": 4.3,
+      "end": 4.7,
+      "startWord": "smuggle",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.2,
+            0.338,
+            0.6,
+            0.325
+          ],
+          "shape": "block",
+          "colour": "#465d8b"
+        }
+      ],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 7,
+      "start": 4.7,
+      "end": 5.17,
+      "startWord": "gamble",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.2,
+            0.338,
+            0.6,
+            0.325
+          ],
+          "shape": "block",
+          "colour": "#283456"
+        }
+      ],
+      "events": [
+        {
+          "t0": 4.8,
+          "t1": 4.87,
+          "box": [
+            0.333,
+            0.6,
+            0.333,
+            0.05
+          ],
+          "area": 0.013,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#464b51",
+          "word": "gamble",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 8,
+      "start": 5.17,
+      "end": 6.27,
+      "startWord": "this",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.289,
+            0.488,
+            0.422,
+            0.113
+          ],
+          "shape": "block",
+          "colour": "#141925"
+        }
+      ],
+      "events": [
+        {
+          "t0": 5.47,
+          "t1": 5.53,
+          "box": [
+            0.311,
+            0.363,
+            0.4,
+            0.163
+          ],
+          "area": 0.034,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#2a2f44",
+          "word": "mob"
+        },
+        {
+          "t0": 5.6,
+          "t1": 6.2,
+          "box": [
+            0.289,
+            0.6,
+            0.422,
+            0.05
+          ],
+          "area": 0.013,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#787a81",
+          "word": "mob",
+          "caption": true
+        },
+        {
+          "t0": 5.93,
+          "t1": 6.2,
+          "box": [
+            0.356,
+            0.6,
+            0.311,
+            0.05
+          ],
+          "area": 0.005,
+          "kind": "change",
+          "easing": "ease_in",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#828285",
+          "word": "very",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 9,
+      "start": 6.27,
+      "end": 6.97,
+      "startWord": "rich",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.267,
+            0.388,
+            0.533,
+            0.213
+          ],
+          "shape": "block",
+          "colour": "#d8b519"
+        }
+      ],
+      "events": [
+        {
+          "t0": 6.4,
+          "t1": 6.53,
+          "box": [
+            0.111,
+            0.338,
+            0.778,
+            0.3
+          ],
+          "area": 0.085,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": "up",
+          "slide": null,
+          "scale": null,
+          "colour": "#dbb217",
+          "word": "rich"
+        },
+        {
+          "t0": 6.47,
+          "t1": 6.53,
+          "box": [
+            0.022,
+            0.375,
+            0.244,
+            0.138
+          ],
+          "area": 0.021,
+          "kind": "appear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#e4bc11",
+          "word": "rich"
+        },
+        {
+          "t0": 6.87,
+          "t1": 6.93,
+          "box": [
+            0.311,
+            0.6,
+            0.378,
+            0.063
+          ],
+          "area": 0.016,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#9d9ea1",
+          "word": "this",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 10,
+      "start": 6.97,
+      "end": 8.43,
+      "startWord": "this",
+      "fps": 15,
+      "layer": {
+        "share": 0.098,
+        "box": [
+          0.156,
+          0.4,
+          0.689,
+          0.25
+        ]
+      },
+      "static": [],
+      "events": [
+        {
+          "t0": 7.6,
+          "t1": 8.07,
+          "box": [
+            0.311,
+            0.6,
+            0.4,
+            0.05
+          ],
+          "area": 0.002,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#797875",
+          "word": "banana",
+          "caption": true
+        },
+        {
+          "t0": 7.87,
+          "t1": 8.07,
+          "box": [
+            0.333,
+            0.6,
+            0.333,
+            0.05
+          ],
+          "area": 0.007,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#868586",
+          "word": "banana",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 11,
+      "start": 8.43,
+      "end": 9.2,
+      "startWord": "can't",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.089,
+            0.463,
+            0.244,
+            0.163
+          ],
+          "shape": "block",
+          "colour": "#965b2e"
+        },
+        {
+          "box": [
+            0.756,
+            0.513,
+            0.044,
+            0.075
+          ],
+          "shape": "block",
+          "colour": "#131822"
+        }
+      ],
+      "events": [
+        {
+          "t0": 8.53,
+          "t1": 8.73,
+          "box": [
+            0.311,
+            0.388,
+            0.622,
+            0.275
+          ],
+          "area": 0.095,
+          "kind": "change",
+          "easing": "ease_in",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#ec1712",
+          "word": "can't"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 12,
+      "start": 9.2,
+      "end": 10.2,
+      "startWord": "else",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.511,
+            0.375,
+            0.378,
+            0.238
+          ],
+          "shape": "block",
+          "colour": "#30357d"
+        },
+        {
+          "box": [
+            0.111,
+            0.4,
+            0.2,
+            0.188
+          ],
+          "shape": "block",
+          "colour": "#d6a97a"
+        }
+      ],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 13,
+      "start": 10.2,
+      "end": 11.3,
+      "startWord": "need",
+      "fps": 15,
+      "layer": {
+        "share": 0.021,
+        "box": [
+          0.356,
+          0.425,
+          0.289,
+          0.213
+        ]
+      },
+      "static": [],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 14,
+      "start": 11.3,
+      "end": 12.03,
+      "startWord": "to",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.089,
+            0.463,
+            0.289,
+            0.163
+          ],
+          "shape": "block",
+          "colour": "#8f512e"
+        },
+        {
+          "box": [
+            0.756,
+            0.488,
+            0.067,
+            0.05
+          ],
+          "shape": "block",
+          "colour": "#131722"
+        }
+      ],
+      "events": [
+        {
+          "t0": 11.4,
+          "t1": 11.6,
+          "box": [
+            0.4,
+            0.388,
+            0.533,
+            0.25
+          ],
+          "area": 0.066,
+          "kind": "change",
+          "easing": "ease_in",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#718151",
+          "word": "to"
+        },
+        {
+          "t0": 11.93,
+          "t1": 12,
+          "box": [
+            0.444,
+            0.6,
+            0.2,
+            0.05
+          ],
+          "area": 0.008,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#fcfdfd",
+          "word": "so",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 15,
+      "start": 12.03,
+      "end": 12.7,
+      "startWord": "so",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.333,
+            0.5,
+            0.378,
+            0.138
+          ],
+          "shape": "block",
+          "colour": "#141923"
+        }
+      ],
+      "events": [
+        {
+          "t0": 12.27,
+          "t1": 12.47,
+          "box": [
+            0.4,
+            0.6,
+            0.222,
+            0.05
+          ],
+          "area": 0.009,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#717171",
+          "word": "boss",
+          "caption": true
+        },
+        {
+          "t0": 12.33,
+          "t1": 12.4,
+          "box": [
+            0.311,
+            0.4,
+            0.378,
+            0.138
+          ],
+          "area": 0.026,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#2a2f45",
+          "word": "boss"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 16,
+      "start": 12.7,
+      "end": 13.47,
+      "startWord": "store",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.289,
+            0.388,
+            0.422,
+            0.2
+          ],
+          "shape": "block",
+          "colour": "#a65636"
+        }
+      ],
+      "events": [
+        {
+          "t0": 13.4,
+          "t1": 13.47,
+          "box": [
+            0.267,
+            0.6,
+            0.467,
+            0.063
+          ],
+          "area": 0.02,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#dac6c7",
+          "word": "say",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 17,
+      "start": 13.47,
+      "end": 15,
+      "startWord": "say",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.067,
+            0.388,
+            0.422,
+            0.238
+          ],
+          "shape": "block",
+          "colour": "#a9592c"
+        },
+        {
+          "box": [
+            0.578,
+            0.563,
+            0.289,
+            0.075
+          ],
+          "shape": "block",
+          "colour": "#141823"
+        }
+      ],
+      "events": [
+        {
+          "t0": 13.6,
+          "t1": 14.67,
+          "box": [
+            0.378,
+            0.6,
+            0.244,
+            0.063
+          ],
+          "area": 0.01,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#837b7c",
+          "word": "it",
+          "caption": true
+        },
+        {
+          "t0": 13.67,
+          "t1": 13.73,
+          "box": [
+            0.489,
+            0.4,
+            0.378,
+            0.05
+          ],
+          "area": 0.011,
+          "kind": "appear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#626262",
+          "word": "it"
+        },
+        {
+          "t0": 14.47,
+          "t1": 14.67,
+          "box": [
+            0.333,
+            0.6,
+            0.333,
+            0.05
+          ],
+          "area": 0.005,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#827d7d",
+          "word": "banana",
+          "caption": true
+        },
+        {
+          "t0": 14.87,
+          "t1": 14.93,
+          "box": [
+            0.556,
+            0.45,
+            0.289,
+            0.113
+          ],
+          "area": 0.016,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#34374b",
+          "word": "he"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 18,
+      "start": 15,
+      "end": 15.33,
+      "startWord": "he",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.067,
+            0.363,
+            0.867,
+            0.275
+          ],
+          "shape": "block",
+          "colour": "#293048"
+        }
+      ],
+      "events": [
+        {
+          "t0": 15.07,
+          "t1": 15.13,
+          "box": [
+            0.4,
+            0.6,
+            0.222,
+            0.05
+          ],
+          "area": 0.007,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#626262",
+          "word": "he",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 19,
+      "start": 15.33,
+      "end": 15.77,
+      "startWord": "lie",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.067,
+            0.363,
+            0.867,
+            0.288
+          ],
+          "shape": "block",
+          "colour": "#29314a"
+        }
+      ],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 20,
+      "start": 15.77,
+      "end": 16.13,
+      "startWord": "profit",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0,
+            0.375,
+            1,
+            0.238
+          ],
+          "shape": "block",
+          "colour": "#2f3752"
+        }
+      ],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 21,
+      "start": 16.13,
+      "end": 17.33,
+      "startWord": "profit",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.022,
+            0.413,
+            0.4,
+            0.175
+          ],
+          "shape": "block",
+          "colour": "#c6910d"
+        }
+      ],
+      "events": [
+        {
+          "t0": 16.27,
+          "t1": 16.4,
+          "box": [
+            0.422,
+            0.413,
+            0.467,
+            0.225
+          ],
+          "area": 0.063,
+          "kind": "appear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#9e5931",
+          "word": "actually"
+        },
+        {
+          "t0": 16.93,
+          "t1": 17.13,
+          "box": [
+            0.333,
+            0.6,
+            0.333,
+            0.063
+          ],
+          "area": 0.015,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#8a8a8a",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 22,
+      "start": 17.33,
+      "end": 18.27,
+      "startWord": "from",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.022,
+            0.413,
+            0.889,
+            0.175
+          ],
+          "shape": "block",
+          "colour": "#3f454d"
+        }
+      ],
+      "events": [
+        {
+          "t0": 18.2,
+          "t1": 18.27,
+          "box": [
+            0.4,
+            0.6,
+            0.2,
+            0.05
+          ],
+          "area": 0.004,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#ebebeb",
+          "word": "boss",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 23,
+      "start": 18.27,
+      "end": 20.07,
+      "startWord": "boss",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.089,
+            0.463,
+            0.289,
+            0.163
+          ],
+          "shape": "block",
+          "colour": "#91512d"
+        },
+        {
+          "box": [
+            0.756,
+            0.525,
+            0.044,
+            0.063
+          ],
+          "shape": "block",
+          "colour": "#161722"
+        }
+      ],
+      "events": [
+        {
+          "t0": 18.53,
+          "t1": 18.73,
+          "box": [
+            0.4,
+            0.388,
+            0.533,
+            0.25
+          ],
+          "area": 0.061,
+          "kind": "change",
+          "easing": "ease_in",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#6f6244",
+          "word": "use"
+        },
+        {
+          "t0": 18.73,
+          "t1": 18.8,
+          "box": [
+            0.089,
+            0.413,
+            0.378,
+            0.05
+          ],
+          "area": 0.011,
+          "kind": "appear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#505050",
+          "word": "the"
+        },
+        {
+          "t0": 20,
+          "t1": 20.07,
+          "box": [
+            0.4,
+            0.6,
+            0.244,
+            0.05
+          ],
+          "area": 0.006,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#fafafb",
+          "word": "think",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 24,
+      "start": 20.07,
+      "end": 21.47,
+      "startWord": "think",
+      "fps": 15,
+      "layer": {
+        "share": 0.02,
+        "box": [
+          0.133,
+          0.388,
+          0.511,
+          0.263
+        ]
+      },
+      "static": [
+        {
+          "box": [
+            0.133,
+            0.438,
+            0.778,
+            0.188
+          ],
+          "shape": "block",
+          "colour": "#30374f"
+        }
+      ],
+      "events": [
+        {
+          "t0": 20.47,
+          "t1": 20.53,
+          "box": [
+            0.111,
+            0.375,
+            0.533,
+            0.05
+          ],
+          "area": 0.008,
+          "kind": "appear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#606060",
+          "word": "clean"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 25,
+      "start": 21.47,
+      "end": 22.6,
+      "startWord": "came",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.133,
+            0.375,
+            0.2,
+            0.125
+          ],
+          "shape": "block",
+          "colour": "#4a648d"
+        }
+      ],
+      "events": [
+        {
+          "t0": 21.6,
+          "t1": 22,
+          "box": [
+            0.133,
+            0.388,
+            0.711,
+            0.263
+          ],
+          "area": 0.09,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#ab4a1a",
+          "word": "from"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 26,
+      "start": 22.6,
+      "end": 22.93,
+      "startWord": "make",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.289,
+            0.363,
+            0.444,
+            0.238
+          ],
+          "shape": "block",
+          "colour": "#141926"
+        }
+      ],
+      "events": [
+        {
+          "t0": 22.67,
+          "t1": 22.73,
+          "box": [
+            0.2,
+            0.6,
+            0.622,
+            0.05
+          ],
+          "area": 0.026,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#68686b",
+          "word": "more",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 27,
+      "start": 22.93,
+      "end": 23.23,
+      "startWord": "fake",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.2,
+            0.425,
+            0.6,
+            0.225
+          ],
+          "shape": "block",
+          "colour": "#94651b"
+        }
+      ],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 28,
+      "start": 23.23,
+      "end": 24.03,
+      "startWord": "business",
+      "fps": 15,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 23.33,
+          "t1": 23.67,
+          "box": [
+            0.311,
+            0.6,
+            0.378,
+            0.05
+          ],
+          "area": 0.018,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": true,
+          "colour": "#6d6d6e",
+          "word": "business",
+          "caption": true
+        },
+        {
+          "t0": 23.53,
+          "t1": 23.6,
+          "box": [
+            0.044,
+            0.425,
+            0.911,
+            0.163
+          ],
+          "area": 0.141,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#a87437",
+          "word": "business"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 29,
+      "start": 24.03,
+      "end": 25.93,
+      "startWord": "dirty",
+      "fps": 15,
+      "layer": {
+        "share": 0.052,
+        "box": [
+          0.244,
+          0.438,
+          0.489,
+          0.213
+        ]
+      },
+      "static": [],
+      "events": [
+        {
+          "t0": 24.6,
+          "t1": 25.2,
+          "box": [
+            0.778,
+            0.388,
+            0.111,
+            0.225
+          ],
+          "area": 0.011,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#9d771c",
+          "word": "trail",
+          "endWord": "to"
+        },
+        {
+          "t0": 24.6,
+          "t1": 25.8,
+          "box": [
+            0.133,
+            0.425,
+            0.667,
+            0.238
+          ],
+          "area": 0.054,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#d6b538",
+          "word": "trail"
+        },
+        {
+          "t0": 24.67,
+          "t1": 25.73,
+          "box": [
+            0.444,
+            0.388,
+            0.2,
+            0.05
+          ],
+          "area": 0.004,
+          "kind": "disappear",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#7c6222",
+          "word": "trail"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 30,
+      "start": 25.93,
+      "end": 27.73,
+      "startWord": "make",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.089,
+            0.375,
+            0.156,
+            0.038
+          ],
+          "shape": "block",
+          "colour": "#5a5a5a"
+        },
+        {
+          "box": [
+            0.311,
+            0.375,
+            0.622,
+            0.038
+          ],
+          "shape": "hline",
+          "colour": "#434343"
+        },
+        {
+          "box": [
+            0.089,
+            0.5,
+            0.289,
+            0.1
+          ],
+          "shape": "block",
+          "colour": "#141925"
+        }
+      ],
+      "events": [
+        {
+          "t0": 26.2,
+          "t1": 26.27,
+          "box": [
+            0.378,
+            0.525,
+            0.111,
+            0.063
+          ],
+          "area": 0.006,
+          "kind": "disappear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#a2781e",
+          "word": "bad"
+        },
+        {
+          "t0": 26.47,
+          "t1": 27.4,
+          "box": [
+            0.556,
+            0.413,
+            0.311,
+            0.175
+          ],
+          "area": 0.029,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": "right",
+          "slide": null,
+          "scale": null,
+          "colour": "#77a037",
+          "word": "banana"
+        },
+        {
+          "t0": 27.13,
+          "t1": 27.53,
+          "box": [
+            0.378,
+            0.6,
+            0.244,
+            0.05
+          ],
+          "area": 0.006,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#9f9f9f",
+          "word": "look",
+          "caption": true
+        },
+        {
+          "t0": 27.33,
+          "t1": 27.4,
+          "box": [
+            0.111,
+            0.4,
+            0.267,
+            0.113
+          ],
+          "area": 0.017,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#31354d",
+          "word": "clean"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 31,
+      "start": 27.73,
+      "end": 28.4,
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.089,
+            0.375,
+            0.089,
+            0.038
+          ],
+          "shape": "block",
+          "colour": "#5c5c5c"
+        },
+        {
+          "box": [
+            0.822,
+            0.375,
+            0.111,
+            0.038
+          ],
+          "shape": "block",
+          "colour": "#505050"
+        }
+      ],
+      "events": [
+        {
+          "t0": 27.8,
+          "t1": 28.2,
+          "box": [
+            0.2,
+            0.338,
+            0.6,
+            0.325
+          ],
+          "area": 0.122,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#a6a6a7"
+        }
+      ],
+      "sequences": []
+    }
+  ],
+  "stickerBeats": {
+    "beats": [
+      {
+        "t": 0,
+        "at": "what",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.111,
+            0.388,
+            0.378,
+            0.238
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 0.33,
+        "at": "money",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 2
+      },
+      {
+        "t": 1.13,
+        "at": "big",
+        "fx": "drop",
+        "boxes": [
+          [
+            0.111,
+            0.375,
+            0.778,
+            0.263
+          ]
+        ],
+        "shot": 2
+      },
+      {
+        "t": 1.87,
+        "at": "run",
+        "fx": "draw-up",
+        "boxes": [
+          [
+            0.311,
+            0.363,
+            0.422,
+            0.3
+          ]
+        ],
+        "shot": 2
+      },
+      {
+        "t": 2.3,
+        "at": "guerrilla",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.089,
+            0.363,
+            0.378,
+            0.163
+          ]
+        ],
+        "shot": 3
+      },
+      {
+        "t": 2.97,
+        "at": "guerrilla",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 4
+      },
+      {
+        "t": 3.83,
+        "at": "steal",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 5
+      },
+      {
+        "t": 4.3,
+        "at": "smuggle",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 6
+      },
+      {
+        "t": 4.7,
+        "at": "gamble",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 7
+      },
+      {
+        "t": 5.17,
+        "at": "this",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 8
+      },
+      {
+        "t": 5.47,
+        "at": "mob",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.311,
+            0.363,
+            0.4,
+            0.163
+          ]
+        ],
+        "shot": 8
+      },
+      {
+        "t": 6.27,
+        "at": "rich",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.022,
+            0.375,
+            0.244,
+            0.138
+          ]
+        ],
+        "shot": 9
+      },
+      {
+        "t": 6.97,
+        "at": "this",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 10
+      },
+      {
+        "t": 8.43,
+        "at": "can't",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 11
+      },
+      {
+        "t": 9.2,
+        "at": "else",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 12
+      },
+      {
+        "t": 10.2,
+        "at": "need",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 13
+      },
+      {
+        "t": 11.3,
+        "at": "to",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 14
+      },
+      {
+        "t": 12.03,
+        "at": "so",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 15
+      },
+      {
+        "t": 12.33,
+        "at": "boss",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.311,
+            0.4,
+            0.378,
+            0.138
+          ]
+        ],
+        "shot": 15
+      },
+      {
+        "t": 12.7,
+        "at": "store",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 16
+      },
+      {
+        "t": 13.47,
+        "at": "say",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.489,
+            0.4,
+            0.378,
+            0.05
+          ]
+        ],
+        "shot": 17
+      },
+      {
+        "t": 14.87,
+        "at": "he",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.556,
+            0.45,
+            0.289,
+            0.113
+          ]
+        ],
+        "shot": 17
+      },
+      {
+        "t": 15.33,
+        "at": "lie",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 19
+      },
+      {
+        "t": 15.77,
+        "at": "profit",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 20
+      },
+      {
+        "t": 16.13,
+        "at": "profit",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 21
+      },
+      {
+        "t": 17.33,
+        "at": "from",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 22
+      },
+      {
+        "t": 18.27,
+        "at": "boss",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 23
+      },
+      {
+        "t": 18.53,
+        "at": "use",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.4,
+            0.388,
+            0.533,
+            0.25
+          ],
+          [
+            0.089,
+            0.413,
+            0.378,
+            0.05
+          ]
+        ],
+        "shot": 23
+      },
+      {
+        "t": 20.07,
+        "at": "think",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 24
+      },
+      {
+        "t": 20.47,
+        "at": "clean",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.111,
+            0.375,
+            0.533,
+            0.05
+          ]
+        ],
+        "shot": 24
+      },
+      {
+        "t": 21.47,
+        "at": "came",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 25
+      },
+      {
+        "t": 22.6,
+        "at": "make",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 26
+      },
+      {
+        "t": 22.93,
+        "at": "fake",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 27
+      },
+      {
+        "t": 23.23,
+        "at": "business",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 28
+      },
+      {
+        "t": 23.53,
+        "at": "business",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.044,
+            0.425,
+            0.911,
+            0.163
+          ]
+        ],
+        "shot": 28
+      },
+      {
+        "t": 24.03,
+        "at": "dirty",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 29
+      },
+      {
+        "t": 24.6,
+        "at": "trail",
+        "fx": "drop",
+        "boxes": [
+          [
+            0.778,
+            0.388,
+            0.111,
+            0.225
+          ],
+          [
+            0.133,
+            0.425,
+            0.667,
+            0.238
+          ]
+        ],
+        "shot": 29
+      },
+      {
+        "t": 25.2,
+        "at": "to",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.778,
+            0.388,
+            0.111,
+            0.225
+          ]
+        ],
+        "shot": 29
+      },
+      {
+        "t": 25.93,
+        "at": "make",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 30
+      },
+      {
+        "t": 26.47,
+        "at": "banana",
+        "fx": "draw-right",
+        "boxes": [
+          [
+            0.556,
+            0.413,
+            0.311,
+            0.175
+          ]
+        ],
+        "shot": 30
+      },
+      {
+        "t": 27.33,
+        "at": "clean",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.111,
+            0.4,
+            0.267,
+            0.113
+          ]
+        ],
+        "shot": 30
+      },
+      {
+        "t": 27.73,
+        "at": null,
+        "fx": "cut",
+        "boxes": [],
+        "shot": 31
+      }
+    ],
+    "medianInterval": 0.6,
+    "perMinute": 88.73
+  }
+}
