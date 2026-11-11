@@ -18,20 +18,25 @@ $repoUrl = (git remote get-url origin) -replace '\.git$', ''
 function Invoke-Git { & git @args; if ($LASTEXITCODE -ne 0) { throw "git $($args -join ' ') failed" } }
 
 function Wait-Bot([string]$base) {
-  Write-Output "Đang chờ GitHub Actions… (xem tiến độ: $repoUrl/actions)"
+  Write-Host "Đang chờ GitHub Actions… (xem tiến độ: $repoUrl/actions)"
   $waited = 0
   while ($waited -lt $Timeout) {
     Start-Sleep -Seconds 15; $waited += 15
     $head = ((git ls-remote origin refs/heads/main) -split "`t")[0]
-    if ($head -and $head -ne $base) { Invoke-Git pull -q --rebase --autostash origin main; Write-Output "Xong sau ${waited}s."; return $true }
+    if ($head -and $head -ne $base) { Invoke-Git pull -q --rebase --autostash origin main; Write-Host "Xong sau ${waited}s."; return $true }
   }
   Write-Error "Hết thời gian chờ (${Timeout}s): $repoUrl/actions"; return $false
 }
 
 function Push-AndWait {
-  Invoke-Git pull -q --rebase --autostash origin main
-  Invoke-Git push -q origin HEAD:main
-  Wait-Bot (git rev-parse HEAD)
+  # the bot may commit between our pull and push: retry a few times
+  for ($i = 1; $i -le 5; $i++) {
+    Invoke-Git pull -q --rebase --autostash origin main
+    git push -q origin HEAD:main 2>$null
+    if ($LASTEXITCODE -eq 0) { return (Wait-Bot (git rev-parse HEAD)) }
+    Write-Host "Push bị từ chối (bot vừa commit), thử lại ($i/5)…"; Start-Sleep -Seconds ($i * 3)
+  }
+  Write-Error "Không push được sau 5 lần"; return $false
 }
 
 switch ($Command) {

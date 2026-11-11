@@ -30,9 +30,14 @@ wait_bot() {
 }
 
 push_and_wait() {
-  git pull -q --rebase --autostash origin main
-  git push -q origin HEAD:main
-  wait_bot "$(git rev-parse HEAD)"
+  # the bot may commit between our pull and push: retry a few times
+  local i
+  for i in 1 2 3 4 5; do
+    git pull -q --rebase --autostash origin main
+    if git push -q origin HEAD:main 2>/dev/null; then wait_bot "$(git rev-parse HEAD)"; return; fi
+    echo "Push bị từ chối (bot vừa commit), thử lại ($i/5)…" >&2; sleep $((i * 3))
+  done
+  echo "Không push được sau 5 lần" >&2; return 1
 }
 
 json_str() { printf '%s' "$1" | sed 's/\\/\\\\/g; s/"/\\"/g'; }
