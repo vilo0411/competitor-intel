@@ -58,4 +58,14 @@ ${runs.map(r => `<tr><td>${esc((r.finishedAt || '').slice(0, 16).replace('T', ' 
 </main></body></html>`;
 fs.writeFileSync(path.join(DOCS, 'index.html'), html);
 fs.writeFileSync(path.join(DOCS, '.nojekyll'), '');
+// Machine-readable index for agents that read the site over HTTP (e.g. ChatGPT actions)
+fs.writeFileSync(path.join(DOCS, 'index.json'), JSON.stringify({
+  competitors: competitors.map(c => ({
+    slug: c.slug, name: c.name, updated: c.updated, todo: c.todo,
+    report: `${c.slug}/${c.slug}.html`, summary: `${c.slug}/summary.json`,
+    channels: c.ch.map(x => ({ handle: x.handle, followers: x.profile?.followers ?? null, medianViews: x.stats?.medianViews ?? null,
+      labelsTodo: `${c.slug}/tiktok/${x.handle}/labels.todo.json`, styles: (x.styles || []).map(s => `${c.slug}/${s.folder}/style.json`) })),
+  })),
+  runs: runs.map(({ id, status, slug, name, finishedAt, seconds }) => ({ id, status, slug, name, finishedAt, seconds })),
+}, null, 2));
 console.log(`index.html: ${competitors.length} competitor(s), ${runs.length} run(s)`);

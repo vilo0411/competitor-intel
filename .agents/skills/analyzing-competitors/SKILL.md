@@ -7,15 +7,26 @@ allowed-tools: Bash, Read, Write, Edit
 
 # Phân tích đối thủ TikTok (`analyzing-competitors`)
 
-Mọi việc chạm tới TikTok (yt-dlp, trang profile, tải video, ffmpeg, whisper) chạy trên **GitHub Actions** của repo `competitor-intel`. Máy local chỉ cần `git` + `bash` (Git Bash trên Windows). **Không bao giờ** gọi yt-dlp, curl hay mở link TikTok từ máy local: mạng công ty có thể chặn, và cũng không cần.
+Mọi việc chạm tới TikTok (yt-dlp, trang profile, tải video, ffmpeg, whisper) chạy trên **GitHub Actions** của repo `competitor-intel`. Máy local chỉ cần `git` (cộng `bash` hoặc PowerShell). **Không bao giờ** gọi yt-dlp, curl hay mở link TikTok từ máy local: mạng công ty có thể chặn, và cũng không cần.
 
 - Repo: https://github.com/vilo0411/competitor-intel (public)
 - Web báo cáo: https://vilo0411.github.io/competitor-intel/
 - Cơ chế: commit file yêu cầu vào `requests/` rồi push → workflow `analyze` chạy → bot commit `docs/<đối-thủ>/…` về repo và deploy Pages. Push `labels.json`, `style.md` hoặc `insights.md` → workflow dựng lại báo cáo từ cache (không gọi TikTok, khoảng 1 phút).
 
-## Bước 0: Tìm repo local
+## Bước 0: Tìm repo local và chọn lệnh theo môi trường
 
 Dùng thư mục đầu tiên tồn tại: `$COMPETITOR_INTEL_DIR`, `E:/project/competitor-intel`, `~/competitor-intel`. Nếu chưa có thì `git clone https://github.com/vilo0411/competitor-intel ~/competitor-intel`. Mọi lệnh dưới đây chạy trong thư mục đó, nên `git pull` trước.
+
+Skill này dùng chung cho nhiều agent. Chọn helper theo shell đang có, hai bản làm cùng một việc và chỉ cần `git`:
+
+| Môi trường | Lệnh |
+|---|---|
+| Claude Code, Codex trên macOS/Linux, Git Bash | `bash scripts/request.sh <run\|push\|wait\|status> …` |
+| Codex/agent trên Windows dùng PowerShell | `powershell -ExecutionPolicy Bypass -File scripts/request.ps1 <run\|push\|wait\|status> … [-Refresh] [-Style N] [-Limit N]` |
+| Codex cloud (chatgpt.com/codex) | Không push thẳng được: sửa file trong `requests/` hoặc `docs/` rồi mở PR. Người dùng merge xong thì workflow tự chạy. |
+| ChatGPT (Custom GPT) | Không dùng repo. Gọi workflow qua GitHub API, xem `chatgpt/README.md`. |
+
+Để xem ảnh (bước 3), agent cần đọc được file ảnh local. Agent không xem được ảnh thì viết `style.md` từ `transcript` và số đo trong `style.json`, và ghi rõ là chưa xem khung hình.
 
 ```
 docs/<ten-doi-thu>/                    (public trên GitHub Pages)

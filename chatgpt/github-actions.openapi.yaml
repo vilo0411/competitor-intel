@@ -1,0 +1,83 @@
+openapi: 3.1.0
+info:
+  title: competitor-intel GitHub Actions
+  description: Start the competitor analysis workflow, write agent files (labels/style/insights) and check run status.
+  version: 1.0.0
+servers:
+  - url: https://api.github.com
+paths:
+  /repos/vilo0411/competitor-intel/actions/workflows/analyze.yml/dispatches:
+    post:
+      operationId: runAnalysis
+      summary: Start the analyze workflow (fetch a competitor, or write one agent file and rebuild).
+      description: >
+        Returns 204 with no body on success. To analyse: set name and/or channels. To write a file: set write_path + write_content
+        (leave name/channels empty). Every run also rebuilds all reports and redeploys the website. Inputs must be strings.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [ref, inputs]
+              properties:
+                ref:
+                  type: string
+                  enum: [main]
+                inputs:
+                  type: object
+                  properties:
+                    name:
+                      type: string
+                      description: Competitor display name, e.g. "Gorillanomics".
+                    channels:
+                      type: string
+                      description: TikTok handles separated by spaces, e.g. "@gorillanomics @other". Empty = use saved channels.
+                    refresh:
+                      type: string
+                      enum: ['true', 'false']
+                      description: '"true" to re-fetch view counts.'
+                    style:
+                      type: string
+                      description: Number of top videos for style analysis (default "5", "0" to skip).
+                    limit:
+                      type: string
+                      description: Max videos per channel (default "300").
+                    write_path:
+                      type: string
+                      description: 'One of docs/<slug>/insights.md, docs/<slug>/tiktok/<handle>/labels.json, docs/<slug>/tiktok/<handle>/style.md'
+                    write_content:
+                      type: string
+                      description: Full file content. labels.json must be a JSON object {"<video id>":"<category>"} and is merged with existing labels.
+      responses:
+        '204':
+          description: Workflow queued.
+  /repos/vilo0411/competitor-intel/actions/runs:
+    get:
+      operationId: listRuns
+      summary: List recent workflow runs to check whether the analysis has finished.
+      parameters:
+        - name: per_page
+          in: query
+          schema: { type: integer, default: 5 }
+      responses:
+        '200':
+          description: Runs, newest first. Use status (queued/in_progress/completed), conclusion (success/failure), created_at, html_url.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  workflow_runs:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        id: { type: integer }
+                        status: { type: string }
+                        conclusion: { type: [string, 'null'] }
+                        event: { type: string }
+                        created_at: { type: string }
+                        html_url: { type: string }
+components:
+  schemas: {}

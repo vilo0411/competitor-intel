@@ -1,0 +1,50 @@
+openapi: 3.1.0
+info:
+  title: competitor-intel reports
+  description: Read published competitor analysis data (public GitHub Pages, no auth). Pages may lag a few minutes after a run.
+  version: 1.0.0
+servers:
+  - url: https://vilo0411.github.io/competitor-intel
+paths:
+  /index.json:
+    get:
+      operationId: getIndex
+      summary: List competitors (slug, channels, pending agent tasks, file paths) and recent runs.
+      responses:
+        '200': { description: Index JSON }
+  /{slug}/summary.json:
+    get:
+      operationId: getSummary
+      summary: Metrics for one competitor (stats, takeaways, categories, months, durations, top videos, style metrics).
+      parameters:
+        - { name: slug, in: path, required: true, schema: { type: string } }
+      responses:
+        '200': { description: Summary JSON }
+  /{slug}/{slug2}.md:
+    get:
+      operationId: getReportMarkdown
+      summary: Full Markdown report. Pass the same slug for both slug and slug2.
+      parameters:
+        - { name: slug, in: path, required: true, schema: { type: string } }
+        - { name: slug2, in: path, required: true, schema: { type: string } }
+      responses:
+        '200': { description: Markdown text }
+  /{slug}/tiktok/{handle}/labels.todo.json:
+    get:
+      operationId: getLabelsTodo
+      summary: Videos without a category yet (id, title, views, duration).
+      parameters:
+        - { name: slug, in: path, required: true, schema: { type: string } }
+        - { name: handle, in: path, required: true, schema: { type: string } }
+      responses:
+        '200': { description: Array of videos }
+  /{slug}/tiktok/{handle}/style/{videoId}/style.json:
+    get:
+      operationId: getStyle
+      summary: Style metrics + full transcript of one top video (secPerChange, changesFirst3s, wpm, lufs, hook, transcript, grids).
+      parameters:
+        - { name: slug, in: path, required: true, schema: { type: string } }
+        - { name: handle, in: path, required: true, schema: { type: string } }
+        - { name: videoId, in: path, required: true, schema: { type: string } }
+      responses:
+        '200': { description: Style JSON }

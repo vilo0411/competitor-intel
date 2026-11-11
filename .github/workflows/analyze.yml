@@ -23,6 +23,12 @@ on:
       limit:
         description: 'Số video tối đa mỗi kênh'
         default: '300'
+      write_path:
+        description: '(Cho agent không có git, vd ChatGPT) Ghi file: docs/<doi-thu>/insights.md | docs/<doi-thu>/tiktok/<handle>/labels.json | .../style.md'
+        required: false
+      write_content:
+        description: 'Nội dung file cần ghi (đi kèm write_path)'
+        required: false
   push:
     branches: [main]
     paths:
@@ -58,6 +64,13 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+
+      - name: Write agent file (dispatch from agents without git)
+        if: github.event_name == 'workflow_dispatch' && inputs.write_path != ''
+        env:
+          W_PATH: ${{ inputs.write_path }}
+          W_CONTENT: ${{ inputs.write_content }}
+        run: node scripts/write-agent-file.mjs
 
       - name: Queue request from button / schedule
         env:
