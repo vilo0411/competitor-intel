@@ -20,7 +20,7 @@ wait_bot() {
     sleep 15; waited=$((waited + 15))
     head="$(git ls-remote origin refs/heads/main | cut -f1)"
     if [ -n "$head" ] && [ "$head" != "$base" ]; then
-      git pull -q --rebase origin main
+      git pull -q --rebase --autostash origin main
       echo "Xong sau ${waited}s."
       return 0
     fi
@@ -30,7 +30,7 @@ wait_bot() {
 }
 
 push_and_wait() {
-  git pull -q --rebase origin main
+  git pull -q --rebase --autostash origin main
   git push -q origin HEAD:main
   wait_bot "$(git rev-parse HEAD)"
 }
@@ -80,7 +80,7 @@ case "$cmd" in
     wait_bot "$(git rev-parse HEAD)"
     ;;
   status)
-    git pull -q --rebase origin main
+    git pull -q --rebase --autostash origin main
     for f in $(ls -r docs/_runs/*.json 2>/dev/null | head -10); do
       printf '%s  ' "$(basename "$f" .json)"; grep -oE '"status": "[a-z]+"' "$f"
     done

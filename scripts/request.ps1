@@ -1,4 +1,4 @@
-# PowerShell twin of scripts/request.sh (for Codex / agents on Windows without Git Bash). Needs only git.
+﻿# PowerShell twin of scripts/request.sh (for Codex / agents on Windows without Git Bash). Needs only git.
 #   powershell -File scripts/request.ps1 run "Gorillanomics" @gorillanomics [-Refresh] [-Style 5] [-Limit 300]
 #   powershell -File scripts/request.ps1 push "agent: labels + insights"
 #   powershell -File scripts/request.ps1 wait
@@ -23,13 +23,13 @@ function Wait-Bot([string]$base) {
   while ($waited -lt $Timeout) {
     Start-Sleep -Seconds 15; $waited += 15
     $head = ((git ls-remote origin refs/heads/main) -split "`t")[0]
-    if ($head -and $head -ne $base) { Invoke-Git pull -q --rebase origin main; Write-Output "Xong sau ${waited}s."; return $true }
+    if ($head -and $head -ne $base) { Invoke-Git pull -q --rebase --autostash origin main; Write-Output "Xong sau ${waited}s."; return $true }
   }
   Write-Error "Hết thời gian chờ (${Timeout}s): $repoUrl/actions"; return $false
 }
 
 function Push-AndWait {
-  Invoke-Git pull -q --rebase origin main
+  Invoke-Git pull -q --rebase --autostash origin main
   Invoke-Git push -q origin HEAD:main
   Wait-Bot (git rev-parse HEAD)
 }
@@ -64,7 +64,7 @@ switch ($Command) {
   }
   'wait' { if (-not (Wait-Bot (git rev-parse HEAD))) { exit 1 } }
   'status' {
-    Invoke-Git pull -q --rebase origin main
+    Invoke-Git pull -q --rebase --autostash origin main
     Get-ChildItem docs/_runs/*.json -ErrorAction SilentlyContinue | Sort-Object Name -Descending | Select-Object -First 10 | ForEach-Object {
       $r = Get-Content $_.FullName -Raw -Encoding UTF8 | ConvertFrom-Json; "$($_.BaseName)  $($r.status)"
     }
