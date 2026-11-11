@@ -80,11 +80,11 @@ Cập nhật 2026-11-11 · TikTok: @gorillanomics. Biểu đồ xem trong `goril
 - **Giữ:** nền trắng, sticker đổi khoảng 1 giây/lần theo từ khoá, phụ đề 1–2 từ dưới sticker, cắt cứng, vai phụ phân biệt bằng mũ/đạo cụ, câu mở "… là gì?", ẩn dụ tiền = chuối, kết bằng một câu chốt ngắn.
 - **Thay khi sang tiếng Việt:** "caveman English" không dịch thẳng được. Cần một giọng tương đương như câu cụt, xưng "Vượn", bỏ hư từ ("Vượn đi làm. Sếp trả 100 chuối. Vượn vui."). Tiếng Việt đọc theo âm tiết nên nhịp sticker tính theo khoảng 4–5 âm tiết/hình.
 
-| Video | View | Đổi hình | 3s đầu | Từ/phút | 3 giây đầu nói |
-|---|---|---|---|---|---|
-| [Gorillas explain Tax Evasion #economic #](https://www.tiktok.com/@gorillanomics/video/7514219246356942122) | 6,5 tr | 0,9s | 5 | 192 | What is tax evasion? Gorilla work 9 to 5. |
-| [Gorillas explain Insurance #economic #fi](https://www.tiktok.com/@gorillanomics/video/7511246760254180650) | 3,2 tr | 0,7s | 4 | 215 | What is insurance? Gorilla get new car. Gorilla very happy, |
-| [Gorillas explain Money Laundering #econo](https://www.tiktok.com/@gorillanomics/video/7507727025692495146) | 1,9 tr | 0,9s | 3 | 194 | what is money laundering big boss run guerrilla gang guerrilla |
+| Video | View | Đổi hình | 3s đầu | Phụ đề | Từ/phút | 3 giây đầu nói |
+|---|---|---|---|---|---|---|
+| [Gorillas explain Tax Evasion #economic #](https://www.tiktok.com/@gorillanomics/video/7514219246356942122) | 6,5 tr | 0,9s | 5 | — | 192 | What is tax evasion? Gorilla work 9 to 5. |
+| [Gorillas explain Insurance #economic #fi](https://www.tiktok.com/@gorillanomics/video/7511246760254180650) | 3,2 tr | 0,7s | 4 | — | 215 | What is insurance? Gorilla get new car. Gorilla very happy, |
+| [Gorillas explain Money Laundering #econo](https://www.tiktok.com/@gorillanomics/video/7507727025692495146) | 1,9 tr | 0,9s | 3 | — | 194 | what is money laundering big boss run guerrilla gang guerrilla |
 
 | Loại hình | Số video | View trung vị |
 |---|---|---|
