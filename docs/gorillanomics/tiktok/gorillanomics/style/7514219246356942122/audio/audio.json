@@ -1,0 +1,4994 @@
+{
+  "engine": "whisper-cli",
+  "language": "en",
+  "text": "What is tax evasion? Gorilla work 9 to 5. Big boss pay gorilla 100 banana for hard work. Gorilla, happy, can finally buy new car. Hey, not so fast! Say government gorilla. Fill out this form. You earn 100 banana? Huh, I'ma take like half of that. I need to build new bridge in school. Gorilla sad. It feel like he robbed. He have idea. Next time just lie on tax form. So when big boss pay gorilla 100 banana, he say on form he only get 10. This mean government only take 5 banana. Gorilla happy. Save 45 banana. Use extra banana. Buy new car, new house, new wife. Government gorilla sus though. How buy all this but only earn 10 banana? So government call in the auditor. Auditor part of organization called the IRS. IRS equals internal revenue service. Auditor start watching gorilla. Auditor catch his lie. He chase gorilla. Gorilla try to hide at home. Auditor already there. Gorilla try to hide in woods. Auditor there too. Auditor finally catch gorilla. Make gorilla pay 50 banana, then go to jail. Two things certain in life. Death and taxes. So now you know.",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 5.6,
+      "text": "What is tax evasion? Gorilla work 9 to 5. Big boss pay gorilla 100 banana for hard work."
+    },
+    {
+      "id": 1,
+      "start": 5.6,
+      "end": 10.96,
+      "text": "Gorilla, happy, can finally buy new car. Hey, not so fast! Say government gorilla."
+    },
+    {
+      "id": 2,
+      "start": 10.96,
+      "end": 15.9,
+      "text": "Fill out this form. You earn 100 banana? Huh, I'ma take like half of that. I need to build"
+    },
+    {
+      "id": 3,
+      "start": 15.9,
+      "end": 21.18,
+      "text": "new bridge in school. Gorilla sad. It feel like he robbed. He have idea. Next time just lie on"
+    },
+    {
+      "id": 4,
+      "start": 21.18,
+      "end": 26.58,
+      "text": "tax form. So when big boss pay gorilla 100 banana, he say on form he only get 10. This"
+    },
+    {
+      "id": 5,
+      "start": 26.58,
+      "end": 32.46,
+      "text": "mean government only take 5 banana. Gorilla happy. Save 45 banana. Use extra banana. Buy new car,"
+    },
+    {
+      "id": 6,
+      "start": 32.46,
+      "end": 37.82,
+      "text": "new house, new wife. Government gorilla sus though. How buy all this but only earn 10 banana? So"
+    },
+    {
+      "id": 7,
+      "start": 37.82,
+      "end": 43.72,
+      "text": "government call in the auditor. Auditor part of organization called the IRS. IRS equals internal"
+    },
+    {
+      "id": 8,
+      "start": 43.72,
+      "end": 48.62,
+      "text": "revenue service. Auditor start watching gorilla. Auditor catch his lie. He chase gorilla. Gorilla"
+    },
+    {
+      "id": 9,
+      "start": 48.62,
+      "end": 54.26,
+      "text": "try to hide at home. Auditor already there. Gorilla try to hide in woods. Auditor there too. Auditor"
+    },
+    {
+      "id": 10,
+      "start": 54.26,
+      "end": 59.26,
+      "text": "finally catch gorilla. Make gorilla pay 50 banana, then go to jail. Two things certain in life. Death"
+    },
+    {
+      "id": 11,
+      "start": 59.26,
+      "end": 60.98,
+      "text": "and taxes. So now you know."
+    }
+  ],
+  "words": [
+    {
+      "word": "What",
+      "start": 0.08,
+      "end": 0.27
+    },
+    {
+      "word": "is",
+      "start": 0.27,
+      "end": 0.34
+    },
+    {
+      "word": "tax",
+      "start": 0.4,
+      "end": 0.6
+    },
+    {
+      "word": "evasion?",
+      "start": 0.6,
+      "end": 1.32
+    },
+    {
+      "word": "Gorilla",
+      "start": 1.32,
+      "end": 1.9
+    },
+    {
+      "word": "work",
+      "start": 1.9,
+      "end": 2.23
+    },
+    {
+      "word": "9",
+      "start": 2.23,
+      "end": 2.48
+    },
+    {
+      "word": "to",
+      "start": 2.48,
+      "end": 2.64
+    },
+    {
+      "word": "5.",
+      "start": 2.64,
+      "end": 3.08
+    },
+    {
+      "word": "Big",
+      "start": 3.09,
+      "end": 3.23
+    },
+    {
+      "word": "boss",
+      "start": 3.3,
+      "end": 3.45
+    },
+    {
+      "word": "pay",
+      "start": 3.45,
+      "end": 3.61
+    },
+    {
+      "word": "gorilla",
+      "start": 3.61,
+      "end": 4.0
+    },
+    {
+      "word": "100",
+      "start": 4.0,
+      "end": 4.49
+    },
+    {
+      "word": "banana",
+      "start": 4.49,
+      "end": 4.82
+    },
+    {
+      "word": "for",
+      "start": 4.82,
+      "end": 4.93
+    },
+    {
+      "word": "hard",
+      "start": 5.03,
+      "end": 5.2
+    },
+    {
+      "word": "work.",
+      "start": 5.2,
+      "end": 5.55
+    },
+    {
+      "word": "Gorilla,",
+      "start": 5.68,
+      "end": 6.23
+    },
+    {
+      "word": "happy,",
+      "start": 6.23,
+      "end": 6.72
+    },
+    {
+      "word": "can",
+      "start": 6.72,
+      "end": 6.92
+    },
+    {
+      "word": "finally",
+      "start": 6.93,
+      "end": 7.42
+    },
+    {
+      "word": "buy",
+      "start": 7.42,
+      "end": 7.59
+    },
+    {
+      "word": "new",
+      "start": 7.72,
+      "end": 7.84
+    },
+    {
+      "word": "car.",
+      "start": 7.84,
+      "end": 8.28
+    },
+    {
+      "word": "Hey,",
+      "start": 8.28,
+      "end": 8.51
+    },
+    {
+      "word": "not",
+      "start": 8.69,
+      "end": 8.84
+    },
+    {
+      "word": "so",
+      "start": 8.9,
+      "end": 9.0
+    },
+    {
+      "word": "fast!",
+      "start": 9.0,
+      "end": 9.54
+    },
+    {
+      "word": "Say",
+      "start": 9.54,
+      "end": 9.72
+    },
+    {
+      "word": "government",
+      "start": 9.72,
+      "end": 10.33
+    },
+    {
+      "word": "gorilla.",
+      "start": 10.33,
+      "end": 10.95
+    },
+    {
+      "word": "Fill",
+      "start": 11.04,
+      "end": 11.19
+    },
+    {
+      "word": "out",
+      "start": 11.19,
+      "end": 11.3
+    },
+    {
+      "word": "this",
+      "start": 11.36,
+      "end": 11.59
+    },
+    {
+      "word": "form.",
+      "start": 11.59,
+      "end": 11.99
+    },
+    {
+      "word": "You",
+      "start": 11.99,
+      "end": 12.16
+    },
+    {
+      "word": "earn",
+      "start": 12.16,
+      "end": 12.34
+    },
+    {
+      "word": "100",
+      "start": 12.4,
+      "end": 12.92
+    },
+    {
+      "word": "banana?",
+      "start": 12.92,
+      "end": 13.44
+    },
+    {
+      "word": "Huh,",
+      "start": 13.44,
+      "end": 13.72
+    },
+    {
+      "word": "I'ma",
+      "start": 13.72,
+      "end": 13.91
+    },
+    {
+      "word": "take",
+      "start": 14.05,
+      "end": 14.16
+    },
+    {
+      "word": "like",
+      "start": 14.16,
+      "end": 14.39
+    },
+    {
+      "word": "half",
+      "start": 14.39,
+      "end": 14.62
+    },
+    {
+      "word": "of",
+      "start": 14.62,
+      "end": 14.72
+    },
+    {
+      "word": "that.",
+      "start": 14.73,
+      "end": 15.28
+    },
+    {
+      "word": "I",
+      "start": 15.28,
+      "end": 15.34
+    },
+    {
+      "word": "need",
+      "start": 15.34,
+      "end": 15.58
+    },
+    {
+      "word": "to",
+      "start": 15.58,
+      "end": 15.71
+    },
+    {
+      "word": "build",
+      "start": 15.71,
+      "end": 15.89
+    },
+    {
+      "word": "new",
+      "start": 15.98,
+      "end": 16.08
+    },
+    {
+      "word": "bridge",
+      "start": 16.08,
+      "end": 16.44
+    },
+    {
+      "word": "in",
+      "start": 16.44,
+      "end": 16.56
+    },
+    {
+      "word": "school.",
+      "start": 16.56,
+      "end": 17.1
+    },
+    {
+      "word": "Gorilla",
+      "start": 17.1,
+      "end": 17.52
+    },
+    {
+      "word": "sad.",
+      "start": 17.52,
+      "end": 17.88
+    },
+    {
+      "word": "It",
+      "start": 17.88,
+      "end": 17.89
+    },
+    {
+      "word": "feel",
+      "start": 18.02,
+      "end": 18.24
+    },
+    {
+      "word": "like",
+      "start": 18.24,
+      "end": 18.39
+    },
+    {
+      "word": "he",
+      "start": 18.51,
+      "end": 18.6
+    },
+    {
+      "word": "robbed.",
+      "start": 18.6,
+      "end": 19.13
+    },
+    {
+      "word": "He",
+      "start": 19.2,
+      "end": 19.26
+    },
+    {
+      "word": "have",
+      "start": 19.26,
+      "end": 19.54
+    },
+    {
+      "word": "idea.",
+      "start": 19.54,
+      "end": 19.92
+    },
+    {
+      "word": "Next",
+      "start": 19.92,
+      "end": 20.2
+    },
+    {
+      "word": "time",
+      "start": 20.2,
+      "end": 20.45
+    },
+    {
+      "word": "just",
+      "start": 20.49,
+      "end": 20.76
+    },
+    {
+      "word": "lie",
+      "start": 20.76,
+      "end": 21.01
+    },
+    {
+      "word": "on",
+      "start": 21.02,
+      "end": 21.18
+    },
+    {
+      "word": "tax",
+      "start": 21.26,
+      "end": 21.37
+    },
+    {
+      "word": "form.",
+      "start": 21.37,
+      "end": 21.82
+    },
+    {
+      "word": "So",
+      "start": 21.82,
+      "end": 21.92
+    },
+    {
+      "word": "when",
+      "start": 21.95,
+      "end": 22.21
+    },
+    {
+      "word": "big",
+      "start": 22.21,
+      "end": 22.38
+    },
+    {
+      "word": "boss",
+      "start": 22.4,
+      "end": 22.66
+    },
+    {
+      "word": "pay",
+      "start": 22.66,
+      "end": 22.85
+    },
+    {
+      "word": "gorilla",
+      "start": 22.85,
+      "end": 23.17
+    },
+    {
+      "word": "100",
+      "start": 23.3,
+      "end": 23.88
+    },
+    {
+      "word": "banana,",
+      "start": 23.88,
+      "end": 24.4
+    },
+    {
+      "word": "he",
+      "start": 24.48,
+      "end": 24.53
+    },
+    {
+      "word": "say",
+      "start": 24.53,
+      "end": 24.65
+    },
+    {
+      "word": "on",
+      "start": 24.77,
+      "end": 24.85
+    },
+    {
+      "word": "form",
+      "start": 24.85,
+      "end": 25.11
+    },
+    {
+      "word": "he",
+      "start": 25.11,
+      "end": 25.23
+    },
+    {
+      "word": "only",
+      "start": 25.23,
+      "end": 25.5
+    },
+    {
+      "word": "get",
+      "start": 25.5,
+      "end": 25.69
+    },
+    {
+      "word": "10.",
+      "start": 25.69,
+      "end": 26.33
+    },
+    {
+      "word": "This",
+      "start": 26.34,
+      "end": 26.58
+    },
+    {
+      "word": "mean",
+      "start": 26.66,
+      "end": 26.82
+    },
+    {
+      "word": "government",
+      "start": 26.82,
+      "end": 27.43
+    },
+    {
+      "word": "only",
+      "start": 27.43,
+      "end": 27.67
+    },
+    {
+      "word": "take",
+      "start": 27.67,
+      "end": 27.9
+    },
+    {
+      "word": "5",
+      "start": 27.91,
+      "end": 28.09
+    },
+    {
+      "word": "banana.",
+      "start": 28.09,
+      "end": 28.57
+    },
+    {
+      "word": "Gorilla",
+      "start": 28.7,
+      "end": 29.05
+    },
+    {
+      "word": "happy.",
+      "start": 29.05,
+      "end": 29.49
+    },
+    {
+      "word": "Save",
+      "start": 29.67,
+      "end": 29.77
+    },
+    {
+      "word": "45",
+      "start": 29.77,
+      "end": 30.05
+    },
+    {
+      "word": "banana.",
+      "start": 30.17,
+      "end": 30.66
+    },
+    {
+      "word": "Use",
+      "start": 30.67,
+      "end": 30.85
+    },
+    {
+      "word": "extra",
+      "start": 30.85,
+      "end": 31.26
+    },
+    {
+      "word": "banana.",
+      "start": 31.26,
+      "end": 31.66
+    },
+    {
+      "word": "Buy",
+      "start": 31.66,
+      "end": 31.95
+    },
+    {
+      "word": "new",
+      "start": 31.96,
+      "end": 32.13
+    },
+    {
+      "word": "car,",
+      "start": 32.27,
+      "end": 32.46
+    },
+    {
+      "word": "new",
+      "start": 32.54,
+      "end": 32.63
+    },
+    {
+      "word": "house,",
+      "start": 32.63,
+      "end": 33.02
+    },
+    {
+      "word": "new",
+      "start": 33.02,
+      "end": 33.15
+    },
+    {
+      "word": "wife.",
+      "start": 33.2,
+      "end": 33.58
+    },
+    {
+      "word": "Government",
+      "start": 33.58,
+      "end": 34.15
+    },
+    {
+      "word": "gorilla",
+      "start": 34.15,
+      "end": 34.45
+    },
+    {
+      "word": "sus",
+      "start": 34.58,
+      "end": 34.72
+    },
+    {
+      "word": "though.",
+      "start": 34.72,
+      "end": 35.23
+    },
+    {
+      "word": "How",
+      "start": 35.23,
+      "end": 35.37
+    },
+    {
+      "word": "buy",
+      "start": 35.55,
+      "end": 35.57
+    },
+    {
+      "word": "all",
+      "start": 35.57,
+      "end": 35.69
+    },
+    {
+      "word": "this",
+      "start": 35.75,
+      "end": 35.93
+    },
+    {
+      "word": "but",
+      "start": 35.98,
+      "end": 36.13
+    },
+    {
+      "word": "only",
+      "start": 36.13,
+      "end": 36.35
+    },
+    {
+      "word": "earn",
+      "start": 36.35,
+      "end": 36.57
+    },
+    {
+      "word": "10",
+      "start": 36.57,
+      "end": 36.91
+    },
+    {
+      "word": "banana?",
+      "start": 36.91,
+      "end": 37.5
+    },
+    {
+      "word": "So",
+      "start": 37.5,
+      "end": 37.81
+    },
+    {
+      "word": "government",
+      "start": 37.86,
+      "end": 38.49
+    },
+    {
+      "word": "call",
+      "start": 38.49,
+      "end": 38.69
+    },
+    {
+      "word": "in",
+      "start": 38.75,
+      "end": 38.88
+    },
+    {
+      "word": "the",
+      "start": 38.88,
+      "end": 39.08
+    },
+    {
+      "word": "auditor.",
+      "start": 39.08,
+      "end": 39.75
+    },
+    {
+      "word": "Auditor",
+      "start": 39.75,
+      "end": 40.21
+    },
+    {
+      "word": "part",
+      "start": 40.21,
+      "end": 40.47
+    },
+    {
+      "word": "of",
+      "start": 40.47,
+      "end": 40.6
+    },
+    {
+      "word": "organization",
+      "start": 40.6,
+      "end": 41.29
+    },
+    {
+      "word": "called",
+      "start": 41.41,
+      "end": 41.8
+    },
+    {
+      "word": "the",
+      "start": 41.8,
+      "end": 42.0
+    },
+    {
+      "word": "IRS.",
+      "start": 42.0,
+      "end": 42.37
+    },
+    {
+      "word": "IRS",
+      "start": 42.41,
+      "end": 42.66
+    },
+    {
+      "word": "equals",
+      "start": 42.66,
+      "end": 43.32
+    },
+    {
+      "word": "internal",
+      "start": 43.32,
+      "end": 43.72
+    },
+    {
+      "word": "revenue",
+      "start": 43.76,
+      "end": 44.06
+    },
+    {
+      "word": "service.",
+      "start": 44.11,
+      "end": 44.61
+    },
+    {
+      "word": "Auditor",
+      "start": 44.61,
+      "end": 44.98
+    },
+    {
+      "word": "start",
+      "start": 44.98,
+      "end": 45.24
+    },
+    {
+      "word": "watching",
+      "start": 45.24,
+      "end": 45.66
+    },
+    {
+      "word": "gorilla.",
+      "start": 45.66,
+      "end": 46.18
+    },
+    {
+      "word": "Auditor",
+      "start": 46.18,
+      "end": 46.55
+    },
+    {
+      "word": "catch",
+      "start": 46.55,
+      "end": 46.63
+    },
+    {
+      "word": "his",
+      "start": 46.81,
+      "end": 46.96
+    },
+    {
+      "word": "lie.",
+      "start": 47.02,
+      "end": 47.19
+    },
+    {
+      "word": "He",
+      "start": 47.31,
+      "end": 47.38
+    },
+    {
+      "word": "chase",
+      "start": 47.38,
+      "end": 47.64
+    },
+    {
+      "word": "gorilla.",
+      "start": 47.64,
+      "end": 48.16
+    },
+    {
+      "word": "Gorilla",
+      "start": 48.16,
+      "end": 48.62
+    },
+    {
+      "word": "try",
+      "start": 48.7,
+      "end": 48.8
+    },
+    {
+      "word": "to",
+      "start": 48.8,
+      "end": 48.92
+    },
+    {
+      "word": "hide",
+      "start": 48.92,
+      "end": 49.16
+    },
+    {
+      "word": "at",
+      "start": 49.16,
+      "end": 49.28
+    },
+    {
+      "word": "home.",
+      "start": 49.28,
+      "end": 49.7
+    },
+    {
+      "word": "Auditor",
+      "start": 49.7,
+      "end": 50.12
+    },
+    {
+      "word": "already",
+      "start": 50.12,
+      "end": 50.55
+    },
+    {
+      "word": "there.",
+      "start": 50.55,
+      "end": 51.01
+    },
+    {
+      "word": "Gorilla",
+      "start": 51.06,
+      "end": 51.45
+    },
+    {
+      "word": "try",
+      "start": 51.45,
+      "end": 51.53
+    },
+    {
+      "word": "to",
+      "start": 51.71,
+      "end": 51.75
+    },
+    {
+      "word": "hide",
+      "start": 51.75,
+      "end": 51.99
+    },
+    {
+      "word": "in",
+      "start": 51.99,
+      "end": 52.09
+    },
+    {
+      "word": "woods.",
+      "start": 52.14,
+      "end": 52.59
+    },
+    {
+      "word": "Auditor",
+      "start": 52.59,
+      "end": 53.01
+    },
+    {
+      "word": "there",
+      "start": 53.01,
+      "end": 53.42
+    },
+    {
+      "word": "too.",
+      "start": 53.42,
+      "end": 53.72
+    },
+    {
+      "word": "Auditor",
+      "start": 53.72,
+      "end": 54.17
+    },
+    {
+      "word": "finally",
+      "start": 54.31,
+      "end": 54.6
+    },
+    {
+      "word": "catch",
+      "start": 54.68,
+      "end": 54.88
+    },
+    {
+      "word": "gorilla.",
+      "start": 54.88,
+      "end": 55.39
+    },
+    {
+      "word": "Make",
+      "start": 55.39,
+      "end": 55.58
+    },
+    {
+      "word": "gorilla",
+      "start": 55.59,
+      "end": 55.95
+    },
+    {
+      "word": "pay",
+      "start": 55.95,
+      "end": 56.08
+    },
+    {
+      "word": "50",
+      "start": 56.09,
+      "end": 56.41
+    },
+    {
+      "word": "banana,",
+      "start": 56.41,
+      "end": 56.77
+    },
+    {
+      "word": "then",
+      "start": 56.87,
+      "end": 57.02
+    },
+    {
+      "word": "go",
+      "start": 57.02,
+      "end": 57.11
+    },
+    {
+      "word": "to",
+      "start": 57.12,
+      "end": 57.17
+    },
+    {
+      "word": "jail.",
+      "start": 57.35,
+      "end": 57.57
+    },
+    {
+      "word": "Two",
+      "start": 57.57,
+      "end": 57.72
+    },
+    {
+      "word": "things",
+      "start": 57.72,
+      "end": 57.99
+    },
+    {
+      "word": "certain",
+      "start": 58.03,
+      "end": 58.39
+    },
+    {
+      "word": "in",
+      "start": 58.39,
+      "end": 58.49
+    },
+    {
+      "word": "life.",
+      "start": 58.49,
+      "end": 58.98
+    },
+    {
+      "word": "Death",
+      "start": 58.98,
+      "end": 59.19
+    },
+    {
+      "word": "and",
+      "start": 59.34,
+      "end": 59.45
+    },
+    {
+      "word": "taxes.",
+      "start": 59.45,
+      "end": 59.96
+    },
+    {
+      "word": "So",
+      "start": 60.0,
+      "end": 60.1
+    },
+    {
+      "word": "now",
+      "start": 60.1,
+      "end": 60.29
+    },
+    {
+      "word": "you",
+      "start": 60.29,
+      "end": 60.46
+    },
+    {
+      "word": "know.",
+      "start": 60.48,
+      "end": 60.98
+    }
+  ],
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:05,600"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 5600
+      },
+      "text": " What is tax evasion? Gorilla work 9 to 5. Big boss pay gorilla 100 banana for hard work.",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000"
+          },
+          "offsets": {
+            "from": 0,
+            "to": 0
+          },
+          "id": 50365,
+          "p": 0.860022,
+          "t_dtw": -1
+        },
+        {
+          "text": " What",
+          "timestamps": {
+            "from": "00:00:00,080",
+            "to": "00:00:00,270"
+          },
+          "offsets": {
+            "from": 80,
+            "to": 270
+          },
+          "id": 708,
+          "p": 0.944444,
+          "t_dtw": -1
+        },
+        {
+          "text": " is",
+          "timestamps": {
+            "from": "00:00:00,270",
+            "to": "00:00:00,340"
+          },
+          "offsets": {
+            "from": 270,
+            "to": 340
+          },
+          "id": 307,
+          "p": 0.985466,
+          "t_dtw": -1
+        },
+        {
+          "text": " tax",
+          "timestamps": {
+            "from": "00:00:00,400",
+            "to": "00:00:00,600"
+          },
+          "offsets": {
+            "from": 400,
+            "to": 600
+          },
+          "id": 3366,
+          "p": 0.882462,
+          "t_dtw": -1
+        },
+        {
+          "text": " ev",
+          "timestamps": {
+            "from": "00:00:00,600",
+            "to": "00:00:00,680"
+          },
+          "offsets": {
+            "from": 600,
+            "to": 680
+          },
+          "id": 1073,
+          "p": 0.99871,
+          "t_dtw": -1
+        },
+        {
+          "text": "asion",
+          "timestamps": {
+            "from": "00:00:00,740",
+            "to": "00:00:01,070"
+          },
+          "offsets": {
+            "from": 740,
+            "to": 1070
+          },
+          "id": 6822,
+          "p": 0.999758,
+          "t_dtw": -1
+        },
+        {
+          "text": "?",
+          "timestamps": {
+            "from": "00:00:01,070",
+            "to": "00:00:01,320"
+          },
+          "offsets": {
+            "from": 1070,
+            "to": 1320
+          },
+          "id": 30,
+          "p": 0.956187,
+          "t_dtw": -1
+        },
+        {
+          "text": " Gor",
+          "timestamps": {
+            "from": "00:00:01,320",
+            "to": "00:00:01,570"
+          },
+          "offsets": {
+            "from": 1320,
+            "to": 1570
+          },
+          "id": 26144,
+          "p": 0.528416,
+          "t_dtw": -1
+        },
+        {
+          "text": "illa",
+          "timestamps": {
+            "from": "00:00:01,570",
+            "to": "00:00:01,900"
+          },
+          "offsets": {
+            "from": 1570,
+            "to": 1900
+          },
+          "id": 5291,
+          "p": 0.994719,
+          "t_dtw": -1
+        },
+        {
+          "text": " work",
+          "timestamps": {
+            "from": "00:00:01,900",
+            "to": "00:00:02,230"
+          },
+          "offsets": {
+            "from": 1900,
+            "to": 2230
+          },
+          "id": 589,
+          "p": 0.931506,
+          "t_dtw": -1
+        },
+        {
+          "text": " 9",
+          "timestamps": {
+            "from": "00:00:02,230",
+            "to": "00:00:02,480"
+          },
+          "offsets": {
+            "from": 2230,
+            "to": 2480
+          },
+          "id": 1722,
+          "p": 0.848507,
+          "t_dtw": -1
+        },
+        {
+          "text": " to",
+          "timestamps": {
+            "from": "00:00:02,480",
+            "to": "00:00:02,640"
+          },
+          "offsets": {
+            "from": 2480,
+            "to": 2640
+          },
+          "id": 281,
+          "p": 0.849434,
+          "t_dtw": -1
+        },
+        {
+          "text": " 5",
+          "timestamps": {
+            "from": "00:00:02,640",
+            "to": "00:00:02,910"
+          },
+          "offsets": {
+            "from": 2640,
+            "to": 2910
+          },
+          "id": 1025,
+          "p": 0.999479,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:03,080",
+            "to": "00:00:03,080"
+          },
+          "offsets": {
+            "from": 3080,
+            "to": 3080
+          },
+          "id": 13,
+          "p": 0.941698,
+          "t_dtw": -1
+        },
+        {
+          "text": " Big",
+          "timestamps": {
+            "from": "00:00:03,090",
+            "to": "00:00:03,230"
+          },
+          "offsets": {
+            "from": 3090,
+            "to": 3230
+          },
+          "id": 5429,
+          "p": 0.836527,
+          "t_dtw": -1
+        },
+        {
+          "text": " boss",
+          "timestamps": {
+            "from": "00:00:03,300",
+            "to": "00:00:03,450"
+          },
+          "offsets": {
+            "from": 3300,
+            "to": 3450
+          },
+          "id": 5741,
+          "p": 0.428708,
+          "t_dtw": -1
+        },
+        {
+          "text": " pay",
+          "timestamps": {
+            "from": "00:00:03,450",
+            "to": "00:00:03,610"
+          },
+          "offsets": {
+            "from": 3450,
+            "to": 3610
+          },
+          "id": 1689,
+          "p": 0.991692,
+          "t_dtw": -1
+        },
+        {
+          "text": " gorilla",
+          "timestamps": {
+            "from": "00:00:03,610",
+            "to": "00:00:04,000"
+          },
+          "offsets": {
+            "from": 3610,
+            "to": 4000
+          },
+          "id": 45066,
+          "p": 0.560756,
+          "t_dtw": -1
+        },
+        {
+          "text": " 100",
+          "timestamps": {
+            "from": "00:00:04,000",
+            "to": "00:00:04,490"
+          },
+          "offsets": {
+            "from": 4000,
+            "to": 4490
+          },
+          "id": 2319,
+          "p": 0.955496,
+          "t_dtw": -1
+        },
+        {
+          "text": " banana",
+          "timestamps": {
+            "from": "00:00:04,490",
+            "to": "00:00:04,820"
+          },
+          "offsets": {
+            "from": 4490,
+            "to": 4820
+          },
+          "id": 14194,
+          "p": 0.986217,
+          "t_dtw": -1
+        },
+        {
+          "text": " for",
+          "timestamps": {
+            "from": "00:00:04,820",
+            "to": "00:00:04,930"
+          },
+          "offsets": {
+            "from": 4820,
+            "to": 4930
+          },
+          "id": 337,
+          "p": 0.999237,
+          "t_dtw": -1
+        },
+        {
+          "text": " hard",
+          "timestamps": {
+            "from": "00:00:05,030",
+            "to": "00:00:05,200"
+          },
+          "offsets": {
+            "from": 5030,
+            "to": 5200
+          },
+          "id": 1152,
+          "p": 0.994956,
+          "t_dtw": -1
+        },
+        {
+          "text": " work",
+          "timestamps": {
+            "from": "00:00:05,200",
+            "to": "00:00:05,420"
+          },
+          "offsets": {
+            "from": 5200,
+            "to": 5420
+          },
+          "id": 589,
+          "p": 0.990796,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:05,420",
+            "to": "00:00:05,550"
+          },
+          "offsets": {
+            "from": 5420,
+            "to": 5550
+          },
+          "id": 13,
+          "p": 0.992598,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_280]",
+          "timestamps": {
+            "from": "00:00:05,600",
+            "to": "00:00:05,600"
+          },
+          "offsets": {
+            "from": 5600,
+            "to": 5600
+          },
+          "id": 50645,
+          "p": 0.338631,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,600",
+        "to": "00:00:10,960"
+      },
+      "offsets": {
+        "from": 5600,
+        "to": 10960
+      },
+      "text": " Gorilla, happy, can finally buy new car. Hey, not so fast! Say government gorilla.",
+      "tokens": [
+        {
+          "text": " Gor",
+          "timestamps": {
+            "from": "00:00:05,680",
+            "to": "00:00:05,790"
+          },
+          "offsets": {
+            "from": 5680,
+            "to": 5790
+          },
+          "id": 26144,
+          "p": 0.994203,
+          "t_dtw": -1
+        },
+        {
+          "text": "illa",
+          "timestamps": {
+            "from": "00:00:05,810",
+            "to": "00:00:05,940"
+          },
+          "offsets": {
+            "from": 5810,
+            "to": 5940
+          },
+          "id": 5291,
+          "p": 0.999895,
+          "t_dtw": -1
+        },
+        {
+          "text": ",",
+          "timestamps": {
+            "from": "00:00:06,080",
+            "to": "00:00:06,230"
+          },
+          "offsets": {
+            "from": 6080,
+            "to": 6230
+          },
+          "id": 11,
+          "p": 0.788064,
+          "t_dtw": -1
+        },
+        {
+          "text": " happy",
+          "timestamps": {
+            "from": "00:00:06,230",
+            "to": "00:00:06,580"
+          },
+          "offsets": {
+            "from": 6230,
+            "to": 6580
+          },
+          "id": 2055,
+          "p": 0.998222,
+          "t_dtw": -1
+        },
+        {
+          "text": ",",
+          "timestamps": {
+            "from": "00:00:06,580",
+            "to": "00:00:06,720"
+          },
+          "offsets": {
+            "from": 6580,
+            "to": 6720
+          },
+          "id": 11,
+          "p": 0.950189,
+          "t_dtw": -1
+        },
+        {
+          "text": " can",
+          "timestamps": {
+            "from": "00:00:06,720",
+            "to": "00:00:06,920"
+          },
+          "offsets": {
+            "from": 6720,
+            "to": 6920
+          },
+          "id": 393,
+          "p": 0.999537,
+          "t_dtw": -1
+        },
+        {
+          "text": " finally",
+          "timestamps": {
+            "from": "00:00:06,930",
+            "to": "00:00:07,420"
+          },
+          "offsets": {
+            "from": 6930,
+            "to": 7420
+          },
+          "id": 2721,
+          "p": 0.999866,
+          "t_dtw": -1
+        },
+        {
+          "text": " buy",
+          "timestamps": {
+            "from": "00:00:07,420",
+            "to": "00:00:07,590"
+          },
+          "offsets": {
+            "from": 7420,
+            "to": 7590
+          },
+          "id": 2256,
+          "p": 0.999952,
+          "t_dtw": -1
+        },
+        {
+          "text": " new",
+          "timestamps": {
+            "from": "00:00:07,720",
+            "to": "00:00:07,840"
+          },
+          "offsets": {
+            "from": 7720,
+            "to": 7840
+          },
+          "id": 777,
+          "p": 0.97599,
+          "t_dtw": -1
+        },
+        {
+          "text": " car",
+          "timestamps": {
+            "from": "00:00:07,840",
+            "to": "00:00:08,050"
+          },
+          "offsets": {
+            "from": 7840,
+            "to": 8050
+          },
+          "id": 1032,
+          "p": 0.999956,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:08,050",
+            "to": "00:00:08,280"
+          },
+          "offsets": {
+            "from": 8050,
+            "to": 8280
+          },
+          "id": 13,
+          "p": 0.999771,
+          "t_dtw": -1
+        },
+        {
+          "text": " Hey",
+          "timestamps": {
+            "from": "00:00:08,280",
+            "to": "00:00:08,500"
+          },
+          "offsets": {
+            "from": 8280,
+            "to": 8500
+          },
+          "id": 1911,
+          "p": 0.563887,
+          "t_dtw": -1
+        },
+        {
+          "text": ",",
+          "timestamps": {
+            "from": "00:00:08,500",
+            "to": "00:00:08,510"
+          },
+          "offsets": {
+            "from": 8500,
+            "to": 8510
+          },
+          "id": 11,
+          "p": 0.985107,
+          "t_dtw": -1
+        },
+        {
+          "text": " not",
+          "timestamps": {
+            "from": "00:00:08,690",
+            "to": "00:00:08,840"
+          },
+          "offsets": {
+            "from": 8690,
+            "to": 8840
+          },
+          "id": 406,
+          "p": 0.999836,
+          "t_dtw": -1
+        },
+        {
+          "text": " so",
+          "timestamps": {
+            "from": "00:00:08,900",
+            "to": "00:00:09,000"
+          },
+          "offsets": {
+            "from": 8900,
+            "to": 9000
+          },
+          "id": 370,
+          "p": 0.999981,
+          "t_dtw": -1
+        },
+        {
+          "text": " fast",
+          "timestamps": {
+            "from": "00:00:09,000",
+            "to": "00:00:09,290"
+          },
+          "offsets": {
+            "from": 9000,
+            "to": 9290
+          },
+          "id": 2370,
+          "p": 0.999941,
+          "t_dtw": -1
+        },
+        {
+          "text": "!",
+          "timestamps": {
+            "from": "00:00:09,290",
+            "to": "00:00:09,540"
+          },
+          "offsets": {
+            "from": 9290,
+            "to": 9540
+          },
+          "id": 0,
+          "p": 0.412606,
+          "t_dtw": -1
+        },
+        {
+          "text": " Say",
+          "timestamps": {
+            "from": "00:00:09,540",
+            "to": "00:00:09,720"
+          },
+          "offsets": {
+            "from": 9540,
+            "to": 9720
+          },
+          "id": 6463,
+          "p": 0.852718,
+          "t_dtw": -1
+        },
+        {
+          "text": " government",
+          "timestamps": {
+            "from": "00:00:09,720",
+            "to": "00:00:10,330"
+          },
+          "offsets": {
+            "from": 9720,
+            "to": 10330
+          },
+          "id": 2463,
+          "p": 0.959089,
+          "t_dtw": -1
+        },
+        {
+          "text": " gorilla",
+          "timestamps": {
+            "from": "00:00:10,330",
+            "to": "00:00:10,750"
+          },
+          "offsets": {
+            "from": 10330,
+            "to": 10750
+          },
+          "id": 45066,
+          "p": 0.980426,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:10,760",
+            "to": "00:00:10,950"
+          },
+          "offsets": {
+            "from": 10760,
+            "to": 10950
+          },
+          "id": 13,
+          "p": 0.997714,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_548]",
+          "timestamps": {
+            "from": "00:00:10,960",
+            "to": "00:00:10,960"
+          },
+          "offsets": {
+            "from": 10960,
+            "to": 10960
+          },
+          "id": 50913,
+          "p": 0.338212,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,960",
+        "to": "00:00:15,900"
+      },
+      "offsets": {
+        "from": 10960,
+        "to": 15900
+      },
+      "text": " Fill out this form. You earn 100 banana? Huh, I'ma take like half of that. I need to build",
+      "tokens": [
+        {
+          "text": " Fill",
+          "timestamps": {
+            "from": "00:00:11,040",
+            "to": "00:00:11,190"
+          },
+          "offsets": {
+            "from": 11040,
+            "to": 11190
+          },
+          "id": 25315,
+          "p": 0.998258,
+          "t_dtw": -1
+        },
+        {
+          "text": " out",
+          "timestamps": {
+            "from": "00:00:11,190",
+            "to": "00:00:11,300"
+          },
+          "offsets": {
+            "from": 11190,
+            "to": 11300
+          },
+          "id": 484,
+          "p": 0.999979,
+          "t_dtw": -1
+        },
+        {
+          "text": " this",
+          "timestamps": {
+            "from": "00:00:11,360",
+            "to": "00:00:11,590"
+          },
+          "offsets": {
+            "from": 11360,
+            "to": 11590
+          },
+          "id": 341,
+          "p": 0.999975,
+          "t_dtw": -1
+        },
+        {
+          "text": " form",
+          "timestamps": {
+            "from": "00:00:11,590",
+            "to": "00:00:11,820"
+          },
+          "offsets": {
+            "from": 11590,
+            "to": 11820
+          },
+          "id": 1254,
+          "p": 0.999809,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:11,820",
+            "to": "00:00:11,990"
+          },
+          "offsets": {
+            "from": 11820,
+            "to": 11990
+          },
+          "id": 13,
+          "p": 0.996255,
+          "t_dtw": -1
+        },
+        {
+          "text": " You",
+          "timestamps": {
+            "from": "00:00:11,990",
+            "to": "00:00:12,160"
+          },
+          "offsets": {
+            "from": 11990,
+            "to": 12160
+          },
+          "id": 509,
+          "p": 0.999316,
+          "t_dtw": -1
+        },
+        {
+          "text": " earn",
+          "timestamps": {
+            "from": "00:00:12,160",
+            "to": "00:00:12,340"
+          },
+          "offsets": {
+            "from": 12160,
+            "to": 12340
+          },
+          "id": 6012,
+          "p": 0.914738,
+          "t_dtw": -1
+        },
+        {
+          "text": " 100",
+          "timestamps": {
+            "from": "00:00:12,400",
+            "to": "00:00:12,920"
+          },
+          "offsets": {
+            "from": 12400,
+            "to": 12920
+          },
+          "id": 2319,
+          "p": 0.999893,
+          "t_dtw": -1
+        },
+        {
+          "text": " banana",
+          "timestamps": {
+            "from": "00:00:12,920",
+            "to": "00:00:13,270"
+          },
+          "offsets": {
+            "from": 12920,
+            "to": 13270
+          },
+          "id": 14194,
+          "p": 0.999788,
+          "t_dtw": -1
+        },
+        {
+          "text": "?",
+          "timestamps": {
+            "from": "00:00:13,270",
+            "to": "00:00:13,440"
+          },
+          "offsets": {
+            "from": 13270,
+            "to": 13440
+          },
+          "id": 30,
+          "p": 0.999523,
+          "t_dtw": -1
+        },
+        {
+          "text": " Huh",
+          "timestamps": {
+            "from": "00:00:13,440",
+            "to": "00:00:13,610"
+          },
+          "offsets": {
+            "from": 13440,
+            "to": 13610
+          },
+          "id": 8063,
+          "p": 0.614218,
+          "t_dtw": -1
+        },
+        {
+          "text": ",",
+          "timestamps": {
+            "from": "00:00:13,610",
+            "to": "00:00:13,720"
+          },
+          "offsets": {
+            "from": 13610,
+            "to": 13720
+          },
+          "id": 11,
+          "p": 0.981036,
+          "t_dtw": -1
+        },
+        {
+          "text": " I",
+          "timestamps": {
+            "from": "00:00:13,720",
+            "to": "00:00:13,770"
+          },
+          "offsets": {
+            "from": 13720,
+            "to": 13770
+          },
+          "id": 286,
+          "p": 0.781941,
+          "t_dtw": -1
+        },
+        {
+          "text": "'m",
+          "timestamps": {
+            "from": "00:00:13,770",
+            "to": "00:00:13,870"
+          },
+          "offsets": {
+            "from": 13770,
+            "to": 13870
+          },
+          "id": 478,
+          "p": 0.994247,
+          "t_dtw": -1
+        },
+        {
+          "text": "a",
+          "timestamps": {
+            "from": "00:00:13,880",
+            "to": "00:00:13,910"
+          },
+          "offsets": {
+            "from": 13880,
+            "to": 13910
+          },
+          "id": 64,
+          "p": 0.627679,
+          "t_dtw": -1
+        },
+        {
+          "text": " take",
+          "timestamps": {
+            "from": "00:00:14,050",
+            "to": "00:00:14,160"
+          },
+          "offsets": {
+            "from": 14050,
+            "to": 14160
+          },
+          "id": 747,
+          "p": 0.999895,
+          "t_dtw": -1
+        },
+        {
+          "text": " like",
+          "timestamps": {
+            "from": "00:00:14,160",
+            "to": "00:00:14,390"
+          },
+          "offsets": {
+            "from": 14160,
+            "to": 14390
+          },
+          "id": 411,
+          "p": 0.999468,
+          "t_dtw": -1
+        },
+        {
+          "text": " half",
+          "timestamps": {
+            "from": "00:00:14,390",
+            "to": "00:00:14,620"
+          },
+          "offsets": {
+            "from": 14390,
+            "to": 14620
+          },
+          "id": 1922,
+          "p": 0.999943,
+          "t_dtw": -1
+        },
+        {
+          "text": " of",
+          "timestamps": {
+            "from": "00:00:14,620",
+            "to": "00:00:14,720"
+          },
+          "offsets": {
+            "from": 14620,
+            "to": 14720
+          },
+          "id": 295,
+          "p": 0.99999,
+          "t_dtw": -1
+        },
+        {
+          "text": " that",
+          "timestamps": {
+            "from": "00:00:14,730",
+            "to": "00:00:14,960"
+          },
+          "offsets": {
+            "from": 14730,
+            "to": 14960
+          },
+          "id": 300,
+          "p": 0.999994,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:14,960",
+            "to": "00:00:15,280"
+          },
+          "offsets": {
+            "from": 14960,
+            "to": 15280
+          },
+          "id": 13,
+          "p": 0.999809,
+          "t_dtw": -1
+        },
+        {
+          "text": " I",
+          "timestamps": {
+            "from": "00:00:15,280",
+            "to": "00:00:15,340"
+          },
+          "offsets": {
+            "from": 15280,
+            "to": 15340
+          },
+          "id": 286,
+          "p": 0.899618,
+          "t_dtw": -1
+        },
+        {
+          "text": " need",
+          "timestamps": {
+            "from": "00:00:15,340",
+            "to": "00:00:15,580"
+          },
+          "offsets": {
+            "from": 15340,
+            "to": 15580
+          },
+          "id": 643,
+          "p": 0.999859,
+          "t_dtw": -1
+        },
+        {
+          "text": " to",
+          "timestamps": {
+            "from": "00:00:15,580",
+            "to": "00:00:15,710"
+          },
+          "offsets": {
+            "from": 15580,
+            "to": 15710
+          },
+          "id": 281,
+          "p": 0.980944,
+          "t_dtw": -1
+        },
+        {
+          "text": " build",
+          "timestamps": {
+            "from": "00:00:15,710",
+            "to": "00:00:15,890"
+          },
+          "offsets": {
+            "from": 15710,
+            "to": 15890
+          },
+          "id": 1322,
+          "p": 0.977245,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_795]",
+          "timestamps": {
+            "from": "00:00:15,900",
+            "to": "00:00:15,900"
+          },
+          "offsets": {
+            "from": 15900,
+            "to": 15900
+          },
+          "id": 51160,
+          "p": 0.191237,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:15,900",
+        "to": "00:00:21,180"
+      },
+      "offsets": {
+        "from": 15900,
+        "to": 21180
+      },
+      "text": " new bridge in school. Gorilla sad. It feel like he robbed. He have idea. Next time just lie on",
+      "tokens": [
+        {
+          "text": " new",
+          "timestamps": {
+            "from": "00:00:15,980",
+            "to": "00:00:16,080"
+          },
+          "offsets": {
+            "from": 15980,
+            "to": 16080
+          },
+          "id": 777,
+          "p": 0.993724,
+          "t_dtw": -1
+        },
+        {
+          "text": " bridge",
+          "timestamps": {
+            "from": "00:00:16,080",
+            "to": "00:00:16,440"
+          },
+          "offsets": {
+            "from": 16080,
+            "to": 16440
+          },
+          "id": 7283,
+          "p": 0.999756,
+          "t_dtw": -1
+        },
+        {
+          "text": " in",
+          "timestamps": {
+            "from": "00:00:16,440",
+            "to": "00:00:16,560"
+          },
+          "offsets": {
+            "from": 16440,
+            "to": 16560
+          },
+          "id": 294,
+          "p": 0.954551,
+          "t_dtw": -1
+        },
+        {
+          "text": " school",
+          "timestamps": {
+            "from": "00:00:16,560",
+            "to": "00:00:16,920"
+          },
+          "offsets": {
+            "from": 16560,
+            "to": 16920
+          },
+          "id": 1395,
+          "p": 0.999968,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:16,920",
+            "to": "00:00:17,100"
+          },
+          "offsets": {
+            "from": 16920,
+            "to": 17100
+          },
+          "id": 13,
+          "p": 0.999985,
+          "t_dtw": -1
+        },
+        {
+          "text": " Gor",
+          "timestamps": {
+            "from": "00:00:17,100",
+            "to": "00:00:17,270"
+          },
+          "offsets": {
+            "from": 17100,
+            "to": 17270
+          },
+          "id": 26144,
+          "p": 0.99682,
+          "t_dtw": -1
+        },
+        {
+          "text": "illa",
+          "timestamps": {
+            "from": "00:00:17,340",
+            "to": "00:00:17,520"
+          },
+          "offsets": {
+            "from": 17340,
+            "to": 17520
+          },
+          "id": 5291,
+          "p": 0.999634,
+          "t_dtw": -1
+        },
+        {
+          "text": " sad",
+          "timestamps": {
+            "from": "00:00:17,520",
+            "to": "00:00:17,700"
+          },
+          "offsets": {
+            "from": 17520,
+            "to": 17700
+          },
+          "id": 4227,
+          "p": 0.963525,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:17,700",
+            "to": "00:00:17,880"
+          },
+          "offsets": {
+            "from": 17700,
+            "to": 17880
+          },
+          "id": 13,
+          "p": 0.936045,
+          "t_dtw": -1
+        },
+        {
+          "text": " It",
+          "timestamps": {
+            "from": "00:00:17,880",
+            "to": "00:00:17,890"
+          },
+          "offsets": {
+            "from": 17880,
+            "to": 17890
+          },
+          "id": 467,
+          "p": 0.998256,
+          "t_dtw": -1
+        },
+        {
+          "text": " feel",
+          "timestamps": {
+            "from": "00:00:18,020",
+            "to": "00:00:18,240"
+          },
+          "offsets": {
+            "from": 18020,
+            "to": 18240
+          },
+          "id": 841,
+          "p": 0.800335,
+          "t_dtw": -1
+        },
+        {
+          "text": " like",
+          "timestamps": {
+            "from": "00:00:18,240",
+            "to": "00:00:18,390"
+          },
+          "offsets": {
+            "from": 18240,
+            "to": 18390
+          },
+          "id": 411,
+          "p": 0.999939,
+          "t_dtw": -1
+        },
+        {
+          "text": " he",
+          "timestamps": {
+            "from": "00:00:18,510",
+            "to": "00:00:18,600"
+          },
+          "offsets": {
+            "from": 18510,
+            "to": 18600
+          },
+          "id": 415,
+          "p": 0.999971,
+          "t_dtw": -1
+        },
+        {
+          "text": " robbed",
+          "timestamps": {
+            "from": "00:00:18,600",
+            "to": "00:00:18,810"
+          },
+          "offsets": {
+            "from": 18600,
+            "to": 18810
+          },
+          "id": 35772,
+          "p": 0.999617,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:18,990",
+            "to": "00:00:19,130"
+          },
+          "offsets": {
+            "from": 18990,
+            "to": 19130
+          },
+          "id": 13,
+          "p": 0.999975,
+          "t_dtw": -1
+        },
+        {
+          "text": " He",
+          "timestamps": {
+            "from": "00:00:19,200",
+            "to": "00:00:19,260"
+          },
+          "offsets": {
+            "from": 19200,
+            "to": 19260
+          },
+          "id": 634,
+          "p": 0.994437,
+          "t_dtw": -1
+        },
+        {
+          "text": " have",
+          "timestamps": {
+            "from": "00:00:19,260",
+            "to": "00:00:19,540"
+          },
+          "offsets": {
+            "from": 19260,
+            "to": 19540
+          },
+          "id": 362,
+          "p": 0.996238,
+          "t_dtw": -1
+        },
+        {
+          "text": " idea",
+          "timestamps": {
+            "from": "00:00:19,540",
+            "to": "00:00:19,750"
+          },
+          "offsets": {
+            "from": 19540,
+            "to": 19750
+          },
+          "id": 1558,
+          "p": 0.985092,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:19,750",
+            "to": "00:00:19,920"
+          },
+          "offsets": {
+            "from": 19750,
+            "to": 19920
+          },
+          "id": 13,
+          "p": 0.9134,
+          "t_dtw": -1
+        },
+        {
+          "text": " Next",
+          "timestamps": {
+            "from": "00:00:19,920",
+            "to": "00:00:20,200"
+          },
+          "offsets": {
+            "from": 19920,
+            "to": 20200
+          },
+          "id": 3087,
+          "p": 0.975861,
+          "t_dtw": -1
+        },
+        {
+          "text": " time",
+          "timestamps": {
+            "from": "00:00:20,200",
+            "to": "00:00:20,450"
+          },
+          "offsets": {
+            "from": 20200,
+            "to": 20450
+          },
+          "id": 565,
+          "p": 0.994598,
+          "t_dtw": -1
+        },
+        {
+          "text": " just",
+          "timestamps": {
+            "from": "00:00:20,490",
+            "to": "00:00:20,760"
+          },
+          "offsets": {
+            "from": 20490,
+            "to": 20760
+          },
+          "id": 445,
+          "p": 0.641755,
+          "t_dtw": -1
+        },
+        {
+          "text": " lie",
+          "timestamps": {
+            "from": "00:00:20,760",
+            "to": "00:00:21,010"
+          },
+          "offsets": {
+            "from": 20760,
+            "to": 21010
+          },
+          "id": 4544,
+          "p": 0.660061,
+          "t_dtw": -1
+        },
+        {
+          "text": " on",
+          "timestamps": {
+            "from": "00:00:21,020",
+            "to": "00:00:21,180"
+          },
+          "offsets": {
+            "from": 21020,
+            "to": 21180
+          },
+          "id": 322,
+          "p": 0.991788,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_1059]",
+          "timestamps": {
+            "from": "00:00:21,180",
+            "to": "00:00:21,180"
+          },
+          "offsets": {
+            "from": 21180,
+            "to": 21180
+          },
+          "id": 51424,
+          "p": 0.46436,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:21,180",
+        "to": "00:00:26,580"
+      },
+      "offsets": {
+        "from": 21180,
+        "to": 26580
+      },
+      "text": " tax form. So when big boss pay gorilla 100 banana, he say on form he only get 10. This",
+      "tokens": [
+        {
+          "text": " tax",
+          "timestamps": {
+            "from": "00:00:21,260",
+            "to": "00:00:21,370"
+          },
+          "offsets": {
+            "from": 21260,
+            "to": 21370
+          },
+          "id": 3366,
+          "p": 0.999357,
+          "t_dtw": -1
+        },
+        {
+          "text": " form",
+          "timestamps": {
+            "from": "00:00:21,370",
+            "to": "00:00:21,520"
+          },
+          "offsets": {
+            "from": 21370,
+            "to": 21520
+          },
+          "id": 1254,
+          "p": 0.999091,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:21,650",
+            "to": "00:00:21,820"
+          },
+          "offsets": {
+            "from": 21650,
+            "to": 21820
+          },
+          "id": 13,
+          "p": 0.999882,
+          "t_dtw": -1
+        },
+        {
+          "text": " So",
+          "timestamps": {
+            "from": "00:00:21,820",
+            "to": "00:00:21,920"
+          },
+          "offsets": {
+            "from": 21820,
+            "to": 21920
+          },
+          "id": 407,
+          "p": 0.999975,
+          "t_dtw": -1
+        },
+        {
+          "text": " when",
+          "timestamps": {
+            "from": "00:00:21,950",
+            "to": "00:00:22,210"
+          },
+          "offsets": {
+            "from": 21950,
+            "to": 22210
+          },
+          "id": 562,
+          "p": 0.998243,
+          "t_dtw": -1
+        },
+        {
+          "text": " big",
+          "timestamps": {
+            "from": "00:00:22,210",
+            "to": "00:00:22,380"
+          },
+          "offsets": {
+            "from": 22210,
+            "to": 22380
+          },
+          "id": 955,
+          "p": 0.980297,
+          "t_dtw": -1
+        },
+        {
+          "text": " boss",
+          "timestamps": {
+            "from": "00:00:22,400",
+            "to": "00:00:22,660"
+          },
+          "offsets": {
+            "from": 22400,
+            "to": 22660
+          },
+          "id": 5741,
+          "p": 0.999876,
+          "t_dtw": -1
+        },
+        {
+          "text": " pay",
+          "timestamps": {
+            "from": "00:00:22,660",
+            "to": "00:00:22,850"
+          },
+          "offsets": {
+            "from": 22660,
+            "to": 22850
+          },
+          "id": 1689,
+          "p": 0.999445,
+          "t_dtw": -1
+        },
+        {
+          "text": " gorilla",
+          "timestamps": {
+            "from": "00:00:22,850",
+            "to": "00:00:23,170"
+          },
+          "offsets": {
+            "from": 22850,
+            "to": 23170
+          },
+          "id": 45066,
+          "p": 0.994404,
+          "t_dtw": -1
+        },
+        {
+          "text": " 100",
+          "timestamps": {
+            "from": "00:00:23,300",
+            "to": "00:00:23,880"
+          },
+          "offsets": {
+            "from": 23300,
+            "to": 23880
+          },
+          "id": 2319,
+          "p": 0.999912,
+          "t_dtw": -1
+        },
+        {
+          "text": " banana",
+          "timestamps": {
+            "from": "00:00:23,880",
+            "to": "00:00:24,090"
+          },
+          "offsets": {
+            "from": 23880,
+            "to": 24090
+          },
+          "id": 14194,
+          "p": 0.999966,
+          "t_dtw": -1
+        },
+        {
+          "text": ",",
+          "timestamps": {
+            "from": "00:00:24,270",
+            "to": "00:00:24,400"
+          },
+          "offsets": {
+            "from": 24270,
+            "to": 24400
+          },
+          "id": 11,
+          "p": 0.962147,
+          "t_dtw": -1
+        },
+        {
+          "text": " he",
+          "timestamps": {
+            "from": "00:00:24,480",
+            "to": "00:00:24,530"
+          },
+          "offsets": {
+            "from": 24480,
+            "to": 24530
+          },
+          "id": 415,
+          "p": 0.999924,
+          "t_dtw": -1
+        },
+        {
+          "text": " say",
+          "timestamps": {
+            "from": "00:00:24,530",
+            "to": "00:00:24,650"
+          },
+          "offsets": {
+            "from": 24530,
+            "to": 24650
+          },
+          "id": 584,
+          "p": 0.99976,
+          "t_dtw": -1
+        },
+        {
+          "text": " on",
+          "timestamps": {
+            "from": "00:00:24,770",
+            "to": "00:00:24,850"
+          },
+          "offsets": {
+            "from": 24770,
+            "to": 24850
+          },
+          "id": 322,
+          "p": 0.999929,
+          "t_dtw": -1
+        },
+        {
+          "text": " form",
+          "timestamps": {
+            "from": "00:00:24,850",
+            "to": "00:00:25,110"
+          },
+          "offsets": {
+            "from": 24850,
+            "to": 25110
+          },
+          "id": 1254,
+          "p": 0.997425,
+          "t_dtw": -1
+        },
+        {
+          "text": " he",
+          "timestamps": {
+            "from": "00:00:25,110",
+            "to": "00:00:25,230"
+          },
+          "offsets": {
+            "from": 25110,
+            "to": 25230
+          },
+          "id": 415,
+          "p": 0.975394,
+          "t_dtw": -1
+        },
+        {
+          "text": " only",
+          "timestamps": {
+            "from": "00:00:25,230",
+            "to": "00:00:25,500"
+          },
+          "offsets": {
+            "from": 25230,
+            "to": 25500
+          },
+          "id": 787,
+          "p": 0.999933,
+          "t_dtw": -1
+        },
+        {
+          "text": " get",
+          "timestamps": {
+            "from": "00:00:25,500",
+            "to": "00:00:25,690"
+          },
+          "offsets": {
+            "from": 25500,
+            "to": 25690
+          },
+          "id": 483,
+          "p": 0.994251,
+          "t_dtw": -1
+        },
+        {
+          "text": " 10",
+          "timestamps": {
+            "from": "00:00:25,690",
+            "to": "00:00:26,080"
+          },
+          "offsets": {
+            "from": 25690,
+            "to": 26080
+          },
+          "id": 1266,
+          "p": 0.999693,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:26,080",
+            "to": "00:00:26,330"
+          },
+          "offsets": {
+            "from": 26080,
+            "to": 26330
+          },
+          "id": 13,
+          "p": 0.999994,
+          "t_dtw": -1
+        },
+        {
+          "text": " This",
+          "timestamps": {
+            "from": "00:00:26,340",
+            "to": "00:00:26,580"
+          },
+          "offsets": {
+            "from": 26340,
+            "to": 26580
+          },
+          "id": 639,
+          "p": 0.988546,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_1329]",
+          "timestamps": {
+            "from": "00:00:26,580",
+            "to": "00:00:26,580"
+          },
+          "offsets": {
+            "from": 26580,
+            "to": 26580
+          },
+          "id": 51694,
+          "p": 0.39486,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:26,580",
+        "to": "00:00:32,460"
+      },
+      "offsets": {
+        "from": 26580,
+        "to": 32460
+      },
+      "text": " mean government only take 5 banana. Gorilla happy. Save 45 banana. Use extra banana. Buy new car,",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:26,580",
+            "to": "00:00:26,580"
+          },
+          "offsets": {
+            "from": 26580,
+            "to": 26580
+          },
+          "id": 50365,
+          "p": 0.999023,
+          "t_dtw": -1
+        },
+        {
+          "text": " mean",
+          "timestamps": {
+            "from": "00:00:26,660",
+            "to": "00:00:26,820"
+          },
+          "offsets": {
+            "from": 26660,
+            "to": 26820
+          },
+          "id": 914,
+          "p": 0.979948,
+          "t_dtw": -1
+        },
+        {
+          "text": " government",
+          "timestamps": {
+            "from": "00:00:26,820",
+            "to": "00:00:27,430"
+          },
+          "offsets": {
+            "from": 26820,
+            "to": 27430
+          },
+          "id": 2463,
+          "p": 0.999493,
+          "t_dtw": -1
+        },
+        {
+          "text": " only",
+          "timestamps": {
+            "from": "00:00:27,430",
+            "to": "00:00:27,670"
+          },
+          "offsets": {
+            "from": 27430,
+            "to": 27670
+          },
+          "id": 787,
+          "p": 0.981289,
+          "t_dtw": -1
+        },
+        {
+          "text": " take",
+          "timestamps": {
+            "from": "00:00:27,670",
+            "to": "00:00:27,900"
+          },
+          "offsets": {
+            "from": 27670,
+            "to": 27900
+          },
+          "id": 747,
+          "p": 0.999081,
+          "t_dtw": -1
+        },
+        {
+          "text": " 5",
+          "timestamps": {
+            "from": "00:00:27,910",
+            "to": "00:00:28,090"
+          },
+          "offsets": {
+            "from": 27910,
+            "to": 28090
+          },
+          "id": 1025,
+          "p": 0.811601,
+          "t_dtw": -1
+        },
+        {
+          "text": " banana",
+          "timestamps": {
+            "from": "00:00:28,090",
+            "to": "00:00:28,450"
+          },
+          "offsets": {
+            "from": 28090,
+            "to": 28450
+          },
+          "id": 14194,
+          "p": 0.999653,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:28,450",
+            "to": "00:00:28,570"
+          },
+          "offsets": {
+            "from": 28450,
+            "to": 28570
+          },
+          "id": 13,
+          "p": 0.992068,
+          "t_dtw": -1
+        },
+        {
+          "text": " Gor",
+          "timestamps": {
+            "from": "00:00:28,700",
+            "to": "00:00:28,810"
+          },
+          "offsets": {
+            "from": 28700,
+            "to": 28810
+          },
+          "id": 26144,
+          "p": 0.999112,
+          "t_dtw": -1
+        },
+        {
+          "text": "illa",
+          "timestamps": {
+            "from": "00:00:28,810",
+            "to": "00:00:29,050"
+          },
+          "offsets": {
+            "from": 28810,
+            "to": 29050
+          },
+          "id": 5291,
+          "p": 0.999748,
+          "t_dtw": -1
+        },
+        {
+          "text": " happy",
+          "timestamps": {
+            "from": "00:00:29,050",
+            "to": "00:00:29,350"
+          },
+          "offsets": {
+            "from": 29050,
+            "to": 29350
+          },
+          "id": 2055,
+          "p": 0.77944,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:29,350",
+            "to": "00:00:29,490"
+          },
+          "offsets": {
+            "from": 29350,
+            "to": 29490
+          },
+          "id": 13,
+          "p": 0.994374,
+          "t_dtw": -1
+        },
+        {
+          "text": " Save",
+          "timestamps": {
+            "from": "00:00:29,670",
+            "to": "00:00:29,770"
+          },
+          "offsets": {
+            "from": 29670,
+            "to": 29770
+          },
+          "id": 15541,
+          "p": 0.997803,
+          "t_dtw": -1
+        },
+        {
+          "text": " 45",
+          "timestamps": {
+            "from": "00:00:29,770",
+            "to": "00:00:30,050"
+          },
+          "offsets": {
+            "from": 29770,
+            "to": 30050
+          },
+          "id": 6905,
+          "p": 0.998119,
+          "t_dtw": -1
+        },
+        {
+          "text": " banana",
+          "timestamps": {
+            "from": "00:00:30,170",
+            "to": "00:00:30,490"
+          },
+          "offsets": {
+            "from": 30170,
+            "to": 30490
+          },
+          "id": 14194,
+          "p": 0.999722,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:30,490",
+            "to": "00:00:30,660"
+          },
+          "offsets": {
+            "from": 30490,
+            "to": 30660
+          },
+          "id": 13,
+          "p": 0.999291,
+          "t_dtw": -1
+        },
+        {
+          "text": " Use",
+          "timestamps": {
+            "from": "00:00:30,670",
+            "to": "00:00:30,850"
+          },
+          "offsets": {
+            "from": 30670,
+            "to": 30850
+          },
+          "id": 8278,
+          "p": 0.99922,
+          "t_dtw": -1
+        },
+        {
+          "text": " extra",
+          "timestamps": {
+            "from": "00:00:30,850",
+            "to": "00:00:31,260"
+          },
+          "offsets": {
+            "from": 30850,
+            "to": 31260
+          },
+          "id": 2857,
+          "p": 0.997984,
+          "t_dtw": -1
+        },
+        {
+          "text": " banana",
+          "timestamps": {
+            "from": "00:00:31,260",
+            "to": "00:00:31,510"
+          },
+          "offsets": {
+            "from": 31260,
+            "to": 31510
+          },
+          "id": 14194,
+          "p": 0.985031,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:31,610",
+            "to": "00:00:31,660"
+          },
+          "offsets": {
+            "from": 31610,
+            "to": 31660
+          },
+          "id": 13,
+          "p": 0.999285,
+          "t_dtw": -1
+        },
+        {
+          "text": " Buy",
+          "timestamps": {
+            "from": "00:00:31,660",
+            "to": "00:00:31,950"
+          },
+          "offsets": {
+            "from": 31660,
+            "to": 31950
+          },
+          "id": 19146,
+          "p": 0.958661,
+          "t_dtw": -1
+        },
+        {
+          "text": " new",
+          "timestamps": {
+            "from": "00:00:31,960",
+            "to": "00:00:32,130"
+          },
+          "offsets": {
+            "from": 31960,
+            "to": 32130
+          },
+          "id": 777,
+          "p": 0.790928,
+          "t_dtw": -1
+        },
+        {
+          "text": " car",
+          "timestamps": {
+            "from": "00:00:32,270",
+            "to": "00:00:32,460"
+          },
+          "offsets": {
+            "from": 32270,
+            "to": 32460
+          },
+          "id": 1032,
+          "p": 0.926775,
+          "t_dtw": -1
+        },
+        {
+          "text": ",",
+          "timestamps": {
+            "from": "00:00:32,460",
+            "to": "00:00:32,460"
+          },
+          "offsets": {
+            "from": 32460,
+            "to": 32460
+          },
+          "id": 11,
+          "p": 0.9796,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_294]",
+          "timestamps": {
+            "from": "00:00:32,460",
+            "to": "00:00:32,460"
+          },
+          "offsets": {
+            "from": 32460,
+            "to": 32460
+          },
+          "id": 50659,
+          "p": 0.867629,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:32,460",
+        "to": "00:00:37,820"
+      },
+      "offsets": {
+        "from": 32460,
+        "to": 37820
+      },
+      "text": " new house, new wife. Government gorilla sus though. How buy all this but only earn 10 banana? So",
+      "tokens": [
+        {
+          "text": " new",
+          "timestamps": {
+            "from": "00:00:32,540",
+            "to": "00:00:32,630"
+          },
+          "offsets": {
+            "from": 32540,
+            "to": 32630
+          },
+          "id": 777,
+          "p": 0.999973,
+          "t_dtw": -1
+        },
+        {
+          "text": " house",
+          "timestamps": {
+            "from": "00:00:32,630",
+            "to": "00:00:32,800"
+          },
+          "offsets": {
+            "from": 32630,
+            "to": 32800
+          },
+          "id": 1782,
+          "p": 0.999941,
+          "t_dtw": -1
+        },
+        {
+          "text": ",",
+          "timestamps": {
+            "from": "00:00:32,940",
+            "to": "00:00:33,020"
+          },
+          "offsets": {
+            "from": 32940,
+            "to": 33020
+          },
+          "id": 11,
+          "p": 0.999989,
+          "t_dtw": -1
+        },
+        {
+          "text": " new",
+          "timestamps": {
+            "from": "00:00:33,020",
+            "to": "00:00:33,150"
+          },
+          "offsets": {
+            "from": 33020,
+            "to": 33150
+          },
+          "id": 777,
+          "p": 0.99999,
+          "t_dtw": -1
+        },
+        {
+          "text": " wife",
+          "timestamps": {
+            "from": "00:00:33,200",
+            "to": "00:00:33,410"
+          },
+          "offsets": {
+            "from": 33200,
+            "to": 33410
+          },
+          "id": 3836,
+          "p": 0.99959,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:33,410",
+            "to": "00:00:33,580"
+          },
+          "offsets": {
+            "from": 33410,
+            "to": 33580
+          },
+          "id": 13,
+          "p": 0.99995,
+          "t_dtw": -1
+        },
+        {
+          "text": " Government",
+          "timestamps": {
+            "from": "00:00:33,580",
+            "to": "00:00:34,150"
+          },
+          "offsets": {
+            "from": 33580,
+            "to": 34150
+          },
+          "id": 7321,
+          "p": 0.995254,
+          "t_dtw": -1
+        },
+        {
+          "text": " gorilla",
+          "timestamps": {
+            "from": "00:00:34,150",
+            "to": "00:00:34,450"
+          },
+          "offsets": {
+            "from": 34150,
+            "to": 34450
+          },
+          "id": 45066,
+          "p": 0.97483,
+          "t_dtw": -1
+        },
+        {
+          "text": " sus",
+          "timestamps": {
+            "from": "00:00:34,580",
+            "to": "00:00:34,720"
+          },
+          "offsets": {
+            "from": 34580,
+            "to": 34720
+          },
+          "id": 3291,
+          "p": 0.713322,
+          "t_dtw": -1
+        },
+        {
+          "text": " though",
+          "timestamps": {
+            "from": "00:00:34,720",
+            "to": "00:00:34,950"
+          },
+          "offsets": {
+            "from": 34720,
+            "to": 34950
+          },
+          "id": 1673,
+          "p": 0.924724,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:35,070",
+            "to": "00:00:35,230"
+          },
+          "offsets": {
+            "from": 35070,
+            "to": 35230
+          },
+          "id": 13,
+          "p": 0.999561,
+          "t_dtw": -1
+        },
+        {
+          "text": " How",
+          "timestamps": {
+            "from": "00:00:35,230",
+            "to": "00:00:35,370"
+          },
+          "offsets": {
+            "from": 35230,
+            "to": 35370
+          },
+          "id": 1012,
+          "p": 0.999805,
+          "t_dtw": -1
+        },
+        {
+          "text": " buy",
+          "timestamps": {
+            "from": "00:00:35,550",
+            "to": "00:00:35,570"
+          },
+          "offsets": {
+            "from": 35550,
+            "to": 35570
+          },
+          "id": 2256,
+          "p": 0.993042,
+          "t_dtw": -1
+        },
+        {
+          "text": " all",
+          "timestamps": {
+            "from": "00:00:35,570",
+            "to": "00:00:35,690"
+          },
+          "offsets": {
+            "from": 35570,
+            "to": 35690
+          },
+          "id": 439,
+          "p": 0.999981,
+          "t_dtw": -1
+        },
+        {
+          "text": " this",
+          "timestamps": {
+            "from": "00:00:35,750",
+            "to": "00:00:35,930"
+          },
+          "offsets": {
+            "from": 35750,
+            "to": 35930
+          },
+          "id": 341,
+          "p": 0.999872,
+          "t_dtw": -1
+        },
+        {
+          "text": " but",
+          "timestamps": {
+            "from": "00:00:35,980",
+            "to": "00:00:36,130"
+          },
+          "offsets": {
+            "from": 35980,
+            "to": 36130
+          },
+          "id": 457,
+          "p": 0.964707,
+          "t_dtw": -1
+        },
+        {
+          "text": " only",
+          "timestamps": {
+            "from": "00:00:36,130",
+            "to": "00:00:36,350"
+          },
+          "offsets": {
+            "from": 36130,
+            "to": 36350
+          },
+          "id": 787,
+          "p": 0.999729,
+          "t_dtw": -1
+        },
+        {
+          "text": " earn",
+          "timestamps": {
+            "from": "00:00:36,350",
+            "to": "00:00:36,570"
+          },
+          "offsets": {
+            "from": 36350,
+            "to": 36570
+          },
+          "id": 6012,
+          "p": 0.999405,
+          "t_dtw": -1
+        },
+        {
+          "text": " 10",
+          "timestamps": {
+            "from": "00:00:36,570",
+            "to": "00:00:36,910"
+          },
+          "offsets": {
+            "from": 36570,
+            "to": 36910
+          },
+          "id": 1266,
+          "p": 0.999805,
+          "t_dtw": -1
+        },
+        {
+          "text": " banana",
+          "timestamps": {
+            "from": "00:00:36,910",
+            "to": "00:00:37,250"
+          },
+          "offsets": {
+            "from": 36910,
+            "to": 37250
+          },
+          "id": 14194,
+          "p": 0.997232,
+          "t_dtw": -1
+        },
+        {
+          "text": "?",
+          "timestamps": {
+            "from": "00:00:37,250",
+            "to": "00:00:37,500"
+          },
+          "offsets": {
+            "from": 37250,
+            "to": 37500
+          },
+          "id": 30,
+          "p": 0.984855,
+          "t_dtw": -1
+        },
+        {
+          "text": " So",
+          "timestamps": {
+            "from": "00:00:37,500",
+            "to": "00:00:37,810"
+          },
+          "offsets": {
+            "from": 37500,
+            "to": 37810
+          },
+          "id": 407,
+          "p": 0.830126,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_562]",
+          "timestamps": {
+            "from": "00:00:37,820",
+            "to": "00:00:37,820"
+          },
+          "offsets": {
+            "from": 37820,
+            "to": 37820
+          },
+          "id": 50927,
+          "p": 0.679615,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:37,820",
+        "to": "00:00:43,720"
+      },
+      "offsets": {
+        "from": 37820,
+        "to": 43720
+      },
+      "text": " government call in the auditor. Auditor part of organization called the IRS. IRS equals internal",
+      "tokens": [
+        {
+          "text": " government",
+          "timestamps": {
+            "from": "00:00:37,860",
+            "to": "00:00:38,490"
+          },
+          "offsets": {
+            "from": 37860,
+            "to": 38490
+          },
+          "id": 2463,
+          "p": 0.998805,
+          "t_dtw": -1
+        },
+        {
+          "text": " call",
+          "timestamps": {
+            "from": "00:00:38,490",
+            "to": "00:00:38,690"
+          },
+          "offsets": {
+            "from": 38490,
+            "to": 38690
+          },
+          "id": 818,
+          "p": 0.999813,
+          "t_dtw": -1
+        },
+        {
+          "text": " in",
+          "timestamps": {
+            "from": "00:00:38,750",
+            "to": "00:00:38,880"
+          },
+          "offsets": {
+            "from": 38750,
+            "to": 38880
+          },
+          "id": 294,
+          "p": 0.999935,
+          "t_dtw": -1
+        },
+        {
+          "text": " the",
+          "timestamps": {
+            "from": "00:00:38,880",
+            "to": "00:00:39,080"
+          },
+          "offsets": {
+            "from": 38880,
+            "to": 39080
+          },
+          "id": 264,
+          "p": 0.999943,
+          "t_dtw": -1
+        },
+        {
+          "text": " auditor",
+          "timestamps": {
+            "from": "00:00:39,080",
+            "to": "00:00:39,550"
+          },
+          "offsets": {
+            "from": 39080,
+            "to": 39550
+          },
+          "id": 33970,
+          "p": 0.997078,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:39,550",
+            "to": "00:00:39,750"
+          },
+          "offsets": {
+            "from": 39550,
+            "to": 39750
+          },
+          "id": 13,
+          "p": 0.999628,
+          "t_dtw": -1
+        },
+        {
+          "text": " Aud",
+          "timestamps": {
+            "from": "00:00:39,750",
+            "to": "00:00:39,950"
+          },
+          "offsets": {
+            "from": 39750,
+            "to": 39950
+          },
+          "id": 8821,
+          "p": 0.998742,
+          "t_dtw": -1
+        },
+        {
+          "text": "itor",
+          "timestamps": {
+            "from": "00:00:39,950",
+            "to": "00:00:40,210"
+          },
+          "offsets": {
+            "from": 39950,
+            "to": 40210
+          },
+          "id": 3029,
+          "p": 0.999655,
+          "t_dtw": -1
+        },
+        {
+          "text": " part",
+          "timestamps": {
+            "from": "00:00:40,210",
+            "to": "00:00:40,470"
+          },
+          "offsets": {
+            "from": 40210,
+            "to": 40470
+          },
+          "id": 644,
+          "p": 0.979342,
+          "t_dtw": -1
+        },
+        {
+          "text": " of",
+          "timestamps": {
+            "from": "00:00:40,470",
+            "to": "00:00:40,600"
+          },
+          "offsets": {
+            "from": 40470,
+            "to": 40600
+          },
+          "id": 295,
+          "p": 0.999987,
+          "t_dtw": -1
+        },
+        {
+          "text": " organization",
+          "timestamps": {
+            "from": "00:00:40,600",
+            "to": "00:00:41,290"
+          },
+          "offsets": {
+            "from": 40600,
+            "to": 41290
+          },
+          "id": 4475,
+          "p": 0.996793,
+          "t_dtw": -1
+        },
+        {
+          "text": " called",
+          "timestamps": {
+            "from": "00:00:41,410",
+            "to": "00:00:41,800"
+          },
+          "offsets": {
+            "from": 41410,
+            "to": 41800
+          },
+          "id": 1219,
+          "p": 0.989191,
+          "t_dtw": -1
+        },
+        {
+          "text": " the",
+          "timestamps": {
+            "from": "00:00:41,800",
+            "to": "00:00:42,000"
+          },
+          "offsets": {
+            "from": 41800,
+            "to": 42000
+          },
+          "id": 264,
+          "p": 0.999971,
+          "t_dtw": -1
+        },
+        {
+          "text": " IRS",
+          "timestamps": {
+            "from": "00:00:42,000",
+            "to": "00:00:42,200"
+          },
+          "offsets": {
+            "from": 42000,
+            "to": 42200
+          },
+          "id": 33848,
+          "p": 0.968841,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:42,200",
+            "to": "00:00:42,370"
+          },
+          "offsets": {
+            "from": 42200,
+            "to": 42370
+          },
+          "id": 13,
+          "p": 0.994569,
+          "t_dtw": -1
+        },
+        {
+          "text": " IRS",
+          "timestamps": {
+            "from": "00:00:42,410",
+            "to": "00:00:42,660"
+          },
+          "offsets": {
+            "from": 42410,
+            "to": 42660
+          },
+          "id": 33848,
+          "p": 0.987637,
+          "t_dtw": -1
+        },
+        {
+          "text": " equals",
+          "timestamps": {
+            "from": "00:00:42,660",
+            "to": "00:00:43,320"
+          },
+          "offsets": {
+            "from": 42660,
+            "to": 43320
+          },
+          "id": 6915,
+          "p": 0.981073,
+          "t_dtw": -1
+        },
+        {
+          "text": " internal",
+          "timestamps": {
+            "from": "00:00:43,320",
+            "to": "00:00:43,720"
+          },
+          "offsets": {
+            "from": 43320,
+            "to": 43720
+          },
+          "id": 6920,
+          "p": 0.680188,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_857]",
+          "timestamps": {
+            "from": "00:00:43,720",
+            "to": "00:00:43,720"
+          },
+          "offsets": {
+            "from": 43720,
+            "to": 43720
+          },
+          "id": 51222,
+          "p": 0.678903,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:43,720",
+        "to": "00:00:48,620"
+      },
+      "offsets": {
+        "from": 43720,
+        "to": 48620
+      },
+      "text": " revenue service. Auditor start watching gorilla. Auditor catch his lie. He chase gorilla. Gorilla",
+      "tokens": [
+        {
+          "text": " revenue",
+          "timestamps": {
+            "from": "00:00:43,760",
+            "to": "00:00:44,060"
+          },
+          "offsets": {
+            "from": 43760,
+            "to": 44060
+          },
+          "id": 9324,
+          "p": 0.99947,
+          "t_dtw": -1
+        },
+        {
+          "text": " service",
+          "timestamps": {
+            "from": "00:00:44,110",
+            "to": "00:00:44,400"
+          },
+          "offsets": {
+            "from": 44110,
+            "to": 44400
+          },
+          "id": 2643,
+          "p": 0.999954,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:44,450",
+            "to": "00:00:44,610"
+          },
+          "offsets": {
+            "from": 44450,
+            "to": 44610
+          },
+          "id": 13,
+          "p": 0.999998,
+          "t_dtw": -1
+        },
+        {
+          "text": " Aud",
+          "timestamps": {
+            "from": "00:00:44,610",
+            "to": "00:00:44,770"
+          },
+          "offsets": {
+            "from": 44610,
+            "to": 44770
+          },
+          "id": 8821,
+          "p": 0.999146,
+          "t_dtw": -1
+        },
+        {
+          "text": "itor",
+          "timestamps": {
+            "from": "00:00:44,770",
+            "to": "00:00:44,980"
+          },
+          "offsets": {
+            "from": 44770,
+            "to": 44980
+          },
+          "id": 3029,
+          "p": 0.593956,
+          "t_dtw": -1
+        },
+        {
+          "text": " start",
+          "timestamps": {
+            "from": "00:00:44,980",
+            "to": "00:00:45,240"
+          },
+          "offsets": {
+            "from": 44980,
+            "to": 45240
+          },
+          "id": 722,
+          "p": 0.999035,
+          "t_dtw": -1
+        },
+        {
+          "text": " watching",
+          "timestamps": {
+            "from": "00:00:45,240",
+            "to": "00:00:45,660"
+          },
+          "offsets": {
+            "from": 45240,
+            "to": 45660
+          },
+          "id": 1976,
+          "p": 0.999516,
+          "t_dtw": -1
+        },
+        {
+          "text": " gorilla",
+          "timestamps": {
+            "from": "00:00:45,660",
+            "to": "00:00:46,030"
+          },
+          "offsets": {
+            "from": 45660,
+            "to": 46030
+          },
+          "id": 45066,
+          "p": 0.992157,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:46,030",
+            "to": "00:00:46,180"
+          },
+          "offsets": {
+            "from": 46030,
+            "to": 46180
+          },
+          "id": 13,
+          "p": 0.999981,
+          "t_dtw": -1
+        },
+        {
+          "text": " Aud",
+          "timestamps": {
+            "from": "00:00:46,180",
+            "to": "00:00:46,340"
+          },
+          "offsets": {
+            "from": 46180,
+            "to": 46340
+          },
+          "id": 8821,
+          "p": 0.998891,
+          "t_dtw": -1
+        },
+        {
+          "text": "itor",
+          "timestamps": {
+            "from": "00:00:46,340",
+            "to": "00:00:46,550"
+          },
+          "offsets": {
+            "from": 46340,
+            "to": 46550
+          },
+          "id": 3029,
+          "p": 0.99991,
+          "t_dtw": -1
+        },
+        {
+          "text": " catch",
+          "timestamps": {
+            "from": "00:00:46,550",
+            "to": "00:00:46,630"
+          },
+          "offsets": {
+            "from": 46550,
+            "to": 46630
+          },
+          "id": 3745,
+          "p": 0.97081,
+          "t_dtw": -1
+        },
+        {
+          "text": " his",
+          "timestamps": {
+            "from": "00:00:46,810",
+            "to": "00:00:46,960"
+          },
+          "offsets": {
+            "from": 46810,
+            "to": 46960
+          },
+          "id": 702,
+          "p": 0.998923,
+          "t_dtw": -1
+        },
+        {
+          "text": " lie",
+          "timestamps": {
+            "from": "00:00:47,020",
+            "to": "00:00:47,130"
+          },
+          "offsets": {
+            "from": 47020,
+            "to": 47130
+          },
+          "id": 4544,
+          "p": 0.99914,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:47,130",
+            "to": "00:00:47,190"
+          },
+          "offsets": {
+            "from": 47130,
+            "to": 47190
+          },
+          "id": 13,
+          "p": 0.992191,
+          "t_dtw": -1
+        },
+        {
+          "text": " He",
+          "timestamps": {
+            "from": "00:00:47,310",
+            "to": "00:00:47,380"
+          },
+          "offsets": {
+            "from": 47310,
+            "to": 47380
+          },
+          "id": 634,
+          "p": 0.999981,
+          "t_dtw": -1
+        },
+        {
+          "text": " chase",
+          "timestamps": {
+            "from": "00:00:47,380",
+            "to": "00:00:47,640"
+          },
+          "offsets": {
+            "from": 47380,
+            "to": 47640
+          },
+          "id": 15359,
+          "p": 0.664129,
+          "t_dtw": -1
+        },
+        {
+          "text": " gorilla",
+          "timestamps": {
+            "from": "00:00:47,640",
+            "to": "00:00:48,010"
+          },
+          "offsets": {
+            "from": 47640,
+            "to": 48010
+          },
+          "id": 45066,
+          "p": 0.998677,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:48,010",
+            "to": "00:00:48,160"
+          },
+          "offsets": {
+            "from": 48010,
+            "to": 48160
+          },
+          "id": 13,
+          "p": 0.999964,
+          "t_dtw": -1
+        },
+        {
+          "text": " Gor",
+          "timestamps": {
+            "from": "00:00:48,160",
+            "to": "00:00:48,320"
+          },
+          "offsets": {
+            "from": 48160,
+            "to": 48320
+          },
+          "id": 26144,
+          "p": 0.977801,
+          "t_dtw": -1
+        },
+        {
+          "text": "illa",
+          "timestamps": {
+            "from": "00:00:48,320",
+            "to": "00:00:48,620"
+          },
+          "offsets": {
+            "from": 48320,
+            "to": 48620
+          },
+          "id": 5291,
+          "p": 0.999811,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_1102]",
+          "timestamps": {
+            "from": "00:00:48,620",
+            "to": "00:00:48,620"
+          },
+          "offsets": {
+            "from": 48620,
+            "to": 48620
+          },
+          "id": 51467,
+          "p": 0.606427,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:48,620",
+        "to": "00:00:54,260"
+      },
+      "offsets": {
+        "from": 48620,
+        "to": 54260
+      },
+      "text": " try to hide at home. Auditor already there. Gorilla try to hide in woods. Auditor there too. Auditor",
+      "tokens": [
+        {
+          "text": " try",
+          "timestamps": {
+            "from": "00:00:48,700",
+            "to": "00:00:48,800"
+          },
+          "offsets": {
+            "from": 48700,
+            "to": 48800
+          },
+          "id": 853,
+          "p": 0.996147,
+          "t_dtw": -1
+        },
+        {
+          "text": " to",
+          "timestamps": {
+            "from": "00:00:48,800",
+            "to": "00:00:48,920"
+          },
+          "offsets": {
+            "from": 48800,
+            "to": 48920
+          },
+          "id": 281,
+          "p": 0.99999,
+          "t_dtw": -1
+        },
+        {
+          "text": " hide",
+          "timestamps": {
+            "from": "00:00:48,920",
+            "to": "00:00:49,160"
+          },
+          "offsets": {
+            "from": 48920,
+            "to": 49160
+          },
+          "id": 6479,
+          "p": 0.999969,
+          "t_dtw": -1
+        },
+        {
+          "text": " at",
+          "timestamps": {
+            "from": "00:00:49,160",
+            "to": "00:00:49,280"
+          },
+          "offsets": {
+            "from": 49160,
+            "to": 49280
+          },
+          "id": 412,
+          "p": 0.999859,
+          "t_dtw": -1
+        },
+        {
+          "text": " home",
+          "timestamps": {
+            "from": "00:00:49,280",
+            "to": "00:00:49,490"
+          },
+          "offsets": {
+            "from": 49280,
+            "to": 49490
+          },
+          "id": 1280,
+          "p": 0.999989,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:49,520",
+            "to": "00:00:49,700"
+          },
+          "offsets": {
+            "from": 49520,
+            "to": 49700
+          },
+          "id": 13,
+          "p": 0.999998,
+          "t_dtw": -1
+        },
+        {
+          "text": " Aud",
+          "timestamps": {
+            "from": "00:00:49,700",
+            "to": "00:00:49,880"
+          },
+          "offsets": {
+            "from": 49700,
+            "to": 49880
+          },
+          "id": 8821,
+          "p": 0.999127,
+          "t_dtw": -1
+        },
+        {
+          "text": "itor",
+          "timestamps": {
+            "from": "00:00:49,880",
+            "to": "00:00:50,120"
+          },
+          "offsets": {
+            "from": 49880,
+            "to": 50120
+          },
+          "id": 3029,
+          "p": 0.999813,
+          "t_dtw": -1
+        },
+        {
+          "text": " already",
+          "timestamps": {
+            "from": "00:00:50,120",
+            "to": "00:00:50,550"
+          },
+          "offsets": {
+            "from": 50120,
+            "to": 50550
+          },
+          "id": 1217,
+          "p": 0.99991,
+          "t_dtw": -1
+        },
+        {
+          "text": " there",
+          "timestamps": {
+            "from": "00:00:50,550",
+            "to": "00:00:50,850"
+          },
+          "offsets": {
+            "from": 50550,
+            "to": 50850
+          },
+          "id": 456,
+          "p": 0.999975,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:50,850",
+            "to": "00:00:51,010"
+          },
+          "offsets": {
+            "from": 50850,
+            "to": 51010
+          },
+          "id": 13,
+          "p": 0.998971,
+          "t_dtw": -1
+        },
+        {
+          "text": " Gor",
+          "timestamps": {
+            "from": "00:00:51,060",
+            "to": "00:00:51,110"
+          },
+          "offsets": {
+            "from": 51060,
+            "to": 51110
+          },
+          "id": 26144,
+          "p": 0.998184,
+          "t_dtw": -1
+        },
+        {
+          "text": "illa",
+          "timestamps": {
+            "from": "00:00:51,230",
+            "to": "00:00:51,450"
+          },
+          "offsets": {
+            "from": 51230,
+            "to": 51450
+          },
+          "id": 5291,
+          "p": 0.999859,
+          "t_dtw": -1
+        },
+        {
+          "text": " try",
+          "timestamps": {
+            "from": "00:00:51,450",
+            "to": "00:00:51,530"
+          },
+          "offsets": {
+            "from": 51450,
+            "to": 51530
+          },
+          "id": 853,
+          "p": 0.998193,
+          "t_dtw": -1
+        },
+        {
+          "text": " to",
+          "timestamps": {
+            "from": "00:00:51,710",
+            "to": "00:00:51,750"
+          },
+          "offsets": {
+            "from": 51710,
+            "to": 51750
+          },
+          "id": 281,
+          "p": 0.999994,
+          "t_dtw": -1
+        },
+        {
+          "text": " hide",
+          "timestamps": {
+            "from": "00:00:51,750",
+            "to": "00:00:51,990"
+          },
+          "offsets": {
+            "from": 51750,
+            "to": 51990
+          },
+          "id": 6479,
+          "p": 0.999981,
+          "t_dtw": -1
+        },
+        {
+          "text": " in",
+          "timestamps": {
+            "from": "00:00:51,990",
+            "to": "00:00:52,090"
+          },
+          "offsets": {
+            "from": 51990,
+            "to": 52090
+          },
+          "id": 294,
+          "p": 0.999981,
+          "t_dtw": -1
+        },
+        {
+          "text": " woods",
+          "timestamps": {
+            "from": "00:00:52,140",
+            "to": "00:00:52,400"
+          },
+          "offsets": {
+            "from": 52140,
+            "to": 52400
+          },
+          "id": 15296,
+          "p": 0.99959,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:52,410",
+            "to": "00:00:52,590"
+          },
+          "offsets": {
+            "from": 52410,
+            "to": 52590
+          },
+          "id": 13,
+          "p": 0.999989,
+          "t_dtw": -1
+        },
+        {
+          "text": " Aud",
+          "timestamps": {
+            "from": "00:00:52,590",
+            "to": "00:00:52,770"
+          },
+          "offsets": {
+            "from": 52590,
+            "to": 52770
+          },
+          "id": 8821,
+          "p": 0.998753,
+          "t_dtw": -1
+        },
+        {
+          "text": "itor",
+          "timestamps": {
+            "from": "00:00:52,770",
+            "to": "00:00:53,010"
+          },
+          "offsets": {
+            "from": 52770,
+            "to": 53010
+          },
+          "id": 3029,
+          "p": 0.999548,
+          "t_dtw": -1
+        },
+        {
+          "text": " there",
+          "timestamps": {
+            "from": "00:00:53,010",
+            "to": "00:00:53,420"
+          },
+          "offsets": {
+            "from": 53010,
+            "to": 53420
+          },
+          "id": 456,
+          "p": 0.999811,
+          "t_dtw": -1
+        },
+        {
+          "text": " too",
+          "timestamps": {
+            "from": "00:00:53,420",
+            "to": "00:00:53,550"
+          },
+          "offsets": {
+            "from": 53420,
+            "to": 53550
+          },
+          "id": 886,
+          "p": 0.957306,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:53,650",
+            "to": "00:00:53,720"
+          },
+          "offsets": {
+            "from": 53650,
+            "to": 53720
+          },
+          "id": 13,
+          "p": 0.99996,
+          "t_dtw": -1
+        },
+        {
+          "text": " Aud",
+          "timestamps": {
+            "from": "00:00:53,720",
+            "to": "00:00:53,940"
+          },
+          "offsets": {
+            "from": 53720,
+            "to": 53940
+          },
+          "id": 8821,
+          "p": 0.705395,
+          "t_dtw": -1
+        },
+        {
+          "text": "itor",
+          "timestamps": {
+            "from": "00:00:53,950",
+            "to": "00:00:54,170"
+          },
+          "offsets": {
+            "from": 53950,
+            "to": 54170
+          },
+          "id": 3029,
+          "p": 0.999886,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_1384]",
+          "timestamps": {
+            "from": "00:00:54,260",
+            "to": "00:00:54,260"
+          },
+          "offsets": {
+            "from": 54260,
+            "to": 54260
+          },
+          "id": 51749,
+          "p": 0.595826,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:54,260",
+        "to": "00:00:59,260"
+      },
+      "offsets": {
+        "from": 54260,
+        "to": 59260
+      },
+      "text": " finally catch gorilla. Make gorilla pay 50 banana, then go to jail. Two things certain in life. Death",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:54,260",
+            "to": "00:00:54,260"
+          },
+          "offsets": {
+            "from": 54260,
+            "to": 54260
+          },
+          "id": 50365,
+          "p": 0.985659,
+          "t_dtw": -1
+        },
+        {
+          "text": " finally",
+          "timestamps": {
+            "from": "00:00:54,310",
+            "to": "00:00:54,600"
+          },
+          "offsets": {
+            "from": 54310,
+            "to": 54600
+          },
+          "id": 2721,
+          "p": 0.983881,
+          "t_dtw": -1
+        },
+        {
+          "text": " catch",
+          "timestamps": {
+            "from": "00:00:54,680",
+            "to": "00:00:54,880"
+          },
+          "offsets": {
+            "from": 54680,
+            "to": 54880
+          },
+          "id": 3745,
+          "p": 0.995695,
+          "t_dtw": -1
+        },
+        {
+          "text": " gorilla",
+          "timestamps": {
+            "from": "00:00:54,880",
+            "to": "00:00:55,240"
+          },
+          "offsets": {
+            "from": 54880,
+            "to": 55240
+          },
+          "id": 45066,
+          "p": 0.93953,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:55,240",
+            "to": "00:00:55,390"
+          },
+          "offsets": {
+            "from": 55240,
+            "to": 55390
+          },
+          "id": 13,
+          "p": 0.982499,
+          "t_dtw": -1
+        },
+        {
+          "text": " Make",
+          "timestamps": {
+            "from": "00:00:55,390",
+            "to": "00:00:55,580"
+          },
+          "offsets": {
+            "from": 55390,
+            "to": 55580
+          },
+          "id": 4387,
+          "p": 0.993375,
+          "t_dtw": -1
+        },
+        {
+          "text": " gorilla",
+          "timestamps": {
+            "from": "00:00:55,590",
+            "to": "00:00:55,950"
+          },
+          "offsets": {
+            "from": 55590,
+            "to": 55950
+          },
+          "id": 45066,
+          "p": 0.966831,
+          "t_dtw": -1
+        },
+        {
+          "text": " pay",
+          "timestamps": {
+            "from": "00:00:55,950",
+            "to": "00:00:56,080"
+          },
+          "offsets": {
+            "from": 55950,
+            "to": 56080
+          },
+          "id": 1689,
+          "p": 0.999129,
+          "t_dtw": -1
+        },
+        {
+          "text": " 50",
+          "timestamps": {
+            "from": "00:00:56,090",
+            "to": "00:00:56,410"
+          },
+          "offsets": {
+            "from": 56090,
+            "to": 56410
+          },
+          "id": 2625,
+          "p": 0.995182,
+          "t_dtw": -1
+        },
+        {
+          "text": " banana",
+          "timestamps": {
+            "from": "00:00:56,410",
+            "to": "00:00:56,720"
+          },
+          "offsets": {
+            "from": 56410,
+            "to": 56720
+          },
+          "id": 14194,
+          "p": 0.997073,
+          "t_dtw": -1
+        },
+        {
+          "text": ",",
+          "timestamps": {
+            "from": "00:00:56,720",
+            "to": "00:00:56,770"
+          },
+          "offsets": {
+            "from": 56720,
+            "to": 56770
+          },
+          "id": 11,
+          "p": 0.352825,
+          "t_dtw": -1
+        },
+        {
+          "text": " then",
+          "timestamps": {
+            "from": "00:00:56,870",
+            "to": "00:00:57,020"
+          },
+          "offsets": {
+            "from": 56870,
+            "to": 57020
+          },
+          "id": 550,
+          "p": 0.996367,
+          "t_dtw": -1
+        },
+        {
+          "text": " go",
+          "timestamps": {
+            "from": "00:00:57,020",
+            "to": "00:00:57,110"
+          },
+          "offsets": {
+            "from": 57020,
+            "to": 57110
+          },
+          "id": 352,
+          "p": 0.999523,
+          "t_dtw": -1
+        },
+        {
+          "text": " to",
+          "timestamps": {
+            "from": "00:00:57,120",
+            "to": "00:00:57,170"
+          },
+          "offsets": {
+            "from": 57120,
+            "to": 57170
+          },
+          "id": 281,
+          "p": 0.999613,
+          "t_dtw": -1
+        },
+        {
+          "text": " jail",
+          "timestamps": {
+            "from": "00:00:57,350",
+            "to": "00:00:57,420"
+          },
+          "offsets": {
+            "from": 57350,
+            "to": 57420
+          },
+          "id": 10511,
+          "p": 0.999743,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:57,420",
+            "to": "00:00:57,570"
+          },
+          "offsets": {
+            "from": 57420,
+            "to": 57570
+          },
+          "id": 13,
+          "p": 0.99955,
+          "t_dtw": -1
+        },
+        {
+          "text": " Two",
+          "timestamps": {
+            "from": "00:00:57,570",
+            "to": "00:00:57,720"
+          },
+          "offsets": {
+            "from": 57570,
+            "to": 57720
+          },
+          "id": 4453,
+          "p": 0.995103,
+          "t_dtw": -1
+        },
+        {
+          "text": " things",
+          "timestamps": {
+            "from": "00:00:57,720",
+            "to": "00:00:57,990"
+          },
+          "offsets": {
+            "from": 57720,
+            "to": 57990
+          },
+          "id": 721,
+          "p": 0.998839,
+          "t_dtw": -1
+        },
+        {
+          "text": " certain",
+          "timestamps": {
+            "from": "00:00:58,030",
+            "to": "00:00:58,390"
+          },
+          "offsets": {
+            "from": 58030,
+            "to": 58390
+          },
+          "id": 1629,
+          "p": 0.999201,
+          "t_dtw": -1
+        },
+        {
+          "text": " in",
+          "timestamps": {
+            "from": "00:00:58,390",
+            "to": "00:00:58,490"
+          },
+          "offsets": {
+            "from": 58390,
+            "to": 58490
+          },
+          "id": 294,
+          "p": 0.995395,
+          "t_dtw": -1
+        },
+        {
+          "text": " life",
+          "timestamps": {
+            "from": "00:00:58,490",
+            "to": "00:00:58,690"
+          },
+          "offsets": {
+            "from": 58490,
+            "to": 58690
+          },
+          "id": 993,
+          "p": 0.999201,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:58,690",
+            "to": "00:00:58,980"
+          },
+          "offsets": {
+            "from": 58690,
+            "to": 58980
+          },
+          "id": 13,
+          "p": 0.281244,
+          "t_dtw": -1
+        },
+        {
+          "text": " Death",
+          "timestamps": {
+            "from": "00:00:58,980",
+            "to": "00:00:59,190"
+          },
+          "offsets": {
+            "from": 58980,
+            "to": 59190
+          },
+          "id": 13703,
+          "p": 0.927055,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_250]",
+          "timestamps": {
+            "from": "00:00:59,260",
+            "to": "00:00:59,260"
+          },
+          "offsets": {
+            "from": 59260,
+            "to": 59260
+          },
+          "id": 50615,
+          "p": 0.460134,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:59,260",
+        "to": "00:01:00,980"
+      },
+      "offsets": {
+        "from": 59260,
+        "to": 60980
+      },
+      "text": " and taxes. So now you know.",
+      "tokens": [
+        {
+          "text": " and",
+          "timestamps": {
+            "from": "00:00:59,340",
+            "to": "00:00:59,450"
+          },
+          "offsets": {
+            "from": 59340,
+            "to": 59450
+          },
+          "id": 293,
+          "p": 0.999096,
+          "t_dtw": -1
+        },
+        {
+          "text": " taxes",
+          "timestamps": {
+            "from": "00:00:59,450",
+            "to": "00:00:59,780"
+          },
+          "offsets": {
+            "from": 59450,
+            "to": 59780
+          },
+          "id": 10041,
+          "p": 0.998931,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:59,780",
+            "to": "00:00:59,960"
+          },
+          "offsets": {
+            "from": 59780,
+            "to": 59960
+          },
+          "id": 13,
+          "p": 0.998325,
+          "t_dtw": -1
+        },
+        {
+          "text": " So",
+          "timestamps": {
+            "from": "00:01:00,000",
+            "to": "00:01:00,100"
+          },
+          "offsets": {
+            "from": 60000,
+            "to": 60100
+          },
+          "id": 407,
+          "p": 0.998239,
+          "t_dtw": -1
+        },
+        {
+          "text": " now",
+          "timestamps": {
+            "from": "00:01:00,100",
+            "to": "00:01:00,290"
+          },
+          "offsets": {
+            "from": 60100,
+            "to": 60290
+          },
+          "id": 586,
+          "p": 0.999739,
+          "t_dtw": -1
+        },
+        {
+          "text": " you",
+          "timestamps": {
+            "from": "00:01:00,290",
+            "to": "00:01:00,460"
+          },
+          "offsets": {
+            "from": 60290,
+            "to": 60460
+          },
+          "id": 291,
+          "p": 0.996244,
+          "t_dtw": -1
+        },
+        {
+          "text": " know",
+          "timestamps": {
+            "from": "00:01:00,480",
+            "to": "00:01:00,740"
+          },
+          "offsets": {
+            "from": 60480,
+            "to": 60740
+          },
+          "id": 458,
+          "p": 0.99992,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:01:00,740",
+            "to": "00:01:00,980"
+          },
+          "offsets": {
+            "from": 60740,
+            "to": 60980
+          },
+          "id": 13,
+          "p": 0.639108,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_336]",
+          "timestamps": {
+            "from": "00:01:00,980",
+            "to": "00:01:00,980"
+          },
+          "offsets": {
+            "from": 60980,
+            "to": 60980
+          },
+          "id": 50701,
+          "p": 0.382086,
+          "t_dtw": -1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+1
+00:00:00,000 --> 00:00:00,960
+ What is insurance?
+
+2
+00:00:00,960 --> 00:00:01,940
+ Gorilla get new car.
+
+3
+00:00:01,940 --> 00:00:04,220
+ Gorilla very happy, but Gorilla worried.
+
+4
+00:00:04,220 --> 00:00:05,240
+ What if crash car?
+
+5
+00:00:05,240 --> 00:00:06,760
+ What if car fall off cliff?
+
+6
+00:00:06,760 --> 00:00:07,900
+ What if car blow up?
+
+7
+00:00:07,900 --> 00:00:09,500
+ So Gorilla, go to Big Boss.
+
+8
+00:00:09,500 --> 00:00:12,720
+ Big Boss say give me five banana every month for insurance.
+
+9
+00:00:12,720 --> 00:00:14,600
+ Then if something bad happened to car,
+
+10
+00:00:14,600 --> 00:00:16,600
+ I give you 500 banana to get new car.
+
+11
+00:00:16,600 --> 00:00:18,440
+ Gorilla think five banana each month
+
+12
+00:00:18,440 --> 00:00:20,040
+ or 500 banana if car break.
+
+13
+00:00:20,040 --> 00:00:22,680
+ If car doesn't break for next 100 months, a good deal.
+
+14
+00:00:22,680 --> 00:00:24,320
+ Two months later, Gorilla crash car.
+
+15
+00:00:24,320 --> 00:00:26,120
+ Big Boss follow rules of deal.
+
+16
+00:00:26,120 --> 00:00:28,080
+ He give 500 banana for car.
+
+17
+00:00:28,080 --> 00:00:29,880
+ Gorilla only spend 10 banana.
+

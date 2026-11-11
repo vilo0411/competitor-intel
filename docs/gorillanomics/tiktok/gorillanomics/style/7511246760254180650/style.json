@@ -1,0 +1,21 @@
+{
+  "id": "7511246760254180650",
+  "duration": 29.888005,
+  "language": "en",
+  "changes": 39,
+  "secPerChange": 0.747200125,
+  "cuts": 0,
+  "changesFirst3s": 4,
+  "firstChangeAt": 0.216667,
+  "wpm": 214.859437751004,
+  "speechCoverage": 0.9997321668006948,
+  "lufs": -18.8,
+  "hook": "What is insurance? Gorilla get new car. Gorilla very happy,",
+  "transcript": "What is insurance? Gorilla get new car. Gorilla very happy, but Gorilla worried. What if crash car? What if car fall off cliff? What if car blow up? So Gorilla, go to Big Boss. Big Boss say give me five banana every month for insurance. Then if something bad happened to car, I give you 500 banana to get new car. Gorilla think five banana each month or 500 banana if car break. If car doesn't break for next 100 months, a good deal. Two months later, Gorilla crash car. Big Boss follow rules of deal. He give 500 banana for car. Gorilla only spend 10 banana.",
+  "grids": [
+    "grid_001.jpg",
+    "grid_002.jpg",
+    "grid_003.jpg",
+    "grid_004.jpg"
+  ]
+}

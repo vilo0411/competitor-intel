@@ -1,0 +1,17 @@
+{
+  "source": "video.mp4",
+  "duration_seconds": 61.12,
+  "resolution": "",
+  "video_stream_index": 1,
+  "fps_rate": 2.0,
+  "grid_layout": "3x5",
+  "total_frames_extracted": 122,
+  "montage_grids": 9,
+  "scene_changes": 1,
+  "scene_timestamps": [
+    53.88
+  ],
+  "estimated_shots": 2,
+  "average_shot_duration_seconds": 30.56,
+  "output_directory": "/home/runner/work/competitor-intel/competitor-intel/docs/gorillanomics/tiktok/gorillanomics/style/7514219246356942122/frames"
+}

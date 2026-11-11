@@ -1,0 +1,1636 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 8
+	},
+	"params": {
+		"model": "/home/runner/whisper/ggml-large-v3-turbo-q5_0.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:05,280"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 5280
+			},
+			"text": " what is money laundering big boss run guerrilla gang guerrilla goons steal smuggle gamble this",
+			"tokens": [
+				{
+					"text": "[_BEG_]",
+					"timestamps": {
+						"from": "00:00:00,000",
+						"to": "00:00:00,000"
+					},
+					"offsets": {
+						"from": 0,
+						"to": 0
+					},
+					"id": 50365,
+					"p": 0.730303,
+					"t_dtw": -1
+				},
+				{
+					"text": " what",
+					"timestamps": {
+						"from": "00:00:00,040",
+						"to": "00:00:00,220"
+					},
+					"offsets": {
+						"from": 40,
+						"to": 220
+					},
+					"id": 437,
+					"p": 0.11654,
+					"t_dtw": -1
+				},
+				{
+					"text": " is",
+					"timestamps": {
+						"from": "00:00:00,220",
+						"to": "00:00:00,300"
+					},
+					"offsets": {
+						"from": 220,
+						"to": 300
+					},
+					"id": 307,
+					"p": 0.990603,
+					"t_dtw": -1
+				},
+				{
+					"text": " money",
+					"timestamps": {
+						"from": "00:00:00,330",
+						"to": "00:00:00,610"
+					},
+					"offsets": {
+						"from": 330,
+						"to": 610
+					},
+					"id": 1460,
+					"p": 0.979787,
+					"t_dtw": -1
+				},
+				{
+					"text": " laund",
+					"timestamps": {
+						"from": "00:00:00,610",
+						"to": "00:00:00,890"
+					},
+					"offsets": {
+						"from": 610,
+						"to": 890
+					},
+					"id": 17245,
+					"p": 0.974822,
+					"t_dtw": -1
+				},
+				{
+					"text": "ering",
+					"timestamps": {
+						"from": "00:00:00,890",
+						"to": "00:00:01,200"
+					},
+					"offsets": {
+						"from": 890,
+						"to": 1200
+					},
+					"id": 1794,
+					"p": 0.998771,
+					"t_dtw": -1
+				},
+				{
+					"text": " big",
+					"timestamps": {
+						"from": "00:00:01,200",
+						"to": "00:00:01,350"
+					},
+					"offsets": {
+						"from": 1200,
+						"to": 1350
+					},
+					"id": 955,
+					"p": 0.273748,
+					"t_dtw": -1
+				},
+				{
+					"text": " boss",
+					"timestamps": {
+						"from": "00:00:01,500",
+						"to": "00:00:01,700"
+					},
+					"offsets": {
+						"from": 1500,
+						"to": 1700
+					},
+					"id": 5741,
+					"p": 0.975963,
+					"t_dtw": -1
+				},
+				{
+					"text": " run",
+					"timestamps": {
+						"from": "00:00:01,840",
+						"to": "00:00:02,080"
+					},
+					"offsets": {
+						"from": 1840,
+						"to": 2080
+					},
+					"id": 1190,
+					"p": 0.966458,
+					"t_dtw": -1
+				},
+				{
+					"text": " guer",
+					"timestamps": {
+						"from": "00:00:02,080",
+						"to": "00:00:02,320"
+					},
+					"offsets": {
+						"from": 2080,
+						"to": 2320
+					},
+					"id": 14486,
+					"p": 0.363756,
+					"t_dtw": -1
+				},
+				{
+					"text": "r",
+					"timestamps": {
+						"from": "00:00:02,320",
+						"to": "00:00:02,380"
+					},
+					"offsets": {
+						"from": 2320,
+						"to": 2380
+					},
+					"id": 81,
+					"p": 0.712365,
+					"t_dtw": -1
+				},
+				{
+					"text": "illa",
+					"timestamps": {
+						"from": "00:00:02,380",
+						"to": "00:00:02,610"
+					},
+					"offsets": {
+						"from": 2380,
+						"to": 2610
+					},
+					"id": 5291,
+					"p": 0.947608,
+					"t_dtw": -1
+				},
+				{
+					"text": " gang",
+					"timestamps": {
+						"from": "00:00:02,610",
+						"to": "00:00:02,880"
+					},
+					"offsets": {
+						"from": 2610,
+						"to": 2880
+					},
+					"id": 10145,
+					"p": 0.364047,
+					"t_dtw": -1
+				},
+				{
+					"text": " guer",
+					"timestamps": {
+						"from": "00:00:02,960",
+						"to": "00:00:03,090"
+					},
+					"offsets": {
+						"from": 2960,
+						"to": 3090
+					},
+					"id": 14486,
+					"p": 0.587191,
+					"t_dtw": -1
+				},
+				{
+					"text": "r",
+					"timestamps": {
+						"from": "00:00:03,090",
+						"to": "00:00:03,140"
+					},
+					"offsets": {
+						"from": 3090,
+						"to": 3140
+					},
+					"id": 81,
+					"p": 0.839725,
+					"t_dtw": -1
+				},
+				{
+					"text": "illa",
+					"timestamps": {
+						"from": "00:00:03,140",
+						"to": "00:00:03,300"
+					},
+					"offsets": {
+						"from": 3140,
+						"to": 3300
+					},
+					"id": 5291,
+					"p": 0.990199,
+					"t_dtw": -1
+				},
+				{
+					"text": " go",
+					"timestamps": {
+						"from": "00:00:03,380",
+						"to": "00:00:03,480"
+					},
+					"offsets": {
+						"from": 3380,
+						"to": 3480
+					},
+					"id": 352,
+					"p": 0.830545,
+					"t_dtw": -1
+				},
+				{
+					"text": "ons",
+					"timestamps": {
+						"from": "00:00:03,480",
+						"to": "00:00:03,670"
+					},
+					"offsets": {
+						"from": 3480,
+						"to": 3670
+					},
+					"id": 892,
+					"p": 0.586164,
+					"t_dtw": -1
+				},
+				{
+					"text": " steal",
+					"timestamps": {
+						"from": "00:00:03,680",
+						"to": "00:00:04,150"
+					},
+					"offsets": {
+						"from": 3680,
+						"to": 4150
+					},
+					"id": 11009,
+					"p": 0.902855,
+					"t_dtw": -1
+				},
+				{
+					"text": " sm",
+					"timestamps": {
+						"from": "00:00:04,160",
+						"to": "00:00:04,290"
+					},
+					"offsets": {
+						"from": 4160,
+						"to": 4290
+					},
+					"id": 899,
+					"p": 0.830472,
+					"t_dtw": -1
+				},
+				{
+					"text": "uggle",
+					"timestamps": {
+						"from": "00:00:04,290",
+						"to": "00:00:04,620"
+					},
+					"offsets": {
+						"from": 4290,
+						"to": 4620
+					},
+					"id": 31726,
+					"p": 0.973268,
+					"t_dtw": -1
+				},
+				{
+					"text": " gamble",
+					"timestamps": {
+						"from": "00:00:04,710",
+						"to": "00:00:05,110"
+					},
+					"offsets": {
+						"from": 4710,
+						"to": 5110
+					},
+					"id": 44128,
+					"p": 0.964631,
+					"t_dtw": -1
+				},
+				{
+					"text": " this",
+					"timestamps": {
+						"from": "00:00:05,150",
+						"to": "00:00:05,270"
+					},
+					"offsets": {
+						"from": 5150,
+						"to": 5270
+					},
+					"id": 341,
+					"p": 0.887333,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_264]",
+					"timestamps": {
+						"from": "00:00:05,280",
+						"to": "00:00:05,280"
+					},
+					"offsets": {
+						"from": 5280,
+						"to": 5280
+					},
+					"id": 50629,
+					"p": 0.409493,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,280",
+				"to": "00:00:10,720"
+			},
+			"offsets": {
+				"from": 5280,
+				"to": 10720
+			},
+			"text": " make mob boss very rich but this all dirty banana boss can't spend or else police sus need clean",
+			"tokens": [
+				{
+					"text": " make",
+					"timestamps": {
+						"from": "00:00:05,320",
+						"to": "00:00:05,560"
+					},
+					"offsets": {
+						"from": 5320,
+						"to": 5560
+					},
+					"id": 652,
+					"p": 0.983072,
+					"t_dtw": -1
+				},
+				{
+					"text": " mob",
+					"timestamps": {
+						"from": "00:00:05,560",
+						"to": "00:00:05,770"
+					},
+					"offsets": {
+						"from": 5560,
+						"to": 5770
+					},
+					"id": 4298,
+					"p": 0.97926,
+					"t_dtw": -1
+				},
+				{
+					"text": " boss",
+					"timestamps": {
+						"from": "00:00:05,770",
+						"to": "00:00:06,040"
+					},
+					"offsets": {
+						"from": 5770,
+						"to": 6040
+					},
+					"id": 5741,
+					"p": 0.99475,
+					"t_dtw": -1
+				},
+				{
+					"text": " very",
+					"timestamps": {
+						"from": "00:00:06,050",
+						"to": "00:00:06,320"
+					},
+					"offsets": {
+						"from": 6050,
+						"to": 6320
+					},
+					"id": 588,
+					"p": 0.995851,
+					"t_dtw": -1
+				},
+				{
+					"text": " rich",
+					"timestamps": {
+						"from": "00:00:06,330",
+						"to": "00:00:06,610"
+					},
+					"offsets": {
+						"from": 6330,
+						"to": 6610
+					},
+					"id": 4593,
+					"p": 0.997992,
+					"t_dtw": -1
+				},
+				{
+					"text": " but",
+					"timestamps": {
+						"from": "00:00:06,610",
+						"to": "00:00:06,820"
+					},
+					"offsets": {
+						"from": 6610,
+						"to": 6820
+					},
+					"id": 457,
+					"p": 0.983582,
+					"t_dtw": -1
+				},
+				{
+					"text": " this",
+					"timestamps": {
+						"from": "00:00:06,820",
+						"to": "00:00:06,980"
+					},
+					"offsets": {
+						"from": 6820,
+						"to": 6980
+					},
+					"id": 341,
+					"p": 0.998283,
+					"t_dtw": -1
+				},
+				{
+					"text": " all",
+					"timestamps": {
+						"from": "00:00:07,120",
+						"to": "00:00:07,310"
+					},
+					"offsets": {
+						"from": 7120,
+						"to": 7310
+					},
+					"id": 439,
+					"p": 0.987762,
+					"t_dtw": -1
+				},
+				{
+					"text": " dirty",
+					"timestamps": {
+						"from": "00:00:07,310",
+						"to": "00:00:07,660"
+					},
+					"offsets": {
+						"from": 7310,
+						"to": 7660
+					},
+					"id": 9360,
+					"p": 0.996312,
+					"t_dtw": -1
+				},
+				{
+					"text": " banana",
+					"timestamps": {
+						"from": "00:00:07,660",
+						"to": "00:00:08,080"
+					},
+					"offsets": {
+						"from": 7660,
+						"to": 8080
+					},
+					"id": 14194,
+					"p": 0.998215,
+					"t_dtw": -1
+				},
+				{
+					"text": " boss",
+					"timestamps": {
+						"from": "00:00:08,080",
+						"to": "00:00:08,360"
+					},
+					"offsets": {
+						"from": 8080,
+						"to": 8360
+					},
+					"id": 5741,
+					"p": 0.990003,
+					"t_dtw": -1
+				},
+				{
+					"text": " can",
+					"timestamps": {
+						"from": "00:00:08,360",
+						"to": "00:00:08,570"
+					},
+					"offsets": {
+						"from": 8360,
+						"to": 8570
+					},
+					"id": 393,
+					"p": 0.998393,
+					"t_dtw": -1
+				},
+				{
+					"text": "'t",
+					"timestamps": {
+						"from": "00:00:08,570",
+						"to": "00:00:08,710"
+					},
+					"offsets": {
+						"from": 8570,
+						"to": 8710
+					},
+					"id": 380,
+					"p": 0.997354,
+					"t_dtw": -1
+				},
+				{
+					"text": " spend",
+					"timestamps": {
+						"from": "00:00:08,710",
+						"to": "00:00:09,050"
+					},
+					"offsets": {
+						"from": 8710,
+						"to": 9050
+					},
+					"id": 3496,
+					"p": 0.997976,
+					"t_dtw": -1
+				},
+				{
+					"text": " or",
+					"timestamps": {
+						"from": "00:00:09,120",
+						"to": "00:00:09,200"
+					},
+					"offsets": {
+						"from": 9120,
+						"to": 9200
+					},
+					"id": 420,
+					"p": 0.992489,
+					"t_dtw": -1
+				},
+				{
+					"text": " else",
+					"timestamps": {
+						"from": "00:00:09,200",
+						"to": "00:00:09,460"
+					},
+					"offsets": {
+						"from": 9200,
+						"to": 9460
+					},
+					"id": 1646,
+					"p": 0.99898,
+					"t_dtw": -1
+				},
+				{
+					"text": " police",
+					"timestamps": {
+						"from": "00:00:09,470",
+						"to": "00:00:09,890"
+					},
+					"offsets": {
+						"from": 9470,
+						"to": 9890
+					},
+					"id": 3804,
+					"p": 0.994101,
+					"t_dtw": -1
+				},
+				{
+					"text": " sus",
+					"timestamps": {
+						"from": "00:00:09,900",
+						"to": "00:00:10,160"
+					},
+					"offsets": {
+						"from": 9900,
+						"to": 10160
+					},
+					"id": 3291,
+					"p": 0.604516,
+					"t_dtw": -1
+				},
+				{
+					"text": " need",
+					"timestamps": {
+						"from": "00:00:10,160",
+						"to": "00:00:10,390"
+					},
+					"offsets": {
+						"from": 10160,
+						"to": 10390
+					},
+					"id": 643,
+					"p": 0.751047,
+					"t_dtw": -1
+				},
+				{
+					"text": " clean",
+					"timestamps": {
+						"from": "00:00:10,460",
+						"to": "00:00:10,720"
+					},
+					"offsets": {
+						"from": 10460,
+						"to": 10720
+					},
+					"id": 2541,
+					"p": 0.954417,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_536]",
+					"timestamps": {
+						"from": "00:00:10,720",
+						"to": "00:00:10,720"
+					},
+					"offsets": {
+						"from": 10720,
+						"to": 10720
+					},
+					"id": 50901,
+					"p": 0.870323,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,720",
+				"to": "00:00:17,440"
+			},
+			"offsets": {
+				"from": 10720,
+				"to": 17440
+			},
+			"text": " bananas to spend so boss open store he say it make many banana he lie store profit actually from",
+			"tokens": [
+				{
+					"text": " bananas",
+					"timestamps": {
+						"from": "00:00:10,760",
+						"to": "00:00:11,330"
+					},
+					"offsets": {
+						"from": 10760,
+						"to": 11330
+					},
+					"id": 22742,
+					"p": 0.998519,
+					"t_dtw": -1
+				},
+				{
+					"text": " to",
+					"timestamps": {
+						"from": "00:00:11,330",
+						"to": "00:00:11,500"
+					},
+					"offsets": {
+						"from": 11330,
+						"to": 11500
+					},
+					"id": 281,
+					"p": 0.999786,
+					"t_dtw": -1
+				},
+				{
+					"text": " spend",
+					"timestamps": {
+						"from": "00:00:11,500",
+						"to": "00:00:11,930"
+					},
+					"offsets": {
+						"from": 11500,
+						"to": 11930
+					},
+					"id": 3496,
+					"p": 0.999537,
+					"t_dtw": -1
+				},
+				{
+					"text": " so",
+					"timestamps": {
+						"from": "00:00:11,930",
+						"to": "00:00:12,070"
+					},
+					"offsets": {
+						"from": 11930,
+						"to": 12070
+					},
+					"id": 370,
+					"p": 0.999283,
+					"t_dtw": -1
+				},
+				{
+					"text": " boss",
+					"timestamps": {
+						"from": "00:00:12,220",
+						"to": "00:00:12,420"
+					},
+					"offsets": {
+						"from": 12220,
+						"to": 12420
+					},
+					"id": 5741,
+					"p": 0.99752,
+					"t_dtw": -1
+				},
+				{
+					"text": " open",
+					"timestamps": {
+						"from": "00:00:12,560",
+						"to": "00:00:12,800"
+					},
+					"offsets": {
+						"from": 12560,
+						"to": 12800
+					},
+					"id": 1269,
+					"p": 0.872908,
+					"t_dtw": -1
+				},
+				{
+					"text": " store",
+					"timestamps": {
+						"from": "00:00:12,800",
+						"to": "00:00:13,220"
+					},
+					"offsets": {
+						"from": 12800,
+						"to": 13220
+					},
+					"id": 3531,
+					"p": 0.99786,
+					"t_dtw": -1
+				},
+				{
+					"text": " he",
+					"timestamps": {
+						"from": "00:00:13,220",
+						"to": "00:00:13,400"
+					},
+					"offsets": {
+						"from": 13220,
+						"to": 13400
+					},
+					"id": 415,
+					"p": 0.99709,
+					"t_dtw": -1
+				},
+				{
+					"text": " say",
+					"timestamps": {
+						"from": "00:00:13,400",
+						"to": "00:00:13,650"
+					},
+					"offsets": {
+						"from": 13400,
+						"to": 13650
+					},
+					"id": 584,
+					"p": 0.985669,
+					"t_dtw": -1
+				},
+				{
+					"text": " it",
+					"timestamps": {
+						"from": "00:00:13,680",
+						"to": "00:00:13,830"
+					},
+					"offsets": {
+						"from": 13680,
+						"to": 13830
+					},
+					"id": 309,
+					"p": 0.999439,
+					"t_dtw": -1
+				},
+				{
+					"text": " make",
+					"timestamps": {
+						"from": "00:00:13,830",
+						"to": "00:00:14,180"
+					},
+					"offsets": {
+						"from": 13830,
+						"to": 14180
+					},
+					"id": 652,
+					"p": 0.986718,
+					"t_dtw": -1
+				},
+				{
+					"text": " many",
+					"timestamps": {
+						"from": "00:00:14,180",
+						"to": "00:00:14,490"
+					},
+					"offsets": {
+						"from": 14180,
+						"to": 14490
+					},
+					"id": 867,
+					"p": 0.997054,
+					"t_dtw": -1
+				},
+				{
+					"text": " banana",
+					"timestamps": {
+						"from": "00:00:14,560",
+						"to": "00:00:15,050"
+					},
+					"offsets": {
+						"from": 14560,
+						"to": 15050
+					},
+					"id": 14194,
+					"p": 0.996797,
+					"t_dtw": -1
+				},
+				{
+					"text": " he",
+					"timestamps": {
+						"from": "00:00:15,050",
+						"to": "00:00:15,220"
+					},
+					"offsets": {
+						"from": 15050,
+						"to": 15220
+					},
+					"id": 415,
+					"p": 0.99818,
+					"t_dtw": -1
+				},
+				{
+					"text": " lie",
+					"timestamps": {
+						"from": "00:00:15,220",
+						"to": "00:00:15,480"
+					},
+					"offsets": {
+						"from": 15220,
+						"to": 15480
+					},
+					"id": 4544,
+					"p": 0.945465,
+					"t_dtw": -1
+				},
+				{
+					"text": " store",
+					"timestamps": {
+						"from": "00:00:15,480",
+						"to": "00:00:15,910"
+					},
+					"offsets": {
+						"from": 15480,
+						"to": 15910
+					},
+					"id": 3531,
+					"p": 0.886756,
+					"t_dtw": -1
+				},
+				{
+					"text": " profit",
+					"timestamps": {
+						"from": "00:00:15,910",
+						"to": "00:00:16,430"
+					},
+					"offsets": {
+						"from": 15910,
+						"to": 16430
+					},
+					"id": 7475,
+					"p": 0.992905,
+					"t_dtw": -1
+				},
+				{
+					"text": " actually",
+					"timestamps": {
+						"from": "00:00:16,430",
+						"to": "00:00:17,200"
+					},
+					"offsets": {
+						"from": 16430,
+						"to": 17200
+					},
+					"id": 767,
+					"p": 0.991291,
+					"t_dtw": -1
+				},
+				{
+					"text": " from",
+					"timestamps": {
+						"from": "00:00:17,200",
+						"to": "00:00:17,440"
+					},
+					"offsets": {
+						"from": 17200,
+						"to": 17440
+					},
+					"id": 490,
+					"p": 0.662194,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_872]",
+					"timestamps": {
+						"from": "00:00:17,440",
+						"to": "00:00:17,440"
+					},
+					"offsets": {
+						"from": 17440,
+						"to": 17440
+					},
+					"id": 51237,
+					"p": 0.585741,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,440",
+				"to": "00:00:21,840"
+			},
+			"offsets": {
+				"from": 17440,
+				"to": 21840
+			},
+			"text": " crime profit now boss can use the dirty banana but people think it's clean because it came from",
+			"tokens": [
+				{
+					"text": " crime",
+					"timestamps": {
+						"from": "00:00:17,480",
+						"to": "00:00:17,720"
+					},
+					"offsets": {
+						"from": 17480,
+						"to": 17720
+					},
+					"id": 7206,
+					"p": 0.99042,
+					"t_dtw": -1
+				},
+				{
+					"text": " profit",
+					"timestamps": {
+						"from": "00:00:17,730",
+						"to": "00:00:18,050"
+					},
+					"offsets": {
+						"from": 17730,
+						"to": 18050
+					},
+					"id": 7475,
+					"p": 0.990858,
+					"t_dtw": -1
+				},
+				{
+					"text": " now",
+					"timestamps": {
+						"from": "00:00:18,050",
+						"to": "00:00:18,200"
+					},
+					"offsets": {
+						"from": 18050,
+						"to": 18200
+					},
+					"id": 586,
+					"p": 0.999153,
+					"t_dtw": -1
+				},
+				{
+					"text": " boss",
+					"timestamps": {
+						"from": "00:00:18,210",
+						"to": "00:00:18,430"
+					},
+					"offsets": {
+						"from": 18210,
+						"to": 18430
+					},
+					"id": 5741,
+					"p": 0.99894,
+					"t_dtw": -1
+				},
+				{
+					"text": " can",
+					"timestamps": {
+						"from": "00:00:18,430",
+						"to": "00:00:18,590"
+					},
+					"offsets": {
+						"from": 18430,
+						"to": 18590
+					},
+					"id": 393,
+					"p": 0.999767,
+					"t_dtw": -1
+				},
+				{
+					"text": " use",
+					"timestamps": {
+						"from": "00:00:18,590",
+						"to": "00:00:18,750"
+					},
+					"offsets": {
+						"from": 18590,
+						"to": 18750
+					},
+					"id": 764,
+					"p": 0.999674,
+					"t_dtw": -1
+				},
+				{
+					"text": " the",
+					"timestamps": {
+						"from": "00:00:18,750",
+						"to": "00:00:18,790"
+					},
+					"offsets": {
+						"from": 18750,
+						"to": 18790
+					},
+					"id": 264,
+					"p": 0.999908,
+					"t_dtw": -1
+				},
+				{
+					"text": " dirty",
+					"timestamps": {
+						"from": "00:00:18,940",
+						"to": "00:00:19,140"
+					},
+					"offsets": {
+						"from": 18940,
+						"to": 19140
+					},
+					"id": 9360,
+					"p": 0.999371,
+					"t_dtw": -1
+				},
+				{
+					"text": " banana",
+					"timestamps": {
+						"from": "00:00:19,280",
+						"to": "00:00:19,520"
+					},
+					"offsets": {
+						"from": 19280,
+						"to": 19520
+					},
+					"id": 14194,
+					"p": 0.999823,
+					"t_dtw": -1
+				},
+				{
+					"text": " but",
+					"timestamps": {
+						"from": "00:00:19,520",
+						"to": "00:00:19,670"
+					},
+					"offsets": {
+						"from": 19520,
+						"to": 19670
+					},
+					"id": 457,
+					"p": 0.999763,
+					"t_dtw": -1
+				},
+				{
+					"text": " people",
+					"timestamps": {
+						"from": "00:00:19,680",
+						"to": "00:00:20,010"
+					},
+					"offsets": {
+						"from": 19680,
+						"to": 20010
+					},
+					"id": 561,
+					"p": 0.999914,
+					"t_dtw": -1
+				},
+				{
+					"text": " think",
+					"timestamps": {
+						"from": "00:00:20,010",
+						"to": "00:00:20,280"
+					},
+					"offsets": {
+						"from": 20010,
+						"to": 20280
+					},
+					"id": 519,
+					"p": 0.9998,
+					"t_dtw": -1
+				},
+				{
+					"text": " it",
+					"timestamps": {
+						"from": "00:00:20,290",
+						"to": "00:00:20,400"
+					},
+					"offsets": {
+						"from": 20290,
+						"to": 20400
+					},
+					"id": 309,
+					"p": 0.998441,
+					"t_dtw": -1
+				},
+				{
+					"text": "'s",
+					"timestamps": {
+						"from": "00:00:20,400",
+						"to": "00:00:20,500"
+					},
+					"offsets": {
+						"from": 20400,
+						"to": 20500
+					},
+					"id": 311,
+					"p": 0.999928,
+					"t_dtw": -1
+				},
+				{
+					"text": " clean",
+					"timestamps": {
+						"from": "00:00:20,510",
+						"to": "00:00:20,750"
+					},
+					"offsets": {
+						"from": 20510,
+						"to": 20750
+					},
+					"id": 2541,
+					"p": 0.999716,
+					"t_dtw": -1
+				},
+				{
+					"text": " because",
+					"timestamps": {
+						"from": "00:00:20,790",
+						"to": "00:00:21,180"
+					},
+					"offsets": {
+						"from": 20790,
+						"to": 21180
+					},
+					"id": 570,
+					"p": 0.99987,
+					"t_dtw": -1
+				},
+				{
+					"text": " it",
+					"timestamps": {
+						"from": "00:00:21,280",
+						"to": "00:00:21,410"
+					},
+					"offsets": {
+						"from": 21280,
+						"to": 21410
+					},
+					"id": 309,
+					"p": 0.982695,
+					"t_dtw": -1
+				},
+				{
+					"text": " came",
+					"timestamps": {
+						"from": "00:00:21,410",
+						"to": "00:00:21,660"
+					},
+					"offsets": {
+						"from": 21410,
+						"to": 21660
+					},
+					"id": 1361,
+					"p": 0.999159,
+					"t_dtw": -1
+				},
+				{
+					"text": " from",
+					"timestamps": {
+						"from": "00:00:21,670",
+						"to": "00:00:21,840"
+					},
+					"offsets": {
+						"from": 21670,
+						"to": 21840
+					},
+					"id": 490,
+					"p": 0.961309,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_1092]",
+					"timestamps": {
+						"from": "00:00:21,840",
+						"to": "00:00:21,840"
+					},
+					"offsets": {
+						"from": 21840,
+						"to": 21840
+					},
+					"id": 51457,
+					"p": 0.424386,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,840",
+				"to": "00:00:27,280"
+			},
+			"offsets": {
+				"from": 21840,
+				"to": 27280
+			},
+			"text": " his store he make more fake business dirty banana trail hard to follow boss make bad banana look",
+			"tokens": [
+				{
+					"text": " his",
+					"timestamps": {
+						"from": "00:00:21,880",
+						"to": "00:00:22,040"
+					},
+					"offsets": {
+						"from": 21880,
+						"to": 22040
+					},
+					"id": 702,
+					"p": 0.995754,
+					"t_dtw": -1
+				},
+				{
+					"text": " store",
+					"timestamps": {
+						"from": "00:00:22,040",
+						"to": "00:00:22,380"
+					},
+					"offsets": {
+						"from": 22040,
+						"to": 22380
+					},
+					"id": 3531,
+					"p": 0.998972,
+					"t_dtw": -1
+				},
+				{
+					"text": " he",
+					"timestamps": {
+						"from": "00:00:22,380",
+						"to": "00:00:22,510"
+					},
+					"offsets": {
+						"from": 22380,
+						"to": 22510
+					},
+					"id": 415,
+					"p": 0.997571,
+					"t_dtw": -1
+				},
+				{
+					"text": " make",
+					"timestamps": {
+						"from": "00:00:22,510",
+						"to": "00:00:22,780"
+					},
+					"offsets": {
+						"from": 22510,
+						"to": 22780
+					},
+					"id": 652,
+					"p": 0.947545,
+					"t_dtw": -1
+				},
+				{
+					"text": " more",
+					"timestamps": {
+						"from": "00:00:22,780",
+						"to": "00:00:23,050"
+					},
+					"offsets": {
+						"from": 22780,
+						"to": 23050
+					},
+					"id": 544,
+					"p": 0.999767,
+					"t_dtw": -1
+				},
+				{
+					"text": " fake",
+					"timestamps": {
+						"from": "00:00:23,050",
+						"to": "00:00:23,190"
+					},
+					"offsets": {
+						"from": 23050,
+						"to": 23190
+					},
+					"id": 7592,
+					"p": 0.998957,
+					"t_dtw": -1
+				},
+				{
+					"text": " business",
+					"timestamps": {
+						"from": "00:00:23,340",
+						"to": "00:00:23,870"
+					},
+					"offsets": {
+						"from": 23340,
+						"to": 23870
+					},
+					"id": 1606,
+					"p": 0.999148,
+					"t_dtw": -1
+				},
+				{
+					"text": " dirty",
+					"timestamps": {
+						"from": "00:00:23,870",
+						"to": "00:00:24,210"
+					},
+					"offsets": {
+						"from": 23870,
+						"to": 24210
+					},
+					"id": 9360,
+					"p": 0.999432,
+					"t_dtw": -1
+				},
+				{
+					"text": " banana",
+					"timestamps": {
+						"from": "00:00:24,210",
+						"to": "00:00:24,610"
+					},
+					"offsets": {
+						"from": 24210,
+						"to": 24610
+					},
+					"id": 14194,
+					"p": 0.999699,
+					"t_dtw": -1
+				},
+				{
+					"text": " trail",
+					"timestamps": {
+						"from": "00:00:24,620",
+						"to": "00:00:24,960"
+					},
+					"offsets": {
+						"from": 24620,
+						"to": 24960
+					},
+					"id": 9924,
+					"p": 0.997702,
+					"t_dtw": -1
+				},
+				{
+					"text": " hard",
+					"timestamps": {
+						"from": "00:00:24,960",
+						"to": "00:00:25,140"
+					},
+					"offsets": {
+						"from": 24960,
+						"to": 25140
+					},
+					"id": 1152,
+					"p": 0.999661,
+					"t_dtw": -1
+				},
+				{
+					"text": " to",
+					"timestamps": {
+						"from": "00:00:25,220",
+						"to": "00:00:25,360"
+					},
+					"offsets": {
+						"from": 25220,
+						"to": 25360
+					},
+					"id": 281,
+					"p": 0.999609,
+					"t_dtw": -1
+				},
+				{
+					"text": " follow",
+					"timestamps": {
+						"from": "00:00:25,360",
+						"to": "00:00:25,770"
+					},
+					"offsets": {
+						"from": 25360,
+						"to": 25770
+					},
+					"id": 1524,
+					"p": 0.999729,
+					"t_dtw": -1
+				},
+				{
+					"text": " boss",
+					"timestamps": {
+						"from": "00:00:25,770",
+						"to": "00:00:26,020"
+					},
+					"offsets": {
+						"from": 25770,
+						"to": 26020
+					},
+					"id": 5741,
+					"p": 0.99704,
+					"t_dtw": -1
+				},
+				{
+					"text": " make",
+					"timestamps": {
+						"from": "00:00:26,040",
+						"to": "00:00:26,310"
+					},
+					"offsets": {
+						"from": 26040,
+						"to": 26310
+					},
+					"id": 652,
+					"p": 0.99127,
+					"t_dtw": -1
+				},
+				{
+					"text": " bad",
+					"timestamps": {
+						"from": "00:00:26,310",
+						"to": "00:00:26,460"
+					},
+					"offsets": {
+						"from": 26310,
+						"to": 26460
+					},
+					"id": 1578,
+					"p": 0.998711,
+					"t_dtw": -1
+				},
+				{
+					"text": " banana",
+					"timestamps": {
+						"from": "00:00:26,530",
+						"to": "00:00:27,040"
+					},
+					"offsets": {
+						"from": 26530,
+						"to": 27040
+					},
+					"id": 14194,
+					"p": 0.994003,
+					"t_dtw": -1
+				},
+				{
+					"text": " look",
+					"timestamps": {
+						"from": "00:00:27,040",
+						"to": "00:00:27,280"
+					},
+					"offsets": {
+						"from": 27040,
+						"to": 27280
+					},
+					"id": 574,
+					"p": 0.987743,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_1364]",
+					"timestamps": {
+						"from": "00:00:27,280",
+						"to": "00:00:27,280"
+					},
+					"offsets": {
+						"from": 27280,
+						"to": 27280
+					},
+					"id": 51729,
+					"p": 0.876822,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,280",
+				"to": "00:00:30,280"
+			},
+			"offsets": {
+				"from": 27280,
+				"to": 30280
+			},
+			"text": " clean this illegal",
+			"tokens": [
+				{
+					"text": "[_BEG_]",
+					"timestamps": {
+						"from": "00:00:27,280",
+						"to": "00:00:27,280"
+					},
+					"offsets": {
+						"from": 27280,
+						"to": 27280
+					},
+					"id": 50365,
+					"p": 0.945146,
+					"t_dtw": -1
+				},
+				{
+					"text": " clean",
+					"timestamps": {
+						"from": "00:00:27,320",
+						"to": "00:00:28,280"
+					},
+					"offsets": {
+						"from": 27320,
+						"to": 28280
+					},
+					"id": 2541,
+					"p": 0.591381,
+					"t_dtw": -1
+				},
+				{
+					"text": " this",
+					"timestamps": {
+						"from": "00:00:28,280",
+						"to": "00:00:28,980"
+					},
+					"offsets": {
+						"from": 28280,
+						"to": 28980
+					},
+					"id": 341,
+					"p": 0.638265,
+					"t_dtw": -1
+				},
+				{
+					"text": " illegal",
+					"timestamps": {
+						"from": "00:00:29,120",
+						"to": "00:00:30,280"
+					},
+					"offsets": {
+						"from": 29120,
+						"to": 30280
+					},
+					"id": 11905,
+					"p": 0.980925,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_150]",
+					"timestamps": {
+						"from": "00:00:30,280",
+						"to": "00:00:30,280"
+					},
+					"offsets": {
+						"from": 30280,
+						"to": 30280
+					},
+					"id": 50515,
+					"p": 0.0355685,
+					"t_dtw": -1
+				}
+			]
+		}
+	]
+}

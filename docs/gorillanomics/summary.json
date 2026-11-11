@@ -1,0 +1,462 @@
+{
+  "name": "Gorillanomics",
+  "updated": "2026-11-11",
+  "tiktok": [
+    {
+      "handle": "gorillanomics",
+      "profile": {
+        "followers": 166000,
+        "hearts": 2700000,
+        "videoCount": 61,
+        "nickname": "Gorillanomics",
+        "bio": "📚smart made simple\ntappedinbiz@gmail.com 📩"
+      },
+      "stats": {
+        "n": 61,
+        "first": "2025-05-19",
+        "last": "2026-05-29",
+        "daysSinceLast": 166,
+        "totalViews": 25745600,
+        "meanViews": 422059.01639344264,
+        "medianViews": 153400,
+        "maxViews": 6500000,
+        "minViews": 15200,
+        "medianER": 0.08825833774483854,
+        "postsPerWeek": 1.1379051833276261,
+        "medianGapDays": 1.8469849537037037,
+        "postsLast30": 0,
+        "medianDuration": 61,
+        "originalSoundShare": 1,
+        "viralCount": 12
+      },
+      "takeaways": {
+        "viral": "Top 3 video chiếm 45,1% tổng view: kênh sống nhờ vài cú viral, video thường chỉ quanh 153k",
+        "trend": "View trung vị giảm: 289k ở 3 tháng đầu → 56k ở 3 tháng gần nhất",
+        "cadence": "Đăng 1,1 video/tuần; tháng dày nhất T6/25 có 13 video; 30 ngày qua: 0 video",
+        "time": "Đăng chiều (14–18h) (giờ VN) có view trung vị cao nhất: 232k; thứ tốt nhất là T7 (398k)",
+        "duration": "Độ dài ≤30s có view trung vị cao nhất: 559k (11 video)",
+        "tags": "Hashtag đi kèm view cao hơn trung vị kênh: #economic, #fyp, #finance"
+      },
+      "timeBuckets": [
+        {
+          "name": "Sáng (5–11h)",
+          "count": 11,
+          "median": 192000
+        },
+        {
+          "name": "Trưa (11–14h)",
+          "count": 26,
+          "median": 127950
+        },
+        {
+          "name": "Chiều (14–18h)",
+          "count": 11,
+          "median": 232000
+        },
+        {
+          "name": "Tối (18–23h)",
+          "count": 1,
+          "median": 22600
+        },
+        {
+          "name": "Đêm (23–5h)",
+          "count": 12,
+          "median": 205350
+        }
+      ],
+      "categories": [
+        {
+          "name": "Chưa phân loại",
+          "count": 61,
+          "median": 153400,
+          "mean": 422059.01639344264
+        }
+      ],
+      "months": [
+        {
+          "name": "2025-05",
+          "count": 10,
+          "median": 334300,
+          "mean": 519160
+        },
+        {
+          "name": "2025-06",
+          "count": 13,
+          "median": 288800,
+          "mean": 1094523.076923077
+        },
+        {
+          "name": "2025-07",
+          "count": 2,
+          "median": 227550,
+          "mean": 227550
+        },
+        {
+          "name": "2025-08",
+          "count": 5,
+          "median": 153400,
+          "mean": 234160
+        },
+        {
+          "name": "2025-09",
+          "count": 3,
+          "median": 142300,
+          "mean": 153633.33333333334
+        },
+        {
+          "name": "2025-10",
+          "count": 1,
+          "median": 550900,
+          "mean": 550900
+        },
+        {
+          "name": "2025-11",
+          "count": 5,
+          "median": 42500,
+          "mean": 106100
+        },
+        {
+          "name": "2026-01",
+          "count": 5,
+          "median": 70400,
+          "mean": 272180
+        },
+        {
+          "name": "2026-02",
+          "count": 4,
+          "median": 197250,
+          "mean": 202025
+        },
+        {
+          "name": "2026-03",
+          "count": 5,
+          "median": 131100,
+          "mean": 114460
+        },
+        {
+          "name": "2026-04",
+          "count": 4,
+          "median": 56000,
+          "mean": 69950
+        },
+        {
+          "name": "2026-05",
+          "count": 4,
+          "median": 26950,
+          "mean": 33975
+        }
+      ],
+      "weekdays": [
+        {
+          "name": "T2",
+          "count": 8,
+          "median": 136600
+        },
+        {
+          "name": "T3",
+          "count": 11,
+          "median": 281800
+        },
+        {
+          "name": "T4",
+          "count": 8,
+          "median": 127350
+        },
+        {
+          "name": "T5",
+          "count": 6,
+          "median": 122450
+        },
+        {
+          "name": "T6",
+          "count": 10,
+          "median": 139100
+        },
+        {
+          "name": "T7",
+          "count": 7,
+          "median": 398400
+        },
+        {
+          "name": "CN",
+          "count": 11,
+          "median": 142300
+        }
+      ],
+      "durations": [
+        {
+          "name": "≤30s",
+          "count": 11,
+          "median": 558500
+        },
+        {
+          "name": "31–45s",
+          "count": 8,
+          "median": 167050
+        },
+        {
+          "name": "46–60s",
+          "count": 5,
+          "median": 131100
+        },
+        {
+          "name": "61–90s",
+          "count": 37,
+          "median": 124800
+        }
+      ],
+      "tags": [
+        {
+          "name": "#finance",
+          "count": 50,
+          "median": 180350
+        },
+        {
+          "name": "#fyp",
+          "count": 28,
+          "median": 270050
+        },
+        {
+          "name": "#economics",
+          "count": 27,
+          "median": 70400
+        },
+        {
+          "name": "#economic",
+          "count": 24,
+          "median": 289800
+        },
+        {
+          "name": "#news",
+          "count": 11,
+          "median": 56000
+        },
+        {
+          "name": "#currentevents",
+          "count": 9,
+          "median": 56000
+        },
+        {
+          "name": "#politics",
+          "count": 9,
+          "median": 35800
+        },
+        {
+          "name": "#financialliteracy",
+          "count": 7,
+          "median": 131100
+        },
+        {
+          "name": "#tiktoklearningcampaign",
+          "count": 4,
+          "median": 61850
+        },
+        {
+          "name": "#personalfinance",
+          "count": 4,
+          "median": 61850
+        },
+        {
+          "name": "#war",
+          "count": 2,
+          "median": 133700
+        },
+        {
+          "name": "#iran",
+          "count": 2,
+          "median": 133700
+        },
+        {
+          "name": "#recessionindicators",
+          "count": 1,
+          "median": 290800
+        },
+        {
+          "name": "#recession",
+          "count": 1,
+          "median": 290800
+        },
+        {
+          "name": "#invincible",
+          "count": 1,
+          "median": 232000
+        }
+      ],
+      "styles": [
+        {
+          "id": "7514219246356942122",
+          "duration": 61.12,
+          "language": "en",
+          "changes": 67,
+          "secPerChange": 0.8988235294117647,
+          "cuts": 1,
+          "changesFirst3s": 5,
+          "firstChangeAt": 0.4,
+          "wpm": 191.86618563463432,
+          "speechCoverage": 0.9977094240837696,
+          "lufs": -18.7,
+          "hook": "What is tax evasion? Gorilla work 9 to 5.",
+          "title": "Gorillas explain Tax Evasion #economic #finance #fyp ",
+          "views": 6500000,
+          "folder": "tiktok/gorillanomics/style/7514219246356942122"
+        },
+        {
+          "id": "7511246760254180650",
+          "duration": 29.888005,
+          "language": "en",
+          "changes": 39,
+          "secPerChange": 0.747200125,
+          "cuts": 0,
+          "changesFirst3s": 4,
+          "firstChangeAt": 0.216667,
+          "wpm": 214.859437751004,
+          "speechCoverage": 0.9997321668006948,
+          "lufs": -18.8,
+          "hook": "What is insurance? Gorilla get new car. Gorilla very happy,",
+          "title": "Gorillas explain Insurance #economic #finance #fyp ",
+          "views": 3200000,
+          "folder": "tiktok/gorillanomics/style/7511246760254180650"
+        },
+        {
+          "id": "7507727025692495146",
+          "duration": 28.466667,
+          "language": "en",
+          "changes": 29,
+          "secPerChange": 0.9488889,
+          "cuts": 2,
+          "changesFirst3s": 3,
+          "firstChangeAt": 0.333333,
+          "wpm": 193.91100475514045,
+          "speechCoverage": 1,
+          "lufs": -18.9,
+          "hook": "what is money laundering big boss run guerrilla gang guerrilla",
+          "title": "Gorillas explain Money Laundering #economic #finance #fyp ",
+          "views": 1900000,
+          "folder": "tiktok/gorillanomics/style/7507727025692495146"
+        }
+      ],
+      "top": [
+        {
+          "id": "7514219246356942122",
+          "title": "Gorillas explain Tax Evasion #economic #finance #fyp ",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7514219246356942122",
+          "views": 6500000,
+          "er": 0.10570876923076923,
+          "duration": 61,
+          "date": "2025-06-10",
+          "time": "14:30",
+          "category": "Chưa phân loại",
+          "ratio": 42.3728813559322
+        },
+        {
+          "id": "7511246760254180650",
+          "title": "Gorillas explain Insurance #economic #finance #fyp ",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7511246760254180650",
+          "views": 3200000,
+          "er": 0.13070625,
+          "duration": 29,
+          "date": "2025-06-02",
+          "time": "14:15",
+          "category": "Chưa phân loại",
+          "ratio": 20.860495436766623
+        },
+        {
+          "id": "7507727025692495146",
+          "title": "Gorillas explain Money Laundering #economic #finance #fyp ",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7507727025692495146",
+          "views": 1900000,
+          "er": 0.13909526315789475,
+          "duration": 28,
+          "date": "2025-05-24",
+          "time": "02:35",
+          "category": "Chưa phân loại",
+          "ratio": 12.385919165580182
+        },
+        {
+          "id": "7512346700695129390",
+          "title": "Gorillas explain Mortgage #economic #finance #fyp ",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7512346700695129390",
+          "views": 1500000,
+          "er": 0.1415,
+          "duration": 60,
+          "date": "2025-06-05",
+          "time": "13:23",
+          "category": "Chưa phân loại",
+          "ratio": 9.778357235984355
+        },
+        {
+          "id": "7598652375418686734",
+          "title": "ICE explained by Gorills #finance #economics #politics #ice #currentevents ",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7598652375418686734",
+          "views": 1100000,
+          "er": 0.05665,
+          "duration": 61,
+          "date": "2026-01-24",
+          "time": "03:12",
+          "category": "Chưa phân loại",
+          "ratio": 7.170795306388527
+        },
+        {
+          "id": "7508066844973223214",
+          "title": "Gorillas explain Credit Score #economic #finance #fyp",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7508066844973223214",
+          "views": 905400,
+          "er": 0.11105809586922907,
+          "duration": 25,
+          "date": "2025-05-25",
+          "time": "00:34",
+          "category": "Chưa phân loại",
+          "ratio": 5.902216427640156
+        },
+        {
+          "id": "7511981862139514158",
+          "title": "Gorillas explain Capitalism #economic #finance #fyp ",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7511981862139514158",
+          "views": 713100,
+          "er": 0.1127653905483102,
+          "duration": 27,
+          "date": "2025-06-04",
+          "time": "13:47",
+          "category": "Chưa phân loại",
+          "ratio": 4.648631029986962
+        },
+        {
+          "id": "7508459051450191146",
+          "title": "Gorillas explain Fake Money #economic #finance #fyp ",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7508459051450191146",
+          "views": 658800,
+          "er": 0.10460078931390407,
+          "duration": 28,
+          "date": "2025-05-26",
+          "time": "01:56",
+          "category": "Chưa phân loại",
+          "ratio": 4.294654498044329
+        },
+        {
+          "id": "7512737228787830058",
+          "title": "Gorillas explain Vacation Time #economic #finance #fyp ",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7512737228787830058",
+          "views": 558500,
+          "er": 0.11694359892569382,
+          "duration": 24,
+          "date": "2025-06-06",
+          "time": "14:38",
+          "category": "Chưa phân loại",
+          "ratio": 3.6408083441981747
+        },
+        {
+          "id": "7564943939237580087",
+          "title": "Pyramid Schemes explain by Gorillas #finance #economics #financialliteracy ",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7564943939237580087",
+          "views": 550900,
+          "er": 0.06397168270103468,
+          "duration": 61,
+          "date": "2025-10-25",
+          "time": "07:06",
+          "category": "Chưa phân loại",
+          "ratio": 3.591264667535854
+        }
+      ]
+    }
+  ]
+}

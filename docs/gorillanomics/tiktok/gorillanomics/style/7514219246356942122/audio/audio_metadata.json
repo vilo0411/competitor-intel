@@ -1,0 +1,16 @@
+{
+  "source": "video.mp4",
+  "audio_file": "/home/runner/work/competitor-intel/competitor-intel/docs/gorillanomics/tiktok/gorillanomics/style/7514219246356942122/audio/audio.wav",
+  "transcription_engine": "whisper-cli",
+  "whisper_model": "large",
+  "segments_count": 12,
+  "word_or_syllable_count": 195,
+  "speech_span_seconds": 60.98,
+  "syllables_per_second": 3.2,
+  "words_per_minute": 191.9,
+  "silence_intervals_count": 0,
+  "silence_file": "/home/runner/work/competitor-intel/competitor-intel/docs/gorillanomics/tiktok/gorillanomics/style/7514219246356942122/audio/silence.txt",
+  "volume_file": "/home/runner/work/competitor-intel/competitor-intel/docs/gorillanomics/tiktok/gorillanomics/style/7514219246356942122/audio/volume.txt",
+  "sample_rate": 16000,
+  "channels": 1
+}

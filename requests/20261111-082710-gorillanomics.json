@@ -1,8 +1,0 @@
-{
-  "id": "20261111-082710-gorillanomics",
-  "name": "Gorillanomics",
-  "channels": ["@gorillanomics"],
-  "refresh": false,
-  "style": 3,
-  "limit": 300
-}
