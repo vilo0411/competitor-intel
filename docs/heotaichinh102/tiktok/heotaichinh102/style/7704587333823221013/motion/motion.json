@@ -1,0 +1,7418 @@
+{
+  "source": "video.mp4",
+  "width": 1024,
+  "height": 576,
+  "duration": 501.83,
+  "analysisFps": 3.59,
+  "analysisSize": [
+    180,
+    102
+  ],
+  "boxUnits": "fraction of frame [x, y, w, h]",
+  "captionTrack": {
+    "box": [
+      0.222,
+      0.92,
+      0.556,
+      0.08
+    ],
+    "swaps": 26,
+    "medianInterval": 9.48
+  },
+  "shots": [
+    {
+      "index": 1,
+      "start": 0.03,
+      "end": 0.56,
+      "startWord": "Bạn",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 2,
+      "start": 0.56,
+      "end": 2.23,
+      "startWord": "tiền",
+      "fps": 3.59,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0,
+            0,
+            0.044,
+            0.08
+          ],
+          "shape": "block",
+          "colour": "#aea58f"
+        },
+        {
+          "box": [
+            0.933,
+            0,
+            0.067,
+            0.08
+          ],
+          "shape": "block",
+          "colour": "#aea58f"
+        }
+      ],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 3,
+      "start": 2.23,
+      "end": 4.6,
+      "startWord": "hộ,",
+      "fps": 3.59,
+      "layer": {
+        "share": 0.035,
+        "box": [
+          0.689,
+          0.36,
+          0.178,
+          0.4
+        ]
+      },
+      "static": [
+        {
+          "box": [
+            0,
+            0,
+            0.044,
+            0.08
+          ],
+          "shape": "block",
+          "colour": "#aea58f"
+        },
+        {
+          "box": [
+            0.933,
+            0,
+            0.067,
+            0.08
+          ],
+          "shape": "block",
+          "colour": "#aea58f"
+        },
+        {
+          "box": [
+            0.156,
+            0.04,
+            0.689,
+            0.24
+          ],
+          "shape": "block",
+          "colour": "#91969e"
+        },
+        {
+          "box": [
+            0.067,
+            0.36,
+            0.022,
+            0.28
+          ],
+          "shape": "block",
+          "colour": "#e2d7bb"
+        },
+        {
+          "box": [
+            0.911,
+            0.36,
+            0.022,
+            0.28
+          ],
+          "shape": "block",
+          "colour": "#e2d6ba"
+        },
+        {
+          "box": [
+            0.222,
+            0.84,
+            0.178,
+            0.04
+          ],
+          "shape": "block",
+          "colour": "#e8dbc0"
+        },
+        {
+          "box": [
+            0.622,
+            0.84,
+            0.156,
+            0.04
+          ],
+          "shape": "block",
+          "colour": "#e8dbc0"
+        }
+      ],
+      "events": [
+        {
+          "t0": 2.51,
+          "t1": 3.9,
+          "box": [
+            0.111,
+            0.28,
+            0.778,
+            0.52
+          ],
+          "area": 0.273,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": "right",
+          "slide": null,
+          "scale": null,
+          "colour": "#f3eddb",
+          "word": "quán"
+        },
+        {
+          "t0": 2.51,
+          "t1": 2.79,
+          "box": [
+            0.244,
+            0.92,
+            0.511,
+            0.08
+          ],
+          "area": 0.039,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#7f7765",
+          "word": "quán",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 4,
+      "start": 4.6,
+      "end": 71.27,
+      "startWord": "chưa",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 21.75,
+          "t1": 30.11,
+          "box": [
+            0.156,
+            0.16,
+            0.111,
+            0.08
+          ],
+          "area": 0.005,
+          "kind": "temporary",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#b7a99d",
+          "word": "câu",
+          "endWord": "Nhưng"
+        },
+        {
+          "t0": 24.81,
+          "t1": 29.83,
+          "box": [
+            0.4,
+            0.4,
+            0.2,
+            0.04
+          ],
+          "area": 0.005,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#b5a191",
+          "word": "phép",
+          "endWord": "Nhưng"
+        },
+        {
+          "t0": 27.6,
+          "t1": 28.99,
+          "box": [
+            0.2,
+            0.16,
+            0.067,
+            0.04
+          ],
+          "area": 0.003,
+          "kind": "temporary",
+          "easing": "linear",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#997456",
+          "word": "rất"
+        },
+        {
+          "t0": 35.96,
+          "t1": 36.24,
+          "box": [
+            0.333,
+            0.36,
+            0.333,
+            0.08
+          ],
+          "area": 0.004,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#eed096",
+          "word": "sao?"
+        },
+        {
+          "t0": 57.71,
+          "t1": 65.8,
+          "box": [
+            0.311,
+            0.28,
+            0.489,
+            0.64
+          ],
+          "area": 0.039,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#e1c696"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 5,
+      "start": 71.27,
+      "end": 93.87,
+      "startWord": "thứ",
+      "fps": 3.59,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0,
+            0,
+            0.378,
+            1
+          ],
+          "shape": "block",
+          "colour": "#dddad0"
+        },
+        {
+          "box": [
+            0.644,
+            0,
+            0.356,
+            0.36
+          ],
+          "shape": "block",
+          "colour": "#d6d2c9"
+        },
+        {
+          "box": [
+            0.822,
+            0.6,
+            0.178,
+            0.4
+          ],
+          "shape": "block",
+          "colour": "#dbd9d0"
+        }
+      ],
+      "events": [
+        {
+          "t0": 72.21,
+          "t1": 89.21,
+          "box": [
+            0.6,
+            0.64,
+            0.067,
+            0.16
+          ],
+          "area": 0.009,
+          "kind": "temporary",
+          "easing": "ease_out",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#dbe4d1",
+          "word": "bao"
+        },
+        {
+          "t0": 72.49,
+          "t1": 92.28,
+          "box": [
+            0.711,
+            0.12,
+            0.111,
+            0.12
+          ],
+          "area": 0.013,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#8e8780",
+          "word": "nhiêu",
+          "endWord": "nghỉốm,"
+        },
+        {
+          "t0": 75.55,
+          "t1": 89.77,
+          "box": [
+            0.711,
+            0.2,
+            0.156,
+            0.12
+          ],
+          "area": 0.014,
+          "kind": "disappear",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#384662"
+        },
+        {
+          "t0": 75.55,
+          "t1": 75.83,
+          "box": [
+            0.356,
+            0.6,
+            0.044,
+            0.2
+          ],
+          "area": 0.009,
+          "kind": "disappear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#594b4f"
+        },
+        {
+          "t0": 75.55,
+          "t1": 83.36,
+          "box": [
+            0.111,
+            0.64,
+            0.178,
+            0.16
+          ],
+          "area": 0.025,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#9a766e",
+          "endWord": "600"
+        },
+        {
+          "t0": 78.62,
+          "t1": 83.36,
+          "box": [
+            0.644,
+            0.64,
+            0.222,
+            0.04
+          ],
+          "area": 0.009,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#cdcbc2",
+          "word": "thuê",
+          "endWord": "600"
+        },
+        {
+          "t0": 79.74,
+          "t1": 83.36,
+          "box": [
+            0.6,
+            0.64,
+            0.289,
+            0.24
+          ],
+          "area": 0.043,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#d9dacd",
+          "word": "Mỗi",
+          "endWord": "600"
+        },
+        {
+          "t0": 83.36,
+          "t1": 89.77,
+          "box": [
+            0.111,
+            0.2,
+            0.178,
+            0.12
+          ],
+          "area": 0.014,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#eee6d4",
+          "word": "600",
+          "endWord": "10"
+        },
+        {
+          "t0": 84.48,
+          "t1": 89.77,
+          "box": [
+            0.867,
+            0.2,
+            0.044,
+            0.12
+          ],
+          "area": 0.004,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#8e8880",
+          "word": "60",
+          "endWord": "10"
+        },
+        {
+          "t0": 89.49,
+          "t1": 89.77,
+          "box": [
+            0.356,
+            0.28,
+            0.622,
+            0.32
+          ],
+          "area": 0.017,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#f5f2e8"
+        },
+        {
+          "t0": 92.28,
+          "t1": 93.4,
+          "box": [
+            0.222,
+            0.92,
+            0.533,
+            0.08
+          ],
+          "area": 0.043,
+          "kind": "change",
+          "easing": "ease_out",
+          "sweep": "right",
+          "slide": null,
+          "scale": null,
+          "colour": "#888883",
+          "word": "nghỉốm,",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 6,
+      "start": 93.87,
+      "end": 96.74,
+      "startWord": "thì",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 94.23,
+          "t1": 94.51,
+          "box": [
+            0.244,
+            0.12,
+            0.511,
+            0.16
+          ],
+          "area": 0.079,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#b7c6a7",
+          "word": "mới"
+        },
+        {
+          "t0": 94.23,
+          "t1": 94.51,
+          "box": [
+            0.422,
+            0.64,
+            0.156,
+            0.2
+          ],
+          "area": 0.03,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#88af7e",
+          "word": "mới"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 7,
+      "start": 96.74,
+      "end": 112.6,
+      "startWord": "Con",
+      "fps": 3.59,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0,
+            0,
+            0.311,
+            0.6
+          ],
+          "shape": "block",
+          "colour": "#e1dfd4"
+        },
+        {
+          "box": [
+            0.689,
+            0,
+            0.311,
+            0.36
+          ],
+          "shape": "block",
+          "colour": "#e1dfd6"
+        },
+        {
+          "box": [
+            0,
+            0.76,
+            0.289,
+            0.24
+          ],
+          "shape": "block",
+          "colour": "#dddad1"
+        },
+        {
+          "box": [
+            0.733,
+            0.76,
+            0.267,
+            0.24
+          ],
+          "shape": "block",
+          "colour": "#dfddd3"
+        }
+      ],
+      "events": [
+        {
+          "t0": 97.02,
+          "t1": 97.3,
+          "box": [
+            0.089,
+            0.4,
+            0.889,
+            0.16
+          ],
+          "area": 0.06,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#f5f3e8",
+          "word": "Con"
+        },
+        {
+          "t0": 100.37,
+          "t1": 102.32,
+          "box": [
+            0.622,
+            0.72,
+            0.133,
+            0.12
+          ],
+          "area": 0.014,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#7c756d",
+          "word": "Giá",
+          "endWord": "Hiểu"
+        },
+        {
+          "t0": 100.65,
+          "t1": 102.32,
+          "box": [
+            0.311,
+            0.8,
+            0.067,
+            0.04
+          ],
+          "area": 0.003,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#c4bdb5",
+          "word": "cho",
+          "endWord": "Hiểu"
+        },
+        {
+          "t0": 102.04,
+          "t1": 110.68,
+          "box": [
+            0.267,
+            0.12,
+            0.467,
+            0.72
+          ],
+          "area": 0.074,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#f3eddb"
+        },
+        {
+          "t0": 108.17,
+          "t1": 110.12,
+          "box": [
+            0.622,
+            0.64,
+            0.356,
+            0.08
+          ],
+          "area": 0.028,
+          "kind": "temporary",
+          "easing": "ease_in",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#cb8176",
+          "word": "20",
+          "endWord": "10"
+        },
+        {
+          "t0": 108.17,
+          "t1": 110.12,
+          "box": [
+            0.022,
+            0.64,
+            0.111,
+            0.08
+          ],
+          "area": 0.009,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#b14c46",
+          "word": "20",
+          "endWord": "10"
+        },
+        {
+          "t0": 109.85,
+          "t1": 110.68,
+          "box": [
+            0.156,
+            0.08,
+            0.578,
+            0.72
+          ],
+          "area": 0.178,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#f3eddb",
+          "word": "Nhưng"
+        },
+        {
+          "t0": 109.85,
+          "t1": 110.12,
+          "box": [
+            0.356,
+            0.92,
+            0.289,
+            0.08
+          ],
+          "area": 0.023,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#8a8a84",
+          "word": "Nhưng",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 8,
+      "start": 112.6,
+      "end": 112.91,
+      "startWord": "đứng",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 9,
+      "start": 112.91,
+      "end": 115.1,
+      "startWord": "một",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 10,
+      "start": 115.1,
+      "end": 124.23,
+      "startWord": "Phải",
+      "fps": 3.59,
+      "layer": {
+        "share": 0.017,
+        "box": [
+          0.156,
+          0.48,
+          0.422,
+          0.32
+        ]
+      },
+      "static": [],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 11,
+      "start": 124.23,
+      "end": 161.42,
+      "startWord": "Đó",
+      "fps": 3.59,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0,
+            0,
+            0.289,
+            1
+          ],
+          "shape": "block",
+          "colour": "#dddad1"
+        },
+        {
+          "box": [
+            0.711,
+            0,
+            0.289,
+            1
+          ],
+          "shape": "block",
+          "colour": "#e1ded4"
+        }
+      ],
+      "events": [
+        {
+          "t0": 127.97,
+          "t1": 128.25,
+          "box": [
+            0.6,
+            0.36,
+            0.089,
+            0.32
+          ],
+          "area": 0.004,
+          "kind": "disappear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#f3eddb",
+          "word": "8"
+        },
+        {
+          "t0": 127.97,
+          "t1": 155.85,
+          "box": [
+            0.089,
+            0.48,
+            0.133,
+            0.28
+          ],
+          "area": 0.036,
+          "kind": "change",
+          "easing": "ease_out",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": null,
+          "word": "8"
+        },
+        {
+          "t0": 134.38,
+          "t1": 134.66,
+          "box": [
+            0.311,
+            0.32,
+            0.333,
+            0.04
+          ],
+          "area": 0.005,
+          "kind": "disappear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#655b54"
+        },
+        {
+          "t0": 136.05,
+          "t1": 143.02,
+          "box": [
+            0.867,
+            0.4,
+            0.044,
+            0.16
+          ],
+          "area": 0.006,
+          "kind": "temporary",
+          "easing": "ease_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#b03831",
+          "word": "khoảng",
+          "endWord": "hai,"
+        },
+        {
+          "t0": 140.79,
+          "t1": 143.02,
+          "box": [
+            0.2,
+            0.12,
+            0.044,
+            0.12
+          ],
+          "area": 0.005,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#8d3531",
+          "word": "vậy",
+          "endWord": "hai,"
+        },
+        {
+          "t0": 140.79,
+          "t1": 143.02,
+          "box": [
+            0.756,
+            0.12,
+            0.044,
+            0.12
+          ],
+          "area": 0.005,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#923534",
+          "word": "vậy",
+          "endWord": "hai,"
+        },
+        {
+          "t0": 147.2,
+          "t1": 155.85,
+          "box": [
+            0.133,
+            0.32,
+            0.089,
+            0.48
+          ],
+          "area": 0.018,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#c09678",
+          "word": "nướng,",
+          "endWord": "triệu"
+        },
+        {
+          "t0": 147.2,
+          "t1": 147.48,
+          "box": [
+            0.4,
+            0.32,
+            0.222,
+            0.4
+          ],
+          "area": 0.03,
+          "kind": "disappear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#c67d61",
+          "word": "nướng,"
+        },
+        {
+          "t0": 150.83,
+          "t1": 151.11,
+          "box": [
+            0.244,
+            0.92,
+            0.511,
+            0.08
+          ],
+          "area": 0.003,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#beb49f",
+          "word": "cũ,",
+          "caption": true
+        },
+        {
+          "t0": 155.57,
+          "t1": 156.13,
+          "box": [
+            0.311,
+            0.08,
+            0.378,
+            0.2
+          ],
+          "area": 0.072,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#bec0c3",
+          "word": "600"
+        },
+        {
+          "t0": 155.57,
+          "t1": 156.4,
+          "box": [
+            0.267,
+            0.32,
+            0.489,
+            0.48
+          ],
+          "area": 0.124,
+          "kind": "change",
+          "easing": "ease_out",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#f0d6a9",
+          "word": "600"
+        },
+        {
+          "t0": 158.08,
+          "t1": 158.64,
+          "box": [
+            0.311,
+            0.4,
+            0.511,
+            0.16
+          ],
+          "area": 0.06,
+          "kind": "appear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#e89d3f",
+          "word": "nghê."
+        },
+        {
+          "t0": 158.08,
+          "t1": 158.36,
+          "box": [
+            0.244,
+            0.92,
+            0.489,
+            0.08
+          ],
+          "area": 0.036,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#7d7c77",
+          "word": "nghê.",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 12,
+      "start": 161.42,
+      "end": 173.97,
+      "fps": 3.59,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0,
+            0,
+            0.067,
+            0.08
+          ],
+          "shape": "block",
+          "colour": "#aea790"
+        }
+      ],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 13,
+      "start": 173.97,
+      "end": 188.6,
+      "startWord": "đầu.",
+      "fps": 3.59,
+      "layer": {
+        "share": 0.015,
+        "box": [
+          0.2,
+          0.48,
+          0.378,
+          0.32
+        ]
+      },
+      "static": [
+        {
+          "box": [
+            0.378,
+            0.4,
+            0.067,
+            0.08
+          ],
+          "shape": "block",
+          "colour": "#efcc94"
+        }
+      ],
+      "events": [
+        {
+          "t0": 174.53,
+          "t1": 183.17,
+          "box": [
+            0.222,
+            0.44,
+            0.378,
+            0.36
+          ],
+          "area": 0.012,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#d9bb85",
+          "word": "Nghĩa"
+        },
+        {
+          "t0": 174.81,
+          "t1": 188.19,
+          "box": [
+            0.644,
+            0.92,
+            0.044,
+            0.08
+          ],
+          "area": 0.004,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#64645b",
+          "word": "Nghĩa"
+        },
+        {
+          "t0": 178.99,
+          "t1": 183.17,
+          "box": [
+            0.178,
+            0.2,
+            0.133,
+            0.16
+          ],
+          "area": 0.021,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#d8d4d1",
+          "word": "mùi",
+          "endWord": "thêm"
+        },
+        {
+          "t0": 179.27,
+          "t1": 188.19,
+          "box": [
+            0.156,
+            0.48,
+            0.467,
+            0.48
+          ],
+          "area": 0.073,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#c6b689",
+          "word": "thơm"
+        },
+        {
+          "t0": 182.61,
+          "t1": 187.91,
+          "box": [
+            0.689,
+            0.56,
+            0.133,
+            0.4
+          ],
+          "area": 0.011,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#bd9f85",
+          "word": "Ông"
+        },
+        {
+          "t0": 184.28,
+          "t1": 188.19,
+          "box": [
+            0.156,
+            0.2,
+            0.489,
+            0.8
+          ],
+          "area": 0.11,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#b7ad97"
+        },
+        {
+          "t0": 185.68,
+          "t1": 188.19,
+          "box": [
+            0.689,
+            0.56,
+            0.156,
+            0.36
+          ],
+          "area": 0.028,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#ac9480",
+          "word": "đừng"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 14,
+      "start": 188.6,
+      "end": 199.67,
+      "startWord": "chỉ",
+      "fps": 3.59,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0,
+            0,
+            0.289,
+            0.52
+          ],
+          "shape": "block",
+          "colour": "#d9d7cd"
+        },
+        {
+          "box": [
+            0.467,
+            0.32,
+            0.067,
+            0.08
+          ],
+          "shape": "block",
+          "colour": "#f5f3e8"
+        },
+        {
+          "box": [
+            0,
+            0.64,
+            0.2,
+            0.36
+          ],
+          "shape": "block",
+          "colour": "#d8d6cc"
+        },
+        {
+          "box": [
+            0.467,
+            0.72,
+            0.067,
+            0.04
+          ],
+          "shape": "block",
+          "colour": "#f5f3e8"
+        }
+      ],
+      "events": [
+        {
+          "t0": 190.7,
+          "t1": 197.95,
+          "box": [
+            0.133,
+            0.68,
+            0.311,
+            0.2
+          ],
+          "area": 0.038,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#ede7d6",
+          "word": "vàng",
+          "endWord": "Giờ"
+        },
+        {
+          "t0": 192.65,
+          "t1": 197.95,
+          "box": [
+            0.578,
+            0.28,
+            0.289,
+            0.16
+          ],
+          "area": 0.018,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#f2ead8",
+          "word": "bánh",
+          "endWord": "Giờ"
+        },
+        {
+          "t0": 192.65,
+          "t1": 197.95,
+          "box": [
+            0.556,
+            0.72,
+            0.311,
+            0.16
+          ],
+          "area": 0.033,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#e7bb94",
+          "word": "bánh",
+          "endWord": "Giờ"
+        },
+        {
+          "t0": 194.88,
+          "t1": 197.95,
+          "box": [
+            0.222,
+            0.8,
+            0.556,
+            0.12
+          ],
+          "area": 0.01,
+          "kind": "disappear",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#d3d4cb",
+          "word": "Hai"
+        },
+        {
+          "t0": 197.67,
+          "t1": 199.34,
+          "box": [
+            0.067,
+            0.12,
+            0.844,
+            0.56
+          ],
+          "area": 0.229,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#edebe7"
+        },
+        {
+          "t0": 197.67,
+          "t1": 197.95,
+          "box": [
+            0.333,
+            0.92,
+            0.333,
+            0.08
+          ],
+          "area": 0.026,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#979692",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 15,
+      "start": 199.67,
+      "end": 210.21,
+      "startWord": "thấy",
+      "fps": 3.59,
+      "layer": {
+        "share": 0.025,
+        "box": [
+          0.111,
+          0.28,
+          0.222,
+          0.4
+        ]
+      },
+      "static": [
+        {
+          "box": [
+            0.333,
+            0.32,
+            0.156,
+            0.16
+          ],
+          "shape": "block",
+          "colour": "#f5f3e8"
+        },
+        {
+          "box": [
+            0.378,
+            0.6,
+            0.044,
+            0.28
+          ],
+          "shape": "block",
+          "colour": "#f5f3e8"
+        },
+        {
+          "box": [
+            0,
+            0.84,
+            0.244,
+            0.16
+          ],
+          "shape": "block",
+          "colour": "#d1cfc5"
+        }
+      ],
+      "events": [
+        {
+          "t0": 200.18,
+          "t1": 202.41,
+          "box": [
+            0.067,
+            0.12,
+            0.844,
+            0.56
+          ],
+          "area": 0.084,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#f5f3e8",
+          "word": "được"
+        },
+        {
+          "t0": 203.52,
+          "t1": 203.8,
+          "box": [
+            0.467,
+            0.24,
+            0.378,
+            0.08
+          ],
+          "area": 0.029,
+          "kind": "appear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#a49f96",
+          "word": "triệu"
+        },
+        {
+          "t0": 204.92,
+          "t1": 205.47,
+          "box": [
+            0.511,
+            0.36,
+            0.311,
+            0.08
+          ],
+          "area": 0.025,
+          "kind": "appear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": true,
+          "colour": "#b4ccaa",
+          "word": "120"
+        },
+        {
+          "t0": 207.15,
+          "t1": 209.38,
+          "box": [
+            0.156,
+            0.28,
+            0.667,
+            0.32
+          ],
+          "area": 0.035,
+          "kind": "change",
+          "easing": "ease_out",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#a76057",
+          "word": "chia"
+        },
+        {
+          "t0": 207.15,
+          "t1": 207.42,
+          "box": [
+            0.267,
+            0.92,
+            0.467,
+            0.08
+          ],
+          "area": 0.004,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#716f64",
+          "word": "chia",
+          "caption": true
+        },
+        {
+          "t0": 209.1,
+          "t1": 209.65,
+          "box": [
+            0.156,
+            0.36,
+            0.733,
+            0.48
+          ],
+          "area": 0.068,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#b6544c",
+          "word": "năm."
+        },
+        {
+          "t0": 209.1,
+          "t1": 209.38,
+          "box": [
+            0.289,
+            0.92,
+            0.422,
+            0.08
+          ],
+          "area": 0.034,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#8d7f74",
+          "word": "năm.",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 16,
+      "start": 210.21,
+      "end": 212.53,
+      "startWord": "Theo",
+      "fps": 3.59,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.333,
+            0.32,
+            0.156,
+            0.08
+          ],
+          "shape": "block",
+          "colour": "#f5f3e8"
+        }
+      ],
+      "events": [
+        {
+          "t0": 210.49,
+          "t1": 210.77,
+          "box": [
+            0.244,
+            0.12,
+            0.6,
+            0.2
+          ],
+          "area": 0.089,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#3c4666",
+          "word": "báo"
+        },
+        {
+          "t0": 210.49,
+          "t1": 210.77,
+          "box": [
+            0.111,
+            0.28,
+            0.733,
+            0.36
+          ],
+          "area": 0.144,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#f3eddb",
+          "word": "báo"
+        },
+        {
+          "t0": 210.49,
+          "t1": 210.77,
+          "box": [
+            0.444,
+            0.64,
+            0.444,
+            0.2
+          ],
+          "area": 0.056,
+          "kind": "disappear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#e6d0c8",
+          "word": "báo"
+        },
+        {
+          "t0": 210.49,
+          "t1": 210.77,
+          "box": [
+            0.089,
+            0.68,
+            0.267,
+            0.16
+          ],
+          "area": 0.041,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#f5f3e8",
+          "word": "báo"
+        },
+        {
+          "t0": 210.49,
+          "t1": 210.77,
+          "box": [
+            0.378,
+            0.92,
+            0.244,
+            0.08
+          ],
+          "area": 0.02,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#717168",
+          "word": "báo",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 17,
+      "start": 212.53,
+      "end": 217.18,
+      "startWord": "cho",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 213,
+          "t1": 213.28,
+          "box": [
+            0.111,
+            0.12,
+            0.778,
+            0.12
+          ],
+          "area": 0.092,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#e0b672",
+          "word": "ở"
+        },
+        {
+          "t0": 213.56,
+          "t1": 213.84,
+          "box": [
+            0.178,
+            0.68,
+            0.311,
+            0.08
+          ],
+          "area": 0.024,
+          "kind": "appear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#b2cda8",
+          "word": "phố"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 18,
+      "start": 217.18,
+      "end": 224.07,
+      "startWord": "tức",
+      "fps": 3.59,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0,
+            0,
+            1,
+            0.44
+          ],
+          "shape": "block",
+          "colour": "#e6e2d9"
+        },
+        {
+          "box": [
+            0,
+            0.6,
+            0.311,
+            0.4
+          ],
+          "shape": "block",
+          "colour": "#e2e0d7"
+        },
+        {
+          "box": [
+            0.644,
+            0.6,
+            0.356,
+            0.4
+          ],
+          "shape": "block",
+          "colour": "#edebe1"
+        }
+      ],
+      "events": [
+        {
+          "t0": 217.46,
+          "t1": 217.74,
+          "box": [
+            0.133,
+            0.12,
+            0.733,
+            0.08
+          ],
+          "area": 0.004,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#f3f0e6",
+          "word": "20"
+        },
+        {
+          "t0": 217.46,
+          "t1": 217.74,
+          "box": [
+            0.156,
+            0.36,
+            0.689,
+            0.4
+          ],
+          "area": 0.061,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#e0ccc3",
+          "word": "20"
+        },
+        {
+          "t0": 217.46,
+          "t1": 222.2,
+          "box": [
+            0.533,
+            0.68,
+            0.067,
+            0.08
+          ],
+          "area": 0.005,
+          "kind": "temporary",
+          "easing": "ease_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#c26a67",
+          "word": "20",
+          "endWord": "nói"
+        },
+        {
+          "t0": 220.53,
+          "t1": 222.2,
+          "box": [
+            0.533,
+            0.76,
+            0.133,
+            0.08
+          ],
+          "area": 0.011,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#8b91a1",
+          "word": "lấy",
+          "endWord": "nói"
+        },
+        {
+          "t0": 221.92,
+          "t1": 222.48,
+          "box": [
+            0.133,
+            0.12,
+            0.733,
+            0.12
+          ],
+          "area": 0.084,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#525465",
+          "word": "không"
+        },
+        {
+          "t0": 221.92,
+          "t1": 223.59,
+          "box": [
+            0.044,
+            0.32,
+            0.911,
+            0.44
+          ],
+          "area": 0.116,
+          "kind": "change",
+          "easing": "ease_out",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#f5f3e8",
+          "word": "không"
+        },
+        {
+          "t0": 221.92,
+          "t1": 222.2,
+          "box": [
+            0.356,
+            0.92,
+            0.289,
+            0.08
+          ],
+          "area": 0.022,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#7c7b76",
+          "word": "không",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 19,
+      "start": 224.07,
+      "end": 224.43,
+      "startWord": "Nhiều",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 20,
+      "start": 224.43,
+      "end": 226.53,
+      "startWord": "căn",
+      "fps": 3.59,
+      "layer": {
+        "share": 0.041,
+        "box": [
+          0.111,
+          0.32,
+          0.2,
+          0.36
+        ]
+      },
+      "static": [],
+      "events": [
+        {
+          "t0": 224.71,
+          "t1": 224.99,
+          "box": [
+            0.511,
+            0.64,
+            0.111,
+            0.08
+          ],
+          "area": 0.009,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#7aad7c",
+          "word": "hộ"
+        },
+        {
+          "t0": 224.71,
+          "t1": 224.99,
+          "box": [
+            0.489,
+            0.76,
+            0.178,
+            0.12
+          ],
+          "area": 0.021,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#b2c5a1",
+          "word": "hộ"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 21,
+      "start": 226.53,
+      "end": 228.89,
+      "startWord": "hy",
+      "fps": 3.59,
+      "layer": {
+        "share": 0.041,
+        "box": [
+          0.111,
+          0.32,
+          0.689,
+          0.36
+        ]
+      },
+      "static": [],
+      "events": [
+        {
+          "t0": 226.94,
+          "t1": 227.22,
+          "box": [
+            0.244,
+            0.16,
+            0.511,
+            0.12
+          ],
+          "area": 0.005,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#e7c690",
+          "word": "giá"
+        },
+        {
+          "t0": 226.94,
+          "t1": 228.33,
+          "box": [
+            0.711,
+            0.32,
+            0.133,
+            0.2
+          ],
+          "area": 0.017,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#dd9b36",
+          "word": "giá",
+          "endWord": "miễn"
+        },
+        {
+          "t0": 226.94,
+          "t1": 228.33,
+          "box": [
+            0.644,
+            0.76,
+            0.222,
+            0.08
+          ],
+          "area": 0.014,
+          "kind": "disappear",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#d39e61",
+          "word": "giá"
+        },
+        {
+          "t0": 228.06,
+          "t1": 228.33,
+          "box": [
+            0.267,
+            0.12,
+            0.467,
+            0.16
+          ],
+          "area": 0.073,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#90a882",
+          "word": "Cũng"
+        },
+        {
+          "t0": 228.06,
+          "t1": 228.33,
+          "box": [
+            0.133,
+            0.4,
+            0.289,
+            0.24
+          ],
+          "area": 0.022,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#7aad7c",
+          "word": "Cũng"
+        },
+        {
+          "t0": 228.06,
+          "t1": 228.33,
+          "box": [
+            0.378,
+            0.6,
+            0.467,
+            0.28
+          ],
+          "area": 0.07,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#f5f3e8",
+          "word": "Cũng"
+        },
+        {
+          "t0": 228.33,
+          "t1": 228.61,
+          "box": [
+            0.356,
+            0.92,
+            0.289,
+            0.08
+          ],
+          "area": 0.023,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#8b7f6e",
+          "word": "miễn",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 22,
+      "start": 228.89,
+      "end": 230.93,
+      "startWord": "biết",
+      "fps": 3.59,
+      "layer": {
+        "share": 0.018,
+        "box": [
+          0.711,
+          0.44,
+          0.133,
+          0.16
+        ]
+      },
+      "static": [],
+      "events": [
+        {
+          "t0": 229.17,
+          "t1": 229.45,
+          "box": [
+            0.133,
+            0.16,
+            0.733,
+            0.12
+          ],
+          "area": 0.086,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#daa46d",
+          "word": "đang"
+        },
+        {
+          "t0": 229.17,
+          "t1": 229.73,
+          "box": [
+            0.578,
+            0.44,
+            0.267,
+            0.2
+          ],
+          "area": 0.036,
+          "kind": "appear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#e89d36",
+          "word": "đang"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 23,
+      "start": 230.93,
+      "end": 232.52,
+      "startWord": "phải",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 231.4,
+          "t1": 231.68,
+          "box": [
+            0.2,
+            0.12,
+            0.6,
+            0.16
+          ],
+          "area": 0.094,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#888b92",
+          "word": "cho"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 24,
+      "start": 232.52,
+      "end": 240.32,
+      "fps": 3.59,
+      "layer": {
+        "share": 0.02,
+        "box": [
+          0.178,
+          0.44,
+          0.156,
+          0.2
+        ]
+      },
+      "static": [],
+      "events": [
+        {
+          "t0": 234.75,
+          "t1": 238.09,
+          "box": [
+            0.378,
+            0.28,
+            0.556,
+            0.24
+          ],
+          "area": 0.111,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#d6d7d0",
+          "word": "mỗi",
+          "endWord": "chạyứng"
+        },
+        {
+          "t0": 236.14,
+          "t1": 238.09,
+          "box": [
+            0.422,
+            0.52,
+            0.511,
+            0.24
+          ],
+          "area": 0.122,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#e8e5d6",
+          "word": "nghề",
+          "endWord": "chạyứng"
+        },
+        {
+          "t0": 236.14,
+          "t1": 236.42,
+          "box": [
+            0.244,
+            0.92,
+            0.511,
+            0.08
+          ],
+          "area": 0.011,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#bdb39f",
+          "word": "nghề",
+          "caption": true
+        },
+        {
+          "t0": 237.81,
+          "t1": 238.37,
+          "box": [
+            0.222,
+            0.12,
+            0.556,
+            0.12
+          ],
+          "area": 0.067,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#7e828b",
+          "word": "Chiếc"
+        },
+        {
+          "t0": 237.81,
+          "t1": 239.76,
+          "box": [
+            0.089,
+            0.36,
+            0.289,
+            0.32
+          ],
+          "area": 0.044,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#889d6e",
+          "word": "Chiếc"
+        },
+        {
+          "t0": 237.81,
+          "t1": 238.09,
+          "box": [
+            0.311,
+            0.92,
+            0.378,
+            0.08
+          ],
+          "area": 0.029,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#7c7a75",
+          "word": "Chiếc",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 25,
+      "start": 240.32,
+      "end": 245.63,
+      "startWord": "kiếm",
+      "fps": 3.59,
+      "layer": {
+        "share": 0.038,
+        "box": [
+          0.111,
+          0.4,
+          0.244,
+          0.28
+        ]
+      },
+      "static": [
+        {
+          "box": [
+            0.8,
+            0.4,
+            0.2,
+            0.6
+          ],
+          "shape": "block",
+          "colour": "#dddad0"
+        }
+      ],
+      "events": [
+        {
+          "t0": 240.6,
+          "t1": 240.88,
+          "box": [
+            0.111,
+            0.28,
+            0.822,
+            0.4
+          ],
+          "area": 0.116,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#d0cbbe",
+          "word": "được"
+        },
+        {
+          "t0": 241.72,
+          "t1": 242.27,
+          "box": [
+            0.4,
+            0.52,
+            0.511,
+            0.24
+          ],
+          "area": 0.112,
+          "kind": "appear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#ede6da",
+          "word": "lại"
+        },
+        {
+          "t0": 243.11,
+          "t1": 243.67,
+          "box": [
+            0.222,
+            0.8,
+            0.556,
+            0.2
+          ],
+          "area": 0.079,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#d2a46f"
+        },
+        {
+          "t0": 243.39,
+          "t1": 243.95,
+          "box": [
+            0.156,
+            0.28,
+            0.733,
+            0.36
+          ],
+          "area": 0.021,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#a09a66",
+          "word": "hỏi"
+        },
+        {
+          "t0": 244.23,
+          "t1": 244.78,
+          "box": [
+            0.111,
+            0.44,
+            0.089,
+            0.04
+          ],
+          "area": 0.004,
+          "kind": "temporary",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#679461",
+          "word": "cách"
+        },
+        {
+          "t0": 244.5,
+          "t1": 245.62,
+          "box": [
+            0.356,
+            0.92,
+            0.289,
+            0.08
+          ],
+          "area": 0.023,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": "right",
+          "slide": null,
+          "scale": null,
+          "colour": "#d2c8b0",
+          "word": "tính.",
+          "caption": true
+        },
+        {
+          "t0": 245.06,
+          "t1": 245.34,
+          "box": [
+            0.2,
+            0.48,
+            0.156,
+            0.16
+          ],
+          "area": 0.005,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#81575a"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 26,
+      "start": 245.63,
+      "end": 248.47,
+      "startWord": "Còn",
+      "fps": 3.59,
+      "layer": {
+        "share": 0.067,
+        "box": [
+          0.2,
+          0.48,
+          0.511,
+          0.52
+        ]
+      },
+      "static": [
+        {
+          "box": [
+            0.4,
+            0.8,
+            0.044,
+            0.08
+          ],
+          "shape": "block",
+          "colour": "#cdc4ac"
+        }
+      ],
+      "events": [
+        {
+          "t0": 246.18,
+          "t1": 248.13,
+          "box": [
+            0.2,
+            0.48,
+            0.489,
+            0.52
+          ],
+          "area": 0.083,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#a7927e",
+          "word": "thì"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 27,
+      "start": 248.47,
+      "end": 248.97,
+      "startWord": "là",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 28,
+      "start": 248.97,
+      "end": 252,
+      "startWord": "phiếu",
+      "fps": 3.59,
+      "layer": {
+        "share": 0.051,
+        "box": [
+          0.2,
+          0.48,
+          0.422,
+          0.44
+        ]
+      },
+      "static": [],
+      "events": [
+        {
+          "t0": 249.52,
+          "t1": 251.47,
+          "box": [
+            0.444,
+            0.48,
+            0.178,
+            0.44
+          ],
+          "area": 0.032,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#b69b84",
+          "word": "sẵn"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 29,
+      "start": 252,
+      "end": 257.61,
+      "startWord": "khoảng",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 254.82,
+          "t1": 255.66,
+          "box": [
+            0.244,
+            0.32,
+            0.667,
+            0.68
+          ],
+          "area": 0.177,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#e2e0d2",
+          "word": "lãi"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 30,
+      "start": 257.61,
+      "end": 268.33,
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 258.17,
+          "t1": 258.44,
+          "box": [
+            0.267,
+            0.24,
+            0.467,
+            0.12
+          ],
+          "area": 0.013,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#bdb7ae",
+          "word": "chia"
+        },
+        {
+          "t0": 260.95,
+          "t1": 262.35,
+          "box": [
+            0.178,
+            0.68,
+            0.111,
+            0.08
+          ],
+          "area": 0.009,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#d89d3b",
+          "word": "năm",
+          "endWord": "chiếu"
+        },
+        {
+          "t0": 262.07,
+          "t1": 262.63,
+          "box": [
+            0.111,
+            0.12,
+            0.778,
+            0.24
+          ],
+          "area": 0.131,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#66667b",
+          "word": "Số"
+        },
+        {
+          "t0": 262.07,
+          "t1": 267.92,
+          "box": [
+            0.111,
+            0.52,
+            0.778,
+            0.08
+          ],
+          "area": 0.06,
+          "kind": "appear",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#c4b6b6",
+          "word": "Số"
+        },
+        {
+          "t0": 262.07,
+          "t1": 262.35,
+          "box": [
+            0.556,
+            0.92,
+            0.178,
+            0.08
+          ],
+          "area": 0.003,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#706e65",
+          "word": "Số"
+        },
+        {
+          "t0": 262.35,
+          "t1": 266.53,
+          "box": [
+            0.111,
+            0.92,
+            0.067,
+            0.08
+          ],
+          "area": 0.005,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#6e6f71",
+          "word": "chiếu",
+          "endWord": "khoảng"
+        },
+        {
+          "t0": 262.35,
+          "t1": 266.53,
+          "box": [
+            0.822,
+            0.92,
+            0.067,
+            0.08
+          ],
+          "area": 0.005,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#6c6860",
+          "word": "chiếu",
+          "endWord": "khoảng"
+        },
+        {
+          "t0": 266.53,
+          "t1": 267.09,
+          "box": [
+            0.333,
+            0.68,
+            0.333,
+            0.16
+          ],
+          "area": 0.052,
+          "kind": "appear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#e49f45",
+          "word": "khoảng"
+        },
+        {
+          "t0": 266.53,
+          "t1": 266.81,
+          "box": [
+            0.222,
+            0.92,
+            0.556,
+            0.08
+          ],
+          "area": 0.035,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#8d7b5f",
+          "word": "khoảng",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 31,
+      "start": 268.33,
+      "end": 304.2,
+      "startWord": "Mình",
+      "fps": 3.59,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0,
+            0,
+            0.067,
+            0.08
+          ],
+          "shape": "block",
+          "colour": "#aea790"
+        },
+        {
+          "box": [
+            0.933,
+            0,
+            0.067,
+            0.08
+          ],
+          "shape": "block",
+          "colour": "#ada68f"
+        }
+      ],
+      "events": [
+        {
+          "t0": 295.8,
+          "t1": 296.08,
+          "box": [
+            0.244,
+            0.92,
+            0.511,
+            0.08
+          ],
+          "area": 0.006,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#baaf9a",
+          "word": "khá",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 32,
+      "start": 304.2,
+      "end": 316.03,
+      "startWord": "lúc",
+      "fps": 3.59,
+      "layer": {
+        "share": 0.037,
+        "box": [
+          0.244,
+          0.48,
+          0.533,
+          0.32
+        ]
+      },
+      "static": [
+        {
+          "box": [
+            0,
+            0,
+            0.244,
+            1
+          ],
+          "shape": "block",
+          "colour": "#b39382"
+        },
+        {
+          "box": [
+            0.244,
+            0,
+            0.489,
+            0.04
+          ],
+          "shape": "hline",
+          "colour": "#d6a274"
+        },
+        {
+          "box": [
+            0.756,
+            0,
+            0.244,
+            1
+          ],
+          "shape": "block",
+          "colour": "#b9b091"
+        },
+        {
+          "box": [
+            0.422,
+            0.48,
+            0.178,
+            0.4
+          ],
+          "shape": "block",
+          "colour": "#f2d4a7"
+        }
+      ],
+      "events": [
+        {
+          "t0": 308.07,
+          "t1": 308.63,
+          "box": [
+            0.178,
+            0.08,
+            0.578,
+            0.44
+          ],
+          "area": 0.094,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#ebbc88",
+          "word": "Người"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 33,
+      "start": 316.03,
+      "end": 320.7,
+      "startWord": "tính",
+      "fps": 3.59,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0,
+            0,
+            0.133,
+            0.72
+          ],
+          "shape": "block",
+          "colour": "#d2d0c6"
+        },
+        {
+          "box": [
+            0.844,
+            0,
+            0.156,
+            0.64
+          ],
+          "shape": "block",
+          "colour": "#d8d6cc"
+        },
+        {
+          "box": [
+            0.2,
+            0.04,
+            0.089,
+            0.04
+          ],
+          "shape": "block",
+          "colour": "#dddbd1"
+        },
+        {
+          "box": [
+            0.644,
+            0.04,
+            0.133,
+            0.04
+          ],
+          "shape": "block",
+          "colour": "#dfddd3"
+        },
+        {
+          "box": [
+            0.778,
+            0.76,
+            0.222,
+            0.24
+          ],
+          "shape": "block",
+          "colour": "#d3d1c8"
+        },
+        {
+          "box": [
+            0,
+            0.84,
+            0.222,
+            0.16
+          ],
+          "shape": "block",
+          "colour": "#cccac1"
+        }
+      ],
+      "events": [
+        {
+          "t0": 318.94,
+          "t1": 319.78,
+          "box": [
+            0.244,
+            0.36,
+            0.511,
+            0.64
+          ],
+          "area": 0.123,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#c38a7b"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 34,
+      "start": 320.7,
+      "end": 321.73,
+      "startWord": "một",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 35,
+      "start": 321.73,
+      "end": 324.43,
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 322.01,
+          "t1": 322.57,
+          "box": [
+            0.178,
+            0.12,
+            0.644,
+            0.16
+          ],
+          "area": 0.094,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#575465",
+          "word": "Vậy"
+        },
+        {
+          "t0": 322.01,
+          "t1": 322.57,
+          "box": [
+            0.156,
+            0.36,
+            0.689,
+            0.36
+          ],
+          "area": 0.15,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#f3eddb",
+          "word": "Vậy"
+        },
+        {
+          "t0": 322.01,
+          "t1": 322.29,
+          "box": [
+            0.311,
+            0.92,
+            0.378,
+            0.08
+          ],
+          "area": 0.03,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#73706c",
+          "word": "Vậy",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 36,
+      "start": 324.43,
+      "end": 324.8,
+      "startWord": "một",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 37,
+      "start": 324.8,
+      "end": 327.37,
+      "startWord": "giá.",
+      "fps": 3.59,
+      "layer": {
+        "share": 0.02,
+        "box": [
+          0.289,
+          0.92,
+          0.422,
+          0.08
+        ]
+      },
+      "static": [],
+      "events": [
+        {
+          "t0": 325.36,
+          "t1": 325.63,
+          "box": [
+            0.289,
+            0.68,
+            0.178,
+            0.12
+          ],
+          "area": 0.019,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#b5aea6"
+        },
+        {
+          "t0": 325.36,
+          "t1": 325.63,
+          "box": [
+            0.533,
+            0.68,
+            0.178,
+            0.12
+          ],
+          "area": 0.015,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#9b938b"
+        },
+        {
+          "t0": 325.91,
+          "t1": 326.47,
+          "box": [
+            0.222,
+            0.12,
+            0.556,
+            0.16
+          ],
+          "area": 0.087,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#535266",
+          "word": "Phép"
+        },
+        {
+          "t0": 325.91,
+          "t1": 326.19,
+          "box": [
+            0.511,
+            0.92,
+            0.2,
+            0.08
+          ],
+          "area": 0.008,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#8d7856",
+          "word": "Phép",
+          "caption": true
+        },
+        {
+          "t0": 325.91,
+          "t1": 326.19,
+          "box": [
+            0.289,
+            0.92,
+            0.156,
+            0.08
+          ],
+          "area": 0.006,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#8d8c88",
+          "word": "Phép"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 38,
+      "start": 327.37,
+      "end": 328.7,
+      "startWord": "cho",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 327.86,
+          "t1": 328.14,
+          "box": [
+            0.244,
+            0.12,
+            0.511,
+            0.16
+          ],
+          "area": 0.08,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#b0857e",
+          "word": "đáp"
+        },
+        {
+          "t0": 327.86,
+          "t1": 328.14,
+          "box": [
+            0.4,
+            0.68,
+            0.2,
+            0.12
+          ],
+          "area": 0.014,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#7b655f",
+          "word": "đáp"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 39,
+      "start": 328.7,
+      "end": 331.33,
+      "startWord": "Và",
+      "fps": 3.59,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.378,
+            0.84,
+            0.244,
+            0.04
+          ],
+          "shape": "hline",
+          "colour": "#f5f3e8"
+        }
+      ],
+      "events": [
+        {
+          "t0": 328.98,
+          "t1": 329.26,
+          "box": [
+            0.222,
+            0.08,
+            0.556,
+            0.2
+          ],
+          "area": 0.108,
+          "kind": "appear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#545a68",
+          "word": "là"
+        },
+        {
+          "t0": 328.98,
+          "t1": 329.26,
+          "box": [
+            0.244,
+            0.48,
+            0.511,
+            0.36
+          ],
+          "area": 0.12,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#f5f3e8",
+          "word": "là"
+        },
+        {
+          "t0": 328.98,
+          "t1": 329.26,
+          "box": [
+            0.244,
+            0.92,
+            0.511,
+            0.08
+          ],
+          "area": 0.041,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#8c7b5b",
+          "word": "là",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 40,
+      "start": 331.33,
+      "end": 331.77,
+      "startWord": "Giá",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 41,
+      "start": 331.77,
+      "end": 332.6,
+      "startWord": "trả,",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 42,
+      "start": 332.6,
+      "end": 336.57,
+      "startWord": "trị",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 332.88,
+          "t1": 333.16,
+          "box": [
+            0.2,
+            0.08,
+            0.6,
+            0.16
+          ],
+          "area": 0.094,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#69a565",
+          "word": "thứ"
+        },
+        {
+          "t0": 334.56,
+          "t1": 334.83,
+          "box": [
+            0.311,
+            0.92,
+            0.378,
+            0.08
+          ],
+          "area": 0.029,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#aea999",
+          "word": "Hai",
+          "caption": true
+        },
+        {
+          "t0": 334.83,
+          "t1": 336.23,
+          "box": [
+            0.244,
+            0.4,
+            0.511,
+            0.36
+          ],
+          "area": 0.088,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#d2ac8a",
+          "word": "này"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 43,
+      "start": 336.57,
+      "end": 351,
+      "startWord": "của",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 340.41,
+          "t1": 350.45,
+          "box": [
+            0.156,
+            0.24,
+            0.622,
+            0.72
+          ],
+          "area": 0.141,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#cbb692",
+          "word": "pha."
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 44,
+      "start": 351,
+      "end": 352.97,
+      "startWord": "nhất,",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 352.68,
+          "t1": 352.96,
+          "box": [
+            0.378,
+            0.92,
+            0.244,
+            0.08
+          ],
+          "area": 0.004,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#d2c8b0",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 45,
+      "start": 352.97,
+      "end": 358.25,
+      "startWord": "60",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 353.51,
+          "t1": 353.79,
+          "box": [
+            0.178,
+            0.16,
+            0.2,
+            0.08
+          ],
+          "area": 0.008,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#b0b0ac",
+          "word": "lãi"
+        },
+        {
+          "t0": 353.51,
+          "t1": 353.79,
+          "box": [
+            0.644,
+            0.16,
+            0.178,
+            0.08
+          ],
+          "area": 0.007,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#a4a8a7",
+          "word": "lãi"
+        },
+        {
+          "t0": 353.51,
+          "t1": 353.79,
+          "box": [
+            0.311,
+            0.32,
+            0.6,
+            0.56
+          ],
+          "area": 0.093,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#a69d73",
+          "word": "lãi"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 46,
+      "start": 358.25,
+      "end": 360.67,
+      "startWord": "công",
+      "fps": 3.59,
+      "layer": {
+        "share": 0.028,
+        "box": [
+          0.311,
+          0.72,
+          0.311,
+          0.12
+        ]
+      },
+      "static": [],
+      "events": [
+        {
+          "t0": 358.53,
+          "t1": 358.81,
+          "box": [
+            0.178,
+            0.12,
+            0.644,
+            0.12
+          ],
+          "area": 0.077,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#7d868b",
+          "word": "nhân"
+        },
+        {
+          "t0": 358.53,
+          "t1": 358.81,
+          "box": [
+            0.289,
+            0.32,
+            0.444,
+            0.16
+          ],
+          "area": 0.03,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#e8ae7a",
+          "word": "nhân"
+        },
+        {
+          "t0": 358.53,
+          "t1": 358.81,
+          "box": [
+            0.733,
+            0.52,
+            0.156,
+            0.32
+          ],
+          "area": 0.015,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#f5f3e8",
+          "word": "nhân"
+        },
+        {
+          "t0": 358.81,
+          "t1": 360.2,
+          "box": [
+            0.578,
+            0.72,
+            0.067,
+            0.12
+          ],
+          "area": 0.003,
+          "kind": "appear",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": true,
+          "colour": "#a78c75",
+          "word": "sáng"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 47,
+      "start": 360.67,
+      "end": 367.7,
+      "startWord": "Xây",
+      "fps": 3.59,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0,
+            0,
+            0.267,
+            0.72
+          ],
+          "shape": "block",
+          "colour": "#e4e1d7"
+        },
+        {
+          "box": [
+            0.711,
+            0,
+            0.289,
+            1
+          ],
+          "shape": "block",
+          "colour": "#e9e7de"
+        },
+        {
+          "box": [
+            0.356,
+            0.48,
+            0.2,
+            0.12
+          ],
+          "shape": "block",
+          "colour": "#f5f3e8"
+        },
+        {
+          "box": [
+            0,
+            0.84,
+            0.289,
+            0.16
+          ],
+          "shape": "block",
+          "colour": "#d3d1c8"
+        }
+      ],
+      "events": [
+        {
+          "t0": 361.04,
+          "t1": 364.11,
+          "box": [
+            0.267,
+            0.08,
+            0.467,
+            0.76
+          ],
+          "area": 0.09,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#f0f0e7",
+          "word": "nhân"
+        },
+        {
+          "t0": 361.04,
+          "t1": 361.32,
+          "box": [
+            0.244,
+            0.92,
+            0.511,
+            0.08
+          ],
+          "area": 0.011,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#baaf99",
+          "word": "nhân",
+          "caption": true
+        },
+        {
+          "t0": 362.71,
+          "t1": 363.27,
+          "box": [
+            0.733,
+            0.72,
+            0.067,
+            0.12
+          ],
+          "area": 0.008,
+          "kind": "temporary",
+          "easing": "instant",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#e9e2d7",
+          "word": "một"
+        },
+        {
+          "t0": 363.55,
+          "t1": 364.94,
+          "box": [
+            0.067,
+            0.12,
+            0.689,
+            0.72
+          ],
+          "area": 0.193,
+          "kind": "change",
+          "easing": "ease_out",
+          "sweep": "right",
+          "slide": null,
+          "scale": null,
+          "colour": "#dfdbd2",
+          "word": "Công"
+        },
+        {
+          "t0": 365.5,
+          "t1": 365.78,
+          "box": [
+            0.844,
+            0.48,
+            0.111,
+            0.08
+          ],
+          "area": 0.009,
+          "kind": "appear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#ebcfa1",
+          "word": "mảnh"
+        },
+        {
+          "t0": 365.5,
+          "t1": 366.34,
+          "box": [
+            0.311,
+            0.92,
+            0.378,
+            0.08
+          ],
+          "area": 0.03,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#8c8077",
+          "word": "mảnh",
+          "caption": true
+        },
+        {
+          "t0": 366.34,
+          "t1": 366.9,
+          "box": [
+            0.578,
+            0.36,
+            0.133,
+            0.44
+          ],
+          "area": 0.05,
+          "kind": "appear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#e79d36",
+          "word": "phình"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 48,
+      "start": 367.7,
+      "end": 380.56,
+      "startWord": "trên",
+      "fps": 3.59,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0,
+            0,
+            0.311,
+            1
+          ],
+          "shape": "block",
+          "colour": "#e7e4da"
+        },
+        {
+          "box": [
+            0.689,
+            0,
+            0.311,
+            0.44
+          ],
+          "shape": "block",
+          "colour": "#e1dfd6"
+        },
+        {
+          "box": [
+            0.867,
+            0.6,
+            0.133,
+            0.4
+          ],
+          "shape": "block",
+          "colour": "#e0ddd3"
+        }
+      ],
+      "events": [
+        {
+          "t0": 368.01,
+          "t1": 368.29,
+          "box": [
+            0.333,
+            0.08,
+            0.333,
+            0.04
+          ],
+          "area": 0.013,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#f5f3e9",
+          "word": "rẻ"
+        },
+        {
+          "t0": 369.41,
+          "t1": 378.61,
+          "box": [
+            0.733,
+            0.64,
+            0.111,
+            0.2
+          ],
+          "area": 0.021,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#af3c36",
+          "word": "hết",
+          "endWord": "hai,"
+        },
+        {
+          "t0": 371.91,
+          "t1": 378.61,
+          "box": [
+            0.089,
+            0.12,
+            0.156,
+            0.16
+          ],
+          "area": 0.017,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#a62f2d",
+          "word": "Còn",
+          "endWord": "hai,"
+        },
+        {
+          "t0": 371.91,
+          "t1": 372.75,
+          "box": [
+            0.156,
+            0.24,
+            0.533,
+            0.48
+          ],
+          "area": 0.013,
+          "kind": "change",
+          "easing": "ease_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#dfd2c9",
+          "word": "Còn"
+        },
+        {
+          "t0": 371.91,
+          "t1": 372.19,
+          "box": [
+            0.844,
+            0.48,
+            0.111,
+            0.08
+          ],
+          "area": 0.009,
+          "kind": "disappear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#ebcfa1",
+          "word": "Còn"
+        },
+        {
+          "t0": 372.75,
+          "t1": 378.61,
+          "box": [
+            0.733,
+            0.32,
+            0.089,
+            0.32
+          ],
+          "area": 0.023,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#e5dacd",
+          "word": "thì",
+          "endWord": "hai,"
+        },
+        {
+          "t0": 372.75,
+          "t1": 378.33,
+          "box": [
+            0.511,
+            0.32,
+            0.022,
+            0.24
+          ],
+          "area": 0.005,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#f3eddb",
+          "word": "thì",
+          "endWord": "Chỗ"
+        },
+        {
+          "t0": 375.26,
+          "t1": 378.33,
+          "box": [
+            0.711,
+            0.72,
+            0.156,
+            0.2
+          ],
+          "area": 0.015,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#e7e1d1",
+          "word": "hỏi,",
+          "endWord": "Chỗ"
+        },
+        {
+          "t0": 375.26,
+          "t1": 375.54,
+          "box": [
+            0.156,
+            0.72,
+            0.089,
+            0.12
+          ],
+          "area": 0.003,
+          "kind": "appear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#eee8d7",
+          "word": "hỏi,"
+        },
+        {
+          "t0": 378.05,
+          "t1": 378.88,
+          "box": [
+            0.156,
+            0.12,
+            0.556,
+            0.72
+          ],
+          "area": 0.256,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#f2dfdd"
+        },
+        {
+          "t0": 380.28,
+          "t1": 380.56,
+          "box": [
+            0.333,
+            0.92,
+            0.333,
+            0.08
+          ],
+          "area": 0.025,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#77766f",
+          "word": "Cái",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 49,
+      "start": 380.56,
+      "end": 382.53,
+      "startWord": "ghi",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 50,
+      "start": 382.53,
+      "end": 394.5,
+      "startWord": "sáng",
+      "fps": 3.59,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.378,
+            0.76,
+            0.622,
+            0.24
+          ],
+          "shape": "block",
+          "colour": "#e9e7de"
+        }
+      ],
+      "events": [
+        {
+          "t0": 383.07,
+          "t1": 383.34,
+          "box": [
+            0.156,
+            0.12,
+            0.689,
+            0.12
+          ],
+          "area": 0.005,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#b6928c",
+          "word": "bốc"
+        },
+        {
+          "t0": 384.74,
+          "t1": 390.87,
+          "box": [
+            0.156,
+            0.12,
+            0.667,
+            0.6
+          ],
+          "area": 0.092,
+          "kind": "change",
+          "easing": "ease_out",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#f3eddb"
+        },
+        {
+          "t0": 385.02,
+          "t1": 390.87,
+          "box": [
+            0.089,
+            0.6,
+            0.022,
+            0.2
+          ],
+          "area": 0.004,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#adab94",
+          "word": "Với",
+          "endWord": "hỏi,"
+        },
+        {
+          "t0": 390.04,
+          "t1": 394.22,
+          "box": [
+            0.156,
+            0.12,
+            0.778,
+            0.64
+          ],
+          "area": 0.299,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#f3eddb"
+        },
+        {
+          "t0": 390.59,
+          "t1": 391.15,
+          "box": [
+            0.156,
+            0.76,
+            0.2,
+            0.08
+          ],
+          "area": 0.014,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#ccccca",
+          "word": "Câu"
+        },
+        {
+          "t0": 391.99,
+          "t1": 392.27,
+          "box": [
+            0.289,
+            0.92,
+            0.422,
+            0.08
+          ],
+          "area": 0.034,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#74736e",
+          "word": "bán",
+          "caption": true
+        },
+        {
+          "t0": 392.55,
+          "t1": 393.94,
+          "box": [
+            0.178,
+            0.28,
+            0.756,
+            0.48
+          ],
+          "area": 0.043,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#ac857a",
+          "word": "được"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 51,
+      "start": 394.5,
+      "end": 395.03,
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 52,
+      "start": 395.03,
+      "end": 397.84,
+      "startWord": "thứ",
+      "fps": 3.59,
+      "layer": {
+        "share": 0.043,
+        "box": [
+          0.222,
+          0.48,
+          0.556,
+          0.44
+        ]
+      },
+      "static": [],
+      "events": [
+        {
+          "t0": 395.33,
+          "t1": 397.01,
+          "box": [
+            0.244,
+            0.44,
+            0.156,
+            0.32
+          ],
+          "area": 0.014,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#ba967d",
+          "word": "chỗ"
+        },
+        {
+          "t0": 395.33,
+          "t1": 397.28,
+          "box": [
+            0.578,
+            0.56,
+            0.178,
+            0.24
+          ],
+          "area": 0.011,
+          "kind": "change",
+          "easing": "ease_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#cba894",
+          "word": "chỗ"
+        },
+        {
+          "t0": 395.33,
+          "t1": 397.28,
+          "box": [
+            0.289,
+            0.84,
+            0.156,
+            0.16
+          ],
+          "area": 0.014,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#928982",
+          "word": "chỗ"
+        },
+        {
+          "t0": 396.17,
+          "t1": 397.28,
+          "box": [
+            0.267,
+            0.44,
+            0.133,
+            0.36
+          ],
+          "area": 0.01,
+          "kind": "change",
+          "easing": "ease_out",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#c29981",
+          "word": "nhất,"
+        },
+        {
+          "t0": 396.17,
+          "t1": 396.73,
+          "box": [
+            0.556,
+            0.88,
+            0.156,
+            0.12
+          ],
+          "area": 0.01,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#817354",
+          "word": "nhất,"
+        },
+        {
+          "t0": 396.73,
+          "t1": 397.01,
+          "box": [
+            0.244,
+            0.08,
+            0.511,
+            0.12
+          ],
+          "area": 0.043,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#e7b583",
+          "word": "lừa"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 53,
+      "start": 397.84,
+      "end": 402.3,
+      "startWord": "Ai",
+      "fps": 3.59,
+      "layer": {
+        "share": 0.038,
+        "box": [
+          0.222,
+          0.44,
+          0.533,
+          0.4
+        ]
+      },
+      "static": [],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 54,
+      "start": 402.3,
+      "end": 402.97,
+      "startWord": "đẹp.",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 55,
+      "start": 402.97,
+      "end": 407.6,
+      "startWord": "rất",
+      "fps": 3.59,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0,
+            0,
+            1,
+            0.32
+          ],
+          "shape": "block",
+          "colour": "#dfddd3"
+        },
+        {
+          "box": [
+            0,
+            0.8,
+            1,
+            0.2
+          ],
+          "shape": "hline",
+          "colour": "#e8e6dd"
+        }
+      ],
+      "events": [
+        {
+          "t0": 404.25,
+          "t1": 404.81,
+          "box": [
+            0.067,
+            0.32,
+            0.267,
+            0.44
+          ],
+          "area": 0.116,
+          "kind": "appear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": true,
+          "colour": "#ede6d6",
+          "word": "tham"
+        },
+        {
+          "t0": 405.65,
+          "t1": 406.76,
+          "box": [
+            0.333,
+            0.32,
+            0.6,
+            0.44
+          ],
+          "area": 0.243,
+          "kind": "appear",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#f3ecdb",
+          "word": "giấy"
+        },
+        {
+          "t0": 405.65,
+          "t1": 406.21,
+          "box": [
+            0.244,
+            0.92,
+            0.511,
+            0.08
+          ],
+          "area": 0.038,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#a6a694",
+          "word": "giấy",
+          "caption": true
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 56,
+      "start": 407.6,
+      "end": 407.93,
+      "startWord": "Nghe",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 57,
+      "start": 407.93,
+      "end": 412.27,
+      "startWord": "mà",
+      "fps": 3.59,
+      "layer": {
+        "share": 0.021,
+        "box": [
+          0.4,
+          0.44,
+          0.2,
+          0.4
+        ]
+      },
+      "static": [
+        {
+          "box": [
+            0,
+            0,
+            0.422,
+            1
+          ],
+          "shape": "block",
+          "colour": "#d0b583"
+        },
+        {
+          "box": [
+            0.578,
+            0,
+            0.422,
+            1
+          ],
+          "shape": "block",
+          "colour": "#d0bb9d"
+        },
+        {
+          "box": [
+            0.4,
+            0.28,
+            0.2,
+            0.12
+          ],
+          "shape": "block",
+          "colour": "#f0c991"
+        }
+      ],
+      "events": [
+        {
+          "t0": 408.44,
+          "t1": 411.22,
+          "box": [
+            0.178,
+            0.28,
+            0.644,
+            0.72
+          ],
+          "area": 0.14,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#b0906b",
+          "word": "nhất,"
+        },
+        {
+          "t0": 409.27,
+          "t1": 409.83,
+          "box": [
+            0.289,
+            0.08,
+            0.422,
+            0.12
+          ],
+          "area": 0.051,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#af3831",
+          "word": "bị"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 58,
+      "start": 412.27,
+      "end": 485.93,
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 458.9,
+          "t1": 462.8,
+          "box": [
+            0.178,
+            0.32,
+            0.111,
+            0.24
+          ],
+          "area": 0.012,
+          "kind": "temporary",
+          "easing": "linear",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#c5cbc0",
+          "word": "Chưa",
+          "endWord": "bánh"
+        },
+        {
+          "t0": 466.7,
+          "t1": 482.6,
+          "box": [
+            0.244,
+            0.24,
+            0.711,
+            0.68
+          ],
+          "area": 0.074,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#caba89",
+          "word": "cộng"
+        },
+        {
+          "t0": 473.12,
+          "t1": 485.11,
+          "box": [
+            0.178,
+            0.24,
+            0.667,
+            0.72
+          ],
+          "area": 0.078,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#dbbe92"
+        },
+        {
+          "t0": 476.74,
+          "t1": 482.6,
+          "box": [
+            0.222,
+            0.28,
+            0.578,
+            0.56
+          ],
+          "area": 0.013,
+          "kind": "change",
+          "easing": "ease_out",
+          "sweep": "down",
+          "slide": null,
+          "scale": null,
+          "colour": "#dec186",
+          "word": "trước,"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 59,
+      "start": 485.93,
+      "end": 487.33,
+      "startWord": "thứ",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 60,
+      "start": 487.33,
+      "end": 489.43,
+      "startWord": "là",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 487.61,
+          "t1": 487.89,
+          "box": [
+            0.2,
+            0.08,
+            0.6,
+            0.16
+          ],
+          "area": 0.092,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#7da670",
+          "word": "thứ"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 61,
+      "start": 489.43,
+      "end": 501.83,
+      "startWord": "Cả",
+      "fps": 3.59,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 500.72,
+          "t1": 501.55,
+          "box": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "area": 0.992,
+          "kind": "disappear",
+          "easing": "linear",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#e4d7bb",
+          "word": "bỏ"
+        }
+      ],
+      "sequences": []
+    }
+  ],
+  "stickerBeats": {
+    "beats": [
+      {
+        "t": 0.03,
+        "at": "Bạn",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 1
+      },
+      {
+        "t": 0.56,
+        "at": "tiền",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 2
+      },
+      {
+        "t": 2.23,
+        "at": "hộ,",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 3
+      },
+      {
+        "t": 2.51,
+        "at": "quán",
+        "fx": "draw-right",
+        "boxes": [
+          [
+            0.111,
+            0.28,
+            0.778,
+            0.52
+          ]
+        ],
+        "shot": 3
+      },
+      {
+        "t": 4.6,
+        "at": "chưa",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 4
+      },
+      {
+        "t": 21.75,
+        "at": "câu",
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0.156,
+            0.16,
+            0.111,
+            0.08
+          ]
+        ],
+        "shot": 4
+      },
+      {
+        "t": 24.81,
+        "at": "phép",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.4,
+            0.4,
+            0.2,
+            0.04
+          ]
+        ],
+        "shot": 4
+      },
+      {
+        "t": 27.6,
+        "at": "rất",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.2,
+            0.16,
+            0.067,
+            0.04
+          ]
+        ],
+        "shot": 4
+      },
+      {
+        "t": 28.99,
+        "at": null,
+        "fx": "cut",
+        "boxes": [
+          [
+            0.2,
+            0.16,
+            0.067,
+            0.04
+          ]
+        ],
+        "shot": 4
+      },
+      {
+        "t": 29.83,
+        "at": "Nhưng",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.4,
+            0.4,
+            0.2,
+            0.04
+          ]
+        ],
+        "shot": 4
+      },
+      {
+        "t": 30.11,
+        "at": "Nhưng",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.156,
+            0.16,
+            0.111,
+            0.08
+          ]
+        ],
+        "shot": 4
+      },
+      {
+        "t": 35.96,
+        "at": "sao?",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.333,
+            0.36,
+            0.333,
+            0.08
+          ]
+        ],
+        "shot": 4
+      },
+      {
+        "t": 57.71,
+        "at": null,
+        "fx": "slide-up",
+        "boxes": [
+          [
+            0.311,
+            0.28,
+            0.489,
+            0.64
+          ]
+        ],
+        "shot": 4
+      },
+      {
+        "t": 71.27,
+        "at": "thứ",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 5
+      },
+      {
+        "t": 72.21,
+        "at": "bao",
+        "fx": "drop",
+        "boxes": [
+          [
+            0.6,
+            0.64,
+            0.067,
+            0.16
+          ]
+        ],
+        "shot": 5
+      },
+      {
+        "t": 72.49,
+        "at": "nhiêu",
+        "fx": "slide-left",
+        "boxes": [
+          [
+            0.711,
+            0.12,
+            0.111,
+            0.12
+          ]
+        ],
+        "shot": 5
+      },
+      {
+        "t": 75.55,
+        "at": null,
+        "fx": "fade",
+        "boxes": [
+          [
+            0.111,
+            0.64,
+            0.178,
+            0.16
+          ]
+        ],
+        "shot": 5
+      },
+      {
+        "t": 78.62,
+        "at": "thuê",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.644,
+            0.64,
+            0.222,
+            0.04
+          ]
+        ],
+        "shot": 5
+      },
+      {
+        "t": 79.74,
+        "at": "Mỗi",
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0.6,
+            0.64,
+            0.289,
+            0.24
+          ]
+        ],
+        "shot": 5
+      },
+      {
+        "t": 83.36,
+        "at": "600",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.111,
+            0.64,
+            0.178,
+            0.16
+          ],
+          [
+            0.644,
+            0.64,
+            0.222,
+            0.04
+          ],
+          [
+            0.6,
+            0.64,
+            0.289,
+            0.24
+          ],
+          [
+            0.111,
+            0.2,
+            0.178,
+            0.12
+          ]
+        ],
+        "shot": 5
+      },
+      {
+        "t": 84.48,
+        "at": "60",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.867,
+            0.2,
+            0.044,
+            0.12
+          ]
+        ],
+        "shot": 5
+      },
+      {
+        "t": 89.21,
+        "at": null,
+        "fx": "cut",
+        "boxes": [
+          [
+            0.6,
+            0.64,
+            0.067,
+            0.16
+          ]
+        ],
+        "shot": 5
+      },
+      {
+        "t": 89.49,
+        "at": null,
+        "fx": "cut",
+        "boxes": [
+          [
+            0.356,
+            0.28,
+            0.622,
+            0.32
+          ]
+        ],
+        "shot": 5
+      },
+      {
+        "t": 89.77,
+        "at": "10",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.111,
+            0.2,
+            0.178,
+            0.12
+          ],
+          [
+            0.867,
+            0.2,
+            0.044,
+            0.12
+          ]
+        ],
+        "shot": 5
+      },
+      {
+        "t": 92.28,
+        "at": "nghỉốm,",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.711,
+            0.12,
+            0.111,
+            0.12
+          ]
+        ],
+        "shot": 5
+      },
+      {
+        "t": 93.87,
+        "at": "thì",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 6
+      },
+      {
+        "t": 94.23,
+        "at": "mới",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.244,
+            0.12,
+            0.511,
+            0.16
+          ],
+          [
+            0.422,
+            0.64,
+            0.156,
+            0.2
+          ]
+        ],
+        "shot": 6
+      },
+      {
+        "t": 96.74,
+        "at": "Con",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 7
+      },
+      {
+        "t": 97.02,
+        "at": "Con",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.089,
+            0.4,
+            0.889,
+            0.16
+          ]
+        ],
+        "shot": 7
+      },
+      {
+        "t": 100.37,
+        "at": "Giá",
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0.622,
+            0.72,
+            0.133,
+            0.12
+          ]
+        ],
+        "shot": 7
+      },
+      {
+        "t": 100.65,
+        "at": "cho",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.311,
+            0.8,
+            0.067,
+            0.04
+          ]
+        ],
+        "shot": 7
+      },
+      {
+        "t": 102.04,
+        "at": null,
+        "fx": "slide-up",
+        "boxes": [
+          [
+            0.267,
+            0.12,
+            0.467,
+            0.72
+          ]
+        ],
+        "shot": 7
+      },
+      {
+        "t": 102.32,
+        "at": "Hiểu",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.622,
+            0.72,
+            0.133,
+            0.12
+          ],
+          [
+            0.311,
+            0.8,
+            0.067,
+            0.04
+          ]
+        ],
+        "shot": 7
+      },
+      {
+        "t": 108.17,
+        "at": "20",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.622,
+            0.64,
+            0.356,
+            0.08
+          ],
+          [
+            0.022,
+            0.64,
+            0.111,
+            0.08
+          ]
+        ],
+        "shot": 7
+      },
+      {
+        "t": 109.85,
+        "at": "Nhưng",
+        "fx": "slide-up",
+        "boxes": [
+          [
+            0.156,
+            0.08,
+            0.578,
+            0.72
+          ]
+        ],
+        "shot": 7
+      },
+      {
+        "t": 110.12,
+        "at": "10",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.622,
+            0.64,
+            0.356,
+            0.08
+          ],
+          [
+            0.022,
+            0.64,
+            0.111,
+            0.08
+          ]
+        ],
+        "shot": 7
+      },
+      {
+        "t": 112.6,
+        "at": "đứng",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 8
+      },
+      {
+        "t": 112.91,
+        "at": "một",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 9
+      },
+      {
+        "t": 115.1,
+        "at": "Phải",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 10
+      },
+      {
+        "t": 124.23,
+        "at": "Đó",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 11
+      },
+      {
+        "t": 127.97,
+        "at": "8",
+        "fx": "slide-up",
+        "boxes": [
+          [
+            0.089,
+            0.48,
+            0.133,
+            0.28
+          ]
+        ],
+        "shot": 11
+      },
+      {
+        "t": 136.05,
+        "at": "khoảng",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.867,
+            0.4,
+            0.044,
+            0.16
+          ]
+        ],
+        "shot": 11
+      },
+      {
+        "t": 140.79,
+        "at": "vậy",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.2,
+            0.12,
+            0.044,
+            0.12
+          ],
+          [
+            0.756,
+            0.12,
+            0.044,
+            0.12
+          ]
+        ],
+        "shot": 11
+      },
+      {
+        "t": 143.02,
+        "at": "hai,",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.867,
+            0.4,
+            0.044,
+            0.16
+          ],
+          [
+            0.2,
+            0.12,
+            0.044,
+            0.12
+          ],
+          [
+            0.756,
+            0.12,
+            0.044,
+            0.12
+          ]
+        ],
+        "shot": 11
+      },
+      {
+        "t": 147.2,
+        "at": "nướng,",
+        "fx": "drop",
+        "boxes": [
+          [
+            0.133,
+            0.32,
+            0.089,
+            0.48
+          ]
+        ],
+        "shot": 11
+      },
+      {
+        "t": 155.57,
+        "at": "600",
+        "fx": "slide-left",
+        "boxes": [
+          [
+            0.311,
+            0.08,
+            0.378,
+            0.2
+          ],
+          [
+            0.267,
+            0.32,
+            0.489,
+            0.48
+          ]
+        ],
+        "shot": 11
+      },
+      {
+        "t": 155.85,
+        "at": "triệu",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.133,
+            0.32,
+            0.089,
+            0.48
+          ]
+        ],
+        "shot": 11
+      },
+      {
+        "t": 158.08,
+        "at": "nghê.",
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0.311,
+            0.4,
+            0.511,
+            0.16
+          ]
+        ],
+        "shot": 11
+      },
+      {
+        "t": 161.42,
+        "at": null,
+        "fx": "cut",
+        "boxes": [],
+        "shot": 12
+      },
+      {
+        "t": 173.97,
+        "at": "đầu.",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 13
+      },
+      {
+        "t": 174.53,
+        "at": "Nghĩa",
+        "fx": "slide-left",
+        "boxes": [
+          [
+            0.222,
+            0.44,
+            0.378,
+            0.36
+          ]
+        ],
+        "shot": 13
+      },
+      {
+        "t": 174.81,
+        "at": "Nghĩa",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.644,
+            0.92,
+            0.044,
+            0.08
+          ]
+        ],
+        "shot": 13
+      },
+      {
+        "t": 178.99,
+        "at": "mùi",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.178,
+            0.2,
+            0.133,
+            0.16
+          ]
+        ],
+        "shot": 13
+      },
+      {
+        "t": 179.27,
+        "at": "thơm",
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0.156,
+            0.48,
+            0.467,
+            0.48
+          ]
+        ],
+        "shot": 13
+      },
+      {
+        "t": 182.61,
+        "at": "Ông",
+        "fx": "slide-up",
+        "boxes": [
+          [
+            0.689,
+            0.56,
+            0.133,
+            0.4
+          ]
+        ],
+        "shot": 13
+      },
+      {
+        "t": 183.17,
+        "at": "thêm",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.178,
+            0.2,
+            0.133,
+            0.16
+          ]
+        ],
+        "shot": 13
+      },
+      {
+        "t": 184.28,
+        "at": null,
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0.156,
+            0.2,
+            0.489,
+            0.8
+          ]
+        ],
+        "shot": 13
+      },
+      {
+        "t": 185.68,
+        "at": "đừng",
+        "fx": "slide-up",
+        "boxes": [
+          [
+            0.689,
+            0.56,
+            0.156,
+            0.36
+          ]
+        ],
+        "shot": 13
+      },
+      {
+        "t": 188.19,
+        "at": null,
+        "fx": "cut",
+        "boxes": [
+          [
+            0.644,
+            0.92,
+            0.044,
+            0.08
+          ]
+        ],
+        "shot": 13
+      },
+      {
+        "t": 188.6,
+        "at": "chỉ",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 14
+      },
+      {
+        "t": 190.7,
+        "at": "vàng",
+        "fx": "drop",
+        "boxes": [
+          [
+            0.133,
+            0.68,
+            0.311,
+            0.2
+          ]
+        ],
+        "shot": 14
+      },
+      {
+        "t": 192.65,
+        "at": "bánh",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.578,
+            0.28,
+            0.289,
+            0.16
+          ],
+          [
+            0.556,
+            0.72,
+            0.311,
+            0.16
+          ]
+        ],
+        "shot": 14
+      },
+      {
+        "t": 197.67,
+        "at": null,
+        "fx": "drop",
+        "boxes": [
+          [
+            0.067,
+            0.12,
+            0.844,
+            0.56
+          ]
+        ],
+        "shot": 14
+      },
+      {
+        "t": 197.95,
+        "at": "Giờ",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.133,
+            0.68,
+            0.311,
+            0.2
+          ],
+          [
+            0.578,
+            0.28,
+            0.289,
+            0.16
+          ],
+          [
+            0.556,
+            0.72,
+            0.311,
+            0.16
+          ]
+        ],
+        "shot": 14
+      },
+      {
+        "t": 199.67,
+        "at": "thấy",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 15
+      },
+      {
+        "t": 200.18,
+        "at": "được",
+        "fx": "slide-left",
+        "boxes": [
+          [
+            0.067,
+            0.12,
+            0.844,
+            0.56
+          ]
+        ],
+        "shot": 15
+      },
+      {
+        "t": 203.52,
+        "at": "triệu",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.467,
+            0.24,
+            0.378,
+            0.08
+          ]
+        ],
+        "shot": 15
+      },
+      {
+        "t": 204.92,
+        "at": "120",
+        "fx": "pop",
+        "boxes": [
+          [
+            0.511,
+            0.36,
+            0.311,
+            0.08
+          ]
+        ],
+        "shot": 15
+      },
+      {
+        "t": 207.15,
+        "at": "chia",
+        "fx": "slide-left",
+        "boxes": [
+          [
+            0.156,
+            0.28,
+            0.667,
+            0.32
+          ]
+        ],
+        "shot": 15
+      },
+      {
+        "t": 209.1,
+        "at": "năm.",
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0.156,
+            0.36,
+            0.733,
+            0.48
+          ]
+        ],
+        "shot": 15
+      },
+      {
+        "t": 210.21,
+        "at": "Theo",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 16
+      },
+      {
+        "t": 210.49,
+        "at": "báo",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.244,
+            0.12,
+            0.6,
+            0.2
+          ],
+          [
+            0.111,
+            0.28,
+            0.733,
+            0.36
+          ],
+          [
+            0.089,
+            0.68,
+            0.267,
+            0.16
+          ]
+        ],
+        "shot": 16
+      },
+      {
+        "t": 212.53,
+        "at": "cho",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 17
+      },
+      {
+        "t": 213,
+        "at": "ở",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.111,
+            0.12,
+            0.778,
+            0.12
+          ]
+        ],
+        "shot": 17
+      },
+      {
+        "t": 213.56,
+        "at": "phố",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.178,
+            0.68,
+            0.311,
+            0.08
+          ]
+        ],
+        "shot": 17
+      },
+      {
+        "t": 217.18,
+        "at": "tức",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 18
+      },
+      {
+        "t": 217.46,
+        "at": "20",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.133,
+            0.12,
+            0.733,
+            0.08
+          ],
+          [
+            0.156,
+            0.36,
+            0.689,
+            0.4
+          ],
+          [
+            0.533,
+            0.68,
+            0.067,
+            0.08
+          ]
+        ],
+        "shot": 18
+      },
+      {
+        "t": 220.53,
+        "at": "lấy",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.533,
+            0.76,
+            0.133,
+            0.08
+          ]
+        ],
+        "shot": 18
+      },
+      {
+        "t": 221.92,
+        "at": "không",
+        "fx": "slide-left",
+        "boxes": [
+          [
+            0.133,
+            0.12,
+            0.733,
+            0.12
+          ],
+          [
+            0.044,
+            0.32,
+            0.911,
+            0.44
+          ]
+        ],
+        "shot": 18
+      },
+      {
+        "t": 222.2,
+        "at": "nói",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.533,
+            0.68,
+            0.067,
+            0.08
+          ],
+          [
+            0.533,
+            0.76,
+            0.133,
+            0.08
+          ]
+        ],
+        "shot": 18
+      },
+      {
+        "t": 224.07,
+        "at": "Nhiều",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 19
+      },
+      {
+        "t": 224.43,
+        "at": "căn",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 20
+      },
+      {
+        "t": 224.71,
+        "at": "hộ",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.511,
+            0.64,
+            0.111,
+            0.08
+          ],
+          [
+            0.489,
+            0.76,
+            0.178,
+            0.12
+          ]
+        ],
+        "shot": 20
+      },
+      {
+        "t": 226.53,
+        "at": "hy",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 21
+      },
+      {
+        "t": 226.94,
+        "at": "giá",
+        "fx": "slide-up",
+        "boxes": [
+          [
+            0.244,
+            0.16,
+            0.511,
+            0.12
+          ],
+          [
+            0.711,
+            0.32,
+            0.133,
+            0.2
+          ]
+        ],
+        "shot": 21
+      },
+      {
+        "t": 228.06,
+        "at": "Cũng",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.267,
+            0.12,
+            0.467,
+            0.16
+          ],
+          [
+            0.133,
+            0.4,
+            0.289,
+            0.24
+          ],
+          [
+            0.378,
+            0.6,
+            0.467,
+            0.28
+          ]
+        ],
+        "shot": 21
+      },
+      {
+        "t": 228.33,
+        "at": "miễn",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.711,
+            0.32,
+            0.133,
+            0.2
+          ]
+        ],
+        "shot": 21
+      },
+      {
+        "t": 228.89,
+        "at": "biết",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 22
+      },
+      {
+        "t": 229.17,
+        "at": "đang",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.133,
+            0.16,
+            0.733,
+            0.12
+          ],
+          [
+            0.578,
+            0.44,
+            0.267,
+            0.2
+          ]
+        ],
+        "shot": 22
+      },
+      {
+        "t": 230.93,
+        "at": "phải",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 23
+      },
+      {
+        "t": 231.4,
+        "at": "cho",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.2,
+            0.12,
+            0.6,
+            0.16
+          ]
+        ],
+        "shot": 23
+      },
+      {
+        "t": 232.52,
+        "at": null,
+        "fx": "cut",
+        "boxes": [],
+        "shot": 24
+      },
+      {
+        "t": 234.75,
+        "at": "mỗi",
+        "fx": "drop",
+        "boxes": [
+          [
+            0.378,
+            0.28,
+            0.556,
+            0.24
+          ]
+        ],
+        "shot": 24
+      },
+      {
+        "t": 236.14,
+        "at": "nghề",
+        "fx": "slide-left",
+        "boxes": [
+          [
+            0.422,
+            0.52,
+            0.511,
+            0.24
+          ]
+        ],
+        "shot": 24
+      },
+      {
+        "t": 237.81,
+        "at": "Chiếc",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.222,
+            0.12,
+            0.556,
+            0.12
+          ],
+          [
+            0.089,
+            0.36,
+            0.289,
+            0.32
+          ]
+        ],
+        "shot": 24
+      },
+      {
+        "t": 238.09,
+        "at": "chạyứng",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.378,
+            0.28,
+            0.556,
+            0.24
+          ],
+          [
+            0.422,
+            0.52,
+            0.511,
+            0.24
+          ]
+        ],
+        "shot": 24
+      },
+      {
+        "t": 240.32,
+        "at": "kiếm",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 25
+      },
+      {
+        "t": 240.6,
+        "at": "được",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.111,
+            0.28,
+            0.822,
+            0.4
+          ]
+        ],
+        "shot": 25
+      },
+      {
+        "t": 241.72,
+        "at": "lại",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.4,
+            0.52,
+            0.511,
+            0.24
+          ]
+        ],
+        "shot": 25
+      },
+      {
+        "t": 243.11,
+        "at": null,
+        "fx": "slide-up",
+        "boxes": [
+          [
+            0.222,
+            0.8,
+            0.556,
+            0.2
+          ]
+        ],
+        "shot": 25
+      },
+      {
+        "t": 243.39,
+        "at": "hỏi",
+        "fx": "drop",
+        "boxes": [
+          [
+            0.156,
+            0.28,
+            0.733,
+            0.36
+          ]
+        ],
+        "shot": 25
+      },
+      {
+        "t": 244.23,
+        "at": "cách",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.111,
+            0.44,
+            0.089,
+            0.04
+          ]
+        ],
+        "shot": 25
+      },
+      {
+        "t": 244.78,
+        "at": null,
+        "fx": "cut",
+        "boxes": [
+          [
+            0.111,
+            0.44,
+            0.089,
+            0.04
+          ]
+        ],
+        "shot": 25
+      },
+      {
+        "t": 245.06,
+        "at": null,
+        "fx": "cut",
+        "boxes": [
+          [
+            0.2,
+            0.48,
+            0.156,
+            0.16
+          ]
+        ],
+        "shot": 25
+      },
+      {
+        "t": 245.63,
+        "at": "Còn",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 26
+      },
+      {
+        "t": 246.18,
+        "at": "thì",
+        "fx": "slide-left",
+        "boxes": [
+          [
+            0.2,
+            0.48,
+            0.489,
+            0.52
+          ]
+        ],
+        "shot": 26
+      },
+      {
+        "t": 248.47,
+        "at": "là",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 27
+      },
+      {
+        "t": 248.97,
+        "at": "phiếu",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 28
+      },
+      {
+        "t": 249.52,
+        "at": "sẵn",
+        "fx": "drop",
+        "boxes": [
+          [
+            0.444,
+            0.48,
+            0.178,
+            0.44
+          ]
+        ],
+        "shot": 28
+      },
+      {
+        "t": 252,
+        "at": "khoảng",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 29
+      },
+      {
+        "t": 254.82,
+        "at": "lãi",
+        "fx": "drop",
+        "boxes": [
+          [
+            0.244,
+            0.32,
+            0.667,
+            0.68
+          ]
+        ],
+        "shot": 29
+      },
+      {
+        "t": 257.61,
+        "at": null,
+        "fx": "cut",
+        "boxes": [],
+        "shot": 30
+      },
+      {
+        "t": 258.17,
+        "at": "chia",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.267,
+            0.24,
+            0.467,
+            0.12
+          ]
+        ],
+        "shot": 30
+      },
+      {
+        "t": 260.95,
+        "at": "năm",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.178,
+            0.68,
+            0.111,
+            0.08
+          ]
+        ],
+        "shot": 30
+      },
+      {
+        "t": 262.07,
+        "at": "Số",
+        "fx": "slide-up",
+        "boxes": [
+          [
+            0.111,
+            0.12,
+            0.778,
+            0.24
+          ],
+          [
+            0.111,
+            0.52,
+            0.778,
+            0.08
+          ],
+          [
+            0.556,
+            0.92,
+            0.178,
+            0.08
+          ]
+        ],
+        "shot": 30
+      },
+      {
+        "t": 262.35,
+        "at": "chiếu",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.178,
+            0.68,
+            0.111,
+            0.08
+          ],
+          [
+            0.111,
+            0.92,
+            0.067,
+            0.08
+          ],
+          [
+            0.822,
+            0.92,
+            0.067,
+            0.08
+          ]
+        ],
+        "shot": 30
+      },
+      {
+        "t": 266.53,
+        "at": "khoảng",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.111,
+            0.92,
+            0.067,
+            0.08
+          ],
+          [
+            0.822,
+            0.92,
+            0.067,
+            0.08
+          ],
+          [
+            0.333,
+            0.68,
+            0.333,
+            0.16
+          ]
+        ],
+        "shot": 30
+      },
+      {
+        "t": 268.33,
+        "at": "Mình",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 31
+      },
+      {
+        "t": 304.2,
+        "at": "lúc",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 32
+      },
+      {
+        "t": 308.07,
+        "at": "Người",
+        "fx": "slide-left",
+        "boxes": [
+          [
+            0.178,
+            0.08,
+            0.578,
+            0.44
+          ]
+        ],
+        "shot": 32
+      },
+      {
+        "t": 316.03,
+        "at": "tính",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 33
+      },
+      {
+        "t": 318.94,
+        "at": null,
+        "fx": "slide-up",
+        "boxes": [
+          [
+            0.244,
+            0.36,
+            0.511,
+            0.64
+          ]
+        ],
+        "shot": 33
+      },
+      {
+        "t": 320.7,
+        "at": "một",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 34
+      },
+      {
+        "t": 321.73,
+        "at": null,
+        "fx": "cut",
+        "boxes": [],
+        "shot": 35
+      },
+      {
+        "t": 322.01,
+        "at": "Vậy",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.178,
+            0.12,
+            0.644,
+            0.16
+          ],
+          [
+            0.156,
+            0.36,
+            0.689,
+            0.36
+          ]
+        ],
+        "shot": 35
+      },
+      {
+        "t": 324.43,
+        "at": "một",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 36
+      },
+      {
+        "t": 324.8,
+        "at": "giá.",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 37
+      },
+      {
+        "t": 325.36,
+        "at": null,
+        "fx": "cut",
+        "boxes": [
+          [
+            0.289,
+            0.68,
+            0.178,
+            0.12
+          ],
+          [
+            0.533,
+            0.68,
+            0.178,
+            0.12
+          ]
+        ],
+        "shot": 37
+      },
+      {
+        "t": 325.91,
+        "at": "Phép",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.222,
+            0.12,
+            0.556,
+            0.16
+          ],
+          [
+            0.289,
+            0.92,
+            0.156,
+            0.08
+          ]
+        ],
+        "shot": 37
+      },
+      {
+        "t": 327.37,
+        "at": "cho",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 38
+      },
+      {
+        "t": 327.86,
+        "at": "đáp",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.244,
+            0.12,
+            0.511,
+            0.16
+          ],
+          [
+            0.4,
+            0.68,
+            0.2,
+            0.12
+          ]
+        ],
+        "shot": 38
+      },
+      {
+        "t": 328.7,
+        "at": "Và",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 39
+      },
+      {
+        "t": 328.98,
+        "at": "là",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.222,
+            0.08,
+            0.556,
+            0.2
+          ],
+          [
+            0.244,
+            0.48,
+            0.511,
+            0.36
+          ]
+        ],
+        "shot": 39
+      },
+      {
+        "t": 331.33,
+        "at": "Giá",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 40
+      },
+      {
+        "t": 331.77,
+        "at": "trả,",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 41
+      },
+      {
+        "t": 332.6,
+        "at": "trị",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 42
+      },
+      {
+        "t": 332.88,
+        "at": "thứ",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.2,
+            0.08,
+            0.6,
+            0.16
+          ]
+        ],
+        "shot": 42
+      },
+      {
+        "t": 334.83,
+        "at": "này",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.244,
+            0.4,
+            0.511,
+            0.36
+          ]
+        ],
+        "shot": 42
+      },
+      {
+        "t": 336.57,
+        "at": "của",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 43
+      },
+      {
+        "t": 340.41,
+        "at": "pha.",
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0.156,
+            0.24,
+            0.622,
+            0.72
+          ]
+        ],
+        "shot": 43
+      },
+      {
+        "t": 351,
+        "at": "nhất,",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 44
+      },
+      {
+        "t": 352.97,
+        "at": "60",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 45
+      },
+      {
+        "t": 353.51,
+        "at": "lãi",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.178,
+            0.16,
+            0.2,
+            0.08
+          ],
+          [
+            0.644,
+            0.16,
+            0.178,
+            0.08
+          ],
+          [
+            0.311,
+            0.32,
+            0.6,
+            0.56
+          ]
+        ],
+        "shot": 45
+      },
+      {
+        "t": 358.25,
+        "at": "công",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 46
+      },
+      {
+        "t": 358.53,
+        "at": "nhân",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.178,
+            0.12,
+            0.644,
+            0.12
+          ],
+          [
+            0.289,
+            0.32,
+            0.444,
+            0.16
+          ],
+          [
+            0.733,
+            0.52,
+            0.156,
+            0.32
+          ]
+        ],
+        "shot": 46
+      },
+      {
+        "t": 358.81,
+        "at": "sáng",
+        "fx": "pop",
+        "boxes": [
+          [
+            0.578,
+            0.72,
+            0.067,
+            0.12
+          ]
+        ],
+        "shot": 46
+      },
+      {
+        "t": 360.67,
+        "at": "Xây",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 47
+      },
+      {
+        "t": 361.04,
+        "at": "nhân",
+        "fx": "slide-up",
+        "boxes": [
+          [
+            0.267,
+            0.08,
+            0.467,
+            0.76
+          ]
+        ],
+        "shot": 47
+      },
+      {
+        "t": 362.71,
+        "at": "một",
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0.733,
+            0.72,
+            0.067,
+            0.12
+          ]
+        ],
+        "shot": 47
+      },
+      {
+        "t": 363.27,
+        "at": null,
+        "fx": "cut",
+        "boxes": [
+          [
+            0.733,
+            0.72,
+            0.067,
+            0.12
+          ]
+        ],
+        "shot": 47
+      },
+      {
+        "t": 363.55,
+        "at": "Công",
+        "fx": "draw-right",
+        "boxes": [
+          [
+            0.067,
+            0.12,
+            0.689,
+            0.72
+          ]
+        ],
+        "shot": 47
+      },
+      {
+        "t": 365.5,
+        "at": "mảnh",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.844,
+            0.48,
+            0.111,
+            0.08
+          ]
+        ],
+        "shot": 47
+      },
+      {
+        "t": 366.34,
+        "at": "phình",
+        "fx": "slide-up",
+        "boxes": [
+          [
+            0.578,
+            0.36,
+            0.133,
+            0.44
+          ]
+        ],
+        "shot": 47
+      },
+      {
+        "t": 367.7,
+        "at": "trên",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 48
+      },
+      {
+        "t": 368.01,
+        "at": "rẻ",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.333,
+            0.08,
+            0.333,
+            0.04
+          ]
+        ],
+        "shot": 48
+      },
+      {
+        "t": 369.41,
+        "at": "hết",
+        "fx": "slide-up",
+        "boxes": [
+          [
+            0.733,
+            0.64,
+            0.111,
+            0.2
+          ]
+        ],
+        "shot": 48
+      },
+      {
+        "t": 371.91,
+        "at": "Còn",
+        "fx": "slide-left",
+        "boxes": [
+          [
+            0.089,
+            0.12,
+            0.156,
+            0.16
+          ],
+          [
+            0.156,
+            0.24,
+            0.533,
+            0.48
+          ]
+        ],
+        "shot": 48
+      },
+      {
+        "t": 372.75,
+        "at": "thì",
+        "fx": "drop",
+        "boxes": [
+          [
+            0.733,
+            0.32,
+            0.089,
+            0.32
+          ],
+          [
+            0.511,
+            0.32,
+            0.022,
+            0.24
+          ]
+        ],
+        "shot": 48
+      },
+      {
+        "t": 375.26,
+        "at": "hỏi,",
+        "fx": "slide-left",
+        "boxes": [
+          [
+            0.711,
+            0.72,
+            0.156,
+            0.2
+          ],
+          [
+            0.156,
+            0.72,
+            0.089,
+            0.12
+          ]
+        ],
+        "shot": 48
+      },
+      {
+        "t": 378.05,
+        "at": null,
+        "fx": "slide-left",
+        "boxes": [
+          [
+            0.156,
+            0.12,
+            0.556,
+            0.72
+          ]
+        ],
+        "shot": 48
+      },
+      {
+        "t": 378.33,
+        "at": "Chỗ",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.511,
+            0.32,
+            0.022,
+            0.24
+          ],
+          [
+            0.711,
+            0.72,
+            0.156,
+            0.2
+          ]
+        ],
+        "shot": 48
+      },
+      {
+        "t": 378.61,
+        "at": "hai,",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.733,
+            0.64,
+            0.111,
+            0.2
+          ],
+          [
+            0.089,
+            0.12,
+            0.156,
+            0.16
+          ],
+          [
+            0.733,
+            0.32,
+            0.089,
+            0.32
+          ]
+        ],
+        "shot": 48
+      },
+      {
+        "t": 380.56,
+        "at": "ghi",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 49
+      },
+      {
+        "t": 382.53,
+        "at": "sáng",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 50
+      },
+      {
+        "t": 383.07,
+        "at": "bốc",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.156,
+            0.12,
+            0.689,
+            0.12
+          ]
+        ],
+        "shot": 50
+      },
+      {
+        "t": 384.74,
+        "at": null,
+        "fx": "drop",
+        "boxes": [
+          [
+            0.156,
+            0.12,
+            0.667,
+            0.6
+          ]
+        ],
+        "shot": 50
+      },
+      {
+        "t": 385.02,
+        "at": "Với",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.089,
+            0.6,
+            0.022,
+            0.2
+          ]
+        ],
+        "shot": 50
+      },
+      {
+        "t": 390.04,
+        "at": null,
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0.156,
+            0.12,
+            0.778,
+            0.64
+          ]
+        ],
+        "shot": 50
+      },
+      {
+        "t": 390.59,
+        "at": "Câu",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.156,
+            0.76,
+            0.2,
+            0.08
+          ]
+        ],
+        "shot": 50
+      },
+      {
+        "t": 390.87,
+        "at": "hỏi,",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.089,
+            0.6,
+            0.022,
+            0.2
+          ]
+        ],
+        "shot": 50
+      },
+      {
+        "t": 392.55,
+        "at": "được",
+        "fx": "slide-left",
+        "boxes": [
+          [
+            0.178,
+            0.28,
+            0.756,
+            0.48
+          ]
+        ],
+        "shot": 50
+      },
+      {
+        "t": 394.5,
+        "at": null,
+        "fx": "cut",
+        "boxes": [],
+        "shot": 51
+      },
+      {
+        "t": 395.03,
+        "at": "thứ",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 52
+      },
+      {
+        "t": 395.33,
+        "at": "chỗ",
+        "fx": "slide-up",
+        "boxes": [
+          [
+            0.244,
+            0.44,
+            0.156,
+            0.32
+          ],
+          [
+            0.578,
+            0.56,
+            0.178,
+            0.24
+          ],
+          [
+            0.289,
+            0.84,
+            0.156,
+            0.16
+          ]
+        ],
+        "shot": 52
+      },
+      {
+        "t": 396.17,
+        "at": "nhất,",
+        "fx": "slide-up",
+        "boxes": [
+          [
+            0.267,
+            0.44,
+            0.133,
+            0.36
+          ],
+          [
+            0.556,
+            0.88,
+            0.156,
+            0.12
+          ]
+        ],
+        "shot": 52
+      },
+      {
+        "t": 396.73,
+        "at": "lừa",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.244,
+            0.08,
+            0.511,
+            0.12
+          ]
+        ],
+        "shot": 52
+      },
+      {
+        "t": 397.84,
+        "at": "Ai",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 53
+      },
+      {
+        "t": 402.3,
+        "at": "đẹp.",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 54
+      },
+      {
+        "t": 402.97,
+        "at": "rất",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 55
+      },
+      {
+        "t": 404.25,
+        "at": "tham",
+        "fx": "pop",
+        "boxes": [
+          [
+            0.067,
+            0.32,
+            0.267,
+            0.44
+          ]
+        ],
+        "shot": 55
+      },
+      {
+        "t": 405.65,
+        "at": "giấy",
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0.333,
+            0.32,
+            0.6,
+            0.44
+          ]
+        ],
+        "shot": 55
+      },
+      {
+        "t": 407.6,
+        "at": "Nghe",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 56
+      },
+      {
+        "t": 407.93,
+        "at": "mà",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 57
+      },
+      {
+        "t": 408.44,
+        "at": "nhất,",
+        "fx": "slide-up",
+        "boxes": [
+          [
+            0.178,
+            0.28,
+            0.644,
+            0.72
+          ]
+        ],
+        "shot": 57
+      },
+      {
+        "t": 409.27,
+        "at": "bị",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.289,
+            0.08,
+            0.422,
+            0.12
+          ]
+        ],
+        "shot": 57
+      },
+      {
+        "t": 412.27,
+        "at": null,
+        "fx": "cut",
+        "boxes": [],
+        "shot": 58
+      },
+      {
+        "t": 458.9,
+        "at": "Chưa",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.178,
+            0.32,
+            0.111,
+            0.24
+          ]
+        ],
+        "shot": 58
+      },
+      {
+        "t": 462.8,
+        "at": "bánh",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.178,
+            0.32,
+            0.111,
+            0.24
+          ]
+        ],
+        "shot": 58
+      },
+      {
+        "t": 466.7,
+        "at": "cộng",
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0.244,
+            0.24,
+            0.711,
+            0.68
+          ]
+        ],
+        "shot": 58
+      },
+      {
+        "t": 473.12,
+        "at": null,
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0.178,
+            0.24,
+            0.667,
+            0.72
+          ]
+        ],
+        "shot": 58
+      },
+      {
+        "t": 476.74,
+        "at": "trước,",
+        "fx": "draw-down",
+        "boxes": [
+          [
+            0.222,
+            0.28,
+            0.578,
+            0.56
+          ]
+        ],
+        "shot": 58
+      },
+      {
+        "t": 485.93,
+        "at": "thứ",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 59
+      },
+      {
+        "t": 487.33,
+        "at": "là",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 60
+      },
+      {
+        "t": 487.61,
+        "at": "thứ",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.2,
+            0.08,
+            0.6,
+            0.16
+          ]
+        ],
+        "shot": 60
+      },
+      {
+        "t": 489.43,
+        "at": "Cả",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 61
+      }
+    ],
+    "medianInterval": 1.39,
+    "perMinute": 23.32
+  }
+}

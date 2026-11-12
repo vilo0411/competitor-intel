@@ -1,0 +1,16 @@
+{
+  "source": "video.mp4",
+  "audio_file": "/Users/nguyenvietloc/Documents/competitor-intel/docs/cafe-chung-cung-minh/tiktok/cafechungcungminh/style/7702380012628020500/audio/audio.wav",
+  "transcription_engine": "whisper-cli",
+  "whisper_model": "large",
+  "segments_count": 50,
+  "word_or_syllable_count": 433,
+  "speech_span_seconds": 121.6,
+  "syllables_per_second": 3.56,
+  "words_per_minute": 213.7,
+  "silence_intervals_count": 0,
+  "silence_file": "/Users/nguyenvietloc/Documents/competitor-intel/docs/cafe-chung-cung-minh/tiktok/cafechungcungminh/style/7702380012628020500/audio/silence.txt",
+  "volume_file": "/Users/nguyenvietloc/Documents/competitor-intel/docs/cafe-chung-cung-minh/tiktok/cafechungcungminh/style/7702380012628020500/audio/volume.txt",
+  "sample_rate": 16000,
+  "channels": 1
+}

@@ -1,0 +1,2 @@
+[Parsed_silencedetect_0 @ 0x147705af0] silence_start: 53.740313
+[Parsed_silencedetect_0 @ 0x147705af0] silence_end: 62.068375 | silence_duration: 8.328062

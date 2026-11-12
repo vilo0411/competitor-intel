@@ -1,0 +1,17 @@
+{
+  "source": "video.mp4",
+  "duration_seconds": 60.07,
+  "resolution": "1080,1920",
+  "video_stream_index": 0,
+  "fps_rate": 2.0,
+  "grid_layout": "3x5",
+  "total_frames_extracted": 120,
+  "montage_grids": 8,
+  "scene_changes": 1,
+  "scene_timestamps": [
+    22.37
+  ],
+  "estimated_shots": 2,
+  "average_shot_duration_seconds": 30.04,
+  "output_directory": "/Users/nguyenvietloc/Documents/competitor-intel/docs/manhinhxanhdo-official/tiktok/manhinhxanhdo_official/style/7540861204533759250/frames"
+}

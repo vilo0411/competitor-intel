@@ -1,0 +1,18 @@
+{
+  "source": "video.mp4",
+  "duration_seconds": 505.300998,
+  "resolution": "1024,576",
+  "video_stream_index": 0,
+  "fps_rate": 1.0,
+  "grid_layout": "3x5",
+  "total_frames_extracted": 180,
+  "montage_grids": 12,
+  "scene_changes": 2,
+  "scene_timestamps": [
+    5.53,
+    314.83
+  ],
+  "estimated_shots": 3,
+  "average_shot_duration_seconds": 168.43,
+  "output_directory": "/Users/nguyenvietloc/Documents/competitor-intel/docs/heotaichinh102/tiktok/heotaichinh102/style/7706076277110885652/frames"
+}

@@ -1,0 +1,1376 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 8
+	},
+	"params": {
+		"model": "/Users/nguyenvietloc/.local/share/dsc-academy/models/ggml-large-v3-turbo-q5_0.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:03,360"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 3360
+			},
+			"text": " I need to know",
+			"tokens": [
+				{
+					"text": "[_BEG_]",
+					"timestamps": {
+						"from": "00:00:00,000",
+						"to": "00:00:00,000"
+					},
+					"offsets": {
+						"from": 0,
+						"to": 0
+					},
+					"id": 50365,
+					"p": 0.879428,
+					"t_dtw": -1
+				},
+				{
+					"text": " I",
+					"timestamps": {
+						"from": "00:00:00,000",
+						"to": "00:00:02,000"
+					},
+					"offsets": {
+						"from": 0,
+						"to": 2000
+					},
+					"id": 286,
+					"p": 0.507388,
+					"t_dtw": -1
+				},
+				{
+					"text": " need",
+					"timestamps": {
+						"from": "00:00:02,000",
+						"to": "00:00:02,540"
+					},
+					"offsets": {
+						"from": 2000,
+						"to": 2540
+					},
+					"id": 643,
+					"p": 0.932373,
+					"t_dtw": -1
+				},
+				{
+					"text": " to",
+					"timestamps": {
+						"from": "00:00:02,540",
+						"to": "00:00:02,810"
+					},
+					"offsets": {
+						"from": 2540,
+						"to": 2810
+					},
+					"id": 281,
+					"p": 0.963585,
+					"t_dtw": -1
+				},
+				{
+					"text": " know",
+					"timestamps": {
+						"from": "00:00:02,810",
+						"to": "00:00:03,360"
+					},
+					"offsets": {
+						"from": 2810,
+						"to": 3360
+					},
+					"id": 458,
+					"p": 0.99057,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_168]",
+					"timestamps": {
+						"from": "00:00:03,360",
+						"to": "00:00:03,360"
+					},
+					"offsets": {
+						"from": 3360,
+						"to": 3360
+					},
+					"id": 50533,
+					"p": 0.100995,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,360",
+				"to": "00:00:06,260"
+			},
+			"offsets": {
+				"from": 3360,
+				"to": 6260
+			},
+			"text": " Could you be the one to call",
+			"tokens": [
+				{
+					"text": " Could",
+					"timestamps": {
+						"from": "00:00:03,360",
+						"to": "00:00:03,950"
+					},
+					"offsets": {
+						"from": 3360,
+						"to": 3950
+					},
+					"id": 7497,
+					"p": 0.976921,
+					"t_dtw": -1
+				},
+				{
+					"text": " you",
+					"timestamps": {
+						"from": "00:00:03,950",
+						"to": "00:00:04,310"
+					},
+					"offsets": {
+						"from": 3950,
+						"to": 4310
+					},
+					"id": 291,
+					"p": 0.999737,
+					"t_dtw": -1
+				},
+				{
+					"text": " be",
+					"timestamps": {
+						"from": "00:00:04,310",
+						"to": "00:00:04,550"
+					},
+					"offsets": {
+						"from": 4310,
+						"to": 4550
+					},
+					"id": 312,
+					"p": 0.999851,
+					"t_dtw": -1
+				},
+				{
+					"text": " the",
+					"timestamps": {
+						"from": "00:00:04,550",
+						"to": "00:00:04,910"
+					},
+					"offsets": {
+						"from": 4550,
+						"to": 4910
+					},
+					"id": 264,
+					"p": 0.998487,
+					"t_dtw": -1
+				},
+				{
+					"text": " one",
+					"timestamps": {
+						"from": "00:00:04,910",
+						"to": "00:00:05,280"
+					},
+					"offsets": {
+						"from": 4910,
+						"to": 5280
+					},
+					"id": 472,
+					"p": 0.999525,
+					"t_dtw": -1
+				},
+				{
+					"text": " to",
+					"timestamps": {
+						"from": "00:00:05,280",
+						"to": "00:00:05,600"
+					},
+					"offsets": {
+						"from": 5280,
+						"to": 5600
+					},
+					"id": 281,
+					"p": 0.842031,
+					"t_dtw": -1
+				},
+				{
+					"text": " call",
+					"timestamps": {
+						"from": "00:00:05,600",
+						"to": "00:00:06,260"
+					},
+					"offsets": {
+						"from": 5600,
+						"to": 6260
+					},
+					"id": 818,
+					"p": 0.899631,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_313]",
+					"timestamps": {
+						"from": "00:00:06,260",
+						"to": "00:00:06,260"
+					},
+					"offsets": {
+						"from": 6260,
+						"to": 6260
+					},
+					"id": 50678,
+					"p": 0.390866,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,260",
+				"to": "00:00:08,000"
+			},
+			"offsets": {
+				"from": 6260,
+				"to": 8000
+			},
+			"text": " When I lose control",
+			"tokens": [
+				{
+					"text": " When",
+					"timestamps": {
+						"from": "00:00:06,260",
+						"to": "00:00:06,690"
+					},
+					"offsets": {
+						"from": 6260,
+						"to": 6690
+					},
+					"id": 1133,
+					"p": 0.976496,
+					"t_dtw": -1
+				},
+				{
+					"text": " I",
+					"timestamps": {
+						"from": "00:00:06,690",
+						"to": "00:00:06,790"
+					},
+					"offsets": {
+						"from": 6690,
+						"to": 6790
+					},
+					"id": 286,
+					"p": 0.999457,
+					"t_dtw": -1
+				},
+				{
+					"text": " lose",
+					"timestamps": {
+						"from": "00:00:06,790",
+						"to": "00:00:07,220"
+					},
+					"offsets": {
+						"from": 6790,
+						"to": 7220
+					},
+					"id": 3624,
+					"p": 0.999182,
+					"t_dtw": -1
+				},
+				{
+					"text": " control",
+					"timestamps": {
+						"from": "00:00:07,220",
+						"to": "00:00:08,000"
+					},
+					"offsets": {
+						"from": 7220,
+						"to": 8000
+					},
+					"id": 1969,
+					"p": 0.999912,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_400]",
+					"timestamps": {
+						"from": "00:00:08,000",
+						"to": "00:00:08,000"
+					},
+					"offsets": {
+						"from": 8000,
+						"to": 8000
+					},
+					"id": 50765,
+					"p": 0.35943,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:37,300"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 37300
+			},
+			"text": " Could you be the one to call",
+			"tokens": [
+				{
+					"text": "[_BEG_]",
+					"timestamps": {
+						"from": "00:00:30,000",
+						"to": "00:00:30,000"
+					},
+					"offsets": {
+						"from": 30000,
+						"to": 30000
+					},
+					"id": 50365,
+					"p": 0.844051,
+					"t_dtw": -1
+				},
+				{
+					"text": " Could",
+					"timestamps": {
+						"from": "00:00:30,000",
+						"to": "00:00:31,960"
+					},
+					"offsets": {
+						"from": 30000,
+						"to": 31960
+					},
+					"id": 7497,
+					"p": 0.125159,
+					"t_dtw": -1
+				},
+				{
+					"text": " you",
+					"timestamps": {
+						"from": "00:00:31,960",
+						"to": "00:00:33,140"
+					},
+					"offsets": {
+						"from": 31960,
+						"to": 33140
+					},
+					"id": 291,
+					"p": 0.953961,
+					"t_dtw": -1
+				},
+				{
+					"text": " be",
+					"timestamps": {
+						"from": "00:00:33,140",
+						"to": "00:00:33,920"
+					},
+					"offsets": {
+						"from": 33140,
+						"to": 33920
+					},
+					"id": 312,
+					"p": 0.998378,
+					"t_dtw": -1
+				},
+				{
+					"text": " the",
+					"timestamps": {
+						"from": "00:00:33,920",
+						"to": "00:00:35,100"
+					},
+					"offsets": {
+						"from": 33920,
+						"to": 35100
+					},
+					"id": 264,
+					"p": 0.999235,
+					"t_dtw": -1
+				},
+				{
+					"text": " one",
+					"timestamps": {
+						"from": "00:00:35,100",
+						"to": "00:00:36,270"
+					},
+					"offsets": {
+						"from": 35100,
+						"to": 36270
+					},
+					"id": 472,
+					"p": 0.998306,
+					"t_dtw": -1
+				},
+				{
+					"text": " to",
+					"timestamps": {
+						"from": "00:00:36,300",
+						"to": "00:00:36,630"
+					},
+					"offsets": {
+						"from": 36300,
+						"to": 36630
+					},
+					"id": 281,
+					"p": 0.970154,
+					"t_dtw": -1
+				},
+				{
+					"text": " call",
+					"timestamps": {
+						"from": "00:00:36,630",
+						"to": "00:00:37,300"
+					},
+					"offsets": {
+						"from": 36630,
+						"to": 37300
+					},
+					"id": 818,
+					"p": 0.983877,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_365]",
+					"timestamps": {
+						"from": "00:00:37,300",
+						"to": "00:00:37,300"
+					},
+					"offsets": {
+						"from": 37300,
+						"to": 37300
+					},
+					"id": 50730,
+					"p": 0.222029,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,300",
+				"to": "00:00:38,920"
+			},
+			"offsets": {
+				"from": 37300,
+				"to": 38920
+			},
+			"text": " When I lose control",
+			"tokens": [
+				{
+					"text": " When",
+					"timestamps": {
+						"from": "00:00:37,300",
+						"to": "00:00:37,700"
+					},
+					"offsets": {
+						"from": 37300,
+						"to": 37700
+					},
+					"id": 1133,
+					"p": 0.988627,
+					"t_dtw": -1
+				},
+				{
+					"text": " I",
+					"timestamps": {
+						"from": "00:00:37,700",
+						"to": "00:00:37,800"
+					},
+					"offsets": {
+						"from": 37700,
+						"to": 37800
+					},
+					"id": 286,
+					"p": 0.999535,
+					"t_dtw": -1
+				},
+				{
+					"text": " lose",
+					"timestamps": {
+						"from": "00:00:37,800",
+						"to": "00:00:38,200"
+					},
+					"offsets": {
+						"from": 37800,
+						"to": 38200
+					},
+					"id": 3624,
+					"p": 0.998799,
+					"t_dtw": -1
+				},
+				{
+					"text": " control",
+					"timestamps": {
+						"from": "00:00:38,200",
+						"to": "00:00:38,920"
+					},
+					"offsets": {
+						"from": 38200,
+						"to": 38920
+					},
+					"id": 1969,
+					"p": 0.999939,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_446]",
+					"timestamps": {
+						"from": "00:00:38,920",
+						"to": "00:00:38,920"
+					},
+					"offsets": {
+						"from": 38920,
+						"to": 38920
+					},
+					"id": 50811,
+					"p": 0.239194,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,920",
+				"to": "00:00:40,860"
+			},
+			"offsets": {
+				"from": 38920,
+				"to": 40860
+			},
+			"text": " When I lose control",
+			"tokens": [
+				{
+					"text": " When",
+					"timestamps": {
+						"from": "00:00:38,920",
+						"to": "00:00:39,400"
+					},
+					"offsets": {
+						"from": 38920,
+						"to": 39400
+					},
+					"id": 1133,
+					"p": 0.812298,
+					"t_dtw": -1
+				},
+				{
+					"text": " I",
+					"timestamps": {
+						"from": "00:00:39,400",
+						"to": "00:00:39,520"
+					},
+					"offsets": {
+						"from": 39400,
+						"to": 39520
+					},
+					"id": 286,
+					"p": 0.999659,
+					"t_dtw": -1
+				},
+				{
+					"text": " lose",
+					"timestamps": {
+						"from": "00:00:39,520",
+						"to": "00:00:40,000"
+					},
+					"offsets": {
+						"from": 39520,
+						"to": 40000
+					},
+					"id": 3624,
+					"p": 0.999098,
+					"t_dtw": -1
+				},
+				{
+					"text": " control",
+					"timestamps": {
+						"from": "00:00:40,000",
+						"to": "00:00:40,860"
+					},
+					"offsets": {
+						"from": 40000,
+						"to": 40860
+					},
+					"id": 1969,
+					"p": 0.999815,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_543]",
+					"timestamps": {
+						"from": "00:00:40,860",
+						"to": "00:00:40,860"
+					},
+					"offsets": {
+						"from": 40860,
+						"to": 40860
+					},
+					"id": 50908,
+					"p": 0.261485,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,860",
+				"to": "00:00:42,820"
+			},
+			"offsets": {
+				"from": 40860,
+				"to": 42820
+			},
+			"text": " When I lose control",
+			"tokens": [
+				{
+					"text": " When",
+					"timestamps": {
+						"from": "00:00:40,860",
+						"to": "00:00:41,350"
+					},
+					"offsets": {
+						"from": 40860,
+						"to": 41350
+					},
+					"id": 1133,
+					"p": 0.921632,
+					"t_dtw": -1
+				},
+				{
+					"text": " I",
+					"timestamps": {
+						"from": "00:00:41,350",
+						"to": "00:00:41,470"
+					},
+					"offsets": {
+						"from": 41350,
+						"to": 41470
+					},
+					"id": 286,
+					"p": 0.999836,
+					"t_dtw": -1
+				},
+				{
+					"text": " lose",
+					"timestamps": {
+						"from": "00:00:41,470",
+						"to": "00:00:41,960"
+					},
+					"offsets": {
+						"from": 41470,
+						"to": 41960
+					},
+					"id": 3624,
+					"p": 0.999335,
+					"t_dtw": -1
+				},
+				{
+					"text": " control",
+					"timestamps": {
+						"from": "00:00:41,960",
+						"to": "00:00:42,820"
+					},
+					"offsets": {
+						"from": 41960,
+						"to": 42820
+					},
+					"id": 1969,
+					"p": 0.999765,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_641]",
+					"timestamps": {
+						"from": "00:00:42,820",
+						"to": "00:00:42,820"
+					},
+					"offsets": {
+						"from": 42820,
+						"to": 42820
+					},
+					"id": 51006,
+					"p": 0.19947,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,820",
+				"to": "00:00:44,760"
+			},
+			"offsets": {
+				"from": 42820,
+				"to": 44760
+			},
+			"text": " When I lose control",
+			"tokens": [
+				{
+					"text": " When",
+					"timestamps": {
+						"from": "00:00:42,820",
+						"to": "00:00:43,300"
+					},
+					"offsets": {
+						"from": 42820,
+						"to": 43300
+					},
+					"id": 1133,
+					"p": 0.930601,
+					"t_dtw": -1
+				},
+				{
+					"text": " I",
+					"timestamps": {
+						"from": "00:00:43,300",
+						"to": "00:00:43,420"
+					},
+					"offsets": {
+						"from": 43300,
+						"to": 43420
+					},
+					"id": 286,
+					"p": 0.999861,
+					"t_dtw": -1
+				},
+				{
+					"text": " lose",
+					"timestamps": {
+						"from": "00:00:43,420",
+						"to": "00:00:43,900"
+					},
+					"offsets": {
+						"from": 43420,
+						"to": 43900
+					},
+					"id": 3624,
+					"p": 0.999251,
+					"t_dtw": -1
+				},
+				{
+					"text": " control",
+					"timestamps": {
+						"from": "00:00:43,900",
+						"to": "00:00:44,760"
+					},
+					"offsets": {
+						"from": 43900,
+						"to": 44760
+					},
+					"id": 1969,
+					"p": 0.999554,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_738]",
+					"timestamps": {
+						"from": "00:00:44,760",
+						"to": "00:00:44,760"
+					},
+					"offsets": {
+						"from": 44760,
+						"to": 44760
+					},
+					"id": 51103,
+					"p": 0.223219,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,760",
+				"to": "00:00:46,800"
+			},
+			"offsets": {
+				"from": 44760,
+				"to": 46800
+			},
+			"text": " When I lose control",
+			"tokens": [
+				{
+					"text": " When",
+					"timestamps": {
+						"from": "00:00:44,760",
+						"to": "00:00:45,270"
+					},
+					"offsets": {
+						"from": 44760,
+						"to": 45270
+					},
+					"id": 1133,
+					"p": 0.956804,
+					"t_dtw": -1
+				},
+				{
+					"text": " I",
+					"timestamps": {
+						"from": "00:00:45,270",
+						"to": "00:00:45,390"
+					},
+					"offsets": {
+						"from": 45270,
+						"to": 45390
+					},
+					"id": 286,
+					"p": 0.999863,
+					"t_dtw": -1
+				},
+				{
+					"text": " lose",
+					"timestamps": {
+						"from": "00:00:45,390",
+						"to": "00:00:45,900"
+					},
+					"offsets": {
+						"from": 45390,
+						"to": 45900
+					},
+					"id": 3624,
+					"p": 0.999243,
+					"t_dtw": -1
+				},
+				{
+					"text": " control",
+					"timestamps": {
+						"from": "00:00:45,900",
+						"to": "00:00:46,800"
+					},
+					"offsets": {
+						"from": 45900,
+						"to": 46800
+					},
+					"id": 1969,
+					"p": 0.999678,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_840]",
+					"timestamps": {
+						"from": "00:00:46,800",
+						"to": "00:00:46,800"
+					},
+					"offsets": {
+						"from": 46800,
+						"to": 46800
+					},
+					"id": 51205,
+					"p": 0.078333,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,800",
+				"to": "00:00:48,660"
+			},
+			"offsets": {
+				"from": 46800,
+				"to": 48660
+			},
+			"text": " When I lose control",
+			"tokens": [
+				{
+					"text": " When",
+					"timestamps": {
+						"from": "00:00:46,800",
+						"to": "00:00:47,260"
+					},
+					"offsets": {
+						"from": 46800,
+						"to": 47260
+					},
+					"id": 1133,
+					"p": 0.934433,
+					"t_dtw": -1
+				},
+				{
+					"text": " I",
+					"timestamps": {
+						"from": "00:00:47,260",
+						"to": "00:00:47,370"
+					},
+					"offsets": {
+						"from": 47260,
+						"to": 47370
+					},
+					"id": 286,
+					"p": 0.999788,
+					"t_dtw": -1
+				},
+				{
+					"text": " lose",
+					"timestamps": {
+						"from": "00:00:47,370",
+						"to": "00:00:47,830"
+					},
+					"offsets": {
+						"from": 47370,
+						"to": 47830
+					},
+					"id": 3624,
+					"p": 0.998872,
+					"t_dtw": -1
+				},
+				{
+					"text": " control",
+					"timestamps": {
+						"from": "00:00:47,830",
+						"to": "00:00:48,660"
+					},
+					"offsets": {
+						"from": 47830,
+						"to": 48660
+					},
+					"id": 1969,
+					"p": 0.999115,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_933]",
+					"timestamps": {
+						"from": "00:00:48,660",
+						"to": "00:00:48,660"
+					},
+					"offsets": {
+						"from": 48660,
+						"to": 48660
+					},
+					"id": 51298,
+					"p": 0.228019,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,660",
+				"to": "00:00:52,740"
+			},
+			"offsets": {
+				"from": 48660,
+				"to": 52740
+			},
+			"text": " Could you be the one to call",
+			"tokens": [
+				{
+					"text": " Could",
+					"timestamps": {
+						"from": "00:00:48,660",
+						"to": "00:00:49,630"
+					},
+					"offsets": {
+						"from": 48660,
+						"to": 49630
+					},
+					"id": 7497,
+					"p": 0.524952,
+					"t_dtw": -1
+				},
+				{
+					"text": " you",
+					"timestamps": {
+						"from": "00:00:49,630",
+						"to": "00:00:50,210"
+					},
+					"offsets": {
+						"from": 49630,
+						"to": 50210
+					},
+					"id": 291,
+					"p": 0.999758,
+					"t_dtw": -1
+				},
+				{
+					"text": " be",
+					"timestamps": {
+						"from": "00:00:50,210",
+						"to": "00:00:50,600"
+					},
+					"offsets": {
+						"from": 50210,
+						"to": 50600
+					},
+					"id": 312,
+					"p": 0.999727,
+					"t_dtw": -1
+				},
+				{
+					"text": " the",
+					"timestamps": {
+						"from": "00:00:50,600",
+						"to": "00:00:51,180"
+					},
+					"offsets": {
+						"from": 50600,
+						"to": 51180
+					},
+					"id": 264,
+					"p": 0.999853,
+					"t_dtw": -1
+				},
+				{
+					"text": " one",
+					"timestamps": {
+						"from": "00:00:51,180",
+						"to": "00:00:51,780"
+					},
+					"offsets": {
+						"from": 51180,
+						"to": 51780
+					},
+					"id": 472,
+					"p": 0.999369,
+					"t_dtw": -1
+				},
+				{
+					"text": " to",
+					"timestamps": {
+						"from": "00:00:51,780",
+						"to": "00:00:52,100"
+					},
+					"offsets": {
+						"from": 51780,
+						"to": 52100
+					},
+					"id": 281,
+					"p": 0.97828,
+					"t_dtw": -1
+				},
+				{
+					"text": " call",
+					"timestamps": {
+						"from": "00:00:52,100",
+						"to": "00:00:52,740"
+					},
+					"offsets": {
+						"from": 52100,
+						"to": 52740
+					},
+					"id": 818,
+					"p": 0.996352,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_1137]",
+					"timestamps": {
+						"from": "00:00:52,740",
+						"to": "00:00:52,740"
+					},
+					"offsets": {
+						"from": 52740,
+						"to": 52740
+					},
+					"id": 51502,
+					"p": 0.196829,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,740",
+				"to": "00:00:54,380"
+			},
+			"offsets": {
+				"from": 52740,
+				"to": 54380
+			},
+			"text": " When I lose control",
+			"tokens": [
+				{
+					"text": " When",
+					"timestamps": {
+						"from": "00:00:52,740",
+						"to": "00:00:53,150"
+					},
+					"offsets": {
+						"from": 52740,
+						"to": 53150
+					},
+					"id": 1133,
+					"p": 0.997721,
+					"t_dtw": -1
+				},
+				{
+					"text": " I",
+					"timestamps": {
+						"from": "00:00:53,150",
+						"to": "00:00:53,250"
+					},
+					"offsets": {
+						"from": 53150,
+						"to": 53250
+					},
+					"id": 286,
+					"p": 0.999962,
+					"t_dtw": -1
+				},
+				{
+					"text": " lose",
+					"timestamps": {
+						"from": "00:00:53,250",
+						"to": "00:00:53,660"
+					},
+					"offsets": {
+						"from": 53250,
+						"to": 53660
+					},
+					"id": 3624,
+					"p": 0.99962,
+					"t_dtw": -1
+				},
+				{
+					"text": " control",
+					"timestamps": {
+						"from": "00:00:53,660",
+						"to": "00:00:54,380"
+					},
+					"offsets": {
+						"from": 53660,
+						"to": 54380
+					},
+					"id": 1969,
+					"p": 0.999918,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_1219]",
+					"timestamps": {
+						"from": "00:00:54,380",
+						"to": "00:00:54,380"
+					},
+					"offsets": {
+						"from": 54380,
+						"to": 54380
+					},
+					"id": 51584,
+					"p": 0.229283,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,380",
+				"to": "00:00:57,500"
+			},
+			"offsets": {
+				"from": 54380,
+				"to": 57500
+			},
+			"text": " I know I can be destructive",
+			"tokens": [
+				{
+					"text": " I",
+					"timestamps": {
+						"from": "00:00:54,380",
+						"to": "00:00:54,580"
+					},
+					"offsets": {
+						"from": 54380,
+						"to": 54580
+					},
+					"id": 286,
+					"p": 0.99072,
+					"t_dtw": -1
+				},
+				{
+					"text": " know",
+					"timestamps": {
+						"from": "00:00:54,580",
+						"to": "00:00:55,390"
+					},
+					"offsets": {
+						"from": 54580,
+						"to": 55390
+					},
+					"id": 458,
+					"p": 0.995923,
+					"t_dtw": -1
+				},
+				{
+					"text": " I",
+					"timestamps": {
+						"from": "00:00:55,390",
+						"to": "00:00:55,590"
+					},
+					"offsets": {
+						"from": 55390,
+						"to": 55590
+					},
+					"id": 286,
+					"p": 0.999312,
+					"t_dtw": -1
+				},
+				{
+					"text": " can",
+					"timestamps": {
+						"from": "00:00:55,590",
+						"to": "00:00:56,200"
+					},
+					"offsets": {
+						"from": 55590,
+						"to": 56200
+					},
+					"id": 393,
+					"p": 0.998767,
+					"t_dtw": -1
+				},
+				{
+					"text": " be",
+					"timestamps": {
+						"from": "00:00:56,200",
+						"to": "00:00:56,620"
+					},
+					"offsets": {
+						"from": 56200,
+						"to": 56620
+					},
+					"id": 312,
+					"p": 0.997141,
+					"t_dtw": -1
+				},
+				{
+					"text": " destructive",
+					"timestamps": {
+						"from": "00:00:56,620",
+						"to": "00:00:57,500"
+					},
+					"offsets": {
+						"from": 56620,
+						"to": 57500
+					},
+					"id": 26960,
+					"p": 0.979227,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_1375]",
+					"timestamps": {
+						"from": "00:00:57,500",
+						"to": "00:00:57,500"
+					},
+					"offsets": {
+						"from": 57500,
+						"to": 57500
+					},
+					"id": 51740,
+					"p": 0.397838,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,500",
+				"to": "00:00:59,960"
+			},
+			"offsets": {
+				"from": 57500,
+				"to": 59960
+			},
+			"text": " And I can change",
+			"tokens": [
+				{
+					"text": " And",
+					"timestamps": {
+						"from": "00:00:57,500",
+						"to": "00:00:58,060"
+					},
+					"offsets": {
+						"from": 57500,
+						"to": 58060
+					},
+					"id": 400,
+					"p": 0.587475,
+					"t_dtw": -1
+				},
+				{
+					"text": " I",
+					"timestamps": {
+						"from": "00:00:58,060",
+						"to": "00:00:58,250"
+					},
+					"offsets": {
+						"from": 58060,
+						"to": 58250
+					},
+					"id": 286,
+					"p": 0.999704,
+					"t_dtw": -1
+				},
+				{
+					"text": " can",
+					"timestamps": {
+						"from": "00:00:58,250",
+						"to": "00:00:58,810"
+					},
+					"offsets": {
+						"from": 58250,
+						"to": 58810
+					},
+					"id": 393,
+					"p": 0.996694,
+					"t_dtw": -1
+				},
+				{
+					"text": " change",
+					"timestamps": {
+						"from": "00:00:58,810",
+						"to": "00:00:59,960"
+					},
+					"offsets": {
+						"from": 58810,
+						"to": 59960
+					},
+					"id": 1319,
+					"p": 0.931059,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_1498]",
+					"timestamps": {
+						"from": "00:00:59,960",
+						"to": "00:00:59,960"
+					},
+					"offsets": {
+						"from": 59960,
+						"to": 59960
+					},
+					"id": 51863,
+					"p": 0.231647,
+					"t_dtw": -1
+				}
+			]
+		}
+	]
+}

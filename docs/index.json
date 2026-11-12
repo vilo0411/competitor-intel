@@ -1,6 +1,75 @@
 {
   "competitors": [
     {
+      "slug": "cafe-chung-cung-minh",
+      "name": "Cafe Chung Cung Minh",
+      "updated": "2026-11-12",
+      "todo": [],
+      "report": "cafe-chung-cung-minh/cafe-chung-cung-minh.html",
+      "summary": "cafe-chung-cung-minh/summary.json",
+      "channels": [
+        {
+          "handle": "cafechungcungminh",
+          "followers": 4398,
+          "medianViews": 4429.5,
+          "labelsTodo": "cafe-chung-cung-minh/tiktok/cafechungcungminh/labels.todo.json",
+          "styles": [
+            "cafe-chung-cung-minh/tiktok/cafechungcungminh/style/7700155703234678017/style.json",
+            "cafe-chung-cung-minh/tiktok/cafechungcungminh/style/7702380012628020500/style.json",
+            "cafe-chung-cung-minh/tiktok/cafechungcungminh/style/7701680816157445396/style.json",
+            "cafe-chung-cung-minh/tiktok/cafechungcungminh/style/7703123815131368724/style.json",
+            "cafe-chung-cung-minh/tiktok/cafechungcungminh/style/7697987952848145685/style.json"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "heotaichinh102",
+      "name": "heotaichinh102",
+      "updated": "2026-11-12",
+      "todo": [],
+      "report": "heotaichinh102/heotaichinh102.html",
+      "summary": "heotaichinh102/summary.json",
+      "channels": [
+        {
+          "handle": "heotaichinh102",
+          "followers": 3791,
+          "medianViews": 9341,
+          "labelsTodo": "heotaichinh102/tiktok/heotaichinh102/labels.todo.json",
+          "styles": [
+            "heotaichinh102/tiktok/heotaichinh102/style/7703758926361267476/style.json",
+            "heotaichinh102/tiktok/heotaichinh102/style/7702335824507030804/style.json",
+            "heotaichinh102/tiktok/heotaichinh102/style/7704587333823221013/style.json",
+            "heotaichinh102/tiktok/heotaichinh102/style/7704527129001610516/style.json",
+            "heotaichinh102/tiktok/heotaichinh102/style/7706076277110885652/style.json"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "manhinhxanhdo-official",
+      "name": "manhinhxanhdo_official",
+      "updated": "2026-11-12",
+      "todo": [],
+      "report": "manhinhxanhdo-official/manhinhxanhdo-official.html",
+      "summary": "manhinhxanhdo-official/summary.json",
+      "channels": [
+        {
+          "handle": "manhinhxanhdo_official",
+          "followers": 13100,
+          "medianViews": 24550,
+          "labelsTodo": "manhinhxanhdo-official/tiktok/manhinhxanhdo_official/labels.todo.json",
+          "styles": [
+            "manhinhxanhdo-official/tiktok/manhinhxanhdo_official/style/7541243778741406983/style.json",
+            "manhinhxanhdo-official/tiktok/manhinhxanhdo_official/style/7597822235981843733/style.json",
+            "manhinhxanhdo-official/tiktok/manhinhxanhdo_official/style/7542161826541243656/style.json",
+            "manhinhxanhdo-official/tiktok/manhinhxanhdo_official/style/7540861204533759250/style.json",
+            "manhinhxanhdo-official/tiktok/manhinhxanhdo_official/style/7547692216236838162/style.json"
+          ]
+        }
+      ]
+    },
+    {
       "slug": "gorillanomics",
       "name": "Gorillanomics",
       "updated": "2026-11-11",
@@ -46,6 +115,14 @@
     }
   ],
   "runs": [
+    {
+      "id": "20261112-003907-cafe-chung-cung-minh",
+      "status": "ok",
+      "slug": "cafe-chung-cung-minh",
+      "name": "Cafe Chung Cung Minh",
+      "finishedAt": "2026-11-12T00:49:24.285Z",
+      "seconds": 47
+    },
     {
       "id": "20261111-091719-kinh-t-n-gi-n",
       "status": "ok",

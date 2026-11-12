@@ -1,0 +1,427 @@
+{
+  "engine": "whisper-cli",
+  "language": "en",
+  "text": "I have no excuse I just want you to use me Take me and abuse me I got no temples I make a trade with you Do anything you want me to Money talks, money talks Dirty cash, I want you And dirty cash, I need you, oh Money talks, money talks Dirty cash, I want you Dirty cash, I need you, oh I'm dirty cash, the one that you ask for I'm right.",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 5.04,
+      "text": "I have no excuse I just want you to use me"
+    },
+    {
+      "id": 1,
+      "start": 5.04,
+      "end": 9.5,
+      "text": "Take me and abuse me I got no temples"
+    },
+    {
+      "id": 2,
+      "start": 9.5,
+      "end": 14.54,
+      "text": "I make a trade with you Do anything you want me to"
+    },
+    {
+      "id": 3,
+      "start": 14.54,
+      "end": 19.6,
+      "text": "Money talks, money talks Dirty cash, I want you"
+    },
+    {
+      "id": 4,
+      "start": 19.6,
+      "end": 25.04,
+      "text": "And dirty cash, I need you, oh Money talks, money talks"
+    },
+    {
+      "id": 5,
+      "start": 25.04,
+      "end": 28.8,
+      "text": "Dirty cash, I want you Dirty cash, I need you, oh"
+    },
+    {
+      "id": 6,
+      "start": 30.0,
+      "end": 59.7,
+      "text": "I'm dirty cash, the one that you ask for"
+    },
+    {
+      "id": 7,
+      "start": 59.7,
+      "end": 60.02,
+      "text": "I'm right."
+    }
+  ],
+  "words": [
+    {
+      "word": "I",
+      "start": 0.01,
+      "end": 0.15
+    },
+    {
+      "word": "have",
+      "start": 0.18,
+      "end": 0.76
+    },
+    {
+      "word": "no",
+      "start": 0.76,
+      "end": 1.01
+    },
+    {
+      "word": "excuse",
+      "start": 1.05,
+      "end": 2.0
+    },
+    {
+      "word": "I",
+      "start": 2.0,
+      "end": 2.16
+    },
+    {
+      "word": "just",
+      "start": 2.16,
+      "end": 2.79
+    },
+    {
+      "word": "want",
+      "start": 2.79,
+      "end": 3.42
+    },
+    {
+      "word": "you",
+      "start": 3.42,
+      "end": 3.89
+    },
+    {
+      "word": "to",
+      "start": 3.89,
+      "end": 4.21
+    },
+    {
+      "word": "use",
+      "start": 4.21,
+      "end": 4.68
+    },
+    {
+      "word": "me",
+      "start": 4.68,
+      "end": 5.04
+    },
+    {
+      "word": "Take",
+      "start": 5.05,
+      "end": 5.61
+    },
+    {
+      "word": "me",
+      "start": 5.61,
+      "end": 5.9
+    },
+    {
+      "word": "and",
+      "start": 5.9,
+      "end": 6.32
+    },
+    {
+      "word": "abuse",
+      "start": 6.32,
+      "end": 7.05
+    },
+    {
+      "word": "me",
+      "start": 7.05,
+      "end": 7.36
+    },
+    {
+      "word": "I",
+      "start": 7.36,
+      "end": 7.52
+    },
+    {
+      "word": "got",
+      "start": 7.52,
+      "end": 8.01
+    },
+    {
+      "word": "no",
+      "start": 8.01,
+      "end": 8.33
+    },
+    {
+      "word": "temples",
+      "start": 8.33,
+      "end": 9.5
+    },
+    {
+      "word": "I",
+      "start": 9.51,
+      "end": 9.63
+    },
+    {
+      "word": "make",
+      "start": 9.68,
+      "end": 10.23
+    },
+    {
+      "word": "a",
+      "start": 10.23,
+      "end": 10.37
+    },
+    {
+      "word": "trade",
+      "start": 10.37,
+      "end": 11.1
+    },
+    {
+      "word": "with",
+      "start": 11.1,
+      "end": 11.69
+    },
+    {
+      "word": "you",
+      "start": 11.69,
+      "end": 12.15
+    },
+    {
+      "word": "Do",
+      "start": 12.19,
+      "end": 12.37
+    },
+    {
+      "word": "anything",
+      "start": 12.39,
+      "end": 13.28
+    },
+    {
+      "word": "you",
+      "start": 13.28,
+      "end": 13.61
+    },
+    {
+      "word": "want",
+      "start": 13.61,
+      "end": 14.07
+    },
+    {
+      "word": "me",
+      "start": 14.07,
+      "end": 14.29
+    },
+    {
+      "word": "to",
+      "start": 14.29,
+      "end": 14.54
+    },
+    {
+      "word": "Money",
+      "start": 14.55,
+      "end": 16.1
+    },
+    {
+      "word": "talks,",
+      "start": 16.1,
+      "end": 17.68
+    },
+    {
+      "word": "money",
+      "start": 17.68,
+      "end": 17.74
+    },
+    {
+      "word": "talks",
+      "start": 17.74,
+      "end": 17.82
+    },
+    {
+      "word": "Dirty",
+      "start": 17.82,
+      "end": 18.28
+    },
+    {
+      "word": "cash,",
+      "start": 18.28,
+      "end": 18.83
+    },
+    {
+      "word": "I",
+      "start": 18.83,
+      "end": 18.92
+    },
+    {
+      "word": "want",
+      "start": 18.92,
+      "end": 19.29
+    },
+    {
+      "word": "you",
+      "start": 19.29,
+      "end": 19.6
+    },
+    {
+      "word": "And",
+      "start": 19.78,
+      "end": 19.9
+    },
+    {
+      "word": "dirty",
+      "start": 19.9,
+      "end": 20.4
+    },
+    {
+      "word": "cash,",
+      "start": 20.4,
+      "end": 21.0
+    },
+    {
+      "word": "I",
+      "start": 21.0,
+      "end": 21.1
+    },
+    {
+      "word": "need",
+      "start": 21.1,
+      "end": 21.5
+    },
+    {
+      "word": "you,",
+      "start": 21.5,
+      "end": 22.09
+    },
+    {
+      "word": "oh",
+      "start": 22.09,
+      "end": 22.35
+    },
+    {
+      "word": "Money",
+      "start": 22.35,
+      "end": 22.99
+    },
+    {
+      "word": "talks,",
+      "start": 22.99,
+      "end": 23.68
+    },
+    {
+      "word": "money",
+      "start": 23.68,
+      "end": 24.36
+    },
+    {
+      "word": "talks",
+      "start": 24.36,
+      "end": 25.04
+    },
+    {
+      "word": "Dirty",
+      "start": 25.04,
+      "end": 25.54
+    },
+    {
+      "word": "cash,",
+      "start": 25.54,
+      "end": 26.14
+    },
+    {
+      "word": "I",
+      "start": 26.14,
+      "end": 26.24
+    },
+    {
+      "word": "want",
+      "start": 26.24,
+      "end": 26.64
+    },
+    {
+      "word": "you",
+      "start": 26.64,
+      "end": 26.96
+    },
+    {
+      "word": "Dirty",
+      "start": 26.96,
+      "end": 27.43
+    },
+    {
+      "word": "cash,",
+      "start": 27.44,
+      "end": 28.0
+    },
+    {
+      "word": "I",
+      "start": 28.0,
+      "end": 28.09
+    },
+    {
+      "word": "need",
+      "start": 28.09,
+      "end": 28.46
+    },
+    {
+      "word": "you,",
+      "start": 28.46,
+      "end": 28.8
+    },
+    {
+      "word": "oh",
+      "start": 28.8,
+      "end": 28.8
+    },
+    {
+      "word": "I'm",
+      "start": 30.18,
+      "end": 32.68
+    },
+    {
+      "word": "dirty",
+      "start": 32.69,
+      "end": 37.18
+    },
+    {
+      "word": "cash,",
+      "start": 37.18,
+      "end": 42.56
+    },
+    {
+      "word": "the",
+      "start": 42.56,
+      "end": 45.26
+    },
+    {
+      "word": "one",
+      "start": 45.26,
+      "end": 47.96
+    },
+    {
+      "word": "that",
+      "start": 47.96,
+      "end": 51.51
+    },
+    {
+      "word": "you",
+      "start": 51.55,
+      "end": 54.25
+    },
+    {
+      "word": "ask",
+      "start": 54.25,
+      "end": 56.95
+    },
+    {
+      "word": "for",
+      "start": 56.95,
+      "end": 59.7
+    },
+    {
+      "word": "I'm",
+      "start": 59.7,
+      "end": 59.77
+    },
+    {
+      "word": "right.",
+      "start": 59.88,
+      "end": 60.02
+    }
+  ]
+}

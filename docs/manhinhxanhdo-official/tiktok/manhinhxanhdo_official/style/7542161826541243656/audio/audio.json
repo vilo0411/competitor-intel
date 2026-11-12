@@ -1,0 +1,57 @@
+{
+  "engine": "whisper-cli",
+  "language": "pt",
+  "text": "Música Música Legenda por Sônia Ruberti",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Música"
+    },
+    {
+      "id": 1,
+      "start": 30.0,
+      "end": 32.0,
+      "text": "Música"
+    },
+    {
+      "id": 2,
+      "start": 60.0,
+      "end": 89.98,
+      "text": "Legenda por Sônia Ruberti"
+    }
+  ],
+  "words": [
+    {
+      "word": "Música",
+      "start": 0.1,
+      "end": 2.0
+    },
+    {
+      "word": "Música",
+      "start": 30.1,
+      "end": 32.0
+    },
+    {
+      "word": "Legenda",
+      "start": 60.04,
+      "end": 69.53
+    },
+    {
+      "word": "por",
+      "start": 69.53,
+      "end": 73.62
+    },
+    {
+      "word": "Sônia",
+      "start": 73.62,
+      "end": 80.43
+    },
+    {
+      "word": "Ruberti",
+      "start": 80.43,
+      "end": 89.98
+    }
+  ]
+}

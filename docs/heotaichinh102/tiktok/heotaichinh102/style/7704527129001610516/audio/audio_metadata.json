@@ -1,0 +1,16 @@
+{
+  "source": "video.mp4",
+  "audio_file": "/Users/nguyenvietloc/Documents/competitor-intel/docs/heotaichinh102/tiktok/heotaichinh102/style/7704527129001610516/audio/audio.wav",
+  "transcription_engine": "whisper-cli",
+  "whisper_model": "large",
+  "segments_count": 303,
+  "word_or_syllable_count": 1808,
+  "speech_span_seconds": 518.92,
+  "syllables_per_second": 3.48,
+  "words_per_minute": 209.0,
+  "silence_intervals_count": 67,
+  "silence_file": "/Users/nguyenvietloc/Documents/competitor-intel/docs/heotaichinh102/tiktok/heotaichinh102/style/7704527129001610516/audio/silence.txt",
+  "volume_file": "/Users/nguyenvietloc/Documents/competitor-intel/docs/heotaichinh102/tiktok/heotaichinh102/style/7704527129001610516/audio/volume.txt",
+  "sample_rate": 16000,
+  "channels": 1
+}

@@ -1,0 +1,61 @@
+{
+  "id": "7542161826541243656",
+  "duration": 62.066667,
+  "language": "pt",
+  "wpm": 59.340656080183706,
+  "speechCoverage": 0.09774436574788206,
+  "hook": "Música",
+  "transcript": "Música Música Legenda por Sônia Ruberti",
+  "changes": 0,
+  "secPerChange": 62.066667,
+  "cuts": 0,
+  "changesFirst3s": 0,
+  "firstChangeAt": null,
+  "lufs": -20.5,
+  "grids": [
+    "grid_001.jpg",
+    "grid_002.jpg",
+    "grid_003.jpg",
+    "grid_004.jpg",
+    "grid_005.jpg",
+    "grid_006.jpg",
+    "grid_007.jpg",
+    "grid_008.jpg",
+    "grid_009.jpg"
+  ],
+  "motion": {
+    "beats": 4,
+    "beatsPerMin": 3.87,
+    "medianBeat": 15.8,
+    "beatsFirst3s": 0,
+    "entrances": {
+      "cut": 1,
+      "draw-right": 1,
+      "drop": 1,
+      "slide-left": 1
+    },
+    "caption": null,
+    "firstBeats": [
+      {
+        "t": 0,
+        "at": "Música",
+        "fx": "cut"
+      },
+      {
+        "t": 41.6,
+        "at": null,
+        "fx": "draw-right"
+      },
+      {
+        "t": 57.4,
+        "at": null,
+        "fx": "drop"
+      },
+      {
+        "t": 59.27,
+        "at": null,
+        "fx": "slide-left"
+      }
+    ]
+  }
+}

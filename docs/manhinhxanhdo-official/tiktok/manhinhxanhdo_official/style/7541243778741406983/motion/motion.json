@@ -1,0 +1,231 @@
+{
+  "source": "video.mp4",
+  "width": 1080,
+  "height": 1920,
+  "duration": 60.07,
+  "analysisFps": 15,
+  "analysisSize": [
+    180,
+    320
+  ],
+  "boxUnits": "fraction of frame [x, y, w, h]",
+  "captionTrack": null,
+  "shots": [
+    {
+      "index": 1,
+      "start": 0,
+      "end": 60.07,
+      "startWord": "I",
+      "fps": 15,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 24.87,
+          "t1": 25.33,
+          "box": [
+            0.133,
+            0.313,
+            0.644,
+            0.4
+          ],
+          "area": 0.005,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#d0d1d6"
+        },
+        {
+          "t0": 29.93,
+          "t1": 30.6,
+          "box": [
+            0.089,
+            0.338,
+            0.733,
+            0.4
+          ],
+          "area": 0.031,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#d6d6d6",
+          "word": "Could"
+        },
+        {
+          "t0": 43.6,
+          "t1": 43.67,
+          "box": [
+            0.356,
+            0.338,
+            0.044,
+            0.363
+          ],
+          "area": 0.004,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#bcbcbe",
+          "word": "lose"
+        },
+        {
+          "t0": 49,
+          "t1": 49.2,
+          "box": [
+            0.311,
+            0.3,
+            0.444,
+            0.425
+          ],
+          "area": 0.006,
+          "kind": "change",
+          "easing": "ease_in",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#abaeb9",
+          "word": "Could"
+        },
+        {
+          "t0": 50.33,
+          "t1": 50.53,
+          "box": [
+            0.444,
+            0.3,
+            0.311,
+            0.413
+          ],
+          "area": 0.008,
+          "kind": "change",
+          "easing": "ease_in",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#b0b0c4",
+          "word": "be"
+        },
+        {
+          "t0": 56.27,
+          "t1": 60,
+          "box": [
+            0.244,
+            0.3,
+            0.622,
+            0.488
+          ],
+          "area": 0.046,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#b9bbd3",
+          "word": "be"
+        }
+      ],
+      "sequences": []
+    }
+  ],
+  "stickerBeats": {
+    "beats": [
+      {
+        "t": 0,
+        "at": "I",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 1
+      },
+      {
+        "t": 24.87,
+        "at": null,
+        "fx": "slide-left",
+        "boxes": [
+          [
+            0.133,
+            0.313,
+            0.644,
+            0.4
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 29.93,
+        "at": "Could",
+        "fx": "drop",
+        "boxes": [
+          [
+            0.089,
+            0.338,
+            0.733,
+            0.4
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 43.6,
+        "at": "lose",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.356,
+            0.338,
+            0.044,
+            0.363
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 49,
+        "at": "Could",
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0.311,
+            0.3,
+            0.444,
+            0.425
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 50.33,
+        "at": "be",
+        "fx": "slide-left",
+        "boxes": [
+          [
+            0.444,
+            0.3,
+            0.311,
+            0.413
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 56.27,
+        "at": "be",
+        "fx": "slide-up",
+        "boxes": [
+          [
+            0.244,
+            0.3,
+            0.622,
+            0.488
+          ]
+        ],
+        "shot": 1
+      }
+    ],
+    "medianInterval": 5.67,
+    "perMinute": 6.99
+  }
+}

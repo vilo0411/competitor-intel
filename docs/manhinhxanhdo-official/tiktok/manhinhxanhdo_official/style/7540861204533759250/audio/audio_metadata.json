@@ -1,0 +1,16 @@
+{
+  "source": "video.mp4",
+  "audio_file": "/Users/nguyenvietloc/Documents/competitor-intel/docs/manhinhxanhdo-official/tiktok/manhinhxanhdo_official/style/7540861204533759250/audio/audio.wav",
+  "transcription_engine": "whisper-cli",
+  "whisper_model": "large",
+  "segments_count": 8,
+  "word_or_syllable_count": 74,
+  "speech_span_seconds": 60.02,
+  "syllables_per_second": 1.23,
+  "words_per_minute": 74.0,
+  "silence_intervals_count": 1,
+  "silence_file": "/Users/nguyenvietloc/Documents/competitor-intel/docs/manhinhxanhdo-official/tiktok/manhinhxanhdo_official/style/7540861204533759250/audio/silence.txt",
+  "volume_file": "/Users/nguyenvietloc/Documents/competitor-intel/docs/manhinhxanhdo-official/tiktok/manhinhxanhdo_official/style/7540861204533759250/audio/volume.txt",
+  "sample_rate": 16000,
+  "channels": 1
+}

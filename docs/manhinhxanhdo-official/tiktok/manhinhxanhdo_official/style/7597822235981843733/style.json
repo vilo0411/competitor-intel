@@ -1,0 +1,81 @@
+{
+  "id": "7597822235981843733",
+  "duration": 62.041995,
+  "language": "en",
+  "wpm": 92.85714285714286,
+  "speechCoverage": 0.9477451522956345,
+  "hook": "Fading out on the edge of paradise",
+  "transcript": "Fading out on the edge of paradise Every inch on your skin is the holy grid I've gotta find Only you can set my heart on fire, on fire Yeah, I'll let you set the pace Cause I'm not thinking straight My head spinning around, I can't see clear no more What are you waiting for? Love me like you do, love me like you do Love me like you do, love me like you do Touch me like you do, touch me like you do What are you waiting for?",
+  "changes": 0,
+  "secPerChange": 62.041995,
+  "cuts": 0,
+  "changesFirst3s": 0,
+  "firstChangeAt": null,
+  "lufs": -20.1,
+  "grids": [
+    "grid_001.jpg",
+    "grid_002.jpg",
+    "grid_003.jpg",
+    "grid_004.jpg",
+    "grid_005.jpg",
+    "grid_006.jpg",
+    "grid_007.jpg",
+    "grid_008.jpg",
+    "grid_009.jpg"
+  ],
+  "motion": {
+    "beats": 9,
+    "beatsPerMin": 8.7,
+    "medianBeat": 1.43,
+    "beatsFirst3s": 1,
+    "entrances": {
+      "cut": 5,
+      "draw-up": 1,
+      "slide-right": 1,
+      "slide-left": 2
+    },
+    "caption": null,
+    "firstBeats": [
+      {
+        "t": 0,
+        "at": "Fading",
+        "fx": "cut"
+      },
+      {
+        "t": 1.13,
+        "at": "on",
+        "fx": "draw-up"
+      },
+      {
+        "t": 36.8,
+        "at": "you",
+        "fx": "cut"
+      },
+      {
+        "t": 52.13,
+        "at": null,
+        "fx": "slide-right"
+      },
+      {
+        "t": 52.87,
+        "at": "like",
+        "fx": "cut"
+      },
+      {
+        "t": 54.6,
+        "at": "What",
+        "fx": "slide-left"
+      },
+      {
+        "t": 54.87,
+        "at": null,
+        "fx": "cut"
+      },
+      {
+        "t": 59.33,
+        "at": null,
+        "fx": "slide-left"
+      }
+    ]
+  }
+}

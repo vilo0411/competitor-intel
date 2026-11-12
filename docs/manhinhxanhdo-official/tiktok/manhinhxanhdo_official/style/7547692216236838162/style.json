@@ -1,0 +1,65 @@
+{
+  "id": "7547692216236838162",
+  "duration": 62.066667,
+  "language": "vi",
+  "wpm": 43.529664426431296,
+  "speechCoverage": 0.9993555316898198,
+  "hook": "Hãy subscribe",
+  "transcript": "Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn",
+  "changes": 1,
+  "secPerChange": 31.0333335,
+  "cuts": 0,
+  "changesFirst3s": 0,
+  "firstChangeAt": 60.1,
+  "lufs": -16.9,
+  "grids": [
+    "grid_001.jpg",
+    "grid_002.jpg",
+    "grid_003.jpg",
+    "grid_004.jpg",
+    "grid_005.jpg",
+    "grid_006.jpg",
+    "grid_007.jpg",
+    "grid_008.jpg",
+    "grid_009.jpg"
+  ],
+  "motion": {
+    "beats": 5,
+    "beatsPerMin": 4.83,
+    "medianBeat": 15.27,
+    "beatsFirst3s": 0,
+    "entrances": {
+      "cut": 3,
+      "slide-right": 1,
+      "slide-left": 1
+    },
+    "caption": null,
+    "firstBeats": [
+      {
+        "t": 0,
+        "at": "Hãy",
+        "fx": "cut"
+      },
+      {
+        "t": 22.07,
+        "at": null,
+        "fx": "cut"
+      },
+      {
+        "t": 30.53,
+        "at": null,
+        "fx": "slide-right"
+      },
+      {
+        "t": 57.13,
+        "at": null,
+        "fx": "slide-left"
+      },
+      {
+        "t": 60.1,
+        "at": "Hãy",
+        "fx": "cut"
+      }
+    ]
+  }
+}

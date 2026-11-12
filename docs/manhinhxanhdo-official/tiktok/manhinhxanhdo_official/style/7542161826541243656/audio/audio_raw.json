@@ -1,0 +1,337 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 8
+	},
+	"params": {
+		"model": "/Users/nguyenvietloc/.local/share/dsc-academy/models/ggml-large-v3-turbo-q5_0.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "pt"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2000
+			},
+			"text": " Música",
+			"tokens": [
+				{
+					"text": "[_BEG_]",
+					"timestamps": {
+						"from": "00:00:00,000",
+						"to": "00:00:00,000"
+					},
+					"offsets": {
+						"from": 0,
+						"to": 0
+					},
+					"id": 50365,
+					"p": 0.917675,
+					"t_dtw": -1
+				},
+				{
+					"text": " M",
+					"timestamps": {
+						"from": "00:00:00,100",
+						"to": "00:00:00,330"
+					},
+					"offsets": {
+						"from": 100,
+						"to": 330
+					},
+					"id": 376,
+					"p": 0.922359,
+					"t_dtw": -1
+				},
+				{
+					"text": "úsica",
+					"timestamps": {
+						"from": "00:00:00,330",
+						"to": "00:00:02,000"
+					},
+					"offsets": {
+						"from": 330,
+						"to": 2000
+					},
+					"id": 14372,
+					"p": 0.921297,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_100]",
+					"timestamps": {
+						"from": "00:00:02,000",
+						"to": "00:00:02,000"
+					},
+					"offsets": {
+						"from": 2000,
+						"to": 2000
+					},
+					"id": 50465,
+					"p": 0.0469855,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:32,000"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 32000
+			},
+			"text": " Música",
+			"tokens": [
+				{
+					"text": "[_BEG_]",
+					"timestamps": {
+						"from": "00:00:30,000",
+						"to": "00:00:30,000"
+					},
+					"offsets": {
+						"from": 30000,
+						"to": 30000
+					},
+					"id": 50365,
+					"p": 1,
+					"t_dtw": -1
+				},
+				{
+					"text": " M",
+					"timestamps": {
+						"from": "00:00:30,100",
+						"to": "00:00:30,330"
+					},
+					"offsets": {
+						"from": 30100,
+						"to": 30330
+					},
+					"id": 376,
+					"p": 1,
+					"t_dtw": -1
+				},
+				{
+					"text": "úsica",
+					"timestamps": {
+						"from": "00:00:30,330",
+						"to": "00:00:32,000"
+					},
+					"offsets": {
+						"from": 30330,
+						"to": 32000
+					},
+					"id": 14372,
+					"p": 1,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_100]",
+					"timestamps": {
+						"from": "00:00:32,000",
+						"to": "00:00:32,000"
+					},
+					"offsets": {
+						"from": 32000,
+						"to": 32000
+					},
+					"id": 50465,
+					"p": 0.679475,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,000",
+				"to": "00:01:29,980"
+			},
+			"offsets": {
+				"from": 60000,
+				"to": 89980
+			},
+			"text": " Legenda por Sônia Ruberti",
+			"tokens": [
+				{
+					"text": "[_BEG_]",
+					"timestamps": {
+						"from": "00:01:00,000",
+						"to": "00:01:00,000"
+					},
+					"offsets": {
+						"from": 60000,
+						"to": 60000
+					},
+					"id": 50365,
+					"p": 0.926329,
+					"t_dtw": -1
+				},
+				{
+					"text": " Leg",
+					"timestamps": {
+						"from": "00:01:00,040",
+						"to": "00:01:04,090"
+					},
+					"offsets": {
+						"from": 60040,
+						"to": 64090
+					},
+					"id": 7470,
+					"p": 0.231675,
+					"t_dtw": -1
+				},
+				{
+					"text": "enda",
+					"timestamps": {
+						"from": "00:01:04,090",
+						"to": "00:01:09,530"
+					},
+					"offsets": {
+						"from": 64090,
+						"to": 69530
+					},
+					"id": 7639,
+					"p": 0.998268,
+					"t_dtw": -1
+				},
+				{
+					"text": " por",
+					"timestamps": {
+						"from": "00:01:09,530",
+						"to": "00:01:13,620"
+					},
+					"offsets": {
+						"from": 69530,
+						"to": 73620
+					},
+					"id": 1515,
+					"p": 0.544452,
+					"t_dtw": -1
+				},
+				{
+					"text": " S",
+					"timestamps": {
+						"from": "00:01:13,620",
+						"to": "00:01:14,990"
+					},
+					"offsets": {
+						"from": 73620,
+						"to": 74990
+					},
+					"id": 318,
+					"p": 0.960693,
+					"t_dtw": -1
+				},
+				{
+					"text": "ô",
+					"timestamps": {
+						"from": "00:01:14,990",
+						"to": "00:01:16,350"
+					},
+					"offsets": {
+						"from": 74990,
+						"to": 76350
+					},
+					"id": 2851,
+					"p": 0.9953,
+					"t_dtw": -1
+				},
+				{
+					"text": "nia",
+					"timestamps": {
+						"from": "00:01:16,350",
+						"to": "00:01:20,430"
+					},
+					"offsets": {
+						"from": 76350,
+						"to": 80430
+					},
+					"id": 12679,
+					"p": 0.999571,
+					"t_dtw": -1
+				},
+				{
+					"text": " Ru",
+					"timestamps": {
+						"from": "00:01:20,430",
+						"to": "00:01:23,160"
+					},
+					"offsets": {
+						"from": 80430,
+						"to": 83160
+					},
+					"id": 15702,
+					"p": 0.998321,
+					"t_dtw": -1
+				},
+				{
+					"text": "bert",
+					"timestamps": {
+						"from": "00:01:23,160",
+						"to": "00:01:28,600"
+					},
+					"offsets": {
+						"from": 83160,
+						"to": 88600
+					},
+					"id": 4290,
+					"p": 0.997626,
+					"t_dtw": -1
+				},
+				{
+					"text": "i",
+					"timestamps": {
+						"from": "00:01:28,600",
+						"to": "00:01:29,980"
+					},
+					"offsets": {
+						"from": 88600,
+						"to": 89980
+					},
+					"id": 72,
+					"p": 0.999592,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_1499]",
+					"timestamps": {
+						"from": "00:01:29,980",
+						"to": "00:01:29,980"
+					},
+					"offsets": {
+						"from": 89980,
+						"to": 89980
+					},
+					"id": 51864,
+					"p": 0.676209,
+					"t_dtw": -1
+				}
+			]
+		}
+	]
+}

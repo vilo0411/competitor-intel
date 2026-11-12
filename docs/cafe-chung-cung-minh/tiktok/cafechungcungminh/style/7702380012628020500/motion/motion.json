@@ -1,0 +1,735 @@
+{
+  "source": "video.mp4",
+  "width": 576,
+  "height": 1024,
+  "duration": 122.23,
+  "analysisFps": 14.73,
+  "analysisSize": [
+    180,
+    320
+  ],
+  "boxUnits": "fraction of frame [x, y, w, h]",
+  "captionTrack": null,
+  "shots": [
+    {
+      "index": 1,
+      "start": 0,
+      "end": 33.13,
+      "startWord": "Có",
+      "fps": 14.73,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 0.14,
+          "t1": 0.68,
+          "box": [
+            0.778,
+            0.038,
+            0.156,
+            0.025
+          ],
+          "area": 0.004,
+          "kind": "appear",
+          "easing": "ease_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#cad1c8",
+          "word": "người"
+        },
+        {
+          "t0": 0.41,
+          "t1": 30.76,
+          "box": [
+            0.178,
+            0.863,
+            0.711,
+            0.025
+          ],
+          "area": 0.003,
+          "kind": "disappear",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#463a30",
+          "word": "từng"
+        },
+        {
+          "t0": 2.99,
+          "t1": 32.8,
+          "box": [
+            0.089,
+            0.838,
+            0.644,
+            0.163
+          ],
+          "area": 0.003,
+          "kind": "disappear",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#3f342c",
+          "word": "đồng"
+        },
+        {
+          "t0": 10.32,
+          "t1": 31.17,
+          "box": [
+            0,
+            0.863,
+            1,
+            0.1
+          ],
+          "area": 0.004,
+          "kind": "temporary",
+          "easing": "ease_out",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#4c4a5f",
+          "word": "trường",
+          "endWord": "em"
+        },
+        {
+          "t0": 31.44,
+          "t1": 33,
+          "box": [
+            0,
+            0.013,
+            1,
+            0.163
+          ],
+          "area": 0.088,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": true,
+          "colour": "#353333",
+          "word": "mua"
+        },
+        {
+          "t0": 31.92,
+          "t1": 32.25,
+          "box": [
+            0,
+            0.8,
+            1,
+            0.013
+          ],
+          "area": 0.005,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#797688",
+          "word": "chắc"
+        },
+        {
+          "t0": 32.53,
+          "t1": 32.87,
+          "box": [
+            0,
+            0.825,
+            0.467,
+            0.013
+          ],
+          "area": 0.004,
+          "kind": "change",
+          "easing": "ease_in",
+          "sweep": null,
+          "slide": null,
+          "scale": true,
+          "colour": "#1e1b30",
+          "word": "Tôi"
+        },
+        {
+          "t0": 32.59,
+          "t1": 32.87,
+          "box": [
+            0.6,
+            0.825,
+            0.4,
+            0.013
+          ],
+          "area": 0.003,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#212035",
+          "word": "Tôi"
+        },
+        {
+          "t0": 32.73,
+          "t1": 33,
+          "box": [
+            0,
+            0.763,
+            1,
+            0.013
+          ],
+          "area": 0.013,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#2f2c41",
+          "word": "Tôi"
+        },
+        {
+          "t0": 32.73,
+          "t1": 32.8,
+          "box": [
+            0.2,
+            0.8,
+            0.578,
+            0.013
+          ],
+          "area": 0.007,
+          "kind": "disappear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#918f9f",
+          "word": "Tôi"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 2,
+      "start": 33.13,
+      "end": 122.23,
+      "startWord": "cãi",
+      "fps": 14.73,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 33.48,
+          "t1": 122.09,
+          "box": [
+            0.289,
+            0,
+            0.711,
+            0.038
+          ],
+          "area": 0.018,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": "down",
+          "slide": null,
+          "scale": null,
+          "colour": "#17161b",
+          "word": "về"
+        },
+        {
+          "t0": 117.61,
+          "t1": 122.16,
+          "box": [
+            0.133,
+            0.5,
+            0.733,
+            0.038
+          ],
+          "area": 0.012,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": null,
+          "scale": true,
+          "colour": "#2c2836",
+          "word": "kể"
+        },
+        {
+          "t0": 120.19,
+          "t1": 122.16,
+          "box": [
+            0,
+            0.2,
+            1,
+            0.338
+          ],
+          "area": 0.325,
+          "kind": "disappear",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#695d4d",
+          "word": "Không"
+        },
+        {
+          "t0": 120.19,
+          "t1": 120.6,
+          "box": [
+            0,
+            0.688,
+            1,
+            0.075
+          ],
+          "area": 0.006,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#373448",
+          "word": "Không"
+        },
+        {
+          "t0": 120.4,
+          "t1": 121.69,
+          "box": [
+            0,
+            0.088,
+            1,
+            0.1
+          ],
+          "area": 0.063,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#171218",
+          "word": "phải"
+        },
+        {
+          "t0": 120.46,
+          "t1": 120.94,
+          "box": [
+            0.733,
+            0.575,
+            0.267,
+            0.013
+          ],
+          "area": 0.003,
+          "kind": "temporary",
+          "easing": "linear",
+          "sweep": null,
+          "slide": null,
+          "scale": true,
+          "colour": "#454151",
+          "word": "phải",
+          "endWord": "nghị"
+        },
+        {
+          "t0": 120.6,
+          "t1": 121.07,
+          "box": [
+            0.044,
+            0.7,
+            0.956,
+            0.013
+          ],
+          "area": 0.003,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#5a5668",
+          "word": "phải",
+          "endWord": "nghị"
+        },
+        {
+          "t0": 120.94,
+          "t1": 121.35,
+          "box": [
+            0,
+            0.55,
+            1,
+            0.05
+          ],
+          "area": 0.013,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#312c38",
+          "word": "nghị"
+        },
+        {
+          "t0": 120.94,
+          "t1": 121.48,
+          "box": [
+            0,
+            0.65,
+            1,
+            0.075
+          ],
+          "area": 0.018,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#464350",
+          "word": "nghị"
+        },
+        {
+          "t0": 121.07,
+          "t1": 121.55,
+          "box": [
+            0.022,
+            0.05,
+            0.422,
+            0.013
+          ],
+          "area": 0.003,
+          "kind": "temporary",
+          "easing": "ease_in",
+          "sweep": null,
+          "slide": null,
+          "scale": true,
+          "colour": "#232a2d",
+          "word": "nghị",
+          "endWord": "tư"
+        },
+        {
+          "t0": 121.07,
+          "t1": 121.55,
+          "box": [
+            0,
+            0.775,
+            1,
+            0.013
+          ],
+          "area": 0.013,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#302d43",
+          "word": "nghị",
+          "endWord": "tư"
+        },
+        {
+          "t0": 121.35,
+          "t1": 122.16,
+          "box": [
+            0,
+            0.625,
+            1,
+            0.125
+          ],
+          "area": 0.051,
+          "kind": "disappear",
+          "easing": "ease_in",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#413c4b",
+          "word": "đầu"
+        },
+        {
+          "t0": 121.55,
+          "t1": 122.09,
+          "box": [
+            0,
+            0.075,
+            1,
+            0.1
+          ],
+          "area": 0.038,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#221f26",
+          "word": "tư"
+        },
+        {
+          "t0": 122.09,
+          "t1": 122.16,
+          "box": [
+            0,
+            0.563,
+            1,
+            0.05
+          ],
+          "area": 0.013,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#2d283a"
+        }
+      ],
+      "sequences": []
+    }
+  ],
+  "stickerBeats": {
+    "beats": [
+      {
+        "t": 0,
+        "at": "Có",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 1
+      },
+      {
+        "t": 10.32,
+        "at": "trường",
+        "fx": "slide-left",
+        "boxes": [
+          [
+            0,
+            0.863,
+            1,
+            0.1
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 31.17,
+        "at": "em",
+        "fx": "cut",
+        "boxes": [
+          [
+            0,
+            0.863,
+            1,
+            0.1
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 31.44,
+        "at": "mua",
+        "fx": "pop",
+        "boxes": [
+          [
+            0,
+            0.013,
+            1,
+            0.163
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 31.92,
+        "at": "chắc",
+        "fx": "slide-left",
+        "boxes": [
+          [
+            0,
+            0.8,
+            1,
+            0.013
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 32.53,
+        "at": "Tôi",
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0,
+            0.825,
+            0.467,
+            0.013
+          ],
+          [
+            0.6,
+            0.825,
+            0.4,
+            0.013
+          ],
+          [
+            0,
+            0.763,
+            1,
+            0.013
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 33.13,
+        "at": "cãi",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 2
+      },
+      {
+        "t": 33.48,
+        "at": "về",
+        "fx": "draw-down",
+        "boxes": [
+          [
+            0.289,
+            0,
+            0.711,
+            0.038
+          ]
+        ],
+        "shot": 2
+      },
+      {
+        "t": 117.61,
+        "at": "kể",
+        "fx": "pop",
+        "boxes": [
+          [
+            0.133,
+            0.5,
+            0.733,
+            0.038
+          ]
+        ],
+        "shot": 2
+      },
+      {
+        "t": 120.19,
+        "at": "Không",
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0,
+            0.688,
+            1,
+            0.075
+          ],
+          [
+            0,
+            0.088,
+            1,
+            0.1
+          ]
+        ],
+        "shot": 2
+      },
+      {
+        "t": 120.46,
+        "at": "phải",
+        "fx": "pop",
+        "boxes": [
+          [
+            0.733,
+            0.575,
+            0.267,
+            0.013
+          ],
+          [
+            0.044,
+            0.7,
+            0.956,
+            0.013
+          ]
+        ],
+        "shot": 2
+      },
+      {
+        "t": 120.94,
+        "at": "nghị",
+        "fx": "drop",
+        "boxes": [
+          [
+            0.733,
+            0.575,
+            0.267,
+            0.013
+          ],
+          [
+            0,
+            0.55,
+            1,
+            0.05
+          ],
+          [
+            0,
+            0.65,
+            1,
+            0.075
+          ],
+          [
+            0.044,
+            0.7,
+            0.956,
+            0.013
+          ],
+          [
+            0.022,
+            0.05,
+            0.422,
+            0.013
+          ],
+          [
+            0,
+            0.775,
+            1,
+            0.013
+          ]
+        ],
+        "shot": 2
+      },
+      {
+        "t": 121.55,
+        "at": "tư",
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0.022,
+            0.05,
+            0.422,
+            0.013
+          ],
+          [
+            0,
+            0.775,
+            1,
+            0.013
+          ],
+          [
+            0,
+            0.075,
+            1,
+            0.1
+          ]
+        ],
+        "shot": 2
+      },
+      {
+        "t": 122.09,
+        "at": null,
+        "fx": "cut",
+        "boxes": [
+          [
+            0.289,
+            0,
+            0.711,
+            0.038
+          ],
+          [
+            0,
+            0.563,
+            1,
+            0.05
+          ]
+        ],
+        "shot": 2
+      }
+    ],
+    "medianInterval": 0.6,
+    "perMinute": 6.87
+  }
+}

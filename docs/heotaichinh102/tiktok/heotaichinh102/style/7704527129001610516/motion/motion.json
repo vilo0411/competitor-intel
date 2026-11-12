@@ -1,0 +1,1371 @@
+{
+  "source": "video.mp4",
+  "width": 1024,
+  "height": 576,
+  "duration": 521.63,
+  "analysisFps": 3.45,
+  "analysisSize": [
+    180,
+    102
+  ],
+  "boxUnits": "fraction of frame [x, y, w, h]",
+  "captionTrack": null,
+  "shots": [
+    {
+      "index": 1,
+      "start": 0.03,
+      "end": 16.73,
+      "startWord": "Ai",
+      "fps": 3.45,
+      "layer": {
+        "share": 0.05,
+        "box": [
+          0.089,
+          0.48,
+          0.822,
+          0.44
+        ]
+      },
+      "static": [
+        {
+          "box": [
+            0,
+            0,
+            0.289,
+            0.2
+          ],
+          "shape": "block",
+          "colour": "#d4a677"
+        },
+        {
+          "box": [
+            0.622,
+            0.44,
+            0.133,
+            0.24
+          ],
+          "shape": "block",
+          "colour": "#f2d39f"
+        },
+        {
+          "box": [
+            0,
+            0.88,
+            0.067,
+            0.12
+          ],
+          "shape": "block",
+          "colour": "#96907d"
+        },
+        {
+          "box": [
+            0.933,
+            0.92,
+            0.067,
+            0.08
+          ],
+          "shape": "block",
+          "colour": "#97917f"
+        }
+      ],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 2,
+      "start": 16.73,
+      "end": 123.17,
+      "fps": 3.45,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 36.8,
+          "t1": 37.38,
+          "box": [
+            0,
+            0.84,
+            1,
+            0.16
+          ],
+          "area": 0.039,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#ada591",
+          "word": "5"
+        },
+        {
+          "t0": 49.56,
+          "t1": 49.84,
+          "box": [
+            0.156,
+            0.88,
+            0.778,
+            0.08
+          ],
+          "area": 0.004,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#928b84",
+          "word": "Cô"
+        },
+        {
+          "t0": 69.55,
+          "t1": 69.84,
+          "box": [
+            0.422,
+            0.68,
+            0.511,
+            0.28
+          ],
+          "area": 0.017,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#c3b7a0",
+          "word": "trọ"
+        },
+        {
+          "t0": 84.62,
+          "t1": 85.49,
+          "box": [
+            0.089,
+            0.32,
+            0.822,
+            0.44
+          ],
+          "area": 0.044,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": "right",
+          "slide": null,
+          "scale": null,
+          "colour": "#c9af86",
+          "word": "rồi"
+        },
+        {
+          "t0": 87.52,
+          "t1": 95.63,
+          "box": [
+            0.6,
+            0.8,
+            0.089,
+            0.04
+          ],
+          "area": 0.004,
+          "kind": "temporary",
+          "easing": "linear",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#856154",
+          "word": "một",
+          "endWord": "Nam"
+        },
+        {
+          "t0": 99.69,
+          "t1": 99.98,
+          "box": [
+            0.111,
+            0.36,
+            0.778,
+            0.28
+          ],
+          "area": 0.027,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#9e9184",
+          "word": "Không"
+        },
+        {
+          "t0": 101.14,
+          "t1": 108.38,
+          "box": [
+            0.044,
+            0.28,
+            0.911,
+            0.48
+          ],
+          "area": 0.028,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#ae9d85",
+          "word": "nằm"
+        },
+        {
+          "t0": 112.44,
+          "t1": 113.02,
+          "box": [
+            0.289,
+            0.6,
+            0.111,
+            0.16
+          ],
+          "area": 0.01,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#7d665b",
+          "word": "Mỗi"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 3,
+      "start": 123.17,
+      "end": 153,
+      "startWord": "ty",
+      "fps": 3.45,
+      "layer": {
+        "share": 0.02,
+        "box": [
+          0.4,
+          0.52,
+          0.2,
+          0.28
+        ]
+      },
+      "static": [],
+      "events": [
+        {
+          "t0": 133.31,
+          "t1": 152.43,
+          "box": [
+            0.311,
+            0.48,
+            0.556,
+            0.44
+          ],
+          "area": 0.039,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#74604c"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 4,
+      "start": 153,
+      "end": 163.5,
+      "startWord": "một",
+      "fps": 3.45,
+      "layer": {
+        "share": 0.027,
+        "box": [
+          0.333,
+          0.6,
+          0.556,
+          0.32
+        ]
+      },
+      "static": [],
+      "events": [
+        {
+          "t0": 153.3,
+          "t1": 154.17,
+          "box": [
+            0.178,
+            0.24,
+            0.222,
+            0.16
+          ],
+          "area": 0.034,
+          "kind": "disappear",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#f3eddb",
+          "word": "công"
+        },
+        {
+          "t0": 153.59,
+          "t1": 154.17,
+          "box": [
+            0.556,
+            0.28,
+            0.156,
+            0.08
+          ],
+          "area": 0.012,
+          "kind": "appear",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#beb5a5",
+          "word": "ty"
+        },
+        {
+          "t0": 156.2,
+          "t1": 163.16,
+          "box": [
+            0.2,
+            0.56,
+            0.689,
+            0.44
+          ],
+          "area": 0.022,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": "up",
+          "slide": null,
+          "scale": null,
+          "colour": "#6e5846",
+          "word": "số"
+        },
+        {
+          "t0": 157.65,
+          "t1": 159.97,
+          "box": [
+            0.756,
+            0.08,
+            0.022,
+            0.12
+          ],
+          "area": 0.003,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#31211b",
+          "word": "Tiếng",
+          "endWord": "nhưng"
+        },
+        {
+          "t0": 159.68,
+          "t1": 160.26,
+          "box": [
+            0.289,
+            0.08,
+            0.422,
+            0.12
+          ],
+          "area": 0.034,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#5d5736"
+        },
+        {
+          "t0": 159.97,
+          "t1": 160.26,
+          "box": [
+            0.733,
+            0.24,
+            0.178,
+            0.24
+          ],
+          "area": 0.018,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#3e4427",
+          "word": "nhưng"
+        },
+        {
+          "t0": 159.97,
+          "t1": 163.16,
+          "box": [
+            0.267,
+            0.52,
+            0.622,
+            0.48
+          ],
+          "area": 0.076,
+          "kind": "change",
+          "easing": "ease_in",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#75614d",
+          "word": "nhưng"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 5,
+      "start": 163.5,
+      "end": 177.33,
+      "fps": 3.45,
+      "layer": {
+        "share": 0.041,
+        "box": [
+          0.4,
+          0.48,
+          0.289,
+          0.36
+        ]
+      },
+      "static": [
+        {
+          "box": [
+            0,
+            0,
+            0.089,
+            0.08
+          ],
+          "shape": "block",
+          "colour": "#b38960"
+        },
+        {
+          "box": [
+            0.267,
+            0,
+            0.467,
+            0.04
+          ],
+          "shape": "hline",
+          "colour": "#d6a274"
+        },
+        {
+          "box": [
+            0.889,
+            0,
+            0.111,
+            0.08
+          ],
+          "shape": "block",
+          "colour": "#b38860"
+        },
+        {
+          "box": [
+            0.6,
+            0.2,
+            0.4,
+            0.8
+          ],
+          "shape": "block",
+          "colour": "#dbc299"
+        },
+        {
+          "box": [
+            0,
+            0.24,
+            0.4,
+            0.76
+          ],
+          "shape": "block",
+          "colour": "#c9b988"
+        }
+      ],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 6,
+      "start": 177.33,
+      "end": 220.57,
+      "startWord": "Tôi",
+      "fps": 3.45,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 209.81,
+          "t1": 210.1,
+          "box": [
+            0.533,
+            0.24,
+            0.289,
+            0.52
+          ],
+          "area": 0.015,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#7f9365",
+          "word": "cổ"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 7,
+      "start": 220.57,
+      "end": 289.5,
+      "fps": 3.45,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 261.4,
+          "t1": 288.93,
+          "box": [
+            0.467,
+            0.48,
+            0.067,
+            0.12
+          ],
+          "area": 0.004,
+          "kind": "appear",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#f2d29a",
+          "word": "Kỳ"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 8,
+      "start": 289.5,
+      "end": 329.17,
+      "fps": 3.45,
+      "layer": {
+        "share": 0.054,
+        "box": [
+          0.444,
+          0.12,
+          0.511,
+          0.68
+        ]
+      },
+      "static": [],
+      "events": [
+        {
+          "t0": 289.8,
+          "t1": 293.56,
+          "box": [
+            0.156,
+            0.52,
+            0.711,
+            0.36
+          ],
+          "area": 0.017,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#a1ca74",
+          "word": "thì"
+        },
+        {
+          "t0": 299.36,
+          "t1": 302.84,
+          "box": [
+            0.422,
+            0.28,
+            0.222,
+            0.16
+          ],
+          "area": 0.023,
+          "kind": "temporary",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#d48d89",
+          "endWord": "lại"
+        },
+        {
+          "t0": 317.33,
+          "t1": 318.2,
+          "box": [
+            0.089,
+            0.16,
+            0.556,
+            0.64
+          ],
+          "area": 0.092,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#b6cfc4"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 9,
+      "start": 329.17,
+      "end": 383.23,
+      "fps": 3.45,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 329.5,
+          "t1": 329.79,
+          "box": [
+            0.844,
+            0.28,
+            0.133,
+            0.44
+          ],
+          "area": 0.004,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#b2d0dd",
+          "word": "Vậy,"
+        },
+        {
+          "t0": 331.53,
+          "t1": 331.82,
+          "box": [
+            0.8,
+            0.2,
+            0.089,
+            0.08
+          ],
+          "area": 0.005,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#afd1de"
+        },
+        {
+          "t0": 354.42,
+          "t1": 354.71,
+          "box": [
+            0.489,
+            0.24,
+            0.467,
+            0.48
+          ],
+          "area": 0.008,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#d0c29f"
+        },
+        {
+          "t0": 363.98,
+          "t1": 382.82,
+          "box": [
+            0.378,
+            0.52,
+            0.156,
+            0.36
+          ],
+          "area": 0.01,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#b5bb75",
+          "word": "chưa"
+        },
+        {
+          "t0": 381.66,
+          "t1": 382.82,
+          "box": [
+            0.289,
+            0.08,
+            0.422,
+            0.84
+          ],
+          "area": 0.052,
+          "kind": "change",
+          "easing": "ease_in",
+          "sweep": "up",
+          "slide": null,
+          "scale": null,
+          "colour": "#707a54",
+          "word": "500.000"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 10,
+      "start": 383.23,
+      "end": 418.1,
+      "startWord": "giá",
+      "fps": 3.45,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 386.01,
+          "t1": 414.12,
+          "box": [
+            0.778,
+            0.88,
+            0.222,
+            0.12
+          ],
+          "area": 0.027,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#9b9f7f",
+          "word": "Có",
+          "endWord": "đúng"
+        },
+        {
+          "t0": 386.01,
+          "t1": 414.12,
+          "box": [
+            0,
+            0.88,
+            0.222,
+            0.12
+          ],
+          "area": 0.018,
+          "kind": "temporary",
+          "easing": "ease_in",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#9ea182",
+          "word": "Có",
+          "endWord": "đúng"
+        },
+        {
+          "t0": 400.21,
+          "t1": 417.6,
+          "box": [
+            0.422,
+            0.52,
+            0.156,
+            0.32
+          ],
+          "area": 0.01,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#b6c4a9"
+        },
+        {
+          "t0": 409.77,
+          "t1": 417.6,
+          "box": [
+            0.2,
+            0.32,
+            0.333,
+            0.48
+          ],
+          "area": 0.017,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": "up",
+          "slide": null,
+          "scale": null,
+          "colour": "#b6d9e6",
+          "word": "làm"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 11,
+      "start": 418.1,
+      "end": 521.63,
+      "startWord": "Giá",
+      "fps": 3.45,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 508.01,
+          "t1": 521.34,
+          "box": [
+            0.422,
+            0.16,
+            0.156,
+            0.2
+          ],
+          "area": 0.023,
+          "kind": "disappear",
+          "easing": "linear",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#f0c890"
+        },
+        {
+          "t0": 519.31,
+          "t1": 521.34,
+          "box": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "area": 0.975,
+          "kind": "disappear",
+          "easing": "ease_in",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#e2d6ba"
+        }
+      ],
+      "sequences": []
+    }
+  ],
+  "stickerBeats": {
+    "beats": [
+      {
+        "t": 0.03,
+        "at": "Ai",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 1
+      },
+      {
+        "t": 16.73,
+        "at": null,
+        "fx": "cut",
+        "boxes": [],
+        "shot": 2
+      },
+      {
+        "t": 36.8,
+        "at": "5",
+        "fx": "cut",
+        "boxes": [
+          [
+            0,
+            0.84,
+            1,
+            0.16
+          ]
+        ],
+        "shot": 2
+      },
+      {
+        "t": 49.56,
+        "at": "Cô",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.156,
+            0.88,
+            0.778,
+            0.08
+          ]
+        ],
+        "shot": 2
+      },
+      {
+        "t": 69.55,
+        "at": "trọ",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.422,
+            0.68,
+            0.511,
+            0.28
+          ]
+        ],
+        "shot": 2
+      },
+      {
+        "t": 84.62,
+        "at": "rồi",
+        "fx": "draw-right",
+        "boxes": [
+          [
+            0.089,
+            0.32,
+            0.822,
+            0.44
+          ]
+        ],
+        "shot": 2
+      },
+      {
+        "t": 87.52,
+        "at": "một",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.6,
+            0.8,
+            0.089,
+            0.04
+          ]
+        ],
+        "shot": 2
+      },
+      {
+        "t": 95.63,
+        "at": "Nam",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.6,
+            0.8,
+            0.089,
+            0.04
+          ]
+        ],
+        "shot": 2
+      },
+      {
+        "t": 99.69,
+        "at": "Không",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.111,
+            0.36,
+            0.778,
+            0.28
+          ]
+        ],
+        "shot": 2
+      },
+      {
+        "t": 101.14,
+        "at": "nằm",
+        "fx": "slide-left",
+        "boxes": [
+          [
+            0.044,
+            0.28,
+            0.911,
+            0.48
+          ]
+        ],
+        "shot": 2
+      },
+      {
+        "t": 112.44,
+        "at": "Mỗi",
+        "fx": "slide-up",
+        "boxes": [
+          [
+            0.289,
+            0.6,
+            0.111,
+            0.16
+          ]
+        ],
+        "shot": 2
+      },
+      {
+        "t": 123.17,
+        "at": "ty",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 3
+      },
+      {
+        "t": 133.31,
+        "at": null,
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0.311,
+            0.48,
+            0.556,
+            0.44
+          ]
+        ],
+        "shot": 3
+      },
+      {
+        "t": 153,
+        "at": "một",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 4
+      },
+      {
+        "t": 153.59,
+        "at": "ty",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.556,
+            0.28,
+            0.156,
+            0.08
+          ]
+        ],
+        "shot": 4
+      },
+      {
+        "t": 156.2,
+        "at": "số",
+        "fx": "draw-up",
+        "boxes": [
+          [
+            0.2,
+            0.56,
+            0.689,
+            0.44
+          ]
+        ],
+        "shot": 4
+      },
+      {
+        "t": 157.65,
+        "at": "Tiếng",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.756,
+            0.08,
+            0.022,
+            0.12
+          ]
+        ],
+        "shot": 4
+      },
+      {
+        "t": 159.68,
+        "at": null,
+        "fx": "cut",
+        "boxes": [
+          [
+            0.289,
+            0.08,
+            0.422,
+            0.12
+          ]
+        ],
+        "shot": 4
+      },
+      {
+        "t": 159.97,
+        "at": "nhưng",
+        "fx": "slide-up",
+        "boxes": [
+          [
+            0.756,
+            0.08,
+            0.022,
+            0.12
+          ],
+          [
+            0.733,
+            0.24,
+            0.178,
+            0.24
+          ],
+          [
+            0.267,
+            0.52,
+            0.622,
+            0.48
+          ]
+        ],
+        "shot": 4
+      },
+      {
+        "t": 163.5,
+        "at": null,
+        "fx": "cut",
+        "boxes": [],
+        "shot": 5
+      },
+      {
+        "t": 177.33,
+        "at": "Tôi",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 6
+      },
+      {
+        "t": 209.81,
+        "at": "cổ",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.533,
+            0.24,
+            0.289,
+            0.52
+          ]
+        ],
+        "shot": 6
+      },
+      {
+        "t": 220.57,
+        "at": null,
+        "fx": "cut",
+        "boxes": [],
+        "shot": 7
+      },
+      {
+        "t": 261.4,
+        "at": "Kỳ",
+        "fx": "drop",
+        "boxes": [
+          [
+            0.467,
+            0.48,
+            0.067,
+            0.12
+          ]
+        ],
+        "shot": 7
+      },
+      {
+        "t": 289.5,
+        "at": null,
+        "fx": "cut",
+        "boxes": [],
+        "shot": 8
+      },
+      {
+        "t": 289.8,
+        "at": "thì",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.156,
+            0.52,
+            0.711,
+            0.36
+          ]
+        ],
+        "shot": 8
+      },
+      {
+        "t": 299.36,
+        "at": null,
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0.422,
+            0.28,
+            0.222,
+            0.16
+          ]
+        ],
+        "shot": 8
+      },
+      {
+        "t": 302.84,
+        "at": "lại",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.422,
+            0.28,
+            0.222,
+            0.16
+          ]
+        ],
+        "shot": 8
+      },
+      {
+        "t": 317.33,
+        "at": null,
+        "fx": "drop",
+        "boxes": [
+          [
+            0.089,
+            0.16,
+            0.556,
+            0.64
+          ]
+        ],
+        "shot": 8
+      },
+      {
+        "t": 329.17,
+        "at": null,
+        "fx": "cut",
+        "boxes": [],
+        "shot": 9
+      },
+      {
+        "t": 329.5,
+        "at": "Vậy,",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.844,
+            0.28,
+            0.133,
+            0.44
+          ]
+        ],
+        "shot": 9
+      },
+      {
+        "t": 331.53,
+        "at": null,
+        "fx": "cut",
+        "boxes": [
+          [
+            0.8,
+            0.2,
+            0.089,
+            0.08
+          ]
+        ],
+        "shot": 9
+      },
+      {
+        "t": 354.42,
+        "at": null,
+        "fx": "cut",
+        "boxes": [
+          [
+            0.489,
+            0.24,
+            0.467,
+            0.48
+          ]
+        ],
+        "shot": 9
+      },
+      {
+        "t": 363.98,
+        "at": "chưa",
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0.378,
+            0.52,
+            0.156,
+            0.36
+          ]
+        ],
+        "shot": 9
+      },
+      {
+        "t": 381.66,
+        "at": "500.000",
+        "fx": "draw-up",
+        "boxes": [
+          [
+            0.289,
+            0.08,
+            0.422,
+            0.84
+          ]
+        ],
+        "shot": 9
+      },
+      {
+        "t": 383.23,
+        "at": "giá",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 10
+      },
+      {
+        "t": 386.01,
+        "at": "Có",
+        "fx": "fade",
+        "boxes": [
+          [
+            0.778,
+            0.88,
+            0.222,
+            0.12
+          ],
+          [
+            0,
+            0.88,
+            0.222,
+            0.12
+          ]
+        ],
+        "shot": 10
+      },
+      {
+        "t": 400.21,
+        "at": null,
+        "fx": "drop",
+        "boxes": [
+          [
+            0.422,
+            0.52,
+            0.156,
+            0.32
+          ]
+        ],
+        "shot": 10
+      },
+      {
+        "t": 409.77,
+        "at": "làm",
+        "fx": "draw-up",
+        "boxes": [
+          [
+            0.2,
+            0.32,
+            0.333,
+            0.48
+          ]
+        ],
+        "shot": 10
+      },
+      {
+        "t": 414.12,
+        "at": "đúng",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.778,
+            0.88,
+            0.222,
+            0.12
+          ],
+          [
+            0,
+            0.88,
+            0.222,
+            0.12
+          ]
+        ],
+        "shot": 10
+      },
+      {
+        "t": 418.1,
+        "at": "Giá",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 11
+      }
+    ],
+    "medianInterval": 9.56,
+    "perMinute": 4.72
+  }
+}

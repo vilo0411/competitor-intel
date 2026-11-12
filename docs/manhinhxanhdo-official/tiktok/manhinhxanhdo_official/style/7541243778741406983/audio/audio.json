@@ -1,0 +1,428 @@
+{
+  "engine": "whisper-cli",
+  "language": "en",
+  "text": "I need to know Could you be the one to call When I lose control Could you be the one to call When I lose control When I lose control When I lose control When I lose control When I lose control When I lose control Could you be the one to call When I lose control I know I can be destructive And I can change",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.36,
+      "text": "I need to know"
+    },
+    {
+      "id": 1,
+      "start": 3.36,
+      "end": 6.26,
+      "text": "Could you be the one to call"
+    },
+    {
+      "id": 2,
+      "start": 6.26,
+      "end": 8.0,
+      "text": "When I lose control"
+    },
+    {
+      "id": 3,
+      "start": 30.0,
+      "end": 37.3,
+      "text": "Could you be the one to call"
+    },
+    {
+      "id": 4,
+      "start": 37.3,
+      "end": 38.92,
+      "text": "When I lose control"
+    },
+    {
+      "id": 5,
+      "start": 38.92,
+      "end": 40.86,
+      "text": "When I lose control"
+    },
+    {
+      "id": 6,
+      "start": 40.86,
+      "end": 42.82,
+      "text": "When I lose control"
+    },
+    {
+      "id": 7,
+      "start": 42.82,
+      "end": 44.76,
+      "text": "When I lose control"
+    },
+    {
+      "id": 8,
+      "start": 44.76,
+      "end": 46.8,
+      "text": "When I lose control"
+    },
+    {
+      "id": 9,
+      "start": 46.8,
+      "end": 48.66,
+      "text": "When I lose control"
+    },
+    {
+      "id": 10,
+      "start": 48.66,
+      "end": 52.74,
+      "text": "Could you be the one to call"
+    },
+    {
+      "id": 11,
+      "start": 52.74,
+      "end": 54.38,
+      "text": "When I lose control"
+    },
+    {
+      "id": 12,
+      "start": 54.38,
+      "end": 57.5,
+      "text": "I know I can be destructive"
+    },
+    {
+      "id": 13,
+      "start": 57.5,
+      "end": 59.96,
+      "text": "And I can change"
+    }
+  ],
+  "words": [
+    {
+      "word": "I",
+      "start": 0.0,
+      "end": 2.0
+    },
+    {
+      "word": "need",
+      "start": 2.0,
+      "end": 2.54
+    },
+    {
+      "word": "to",
+      "start": 2.54,
+      "end": 2.81
+    },
+    {
+      "word": "know",
+      "start": 2.81,
+      "end": 3.36
+    },
+    {
+      "word": "Could",
+      "start": 3.36,
+      "end": 3.95
+    },
+    {
+      "word": "you",
+      "start": 3.95,
+      "end": 4.31
+    },
+    {
+      "word": "be",
+      "start": 4.31,
+      "end": 4.55
+    },
+    {
+      "word": "the",
+      "start": 4.55,
+      "end": 4.91
+    },
+    {
+      "word": "one",
+      "start": 4.91,
+      "end": 5.28
+    },
+    {
+      "word": "to",
+      "start": 5.28,
+      "end": 5.6
+    },
+    {
+      "word": "call",
+      "start": 5.6,
+      "end": 6.26
+    },
+    {
+      "word": "When",
+      "start": 6.26,
+      "end": 6.69
+    },
+    {
+      "word": "I",
+      "start": 6.69,
+      "end": 6.79
+    },
+    {
+      "word": "lose",
+      "start": 6.79,
+      "end": 7.22
+    },
+    {
+      "word": "control",
+      "start": 7.22,
+      "end": 8.0
+    },
+    {
+      "word": "Could",
+      "start": 30.0,
+      "end": 31.96
+    },
+    {
+      "word": "you",
+      "start": 31.96,
+      "end": 33.14
+    },
+    {
+      "word": "be",
+      "start": 33.14,
+      "end": 33.92
+    },
+    {
+      "word": "the",
+      "start": 33.92,
+      "end": 35.1
+    },
+    {
+      "word": "one",
+      "start": 35.1,
+      "end": 36.27
+    },
+    {
+      "word": "to",
+      "start": 36.3,
+      "end": 36.63
+    },
+    {
+      "word": "call",
+      "start": 36.63,
+      "end": 37.3
+    },
+    {
+      "word": "When",
+      "start": 37.3,
+      "end": 37.7
+    },
+    {
+      "word": "I",
+      "start": 37.7,
+      "end": 37.8
+    },
+    {
+      "word": "lose",
+      "start": 37.8,
+      "end": 38.2
+    },
+    {
+      "word": "control",
+      "start": 38.2,
+      "end": 38.92
+    },
+    {
+      "word": "When",
+      "start": 38.92,
+      "end": 39.4
+    },
+    {
+      "word": "I",
+      "start": 39.4,
+      "end": 39.52
+    },
+    {
+      "word": "lose",
+      "start": 39.52,
+      "end": 40.0
+    },
+    {
+      "word": "control",
+      "start": 40.0,
+      "end": 40.86
+    },
+    {
+      "word": "When",
+      "start": 40.86,
+      "end": 41.35
+    },
+    {
+      "word": "I",
+      "start": 41.35,
+      "end": 41.47
+    },
+    {
+      "word": "lose",
+      "start": 41.47,
+      "end": 41.96
+    },
+    {
+      "word": "control",
+      "start": 41.96,
+      "end": 42.82
+    },
+    {
+      "word": "When",
+      "start": 42.82,
+      "end": 43.3
+    },
+    {
+      "word": "I",
+      "start": 43.3,
+      "end": 43.42
+    },
+    {
+      "word": "lose",
+      "start": 43.42,
+      "end": 43.9
+    },
+    {
+      "word": "control",
+      "start": 43.9,
+      "end": 44.76
+    },
+    {
+      "word": "When",
+      "start": 44.76,
+      "end": 45.27
+    },
+    {
+      "word": "I",
+      "start": 45.27,
+      "end": 45.39
+    },
+    {
+      "word": "lose",
+      "start": 45.39,
+      "end": 45.9
+    },
+    {
+      "word": "control",
+      "start": 45.9,
+      "end": 46.8
+    },
+    {
+      "word": "When",
+      "start": 46.8,
+      "end": 47.26
+    },
+    {
+      "word": "I",
+      "start": 47.26,
+      "end": 47.37
+    },
+    {
+      "word": "lose",
+      "start": 47.37,
+      "end": 47.83
+    },
+    {
+      "word": "control",
+      "start": 47.83,
+      "end": 48.66
+    },
+    {
+      "word": "Could",
+      "start": 48.66,
+      "end": 49.63
+    },
+    {
+      "word": "you",
+      "start": 49.63,
+      "end": 50.21
+    },
+    {
+      "word": "be",
+      "start": 50.21,
+      "end": 50.6
+    },
+    {
+      "word": "the",
+      "start": 50.6,
+      "end": 51.18
+    },
+    {
+      "word": "one",
+      "start": 51.18,
+      "end": 51.78
+    },
+    {
+      "word": "to",
+      "start": 51.78,
+      "end": 52.1
+    },
+    {
+      "word": "call",
+      "start": 52.1,
+      "end": 52.74
+    },
+    {
+      "word": "When",
+      "start": 52.74,
+      "end": 53.15
+    },
+    {
+      "word": "I",
+      "start": 53.15,
+      "end": 53.25
+    },
+    {
+      "word": "lose",
+      "start": 53.25,
+      "end": 53.66
+    },
+    {
+      "word": "control",
+      "start": 53.66,
+      "end": 54.38
+    },
+    {
+      "word": "I",
+      "start": 54.38,
+      "end": 54.58
+    },
+    {
+      "word": "know",
+      "start": 54.58,
+      "end": 55.39
+    },
+    {
+      "word": "I",
+      "start": 55.39,
+      "end": 55.59
+    },
+    {
+      "word": "can",
+      "start": 55.59,
+      "end": 56.2
+    },
+    {
+      "word": "be",
+      "start": 56.2,
+      "end": 56.62
+    },
+    {
+      "word": "destructive",
+      "start": 56.62,
+      "end": 57.5
+    },
+    {
+      "word": "And",
+      "start": 57.5,
+      "end": 58.06
+    },
+    {
+      "word": "I",
+      "start": 58.06,
+      "end": 58.25
+    },
+    {
+      "word": "can",
+      "start": 58.25,
+      "end": 58.81
+    },
+    {
+      "word": "change",
+      "start": 58.81,
+      "end": 59.96
+    }
+  ]
+}

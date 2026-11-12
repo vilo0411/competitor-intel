@@ -1,0 +1,600 @@
+1
+00:00:00,000 --> 00:00:06,080
+ Bạn sắp bỏ tiền mua một thứ gì đó, căn hộ, quán cà phê hay cổ phiếu mà chưa biết nó đáng giá bao nhiêu.
+
+2
+00:00:06,680 --> 00:00:12,700
+ Hỏi người bán thì ai cũng bảo là rẻ, còn bạn chỉ biết gật gù rồi đoán, mà đoán sai là mất tiền thật.
+
+3
+00:00:13,360 --> 00:00:20,200
+ Ngồi lại đây 8 phút, tôi sẽ cùng bạn học cách đánh giá nhanh giá trị của bất kỳ thứ gì, cách mà các nhà đầu tư chứng khoán đang làm.
+
+4
+00:00:20,520 --> 00:00:29,320
+ Xem hết, bạn sẽ có 2 câu hỏi để tự hỏi trước khi bỏ tiền ra, 1 phép nhân để ra khoản giá tham khảo, và 3 chỗ rất dễ tự lừa mình.
+
+5
+00:00:30,000 --> 00:00:36,380
+ Nhưng có một điều lạ, cùng một món, 2 người tính ra 2 giá khác nhau, mà cả 2 đều đúng. Vì sao?
+
+6
+00:00:36,920 --> 00:00:40,520
+ Câu trả lời nằm ở phút thứ 5. Số trong video là ví dụ.
+
+7
+00:00:41,220 --> 00:00:44,580
+ Chiều thứ 6, quán trà đá đầu ngõ, Nam đập bàn cái rầm.
+
+8
+00:00:44,880 --> 00:00:51,000
+ Bác bán bánh mì muốn sang lại chiếc xe, giá 600 triệu, và hôm nay đã có người hỏi, ai đặt cọc trước thì được trước.
+
+9
+00:00:51,640 --> 00:00:55,120
+ Nam mở ứng dụng ngân hàng, ngón tay lơ lửng trên nút chuyển 50 triệu.
+
+10
+00:00:55,680 --> 00:00:57,380
+ Xe đông khách thế kia, mua thôi.
+
+11
+00:00:58,040 --> 00:01:01,020
+ Linh giữ cổ tay Nam lại, tay kia vẫn khuấy ly trà đá.
+
+12
+00:01:01,560 --> 00:01:03,760
+ Khoan, trước khi bấm, hỏi 2 câu đã.
+
+13
+00:01:04,400 --> 00:01:06,400
+ Nam rút tờ khăn giấy, đặt bút xuống.
+
+14
+00:01:06,960 --> 00:01:10,620
+ Hai đứa sẽ định giá chiếc xe này, rồi dùng đúng cách đó cho mọi thứ khác.
+
+15
+00:01:11,240 --> 00:01:13,780
+ Câu hỏi thứ nhất, nó đẻ ra bao nhiêu tiền mỗi năm?
+
+16
+00:01:14,280 --> 00:01:15,300
+ Nam chạy qua hỏi bác.
+
+17
+00:01:15,760 --> 00:01:19,460
+ Một ngày bán chừng 100 ổ, trừ bột, thịt, tiền thuê chỗ.
+
+18
+00:01:19,880 --> 00:01:21,540
+ Mỗi năm bác lãi khoảng 60 triệu.
+
+19
+00:01:22,060 --> 00:01:22,900
+ Số này là ví dụ.
+
+20
+00:01:23,340 --> 00:01:25,780
+ Bỏ 600 triệu để nhận 60 triệu mỗi năm.
+
+21
+00:01:26,300 --> 00:01:26,980
+ Linh chia nhẫm.
+
+22
+00:01:27,420 --> 00:01:29,360
+ 600 chia 60 ra 10.
+
+23
+00:01:29,760 --> 00:01:30,240
+ 10 năm.
+
+24
+00:01:30,640 --> 00:01:33,700
+ Phải bán bánh mì suốt 10 năm, không nghỉ ốm, không gặp bão,
+
+25
+00:01:34,040 --> 00:01:36,300
+ thì lãi mới trả đủ số tiền Nam bỏ ra hôm nay.
+
+26
+00:01:36,900 --> 00:01:40,000
+ Con số 10 đó, dân chứng khoán gọi là P trên E.
+
+27
+00:01:40,460 --> 00:01:41,800
+ Giá chia cho lãi một năm.
+
+28
+00:01:42,320 --> 00:01:45,280
+ Hiểu đơn giản, đó là số 5 lãi gỡ lại đủ vốn.
+
+29
+00:01:45,820 --> 00:01:49,640
+ P trên E bằng 10 thì 10 năm, bằng 20 thì 20 năm.
+
+30
+00:01:50,040 --> 00:01:52,040
+ Nhưng 10 năm là lâu hay mau?
+
+31
+00:01:52,580 --> 00:01:54,720
+ Một con số đứng một mình thì không trả lời được.
+
+32
+00:01:55,080 --> 00:01:56,380
+ Phải đặt cạnh một con số khác.
+
+33
+00:01:56,920 --> 00:01:59,880
+ Ông ngồi bàn bên nhấp ngụm trà, nghe lõm, rồi phán.
+
+34
+00:02:00,220 --> 00:02:03,580
+ Xe bánh mì quanh đây, người ta sang lại chừng 8 năm lãi.
+
+35
+00:02:04,160 --> 00:02:07,580
+ Đó là con số tham chiếu, mức mà những người cùng ngành đang trả.
+
+36
+00:02:08,140 --> 00:02:11,320
+ 8 năm nhân 60 triệu ra 480 triệu.
+
+37
+00:02:11,780 --> 00:02:14,180
+ Đó là giá tham khảo của chiếc xe theo cách thứ nhất.
+
+38
+00:02:14,700 --> 00:02:17,640
+ Bác đòi 600, cao hơn khoảng 120 triệu.
+
+39
+00:02:18,140 --> 00:02:20,140
+ Chưa gọi là hớ mới là đáng hỏi.
+
+40
+00:02:20,600 --> 00:02:22,240
+ Cao hơn như vậy là nhờ cái gì?
+
+41
+00:02:22,860 --> 00:02:25,980
+ Câu hỏi thứ hai, nếu bác dẹp tiệm hôm nay còn lại gì?
+
+42
+00:02:26,260 --> 00:02:32,340
+ Xe đẩy, lò nướng, tủ kính, máy xay thịt, gom hết đem bán lại đồ cũ, được chừng 200 triệu.
+
+43
+00:02:32,800 --> 00:02:35,260
+ Đó là giá trị của những thứ nhìn thấy và sờ được.
+
+44
+00:02:35,740 --> 00:02:38,120
+ 600 triệu mà chỉ có 200 triệu đồ nghê.
+
+45
+00:02:38,360 --> 00:02:41,180
+ 400 triệu còn lại, trả cho thứ không đặt lên cân được.
+
+46
+00:02:41,620 --> 00:02:45,620
+ Chỗ đứng đông khách, mùi bánh mì thơm cả ngõ, những người sáng nào cũng ghé.
+
+47
+00:02:46,200 --> 00:02:48,440
+ Giá chia cho giá trị đồ đang có, ra 3.
+
+48
+00:02:48,960 --> 00:02:50,840
+ Dân chứng khoán gọi là P trên B.
+
+49
+00:02:51,300 --> 00:02:54,300
+ Bạn đang trả gấp 3 lần giá trị đồ đạt, 5 gãi đầu.
+
+50
+00:02:54,660 --> 00:02:57,640
+ Nghĩa là mình đang mua cái mùi bánh mì với giá 400 triệu.
+
+51
+00:02:58,040 --> 00:02:58,480
+ Linh gật.
+
+52
+00:02:58,880 --> 00:03:02,220
+ Ừ, mùi thơm có giá, miễn là mai nó vẫn còn thơm.
+
+53
+00:03:02,660 --> 00:03:04,180
+ Ông chép miệng, thêm một câu.
+
+54
+00:03:04,680 --> 00:03:08,040
+ So bánh mì với bánh mì, đừng đem bánh mì đi so với tiệm vàng.
+
+55
+00:03:08,480 --> 00:03:12,120
+ Ý ông là chỉ so trong cùng ngành, vì tiệm vàng thì đồ đầy tủ,
+
+56
+00:03:12,500 --> 00:03:14,560
+ còn quán bánh mì thì ít đồ, nhiều khách.
+
+57
+00:03:14,980 --> 00:03:17,360
+ Hai nơi có P trên B khác nhau là chuyện thường.
+
+58
+00:03:17,880 --> 00:03:21,580
+ Giờ thử cách này với một thứ khác để thấy nó dùng được cho bất kỳ thứ gì.
+
+59
+00:03:22,160 --> 00:03:26,500
+ Căn hộ 3 tỷ cho thuê 10 triệu một tháng, tức 120 triệu một năm.
+
+60
+00:03:27,020 --> 00:03:29,800
+ 3 tỷ chia 120 triệu, 25 năm.
+
+61
+00:03:30,300 --> 00:03:32,140
+ Theo các báo cáo của CBRE,
+
+62
+00:03:32,520 --> 00:03:36,980
+ cho thuê căn hộ ở 2 thành phố lớn thường chỉ sinh lời khoảng 3-4% một năm,
+
+63
+00:03:37,360 --> 00:03:39,920
+ tức là 20 mấy năm tiền thuê mới bằng giá căn.
+
+64
+00:03:40,240 --> 00:03:43,580
+ Số này lấy làm ví dụ, mình không nói căn hộ đắt hay rẻ.
+
+65
+00:03:44,100 --> 00:03:47,700
+ Nhiều người mua căn hộ đâu phải vì tiền thuê, mà vì hy vọng giá lên.
+
+66
+00:03:48,160 --> 00:03:52,280
+ Cũng được, miễn là biết mình đang trả thêm cho hy vọng, chứ không phải cho tiền thuê.
+
+67
+00:03:52,780 --> 00:03:54,420
+ Quán cà phê cần sang lại cũng vậy,
+
+68
+00:03:54,880 --> 00:03:57,440
+ mỗi năm lãi bao nhiêu, bán đồ nghề được bao nhiêu.
+
+69
+00:03:57,900 --> 00:03:59,860
+ Chiếc xe máy chạy ứng dụng gọi xe cũng vậy,
+
+70
+00:04:00,300 --> 00:04:02,840
+ mỗi năm kiếm được bao nhiêu, bán lại còn bao nhiêu.
+
+71
+00:04:03,340 --> 00:04:05,000
+ Hai câu hỏi cùng một cách tính.
+
+72
+00:04:05,560 --> 00:04:06,780
+ Còn dân chứng khoán thì sao?
+
+73
+00:04:06,900 --> 00:04:11,380
+ Họ làm đúng như thế, chỉ khác là cổ phiếu có sẵn 2 con số trên bản giá.
+
+74
+00:04:11,900 --> 00:04:14,500
+ Vinamil giá khoảng 62.000 một cổ phiếu,
+
+75
+00:04:14,900 --> 00:04:17,380
+ lãi mỗi cổ phiếu khoảng 5.200 đồng một năm.
+
+76
+00:04:17,880 --> 00:04:21,760
+ 62 chia 5,2 ra khoảng 12, 12 năm lãi.
+
+77
+00:04:22,220 --> 00:04:24,000
+ Số tham chiếu thì các công ty chứng khoán
+
+78
+00:04:24,000 --> 00:04:26,240
+ thường lấy trung bình nhiều năm của chính Vinamil,
+
+79
+00:04:26,560 --> 00:04:27,840
+ khoảng 14 đến 17.
+
+80
+00:04:28,320 --> 00:04:29,520
+ Mình chọn 15 cho tròn.
+
+81
+00:04:29,960 --> 00:04:33,840
+ 5.200 x 15 ra 78.000, giá hiện tại thấp hơn.
+
+82
+00:04:34,400 --> 00:04:35,960
+ Cách thứ hai dùng cho ngân hàng.
+
+83
+00:04:36,260 --> 00:04:39,240
+ Vietcombank có giá kỵ sổ sách khoảng 30.000 một cổ phiếu,
+
+84
+00:04:39,620 --> 00:04:42,520
+ giá khoảng 60.000, tức P trên P khoảng 2.
+
+85
+00:04:42,720 --> 00:04:45,240
+ Số tham chiếu nhiều năm khoảng 2,5 đến 3.
+
+86
+00:04:45,640 --> 00:04:46,480
+ Chọn 2,7.
+
+87
+00:04:46,840 --> 00:04:49,620
+ 30.000 x 2,7 ra 81.000.
+
+88
+00:04:50,100 --> 00:04:51,740
+ Vì sao ngân hàng dùng P trên P?
+
+89
+00:04:52,140 --> 00:04:55,360
+ Vì tài sản của ngân hàng chủ yếu là tiền và các khoản cho vay.
+
+90
+00:04:55,780 --> 00:04:57,000
+ Sổ sách khá sát thực tế.
+
+91
+00:04:57,520 --> 00:05:00,400
+ Còn Vinamil, giá trị nằm ở thương hiệu và khách quen.
+
+92
+00:05:00,760 --> 00:05:03,420
+ Thứ không ghi trên sổ nên xem P trên E trước.
+
+93
+00:05:03,920 --> 00:05:06,220
+ Bây giờ là lúc trả lời câu hỏi ở đầu video.
+
+94
+00:05:06,460 --> 00:05:07,780
+ Hai người cùng tính Vinamil.
+
+95
+00:05:07,960 --> 00:05:12,420
+ Người thận trọng chọn số tham chiếu 12 bằng mức hiện tại ra 62.000.
+
+96
+00:05:12,820 --> 00:05:15,460
+ Người lạc quan chọn 17 ra 88.000.
+
+97
+00:05:15,940 --> 00:05:18,700
+ Cả 2 đều tính đúng, chỉ khác số tham chiếu mỗi người tin.
+
+98
+00:05:19,180 --> 00:05:21,540
+ Trên 26.000 đồng chỉ vì một con số.
+
+99
+00:05:22,100 --> 00:05:25,400
+ Vậy là không có một giá trị thật duy nhất, chỉ có một khoản giá.
+
+100
+00:05:25,920 --> 00:05:28,360
+ Phép nhân cho bạn cái khoản, không cho bạn đáp án.
+
+101
+00:05:28,860 --> 00:05:30,760
+ Và đây là câu đáng nhớ nhất của video.
+
+102
+00:05:31,360 --> 00:05:34,380
+ Giá là thứ bạn trả, giá trị là thứ bạn nhận về.
+
+103
+00:05:34,500 --> 00:05:38,420
+ Hai thứ này hiếm khi bằng nhau, việc của bạn là biết chúng lệch bao nhiêu.
+
+104
+00:05:38,980 --> 00:05:40,840
+ Nam nghe xong, mắt sáng như đèn pha.
+
+105
+00:05:41,340 --> 00:05:43,400
+ Giá hiện tại thấp hơn mức tham chiếu, mua thôi.
+
+106
+00:05:43,920 --> 00:05:45,220
+ Linh nắm tay Nam lần thứ hai.
+
+107
+00:05:45,660 --> 00:05:48,120
+ Khoan, thấp hơn mức tham chiếu chưa chắc đã rẻ.
+
+108
+00:05:48,660 --> 00:05:49,000
+ Vì sao?
+
+109
+00:05:49,440 --> 00:05:50,520
+ Có 3 chỗ dễ vấp.
+
+110
+00:05:50,960 --> 00:05:52,420
+ Chỗ thứ nhất, lãi một lần.
+
+111
+00:05:52,960 --> 00:05:57,860
+ Giả sử 60 triệu lãi của xe bánh mì có 30 triệu là nhờ năm nay đầu ngõ có công trình,
+
+112
+00:05:58,220 --> 00:06:00,180
+ mấy chục công nhân sáng nào cũng ghé mua bánh.
+
+113
+00:06:00,700 --> 00:06:03,320
+ Xây xong, công nhân đi hết, lãi chỉ còn một nửa.
+
+114
+00:06:03,500 --> 00:06:07,320
+ Công ty trên sàn cũng thế, bán một mảnh đất, lãi phình ra một lần.
+
+115
+00:06:07,680 --> 00:06:11,560
+ P trên E nhìn rẻ ghê, nằm sau hết đất để bán, lãi xẹp lại.
+
+116
+00:06:12,020 --> 00:06:14,540
+ Còn công ty đang lỗ thì không có P trên E nào cả.
+
+117
+00:06:15,080 --> 00:06:17,860
+ Câu hỏi cần hỏi, lãi này năm nào cũng có không?
+
+118
+00:06:18,320 --> 00:06:19,860
+ Chỗ thứ hai, sổ sách ảo.
+
+119
+00:06:20,380 --> 00:06:24,500
+ Cái lò nướng ghi 20 triệu trên giấy, nhưng sáng nay lò bốc khói xin nghỉ việc.
+
+120
+00:06:25,000 --> 00:06:30,280
+ Với ngân hàng, tài sản chủ yếu là khoản cho vay, vay không trả được thì sổ đẹp mấy cũng chỉ là giấy.
+
+121
+00:06:30,760 --> 00:06:34,240
+ Câu hỏi cần hỏi, tài sản này bán ra có được đúng giá ghi không?
+
+122
+00:06:34,740 --> 00:06:37,400
+ Chỗ thứ ba, chỗ nghe kỳ nhất, tự lừa mình.
+
+123
+00:06:37,840 --> 00:06:42,540
+ Ai đang muốn mua thì thấy 17 là hợp lý, ai đang muốn bán thì thấy 12 cũng đẹp.
+
+124
+00:06:42,840 --> 00:06:47,160
+ Cách chặn rất đơn giản, chọn số tham chiếu trước, ghi ra giấy rồi mới nhìn giá.
+
+125
+00:06:47,660 --> 00:06:51,980
+ Nghe dễ vậy mà khó nhất, vì kẻ bị lừa và kẻ đi lừa là cùng một người.
+
+126
+00:06:52,500 --> 00:06:54,240
+ Vậy rẻ thật hay rẻ giả?
+
+127
+00:06:54,780 --> 00:06:59,220
+ Rẻ thật là khi lãi đều, đồ có thật so với chính nó và so với cùng ngành.
+
+128
+00:06:59,420 --> 00:07:02,920
+ Rẻ giả là khi lãi nổ một lần hoặc đồ chỉ đẹp trên giấy.
+
+129
+00:07:03,400 --> 00:07:07,860
+ Tóm lại, hai câu hỏi, mấy năm lãi thì gỡ vốn, đó là P trên E.
+
+130
+00:07:08,340 --> 00:07:11,060
+ Nếu tan hết thì còn bao nhiêu, đó là P trên B.
+
+131
+00:07:11,560 --> 00:07:15,760
+ Rồi nhân với số tham chiếu của cùng ngành để ra khoản giá và soi thêm 3 câu.
+
+132
+00:07:16,160 --> 00:07:18,560
+ Lãi này có đều không? Đồ này có thật không?
+
+133
+00:07:18,940 --> 00:07:21,440
+ Số tham chiếu mình chọn trước hay sau khi nhìn giá?
+
+134
+00:07:21,940 --> 00:07:24,720
+ Việc nhỏ hôm nay, viết 2 dòng vào ghi chú điện thoại.
+
+135
+00:07:24,900 --> 00:07:28,260
+ Dòng 1, giá chia lãi một năm ra số 5 gỡ vốn.
+
+136
+00:07:28,760 --> 00:07:32,640
+ Dòng 2, giá chia giá trị đồ còn lại nếu tan ra gấp mấy lần.
+
+137
+00:07:33,140 --> 00:07:38,640
+ Lần tới có ai rao bán thứ gì, từ chiếc xe máy đến cổ phiếu, mở ghi chú ra tính trước khi gật đầu.
+
+138
+00:07:38,880 --> 00:07:41,980
+ Chưa có vốn cũng không sao, biết hỏi đúng đã là có lời.
+
+139
+00:07:42,540 --> 00:07:43,480
+ Còn chiếc xe bánh mì?
+
+140
+00:07:43,920 --> 00:07:50,040
+ Linh nhậm lại, 8 năm lại ra 480, cộng thêm khách quen chừng 500, chưa tới 6.
+
+141
+00:07:50,480 --> 00:07:53,200
+ Bác bán bánh mì mật cười, còn tính giỏi hơn bác.
+
+142
+00:07:53,360 --> 00:07:57,980
+ Rồi đải 2 đứa mỗi người một ổ, nàm bẻn lẻn, hỏi trước, mua sau.
+
+143
+00:07:58,360 --> 00:08:01,640
+ Ông bên bàn bên chép miệng, 2 đứa tính nhậm tử tế đây.
+
+144
+00:08:02,140 --> 00:08:05,320
+ Linh gấp tờ khăn giấy, cấp vào ví như cất một tấm bản đồ.
+
+145
+00:08:05,860 --> 00:08:09,000
+ Giá là thứ bạn trả, giá trị là thứ bạn nhận về.
+
+146
+00:08:09,420 --> 00:08:11,300
+ Cả 2 đều đúng, chỉ khác người tính.
+
+147
+00:08:11,740 --> 00:08:13,900
+ Vắt thêm chút chanh, chuyện tiền bớt khô.
+
+148
+00:08:14,600 --> 00:08:17,020
+ Nội dung mang tính giáo dục, không phải lời khuyên tài chính.
+
+149
+00:08:17,460 --> 00:08:19,060
+ Số liệu chỉ để minh họa cách tính.
+
+150
+00:08:19,240 --> 00:08:21,820
+ Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+

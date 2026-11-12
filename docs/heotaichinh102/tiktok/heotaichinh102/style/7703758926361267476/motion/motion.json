@@ -1,0 +1,342 @@
+{
+  "source": "video.mp4",
+  "width": 1024,
+  "height": 576,
+  "duration": 537.57,
+  "analysisFps": 3.35,
+  "analysisSize": [
+    180,
+    102
+  ],
+  "boxUnits": "fraction of frame [x, y, w, h]",
+  "captionTrack": null,
+  "shots": [
+    {
+      "index": 1,
+      "start": 0.03,
+      "end": 8.5,
+      "startWord": "Phòng",
+      "fps": 3.35,
+      "layer": {
+        "share": 0.177,
+        "box": [
+          0,
+          0,
+          1,
+          0.88
+        ]
+      },
+      "static": [],
+      "events": [
+        {
+          "t0": 0.9,
+          "t1": 5.97,
+          "box": [
+            0.133,
+            0.84,
+            0.022,
+            0.16
+          ],
+          "area": 0.003,
+          "kind": "temporary",
+          "easing": "ease_out",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#936f49",
+          "word": "nhờ",
+          "endWord": "đầu"
+        },
+        {
+          "t0": 2.09,
+          "t1": 5.97,
+          "box": [
+            0.133,
+            0.84,
+            0.111,
+            0.16
+          ],
+          "area": 0.015,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#98714b",
+          "word": "tập.",
+          "endWord": "đầu"
+        },
+        {
+          "t0": 2.69,
+          "t1": 5.97,
+          "box": [
+            0.867,
+            0.88,
+            0.133,
+            0.12
+          ],
+          "area": 0.008,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#8d6b46",
+          "endWord": "đầu"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 2,
+      "start": 8.5,
+      "end": 95.9,
+      "startWord": "Rồi",
+      "fps": 3.35,
+      "layer": null,
+      "static": [],
+      "events": [],
+      "sequences": []
+    },
+    {
+      "index": 3,
+      "start": 95.9,
+      "end": 97.87,
+      "startWord": "lúc",
+      "fps": 3.35,
+      "layer": {
+        "share": 0.02,
+        "box": [
+          0.333,
+          0.28,
+          0.356,
+          0.56
+        ]
+      },
+      "static": [
+        {
+          "box": [
+            0,
+            0,
+            0.044,
+            0.08
+          ],
+          "shape": "block",
+          "colour": "#aea897"
+        },
+        {
+          "box": [
+            0.956,
+            0,
+            0.044,
+            0.08
+          ],
+          "shape": "block",
+          "colour": "#aea897"
+        }
+      ],
+      "events": [
+        {
+          "t0": 96.76,
+          "t1": 97.06,
+          "box": [
+            0.4,
+            0.44,
+            0.111,
+            0.08
+          ],
+          "area": 0.004,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#609468",
+          "word": "trong"
+        }
+      ],
+      "sequences": []
+    },
+    {
+      "index": 4,
+      "start": 97.87,
+      "end": 537.57,
+      "startWord": "Lúc",
+      "fps": 3.35,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 528.01,
+          "t1": 537.27,
+          "box": [
+            0.467,
+            0.16,
+            0.156,
+            0.32
+          ],
+          "area": 0.015,
+          "kind": "disappear",
+          "easing": "linear",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#e2e1c4",
+          "word": "chút"
+        },
+        {
+          "t0": 530.1,
+          "t1": 537.27,
+          "box": [
+            0.533,
+            0.16,
+            0.2,
+            0.48
+          ],
+          "area": 0.004,
+          "kind": "disappear",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "up",
+          "scale": null,
+          "colour": "#e9ddc1"
+        },
+        {
+          "t0": 533.39,
+          "t1": 537.27,
+          "box": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "area": 0.977,
+          "kind": "disappear",
+          "easing": "ease_in",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#e2d6ba",
+          "word": "và"
+        }
+      ],
+      "sequences": []
+    }
+  ],
+  "stickerBeats": {
+    "beats": [
+      {
+        "t": 0.03,
+        "at": "Phòng",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 1
+      },
+      {
+        "t": 0.9,
+        "at": "nhờ",
+        "fx": "drop",
+        "boxes": [
+          [
+            0.133,
+            0.84,
+            0.022,
+            0.16
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 2.09,
+        "at": "tập.",
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0.133,
+            0.84,
+            0.111,
+            0.16
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 2.69,
+        "at": null,
+        "fx": "fade",
+        "boxes": [
+          [
+            0.867,
+            0.88,
+            0.133,
+            0.12
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 5.97,
+        "at": "đầu",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.133,
+            0.84,
+            0.022,
+            0.16
+          ],
+          [
+            0.133,
+            0.84,
+            0.111,
+            0.16
+          ],
+          [
+            0.867,
+            0.88,
+            0.133,
+            0.12
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 8.5,
+        "at": "Rồi",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 2
+      },
+      {
+        "t": 95.9,
+        "at": "lúc",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 3
+      },
+      {
+        "t": 96.76,
+        "at": "trong",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.4,
+            0.44,
+            0.111,
+            0.08
+          ]
+        ],
+        "shot": 3
+      },
+      {
+        "t": 97.87,
+        "at": "Lúc",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 4
+      }
+    ],
+    "medianInterval": 1.15,
+    "perMinute": 1
+  }
+}

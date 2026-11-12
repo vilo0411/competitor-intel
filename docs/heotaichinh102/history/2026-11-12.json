@@ -1,0 +1,1988 @@
+{
+  "name": "heotaichinh102",
+  "updated": "2026-11-12",
+  "tiktok": [
+    {
+      "handle": "heotaichinh102",
+      "profile": {
+        "followers": 3791,
+        "hearts": 56800,
+        "videoCount": 16,
+        "nickname": "Tái chanh 🍋",
+        "bio": "AI làm video nên có sai xót mn bỏ qua nhé🍋\n@Nguyễn Trạng làm vì đam mê. Chia sẻ kinh nghiệm 14 năm học (UEH), làm và khởi nghiệp ngành Tài chính 🫡"
+      },
+      "stats": {
+        "n": 16,
+        "first": "2026-10-29",
+        "last": "2026-11-11",
+        "daysSinceLast": 0,
+        "totalViews": 908537,
+        "meanViews": 56783.5625,
+        "medianViews": 9341,
+        "maxViews": 354800,
+        "minViews": 253,
+        "medianER": 0.06256428391300693,
+        "postsPerWeek": 8.549444588258472,
+        "medianGapDays": 0.7556712962962963,
+        "postsLast30": 16,
+        "medianDuration": 482,
+        "originalSoundShare": 0.9375,
+        "viralCount": 3
+      },
+      "takeaways": {
+        "category": "Không loại nội dung nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 8,8k–18k)",
+        "share": "Nghề nghiệp, AI & thông báo kênh chiếm 18,8% số video nhưng chỉ mang về 0,5% tổng view",
+        "viral": "3/16 video đạt từ 93k view (10× trung vị kênh) và mang về 88,0% tổng view; top 3 chiếm 88,0%",
+        "hits": "Số hit (từ 93k view) theo tuần gần nhất: 1/2 → 2/8 → 0/6 (kỳ cuối có 6 bài dưới 7 ngày tuổi, còn tích view)",
+        "cadence": "Đăng 8,5 video/tuần; tháng dày nhất T11/26 có 14 video; 30 ngày qua: 16 video",
+        "time": "Chưa đủ mẫu để so sánh khung giờ",
+        "weekday": "Chưa đủ mẫu để so sánh thứ",
+        "duration": "Chưa đủ mẫu để so sánh mức độ dài",
+        "tags": "Không hashtag đủ mẫu nào đi kèm view cao hơn hẳn trung vị; không chứng minh hashtag làm tăng view"
+      },
+      "evidence": {
+        "channelMedian": 9341,
+        "hitThreshold": 93410,
+        "periodUnit": "tuần",
+        "labeledCount": 16,
+        "totalCount": 16,
+        "youngCount": 9,
+        "categories": [
+          {
+            "name": "Chứng khoán, ngân hàng & kinh tế",
+            "count": 6,
+            "weak": false,
+            "young": 5,
+            "median": 18150,
+            "q25": 11593.75,
+            "q75": 25100,
+            "aboveChannel": 0.8333333333333334,
+            "relMedian": 2.0133702633073014,
+            "aboveLocal": 0.8333333333333334,
+            "hits": 1,
+            "hitRate": 0.16666666666666666,
+            "interactions": {
+              "likes": {
+                "median": 0.041205046887803104,
+                "count": 6
+              },
+              "comments": {
+                "median": 0.00047787162884826073,
+                "count": 6
+              },
+              "shares": {
+                "median": 0.004575354313981366,
+                "count": 6
+              },
+              "saves": {
+                "median": 0.013117352222889948,
+                "count": 6
+              }
+            }
+          },
+          {
+            "name": "Chi tiêu & tiền cá nhân",
+            "count": 7,
+            "weak": false,
+            "young": 2,
+            "median": 8757,
+            "q25": 2175,
+            "q75": 163950,
+            "aboveChannel": 0.42857142857142855,
+            "relMedian": 0.7951872871736663,
+            "aboveLocal": 0.42857142857142855,
+            "hits": 2,
+            "hitRate": 0.2857142857142857,
+            "interactions": {
+              "likes": {
+                "median": 0.050743801652892565,
+                "count": 7
+              },
+              "comments": {
+                "median": 0.00033057851239669424,
+                "count": 7
+              },
+              "shares": {
+                "median": 0.007479861910241657,
+                "count": 7
+              },
+              "saves": {
+                "median": 0.007017099430018999,
+                "count": 7
+              }
+            }
+          },
+          {
+            "name": "Nghề nghiệp, AI & thông báo kênh",
+            "count": 3,
+            "weak": true,
+            "young": 2,
+            "median": 1141,
+            "q25": 697,
+            "q75": 2359.5,
+            "aboveChannel": 0,
+            "relMedian": 0.11496221662468514,
+            "aboveLocal": 0,
+            "hits": 0,
+            "hitRate": 0,
+            "interactions": {
+              "likes": {
+                "median": 0.04332029066517608,
+                "count": 3
+              },
+              "comments": {
+                "median": 0.0026292725679228747,
+                "count": 3
+              },
+              "shares": {
+                "median": 0.0022358859698155395,
+                "count": 3
+              },
+              "saves": {
+                "median": 0.003952569169960474,
+                "count": 3
+              }
+            }
+          }
+        ],
+        "sensitivity": [
+          {
+            "remove": 0,
+            "excluded": [],
+            "categories": [
+              {
+                "name": "Chứng khoán, ngân hàng & kinh tế",
+                "count": 6,
+                "weak": false,
+                "young": 5,
+                "median": 18150,
+                "q25": 11593.75,
+                "q75": 25100,
+                "aboveChannel": 0.8333333333333334,
+                "relMedian": 2.0133702633073014,
+                "aboveLocal": 0.8333333333333334,
+                "hits": 1,
+                "hitRate": 0.16666666666666666,
+                "interactions": {
+                  "likes": {
+                    "median": 0.041205046887803104,
+                    "count": 6
+                  },
+                  "comments": {
+                    "median": 0.00047787162884826073,
+                    "count": 6
+                  },
+                  "shares": {
+                    "median": 0.004575354313981366,
+                    "count": 6
+                  },
+                  "saves": {
+                    "median": 0.013117352222889948,
+                    "count": 6
+                  }
+                }
+              },
+              {
+                "name": "Chi tiêu & tiền cá nhân",
+                "count": 7,
+                "weak": false,
+                "young": 2,
+                "median": 8757,
+                "q25": 2175,
+                "q75": 163950,
+                "aboveChannel": 0.42857142857142855,
+                "relMedian": 0.7951872871736663,
+                "aboveLocal": 0.42857142857142855,
+                "hits": 2,
+                "hitRate": 0.2857142857142857,
+                "interactions": {
+                  "likes": {
+                    "median": 0.050743801652892565,
+                    "count": 7
+                  },
+                  "comments": {
+                    "median": 0.00033057851239669424,
+                    "count": 7
+                  },
+                  "shares": {
+                    "median": 0.007479861910241657,
+                    "count": 7
+                  },
+                  "saves": {
+                    "median": 0.007017099430018999,
+                    "count": 7
+                  }
+                }
+              },
+              {
+                "name": "Nghề nghiệp, AI & thông báo kênh",
+                "count": 3,
+                "weak": true,
+                "young": 2,
+                "median": 1141,
+                "q25": 697,
+                "q75": 2359.5,
+                "aboveChannel": 0,
+                "relMedian": 0.11496221662468514,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.04332029066517608,
+                    "count": 3
+                  },
+                  "comments": {
+                    "median": 0.0026292725679228747,
+                    "count": 3
+                  },
+                  "shares": {
+                    "median": 0.0022358859698155395,
+                    "count": 3
+                  },
+                  "saves": {
+                    "median": 0.003952569169960474,
+                    "count": 3
+                  }
+                }
+              }
+            ],
+            "leaders": [
+              "Chứng khoán, ngân hàng & kinh tế"
+            ]
+          },
+          {
+            "remove": 1,
+            "excluded": [
+              "7703758926361267476"
+            ],
+            "categories": [
+              {
+                "name": "Chứng khoán, ngân hàng & kinh tế",
+                "count": 6,
+                "weak": false,
+                "young": 5,
+                "median": 18150,
+                "q25": 11593.75,
+                "q75": 25100,
+                "aboveChannel": 0.8333333333333334,
+                "relMedian": 2.0133702633073014,
+                "aboveLocal": 0.8333333333333334,
+                "hits": 1,
+                "hitRate": 0.16666666666666666,
+                "interactions": {
+                  "likes": {
+                    "median": 0.041205046887803104,
+                    "count": 6
+                  },
+                  "comments": {
+                    "median": 0.00047787162884826073,
+                    "count": 6
+                  },
+                  "shares": {
+                    "median": 0.004575354313981366,
+                    "count": 6
+                  },
+                  "saves": {
+                    "median": 0.013117352222889948,
+                    "count": 6
+                  }
+                }
+              },
+              {
+                "name": "Chi tiêu & tiền cá nhân",
+                "count": 6,
+                "weak": false,
+                "young": 2,
+                "median": 5684.5,
+                "q25": 1956.5,
+                "q75": 11264.25,
+                "aboveChannel": 0.3333333333333333,
+                "relMedian": 0.4765039727582293,
+                "aboveLocal": 0.3333333333333333,
+                "hits": 1,
+                "hitRate": 0.16666666666666666,
+                "interactions": {
+                  "likes": {
+                    "median": 0.04701173181879526,
+                    "count": 6
+                  },
+                  "comments": {
+                    "median": 0.0003014513841274162,
+                    "count": 6
+                  },
+                  "shares": {
+                    "median": 0.006228445503359726,
+                    "count": 6
+                  },
+                  "saves": {
+                    "median": 0.009549976642512377,
+                    "count": 6
+                  }
+                }
+              },
+              {
+                "name": "Nghề nghiệp, AI & thông báo kênh",
+                "count": 3,
+                "weak": true,
+                "young": 2,
+                "median": 1141,
+                "q25": 697,
+                "q75": 2359.5,
+                "aboveChannel": 0,
+                "relMedian": 0.11496221662468514,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.04332029066517608,
+                    "count": 3
+                  },
+                  "comments": {
+                    "median": 0.0026292725679228747,
+                    "count": 3
+                  },
+                  "shares": {
+                    "median": 0.0022358859698155395,
+                    "count": 3
+                  },
+                  "saves": {
+                    "median": 0.003952569169960474,
+                    "count": 3
+                  }
+                }
+              }
+            ],
+            "leaders": [
+              "Chứng khoán, ngân hàng & kinh tế"
+            ]
+          },
+          {
+            "remove": 3,
+            "excluded": [
+              "7703758926361267476",
+              "7702335824507030804",
+              "7704587333823221013"
+            ],
+            "categories": [
+              {
+                "name": "Chứng khoán, ngân hàng & kinh tế",
+                "count": 5,
+                "weak": false,
+                "young": 4,
+                "median": 16600,
+                "q25": 9925,
+                "q75": 19700,
+                "aboveChannel": 0.8,
+                "relMedian": 1.777111658280698,
+                "aboveLocal": 0.8,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.036566265060240966,
+                    "count": 5
+                  },
+                  "comments": {
+                    "median": 0.0004060913705583756,
+                    "count": 5
+                  },
+                  "shares": {
+                    "median": 0.004030226700251889,
+                    "count": 5
+                  },
+                  "saves": {
+                    "median": 0.011725888324873096,
+                    "count": 5
+                  }
+                }
+              },
+              {
+                "name": "Chi tiêu & tiền cá nhân",
+                "count": 5,
+                "weak": false,
+                "young": 2,
+                "median": 2612,
+                "q25": 1738,
+                "q75": 8757,
+                "aboveChannel": 0.2,
+                "relMedian": 0.15782065834279227,
+                "aboveLocal": 0.2,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.04327966198469796,
+                    "count": 5
+                  },
+                  "comments": {
+                    "median": 0.00033057851239669424,
+                    "count": 5
+                  },
+                  "shares": {
+                    "median": 0.0049770290964777945,
+                    "count": 5
+                  },
+                  "saves": {
+                    "median": 0.012082853855005753,
+                    "count": 5
+                  }
+                }
+              },
+              {
+                "name": "Nghề nghiệp, AI & thông báo kênh",
+                "count": 3,
+                "weak": true,
+                "young": 2,
+                "median": 1141,
+                "q25": 697,
+                "q75": 2359.5,
+                "aboveChannel": 0,
+                "relMedian": 0.11496221662468514,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.04332029066517608,
+                    "count": 3
+                  },
+                  "comments": {
+                    "median": 0.0026292725679228747,
+                    "count": 3
+                  },
+                  "shares": {
+                    "median": 0.0022358859698155395,
+                    "count": 3
+                  },
+                  "saves": {
+                    "median": 0.003952569169960474,
+                    "count": 3
+                  }
+                }
+              }
+            ],
+            "leaders": [
+              "Chứng khoán, ngân hàng & kinh tế"
+            ]
+          }
+        ],
+        "periods": [
+          {
+            "period": "Tuần từ 02/11/2026",
+            "key": "2026-11-02",
+            "categories": [
+              {
+                "name": "Chứng khoán, ngân hàng & kinh tế",
+                "count": 3,
+                "weak": true,
+                "young": 2,
+                "median": 26900,
+                "q25": 21750,
+                "q75": 77700,
+                "aboveChannel": 1,
+                "relMedian": 3.0718282516843667,
+                "aboveLocal": 1,
+                "hits": 1,
+                "hitRate": 0.3333333333333333,
+                "interactions": {
+                  "likes": {
+                    "median": 0.06263940520446097,
+                    "count": 3
+                  },
+                  "comments": {
+                    "median": 0.00036144578313253013,
+                    "count": 3
+                  },
+                  "shares": {
+                    "median": 0.006319702602230483,
+                    "count": 3
+                  },
+                  "saves": {
+                    "median": 0.017360594795539034,
+                    "count": 3
+                  }
+                }
+              },
+              {
+                "name": "Chi tiêu & tiền cá nhân",
+                "count": 3,
+                "weak": true,
+                "young": 0,
+                "median": 8757,
+                "q25": 5247.5,
+                "q75": 181778.5,
+                "aboveChannel": 0.3333333333333333,
+                "relMedian": 0.7951872871736663,
+                "aboveLocal": 0.3333333333333333,
+                "hits": 1,
+                "hitRate": 0.3333333333333333,
+                "interactions": {
+                  "likes": {
+                    "median": 0.04327966198469796,
+                    "count": 3
+                  },
+                  "comments": {
+                    "median": 0.0005806087936865839,
+                    "count": 3
+                  },
+                  "shares": {
+                    "median": 0.007479861910241657,
+                    "count": 3
+                  },
+                  "saves": {
+                    "median": 0.006280689733927144,
+                    "count": 3
+                  }
+                }
+              },
+              {
+                "name": "Nghề nghiệp, AI & thông báo kênh",
+                "count": 2,
+                "weak": true,
+                "young": 1,
+                "median": 2359.5,
+                "q25": 1750.25,
+                "q75": 2968.75,
+                "aboveChannel": 0,
+                "relMedian": 0.21993286767670125,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.05584068871558541,
+                    "count": 2
+                  },
+                  "comments": {
+                    "median": 0.0014543791570749086,
+                    "count": 2
+                  },
+                  "shares": {
+                    "median": 0.002432579268869207,
+                    "count": 2
+                  },
+                  "saves": {
+                    "median": 0.01350864103301459,
+                    "count": 2
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "period": "Tuần từ 09/11/2026",
+            "key": "2026-11-09",
+            "categories": [
+              {
+                "name": "Chứng khoán, ngân hàng & kinh tế",
+                "count": 3,
+                "weak": true,
+                "young": 3,
+                "median": 9925,
+                "q25": 7691.5,
+                "q75": 14812.5,
+                "aboveChannel": 0.6666666666666666,
+                "relMedian": 1.133379011076853,
+                "aboveLocal": 0.6666666666666666,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.03646024184683034,
+                    "count": 3
+                  },
+                  "comments": {
+                    "median": 0.0005496518871381459,
+                    "count": 3
+                  },
+                  "shares": {
+                    "median": 0.003664345914254306,
+                    "count": 3
+                  },
+                  "saves": {
+                    "median": 0.011725888324873096,
+                    "count": 3
+                  }
+                }
+              },
+              {
+                "name": "Chi tiêu & tiền cá nhân",
+                "count": 2,
+                "weak": true,
+                "young": 2,
+                "median": 6387.5,
+                "q25": 3531.25,
+                "q75": 9243.75,
+                "aboveChannel": 0.5,
+                "relMedian": 0.8818604989134353,
+                "aboveLocal": 0.5,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.06537190082644628,
+                    "count": 2
+                  },
+                  "comments": {
+                    "median": 0.00016528925619834712,
+                    "count": 2
+                  },
+                  "shares": {
+                    "median": 0.0063544536271809005,
+                    "count": 2
+                  },
+                  "saves": {
+                    "median": 0.017846648301193757,
+                    "count": 2
+                  }
+                }
+              },
+              {
+                "name": "Nghề nghiệp, AI & thông báo kênh",
+                "count": 1,
+                "weak": true,
+                "young": 1,
+                "median": 253,
+                "q25": 253,
+                "q75": 253,
+                "aboveChannel": 0,
+                "relMedian": 0.027084894550904615,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.02766798418972332,
+                    "count": 1
+                  },
+                  "comments": {
+                    "median": 0.011857707509881422,
+                    "count": 1
+                  },
+                  "shares": {
+                    "median": 0,
+                    "count": 1
+                  },
+                  "saves": {
+                    "median": 0.003952569169960474,
+                    "count": 1
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "durationStrata": [
+          {
+            "stratum": "Chi tiêu & tiền cá nhân",
+            "comparable": false,
+            "durations": [
+              {
+                "name": "≤7:45",
+                "count": 2,
+                "weak": true,
+                "young": 2,
+                "median": 6387.5,
+                "q25": 3531.25,
+                "q75": 9243.75,
+                "aboveChannel": 0.5,
+                "relMedian": 0.8818604989134353,
+                "aboveLocal": 0.5,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.06537190082644628,
+                    "count": 2
+                  },
+                  "comments": {
+                    "median": 0.00016528925619834712,
+                    "count": 2
+                  },
+                  "shares": {
+                    "median": 0.0063544536271809005,
+                    "count": 2
+                  },
+                  "saves": {
+                    "median": 0.017846648301193757,
+                    "count": 2
+                  }
+                }
+              },
+              {
+                "name": "7:45–8:15",
+                "count": 3,
+                "weak": true,
+                "young": 0,
+                "median": 8757,
+                "q25": 5247.5,
+                "q75": 162278.5,
+                "aboveChannel": 0.3333333333333333,
+                "relMedian": 0.7951872871736663,
+                "aboveLocal": 0.3333333333333333,
+                "hits": 1,
+                "hitRate": 0.3333333333333333,
+                "interactions": {
+                  "likes": {
+                    "median": 0.04327966198469796,
+                    "count": 3
+                  },
+                  "comments": {
+                    "median": 0.0005753739930955121,
+                    "count": 3
+                  },
+                  "shares": {
+                    "median": 0.007479861910241657,
+                    "count": 3
+                  },
+                  "saves": {
+                    "median": 0.007017099430018999,
+                    "count": 3
+                  }
+                }
+              },
+              {
+                "name": ">8:15",
+                "count": 2,
+                "weak": true,
+                "young": 0,
+                "median": 178706,
+                "q25": 90659,
+                "q75": 266753,
+                "aboveChannel": 0.5,
+                "relMedian": 17.922605601490737,
+                "aboveLocal": 0.5,
+                "hits": 1,
+                "hitRate": 0.5,
+                "interactions": {
+                  "likes": {
+                    "median": 0.04501964741691715,
+                    "count": 2
+                  },
+                  "comments": {
+                    "median": 0.00029030439684329197,
+                    "count": 2
+                  },
+                  "shares": {
+                    "median": 0.008274873060076552,
+                    "count": 2
+                  },
+                  "saves": {
+                    "median": 0.002940871288701354,
+                    "count": 2
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "stratum": "Chứng khoán, ngân hàng & kinh tế",
+            "comparable": false,
+            "durations": [
+              {
+                "name": "≤8:30",
+                "count": 3,
+                "weak": true,
+                "young": 3,
+                "median": 19700,
+                "q25": 12579,
+                "q75": 74100,
+                "aboveChannel": 0.6666666666666666,
+                "relMedian": 2.2496288683339043,
+                "aboveLocal": 0.6666666666666666,
+                "hits": 1,
+                "hitRate": 0.3333333333333333,
+                "interactions": {
+                  "likes": {
+                    "median": 0.03646024184683034,
+                    "count": 3
+                  },
+                  "comments": {
+                    "median": 0.0005496518871381459,
+                    "count": 3
+                  },
+                  "shares": {
+                    "median": 0.003664345914254306,
+                    "count": 3
+                  },
+                  "saves": {
+                    "median": 0.011725888324873096,
+                    "count": 3
+                  }
+                }
+              },
+              {
+                "name": "8:30–9:00",
+                "count": 1,
+                "weak": true,
+                "young": 0,
+                "median": 26900,
+                "q25": 26900,
+                "q75": 26900,
+                "aboveChannel": 1,
+                "relMedian": 3.0718282516843667,
+                "aboveLocal": 1,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.06263940520446097,
+                    "count": 1
+                  },
+                  "comments": {
+                    "median": 0.00029739776951672863,
+                    "count": 1
+                  },
+                  "shares": {
+                    "median": 0.006319702602230483,
+                    "count": 1
+                  },
+                  "saves": {
+                    "median": 0.017360594795539034,
+                    "count": 1
+                  }
+                }
+              },
+              {
+                "name": ">9:00",
+                "count": 2,
+                "weak": true,
+                "young": 2,
+                "median": 13262.5,
+                "q25": 11593.75,
+                "q75": 14931.25,
+                "aboveChannel": 1,
+                "relMedian": 1.4552453346787755,
+                "aboveLocal": 1,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.041205046887803104,
+                    "count": 2
+                  },
+                  "comments": {
+                    "median": 0.0006341233953446026,
+                    "count": 2
+                  },
+                  "shares": {
+                    "median": 0.004575354313981366,
+                    "count": 2
+                  },
+                  "saves": {
+                    "median": 0.009513444205031713,
+                    "count": 2
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "stratum": "Nghề nghiệp, AI & thông báo kênh",
+            "comparable": false,
+            "durations": [
+              {
+                "name": "≤5:15",
+                "count": 1,
+                "weak": true,
+                "young": 1,
+                "median": 253,
+                "q25": 253,
+                "q75": 253,
+                "aboveChannel": 0,
+                "relMedian": 0.027084894550904615,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.02766798418972332,
+                    "count": 1
+                  },
+                  "comments": {
+                    "median": 0.011857707509881422,
+                    "count": 1
+                  },
+                  "shares": {
+                    "median": 0,
+                    "count": 1
+                  },
+                  "saves": {
+                    "median": 0.003952569169960474,
+                    "count": 1
+                  }
+                }
+              },
+              {
+                "name": ">7:00",
+                "count": 2,
+                "weak": true,
+                "young": 1,
+                "median": 2359.5,
+                "q25": 1750.25,
+                "q75": 2968.75,
+                "aboveChannel": 0,
+                "relMedian": 0.21993286767670125,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.05584068871558541,
+                    "count": 2
+                  },
+                  "comments": {
+                    "median": 0.0014543791570749086,
+                    "count": 2
+                  },
+                  "shares": {
+                    "median": 0.002432579268869207,
+                    "count": 2
+                  },
+                  "saves": {
+                    "median": 0.01350864103301459,
+                    "count": 2
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "timeline": [
+          {
+            "period": "Tuần từ 26/10/2026",
+            "key": "2026-10-26",
+            "count": 2,
+            "young": 0,
+            "median": 159206,
+            "hits": 1,
+            "hitRate": 0.5
+          },
+          {
+            "period": "Tuần từ 02/11/2026",
+            "key": "2026-11-02",
+            "count": 8,
+            "young": 3,
+            "median": 12678.5,
+            "hits": 2,
+            "hitRate": 0.25
+          },
+          {
+            "period": "Tuần từ 09/11/2026",
+            "key": "2026-11-09",
+            "count": 6,
+            "young": 6,
+            "median": 7691.5,
+            "hits": 0,
+            "hitRate": 0
+          }
+        ],
+        "pairs": [
+          {
+            "high": {
+              "id": "7703758926361267476",
+              "title": "Phòng gym >.< bạn \"đóng tiền… không đến tập\" 😅 Thẻ trả trước thật ra là gì? Xem hết để biết. #taichanh #thegym #taichinhcanhan #hoathinh #phonggym Miễn trừ (dòng cuối mô tả): *Nội dung giáo dục, không phải lời khuyên tài chính. Số tiền là ví dụ.*",
+              "url": "https://www.tiktok.com/@heotaichinh102/video/7703758926361267476",
+              "views": 354800,
+              "duration": 537,
+              "date": "2026-11-03",
+              "category": "Chi tiêu & tiền cá nhân"
+            },
+            "low": {
+              "id": "7704612570837110036",
+              "title": "Trúng 100 tỷ Vietlott, việc đầu tiên là gì? Giữ vé, nhận thưởng sớm, 7 ngày đầu chưa làm gì cả, rồi chia tiền thành năm hũ. Nhớ lưu video. Số liệu ví dụ, không phải lời khuyên đầu tư. #taichanh #vietlott #trungso #quanlytien",
+              "url": "https://www.tiktok.com/@heotaichinh102/video/7704612570837110036",
+              "views": 1738,
+              "duration": 472,
+              "date": "2026-11-05",
+              "category": "Chi tiêu & tiền cá nhân"
+            },
+            "ratio": 204.1426927502877,
+            "daysApart": 2.4171875
+          },
+          {
+            "high": {
+              "id": "7702335824507030804",
+              "title": "Cùng một chiếc iPhone 18 đời mới, người lãi, người lỗ. Khác nhau ở một câu hỏi: mua để làm gì?  #taichanh #tiensan #taisan #iphone #taichinhcanhan Nội dung giáo dục, không phải lời khuyên tài chính. Số liệu là ví dụ.",
+              "url": "https://www.tiktok.com/@heotaichinh102/video/7702335824507030804",
+              "views": 315800,
+              "duration": 492,
+              "date": "2026-10-30",
+              "category": "Chi tiêu & tiền cá nhân"
+            },
+            "low": {
+              "id": "7702021090473741589",
+              "title": "Vé bán lại đắt gấp 10 mà vẫn đông người mua. Bạn chi vì THÍCH THẬT hay vì SỢ LỠ? 🍋 Nội dung giáo dục, không phải lời khuyên tài chính. #taichinh #dieuhotoi #fomo #concert #chitieu #taichanh",
+              "url": "https://www.tiktok.com/@heotaichinh102/video/7702021090473741589",
+              "views": 2612,
+              "duration": 497,
+              "date": "2026-10-29",
+              "category": "Chi tiêu & tiền cá nhân"
+            },
+            "ratio": 120.90352220520674,
+            "daysApart": 0.8481018518518518
+          }
+        ]
+      },
+      "era": null,
+      "scope": {
+        "count": 16,
+        "medianViews": 9341,
+        "categories": [
+          {
+            "name": "Chứng khoán, ngân hàng & kinh tế",
+            "count": 6,
+            "median": 18150,
+            "mean": 34513.833333333336,
+            "q25": 11593.75,
+            "q75": 25100,
+            "relMedian": 2.0133702633073014,
+            "relQ25": 1.2943121728778142,
+            "relQ75": 2.866278405846751
+          },
+          {
+            "name": "Chi tiêu & tiền cá nhân",
+            "count": 7,
+            "median": 8757,
+            "mean": 99497.42857142857,
+            "q25": 2175,
+            "q75": 163950,
+            "relMedian": 0.7951872871736663,
+            "relQ25": 0.12746051504500208,
+            "relQ75": 18.725268922476083
+          },
+          {
+            "name": "Nghề nghiệp, AI & thông báo kênh",
+            "count": 3,
+            "median": 1141,
+            "mean": 1657.3333333333333,
+            "q25": 697,
+            "q75": 2359.5,
+            "relMedian": 0.11496221662468514,
+            "relQ25": 0.07102355558779488,
+            "relQ75": 0.21993286767670125
+          }
+        ],
+        "note": "timeBuckets, weekdays, durations, tags and scope.categories only cover the current format when era is set"
+      },
+      "timeBuckets": [
+        {
+          "name": "Sáng (5–11h)",
+          "count": 8,
+          "median": 14350,
+          "mean": 69193,
+          "q25": 8338.25,
+          "q75": 52300,
+          "relMedian": 1.7397693359993007,
+          "relQ25": 0.931260137989819,
+          "relQ75": 5.972364965170721
+        },
+        {
+          "name": "Trưa (11–14h)",
+          "count": 2,
+          "median": 160629,
+          "mean": 160629,
+          "q25": 83043.5,
+          "q75": 238214.5,
+          "relMedian": 18.32344212873542,
+          "relQ25": 9.453873938792288,
+          "relQ75": 27.193010318678546
+        },
+        {
+          "name": "Chiều (14–18h)",
+          "count": 3,
+          "median": 2612,
+          "mean": 7521.666666666667,
+          "q25": 1432.5,
+          "q75": 11156,
+          "relMedian": 0.0971003717472119,
+          "relQ25": 0.06209263314905826,
+          "relQ75": 1.173364620040558
+        },
+        {
+          "name": "Tối (18–23h)",
+          "count": 3,
+          "median": 1738,
+          "mean": 3723.3333333333335,
+          "q25": 1206.5,
+          "q75": 5247.5,
+          "relMedian": 0.15782065834279227,
+          "relQ25": 0.10955732122587968,
+          "relQ75": 0.4765039727582293
+        },
+        {
+          "name": "Đêm (23–5h)",
+          "count": 0,
+          "median": 0,
+          "mean": 0,
+          "q25": 0,
+          "q75": 0,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        }
+      ],
+      "categories": [
+        {
+          "name": "Chứng khoán, ngân hàng & kinh tế",
+          "count": 6,
+          "median": 18150,
+          "mean": 34513.833333333336,
+          "q25": 11593.75,
+          "q75": 25100,
+          "relMedian": 2.0133702633073014,
+          "relQ25": 1.2943121728778142,
+          "relQ75": 2.866278405846751
+        },
+        {
+          "name": "Chi tiêu & tiền cá nhân",
+          "count": 7,
+          "median": 8757,
+          "mean": 99497.42857142857,
+          "q25": 2175,
+          "q75": 163950,
+          "relMedian": 0.7951872871736663,
+          "relQ25": 0.12746051504500208,
+          "relQ75": 18.725268922476083
+        },
+        {
+          "name": "Nghề nghiệp, AI & thông báo kênh",
+          "count": 3,
+          "median": 1141,
+          "mean": 1657.3333333333333,
+          "q25": 697,
+          "q75": 2359.5,
+          "relMedian": 0.11496221662468514,
+          "relQ25": 0.07102355558779488,
+          "relQ75": 0.21993286767670125
+        }
+      ],
+      "months": [
+        {
+          "name": "2026-10",
+          "count": 2,
+          "median": 159206,
+          "mean": 159206,
+          "q25": 80909,
+          "q75": 237503,
+          "relMedian": 18.079839440184447,
+          "relQ25": 9.088469905965828,
+          "relQ75": 27.071208974403064
+        },
+        {
+          "name": "2026-11",
+          "count": 14,
+          "median": 9341,
+          "mean": 42151.78571428572,
+          "q25": 2198,
+          "q75": 18925,
+          "relMedian": 0.9642831491252596,
+          "relQ25": 0.19959137343927355,
+          "relQ75": 2.1314995658206026
+        }
+      ],
+      "weekdays": [
+        {
+          "name": "T2",
+          "count": 2,
+          "median": 14812.5,
+          "mean": 14812.5,
+          "q25": 12368.75,
+          "q75": 17256.25,
+          "relMedian": 1.6915039397053786,
+          "relQ25": 1.4124414753911156,
+          "relQ75": 1.9705664040196416
+        },
+        {
+          "name": "T3",
+          "count": 5,
+          "median": 8757,
+          "mean": 76273.6,
+          "q25": 5458,
+          "q75": 12100,
+          "relMedian": 0.7951872871736663,
+          "relQ25": 0.5843057488491596,
+          "relQ75": 1.7024270137179036
+        },
+        {
+          "name": "T4",
+          "count": 2,
+          "median": 2126.5,
+          "mean": 2126.5,
+          "q25": 1400.75,
+          "q75": 2852.25,
+          "relMedian": 0.19309875141884222,
+          "relQ25": 0.12719636776390464,
+          "relQ75": 0.2590011350737798
+        },
+        {
+          "name": "T5",
+          "count": 3,
+          "median": 2612,
+          "mean": 10416.666666666666,
+          "q25": 2175,
+          "q75": 14756,
+          "relMedian": 0.15782065834279227,
+          "relQ25": 0.12746051504500208,
+          "relQ75": 1.6148244550135795
+        },
+        {
+          "name": "T6",
+          "count": 2,
+          "median": 166200,
+          "mean": 166200,
+          "q25": 91400,
+          "q75": 241000,
+          "relMedian": 18.91984508345119,
+          "relQ25": 10.348478370865944,
+          "relQ75": 27.491211796036435
+        },
+        {
+          "name": "T7",
+          "count": 1,
+          "median": 128500,
+          "mean": 128500,
+          "q25": 128500,
+          "q75": 128500,
+          "relMedian": 14.673975105629783,
+          "relQ25": 14.673975105629783,
+          "relQ75": 14.673975105629783
+        },
+        {
+          "name": "CN",
+          "count": 1,
+          "median": 1141,
+          "mean": 1141,
+          "q25": 1141,
+          "q75": 1141,
+          "relMedian": 0.11496221662468514,
+          "relQ25": 0.11496221662468514,
+          "relQ75": 0.11496221662468514
+        }
+      ],
+      "durations": [
+        {
+          "name": "1–3 phút",
+          "count": 1,
+          "median": 253,
+          "mean": 253,
+          "q25": 253,
+          "q75": 253,
+          "relMedian": 0.027084894550904615,
+          "relQ25": 0.027084894550904615,
+          "relQ75": 0.027084894550904615
+        },
+        {
+          "name": ">6 phút",
+          "count": 15,
+          "median": 9925,
+          "mean": 60552.26666666667,
+          "q25": 3095,
+          "q75": 23300,
+          "relMedian": 1.133379011076853,
+          "relQ25": 0.2413620885357548,
+          "relQ75": 2.6607285600091357
+        }
+      ],
+      "tags": [
+        {
+          "name": "#taichanh",
+          "count": 15,
+          "median": 9925,
+          "mean": 60552.26666666667,
+          "q25": 3095,
+          "q75": 23300,
+          "relMedian": 1.133379011076853,
+          "relQ25": 0.2413620885357548,
+          "relQ75": 2.6607285600091357
+        },
+        {
+          "name": "#taichinhcanhan",
+          "count": 5,
+          "median": 12100,
+          "mean": 140276.4,
+          "q25": 9925,
+          "q75": 315800,
+          "relMedian": 1.7024270137179036,
+          "relQ25": 1.133379011076853,
+          "relQ75": 35.74811083123426
+        },
+        {
+          "name": "#chungkhoan",
+          "count": 4,
+          "median": 23300,
+          "mean": 45139.5,
+          "q25": 16139.5,
+          "q75": 52300,
+          "relMedian": 2.6607285600091357,
+          "relQ25": 1.8332980884627181,
+          "relQ75": 5.972364965170721
+        },
+        {
+          "name": "#taichinh",
+          "count": 3,
+          "median": 16600,
+          "mean": 49237.333333333336,
+          "q25": 9606,
+          "q75": 72550,
+          "relMedian": 1.777111658280698,
+          "relQ25": 0.937106015013955,
+          "relQ75": 8.22554338195524
+        },
+        {
+          "name": "#kienthuctaichinh",
+          "count": 3,
+          "median": 19700,
+          "mean": 17352.666666666668,
+          "q25": 12579,
+          "q75": 23300,
+          "relMedian": 2.2496288683339043,
+          "relQ25": 1.416967308591532,
+          "relQ75": 2.6607285600091357
+        },
+        {
+          "name": "#quydutphong",
+          "count": 2,
+          "median": 10428.5,
+          "mean": 10428.5,
+          "q25": 9592.75,
+          "q75": 11264.25,
+          "relMedian": 1.248807150445785,
+          "relQ25": 1.0219972188097257,
+          "relQ75": 1.4756170820818442
+        },
+        {
+          "name": "#hoctaichinh",
+          "count": 2,
+          "median": 9341,
+          "mean": 9341,
+          "q25": 9049,
+          "q75": 9633,
+          "relMedian": 0.9642831491252596,
+          "relQ25": 0.8797352181494629,
+          "relQ75": 1.0488310801010563
+        },
+        {
+          "name": "#laisuat",
+          "count": 2,
+          "median": 13262.5,
+          "mean": 13262.5,
+          "q25": 11593.75,
+          "q75": 14931.25,
+          "relMedian": 1.4552453346787755,
+          "relQ25": 1.2943121728778142,
+          "relQ75": 1.6161784964797368
+        },
+        {
+          "name": "#dieuhotoi",
+          "count": 1,
+          "median": 2612,
+          "mean": 2612,
+          "q25": 2612,
+          "q75": 2612,
+          "relMedian": 0.0971003717472119,
+          "relQ25": 0.0971003717472119,
+          "relQ75": 0.0971003717472119
+        },
+        {
+          "name": "#fomo",
+          "count": 1,
+          "median": 2612,
+          "mean": 2612,
+          "q25": 2612,
+          "q75": 2612,
+          "relMedian": 0.0971003717472119,
+          "relQ25": 0.0971003717472119,
+          "relQ75": 0.0971003717472119
+        },
+        {
+          "name": "#concert",
+          "count": 1,
+          "median": 2612,
+          "mean": 2612,
+          "q25": 2612,
+          "q75": 2612,
+          "relMedian": 0.0971003717472119,
+          "relQ25": 0.0971003717472119,
+          "relQ75": 0.0971003717472119
+        },
+        {
+          "name": "#chitieu",
+          "count": 1,
+          "median": 2612,
+          "mean": 2612,
+          "q25": 2612,
+          "q75": 2612,
+          "relMedian": 0.0971003717472119,
+          "relQ25": 0.0971003717472119,
+          "relQ75": 0.0971003717472119
+        },
+        {
+          "name": "#tiensan",
+          "count": 1,
+          "median": 315800,
+          "mean": 315800,
+          "q25": 315800,
+          "q75": 315800,
+          "relMedian": 36.06257850862168,
+          "relQ25": 36.06257850862168,
+          "relQ75": 36.06257850862168
+        },
+        {
+          "name": "#taisan",
+          "count": 1,
+          "median": 315800,
+          "mean": 315800,
+          "q25": 315800,
+          "q75": 315800,
+          "relMedian": 36.06257850862168,
+          "relQ25": 36.06257850862168,
+          "relQ75": 36.06257850862168
+        },
+        {
+          "name": "#iphone",
+          "count": 1,
+          "median": 315800,
+          "mean": 315800,
+          "q25": 315800,
+          "q75": 315800,
+          "relMedian": 36.06257850862168,
+          "relQ25": 36.06257850862168,
+          "relQ75": 36.06257850862168
+        }
+      ],
+      "styles": [
+        {
+          "id": "7703758926361267476",
+          "duration": 537.566667,
+          "language": "vi",
+          "wpm": 274.2709008425142,
+          "speechCoverage": 0.8611024983809134,
+          "hook": "Phòng gym kiếm tiền nhờ bạn, không đến tập. Giả sử bạn",
+          "changes": 4,
+          "secPerChange": 107.51333340000001,
+          "cuts": 0,
+          "changesFirst3s": 1,
+          "firstChangeAt": 0.0333333,
+          "lufs": -19.4,
+          "motion": {
+            "beats": 9,
+            "beatsPerMin": 1,
+            "medianBeat": 1.15,
+            "beatsFirst3s": 4,
+            "entrances": {
+              "cut": 6,
+              "drop": 1,
+              "slide-right": 1,
+              "fade": 1
+            },
+            "caption": null,
+            "firstBeats": [
+              {
+                "t": 0.03,
+                "at": "Phòng",
+                "fx": "cut"
+              },
+              {
+                "t": 0.9,
+                "at": "nhờ",
+                "fx": "drop"
+              },
+              {
+                "t": 2.09,
+                "at": "tập.",
+                "fx": "slide-right"
+              },
+              {
+                "t": 2.69,
+                "at": null,
+                "fx": "fade"
+              },
+              {
+                "t": 5.97,
+                "at": "đầu",
+                "fx": "cut"
+              },
+              {
+                "t": 8.5,
+                "at": "Rồi",
+                "fx": "cut"
+              },
+              {
+                "t": 95.9,
+                "at": "lúc",
+                "fx": "cut"
+              },
+              {
+                "t": 96.76,
+                "at": "trong",
+                "fx": "cut"
+              }
+            ]
+          },
+          "title": "Phòng gym >.< bạn \"đóng tiền… không đến tập\" 😅 Thẻ trả trước thật ra là gì? Xem hết để biết. #taichanh #thegym #taichinhcanhan #hoathinh #phonggym Miễn trừ (dòng cuối mô tả): *Nội dung giáo dục, không phải lời khuyên tài chính. Số tiền là ví dụ.*",
+          "views": 354800,
+          "folder": "tiktok/heotaichinh102/style/7703758926361267476"
+        },
+        {
+          "id": "7702335824507030804",
+          "duration": 492.201995,
+          "language": "vi",
+          "wpm": 267.416267942584,
+          "speechCoverage": 0.8492448308747704,
+          "hook": "Cùng một chiếc iPhone, người lãi, người lỗ. Hai người bạn cùng",
+          "changes": 25,
+          "secPerChange": 18.930845961538463,
+          "cuts": 3,
+          "changesFirst3s": 1,
+          "firstChangeAt": 0.0333333,
+          "lufs": -19.2,
+          "motion": {
+            "beats": 88,
+            "beatsPerMin": 10.73,
+            "medianBeat": 1.92,
+            "beatsFirst3s": 4,
+            "entrances": {
+              "cut": 43,
+              "slide-right": 9,
+              "slide-left": 6,
+              "slide-up": 9,
+              "pop": 2,
+              "drop": 5,
+              "draw-up": 3,
+              "fade": 9,
+              "draw-right": 2
+            },
+            "caption": {
+              "swaps": 8,
+              "medianInterval": 60.16,
+              "box": [
+                0.222,
+                0.92,
+                0.556,
+                0.08
+              ]
+            },
+            "firstBeats": [
+              {
+                "t": 0.03,
+                "at": "Cùng",
+                "fx": "cut"
+              },
+              {
+                "t": 1.37,
+                "at": "lãi,",
+                "fx": "slide-right"
+              },
+              {
+                "t": 1.91,
+                "at": "người",
+                "fx": "slide-left"
+              },
+              {
+                "t": 2.73,
+                "at": "Hai",
+                "fx": "slide-up"
+              },
+              {
+                "t": 5.2,
+                "at": null,
+                "fx": "slide-right"
+              },
+              {
+                "t": 6.29,
+                "at": "dụ.",
+                "fx": "slide-right"
+              },
+              {
+                "t": 6.56,
+                "at": null,
+                "fx": "pop"
+              },
+              {
+                "t": 6.84,
+                "at": "người",
+                "fx": "cut"
+              }
+            ]
+          },
+          "title": "Cùng một chiếc iPhone 18 đời mới, người lãi, người lỗ. Khác nhau ở một câu hỏi: mua để làm gì?  #taichanh #tiensan #taisan #iphone #taichinhcanhan Nội dung giáo dục, không phải lời khuyên tài chính. Số liệu là ví dụ.",
+          "views": 315800,
+          "folder": "tiktok/heotaichinh102/style/7702335824507030804"
+        },
+        {
+          "id": "7704587333823221013",
+          "duration": 501.833333,
+          "language": "vi",
+          "wpm": 240.25406176646567,
+          "speechCoverage": 0.8659050155203623,
+          "hook": "Bạn sắp bỏ tiền mua một thứ gì đó, căn hộ, quán cà phê",
+          "changes": 41,
+          "secPerChange": 11.94841269047619,
+          "cuts": 0,
+          "changesFirst3s": 1,
+          "firstChangeAt": 0.0333333,
+          "lufs": -19.8,
+          "motion": {
+            "beats": 195,
+            "beatsPerMin": 23.32,
+            "medianBeat": 1.39,
+            "beatsFirst3s": 4,
+            "entrances": {
+              "cut": 120,
+              "draw-right": 2,
+              "slide-right": 13,
+              "fade": 17,
+              "slide-up": 16,
+              "drop": 10,
+              "slide-left": 13,
+              "pop": 3,
+              "draw-down": 1
+            },
+            "caption": {
+              "swaps": 26,
+              "medianInterval": 9.48,
+              "box": [
+                0.222,
+                0.92,
+                0.556,
+                0.08
+              ]
+            },
+            "firstBeats": [
+              {
+                "t": 0.03,
+                "at": "Bạn",
+                "fx": "cut"
+              },
+              {
+                "t": 0.56,
+                "at": "tiền",
+                "fx": "cut"
+              },
+              {
+                "t": 2.23,
+                "at": "hộ,",
+                "fx": "cut"
+              },
+              {
+                "t": 2.51,
+                "at": "quán",
+                "fx": "draw-right"
+              },
+              {
+                "t": 4.6,
+                "at": "chưa",
+                "fx": "cut"
+              },
+              {
+                "t": 21.75,
+                "at": "câu",
+                "fx": "slide-right"
+              },
+              {
+                "t": 24.81,
+                "at": "phép",
+                "fx": "fade"
+              },
+              {
+                "t": 27.6,
+                "at": "rất",
+                "fx": "fade"
+              }
+            ]
+          },
+          "title": "Định giá nhanh bất kỳ thứ gì bằng 2 câu hỏi của dân chứng khoán 🍋 Giáo dục, không phải lời khuyên tài chính. #taichinh #PE #PB #chungkhoan #taichanh",
+          "views": 128500,
+          "folder": "tiktok/heotaichinh102/style/7704587333823221013"
+        },
+        {
+          "id": "7704527129001610516",
+          "duration": 521.633333,
+          "language": "vi",
+          "wpm": 264.7403930771488,
+          "speechCoverage": 0.7842290247199366,
+          "hook": "Ai cũng nói cổ phiếu, bạn đã hiểu nó là gì chưa?",
+          "changes": 11,
+          "secPerChange": 43.46944441666667,
+          "cuts": 0,
+          "changesFirst3s": 1,
+          "firstChangeAt": 0.0333333,
+          "lufs": -19.5,
+          "motion": {
+            "beats": 41,
+            "beatsPerMin": 4.72,
+            "medianBeat": 9.56,
+            "beatsFirst3s": 1,
+            "entrances": {
+              "cut": 24,
+              "draw-right": 1,
+              "fade": 4,
+              "slide-left": 1,
+              "slide-up": 2,
+              "slide-right": 3,
+              "draw-up": 3,
+              "drop": 3
+            },
+            "caption": null,
+            "firstBeats": [
+              {
+                "t": 0.03,
+                "at": "Ai",
+                "fx": "cut"
+              },
+              {
+                "t": 16.73,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 36.8,
+                "at": "5",
+                "fx": "cut"
+              },
+              {
+                "t": 49.56,
+                "at": "Cô",
+                "fx": "cut"
+              },
+              {
+                "t": 69.55,
+                "at": "trọ",
+                "fx": "cut"
+              },
+              {
+                "t": 84.62,
+                "at": "rồi",
+                "fx": "draw-right"
+              },
+              {
+                "t": 87.52,
+                "at": "một",
+                "fx": "fade"
+              },
+              {
+                "t": 95.63,
+                "at": "Nam",
+                "fx": "cut"
+              }
+            ]
+          },
+          "title": "Giải mã cổ phiếu: bạn thật sự đang bấm mua cái gì? Bạn mua cổ phiếu mà đã biết mình mua gì chưa? Cổ phiếu là một phần của công ty; giá của nó là tài sản cộng kỳ vọng; tiền lời đến từ công ty làm ăn có lãi. Số liệu ví dụ, không phải khuyên mua bán. #taichanh #cophieu #chungkhoan #kienthuctaichinh",
+          "views": 26900,
+          "folder": "tiktok/heotaichinh102/style/7704527129001610516"
+        },
+        {
+          "id": "7706076277110885652",
+          "duration": 505.300998,
+          "language": "vi",
+          "wpm": 239.68079251513495,
+          "speechCoverage": 0.8630103675354305,
+          "hook": "Bạn nghe nói chứng khoán là người này lời thì người kia lỗ,",
+          "changes": 18,
+          "secPerChange": 26.59478936842105,
+          "cuts": 2,
+          "changesFirst3s": 1,
+          "firstChangeAt": 0.0333333,
+          "lufs": -19.2,
+          "motion": {
+            "beats": 62,
+            "beatsPerMin": 7.36,
+            "medianBeat": 3.06,
+            "beatsFirst3s": 1,
+            "entrances": {
+              "cut": 38,
+              "slide-right": 7,
+              "draw-right": 1,
+              "fade": 8,
+              "slide-up": 4,
+              "draw-left": 1,
+              "pop": 1,
+              "drop": 1,
+              "slide-left": 1
+            },
+            "caption": {
+              "swaps": 6,
+              "medianInterval": 32.56,
+              "box": [
+                0.244,
+                0.92,
+                0.511,
+                0.08
+              ]
+            },
+            "firstBeats": [
+              {
+                "t": 0.03,
+                "at": "Bạn",
+                "fx": "cut"
+              },
+              {
+                "t": 3.93,
+                "at": "là",
+                "fx": "slide-right"
+              },
+              {
+                "t": 5.53,
+                "at": "bạn",
+                "fx": "cut"
+              },
+              {
+                "t": 16.28,
+                "at": "Index",
+                "fx": "draw-right"
+              },
+              {
+                "t": 20.53,
+                "at": "hơn",
+                "fx": "cut"
+              },
+              {
+                "t": 21.05,
+                "at": "90%",
+                "fx": "fade"
+              },
+              {
+                "t": 25.55,
+                "at": "tăng,",
+                "fx": "fade"
+              },
+              {
+                "t": 26.39,
+                "at": "chơi",
+                "fx": "cut"
+              }
+            ]
+          },
+          "title": "Chứng khoán là zero-sum hay cùng thắng? Để lại suy nghĩ của mọi người để cùng trao đổi nhé. Số liệu ví dụ, không phải khuyên mua bán. #taichanh #chungkhoan #zerosumgame #kienthuctaichinh",
+          "views": 19700,
+          "folder": "tiktok/heotaichinh102/style/7706076277110885652"
+        }
+      ],
+      "top": [
+        {
+          "id": "7703758926361267476",
+          "title": "Phòng gym >.< bạn \"đóng tiền… không đến tập\" 😅 Thẻ trả trước thật ra là gì? Xem hết để biết. #taichanh #thegym #taichinhcanhan #hoathinh #phonggym Miễn trừ (dòng cuối mô tả): *Nội dung giáo dục, không phải lời khuyên tài chính. Số tiền là ví dụ.*",
+          "url": "https://www.tiktok.com/@heotaichinh102/video/7703758926361267476",
+          "views": 354800,
+          "er": 0.07285231116121758,
+          "duration": 537,
+          "date": "2026-11-03",
+          "time": "08:59",
+          "category": "Chi tiêu & tiền cá nhân",
+          "ratio": 37.983085322770584
+        },
+        {
+          "id": "7702335824507030804",
+          "title": "Cùng một chiếc iPhone 18 đời mới, người lãi, người lỗ. Khác nhau ở một câu hỏi: mua để làm gì?  #taichanh #tiensan #taisan #iphone #taichinhcanhan Nội dung giáo dục, không phải lời khuyên tài chính. Số liệu là ví dụ.",
+          "url": "https://www.tiktok.com/@heotaichinh102/video/7702335824507030804",
+          "views": 315800,
+          "er": 0.08409753008233059,
+          "duration": 492,
+          "date": "2026-10-30",
+          "time": "12:56",
+          "category": "Chi tiêu & tiền cá nhân",
+          "ratio": 33.80794347500267
+        },
+        {
+          "id": "7704587333823221013",
+          "title": "Định giá nhanh bất kỳ thứ gì bằng 2 câu hỏi của dân chứng khoán 🍋 Giáo dục, không phải lời khuyên tài chính. #taichinh #PE #PB #chungkhoan #taichanh",
+          "url": "https://www.tiktok.com/@heotaichinh102/video/7704587333823221013",
+          "views": 128500,
+          "er": 0.12521400778210118,
+          "duration": 501,
+          "date": "2026-11-07",
+          "time": "09:00",
+          "category": "Chứng khoán, ngân hàng & kinh tế",
+          "ratio": 13.75655711379938
+        },
+        {
+          "id": "7704527129001610516",
+          "title": "Giải mã cổ phiếu: bạn thật sự đang bấm mua cái gì? Bạn mua cổ phiếu mà đã biết mình mua gì chưa? Cổ phiếu là một phần của công ty; giá của nó là tài sản cộng kỳ vọng; tiền lời đến từ công ty làm ăn có lãi. Số liệu ví dụ, không phải khuyên mua bán. #taichanh #cophieu #chungkhoan #kienthuctaichinh",
+          "url": "https://www.tiktok.com/@heotaichinh102/video/7704527129001610516",
+          "views": 26900,
+          "er": 0.08661710037174722,
+          "duration": 521,
+          "date": "2026-11-05",
+          "time": "10:40",
+          "category": "Chứng khoán, ngân hàng & kinh tế",
+          "ratio": 2.879777325768119
+        },
+        {
+          "id": "7706076277110885652",
+          "title": "Chứng khoán là zero-sum hay cùng thắng? Để lại suy nghĩ của mọi người để cùng trao đổi nhé. Số liệu ví dụ, không phải khuyên mua bán. #taichanh #chungkhoan #zerosumgame #kienthuctaichinh",
+          "url": "https://www.tiktok.com/@heotaichinh102/video/7706076277110885652",
+          "views": 19700,
+          "er": 0.04969543147208122,
+          "duration": 505,
+          "date": "2026-11-09",
+          "time": "14:51",
+          "category": "Chứng khoán, ngân hàng & kinh tế",
+          "ratio": 2.10898190771866
+        },
+        {
+          "id": "7704543131810729222",
+          "title": "Ngân hàng trả bạn 6%, cho vay 9%. Ba phần chênh đi đâu? Xem khâu bạn không thấy 👇 #nganhang #laisuat #taichinh #taichanh Nội dung mang tính giáo dục, không phải lời khuyên tài chính.",
+          "url": "https://www.tiktok.com/@heotaichinh102/video/7704543131810729222",
+          "views": 16600,
+          "er": 0.04656626506024096,
+          "duration": 560,
+          "date": "2026-11-06",
+          "time": "10:00",
+          "category": "Chứng khoán, ngân hàng & kinh tế",
+          "ratio": 1.777111658280698
+        },
+        {
+          "id": "7704548265324219668",
+          "title": "Bạn đang trả hằng ngày mà không hề hay biết? Không ai thu, không có hoá đơn, mà tháng nào bạn cũng đóng \"thuế nghèo\". 3 loại: giá, vốn, lựa chọn. Bạn đang đóng loại nào? Nội dung giáo dục, không phải lời khuyên tài chính. #thuengheo #taichinhcanhan #quydutphong #taichanh #tietkiem #vayungdung",
+          "url": "https://www.tiktok.com/@heotaichinh102/video/7704548265324219668",
+          "views": 12100,
+          "er": 0.0728099173553719,
+          "duration": 366,
+          "date": "2026-11-10",
+          "time": "09:00",
+          "category": "Chi tiêu & tiền cá nhân",
+          "ratio": 1.2953645219997858
+        },
+        {
+          "id": "7706013289758690580",
+          "title": "Bạn đang đứng ở đâu trong chu kỳ của nền kinh tế? 4 pha, 4 bánh răng, và vì sao lúc kinh tế nóng nhất tiền vay lại đắt dần. Nội dung giáo dục, không phải lời khuyên tài chính. #chukykinhte #suythoai #taichinhcanhan #laisuat #taichanh #hoctaichinh",
+          "url": "https://www.tiktok.com/@heotaichinh102/video/7706013289758690580",
+          "views": 9925,
+          "er": 0.06528967254408061,
+          "duration": 561,
+          "date": "2026-11-09",
+          "time": "10:47",
+          "category": "Chứng khoán, ngân hàng & kinh tế",
+          "ratio": 1.062520072797345
+        },
+        {
+          "id": "7703845201919626516",
+          "title": "Công ty đóng cửa, bạn quyết về quê hay ở lại trong 3 ngày? Tính 3 con số trước đã: bình nước còn mấy tháng. Nội dung giáo dục, không phải lời khuyên. #matviec #veque #taichinhcanhan #quydutphong #taichanh #hoctaichinh",
+          "url": "https://www.tiktok.com/@heotaichinh102/video/7703845201919626516",
+          "views": 8757,
+          "er": 0.05344295991778006,
+          "duration": 472,
+          "date": "2026-11-03",
+          "time": "19:00",
+          "category": "Chi tiêu & tiền cá nhân",
+          "ratio": 0.9374799272026549
+        },
+        {
+          "id": "7706429083869089044",
+          "title": "Giá cổ phiếu giảm 20% sau một đêm? Có thể chỉ là ngày chia cổ tức: hái một trái chanh thì cây rẻ đi một trái, chẻ nhỏ trái thì mỗi trái rẻ đi, tổng của bạn không đổi. Số liệu ví dụ, không phải khuyên mua bán. #cotuc #giacophieu #chungkhoan #taichanh #kienthuctaichinh",
+          "url": "https://www.tiktok.com/@heotaichinh102/video/7706429083869089044",
+          "views": 5458,
+          "er": 0.04928545254672041,
+          "duration": 463,
+          "date": "2026-11-10",
+          "time": "13:40",
+          "category": "Chứng khoán, ngân hàng & kinh tế",
+          "ratio": 0.5843057488491596
+        }
+      ]
+    }
+  ]
+}

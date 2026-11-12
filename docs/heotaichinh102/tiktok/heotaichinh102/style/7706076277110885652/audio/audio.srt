@@ -1,0 +1,608 @@
+1
+00:00:00,000 --> 00:00:05,080
+ Bạn nghe nói chứng khoán là người này lời thì người kia lỗ, hay còn gọi là zero sum game.
+
+2
+00:00:05,520 --> 00:00:07,140
+ Nhưng bạn chưa chắc điều đó có đúng không?
+
+3
+00:00:07,680 --> 00:00:14,020
+ Video này tôi sẽ cùng bạn phân biệt khi nào đúng, khi nào sai và vì sao chọn doanh nghiệp tốt mới là chỗ quyết định.
+
+4
+00:00:14,640 --> 00:00:18,700
+ Năm 2025, chỉ số VN Index tăng khoảng 41%.
+
+5
+00:00:18,860 --> 00:00:24,700
+ Vậy mà theo ước tính của chuyên gia, hơn 90% tài khoản cá nhân không có lãi hoặc lãi dưới 10%.
+
+6
+00:00:25,320 --> 00:00:27,360
+ Thị trường tăng, người chơi vẫn lỗ.
+
+7
+00:00:27,940 --> 00:00:35,980
+ Xem hết, bạn sẽ biết 3 điều, lúc nào chứng khoán là chia nhau, lúc nào là cùng thắng và 4 câu hỏi để lọc doanh nghiệp có giá trị thật.
+
+8
+00:00:36,460 --> 00:00:39,520
+ Còn câu hỏi treo từ đầu, chia bánh hay làm bánh lớn?
+
+9
+00:00:40,160 --> 00:00:44,240
+ 9 giờ sáng, quán cà phê đầu ngõ, anh Sơn ngồi chống cầm nhìn bản giá.
+
+10
+00:00:44,420 --> 00:00:49,100
+ Cả bản xanh rực, VN Index đang tăng, còn tài khoản của anh thì đỏ lòm.
+
+11
+00:00:49,600 --> 00:00:51,480
+ Linh bưng ly trà đá lại, hỏi nhỏ.
+
+12
+00:00:52,040 --> 00:00:57,920
+ Anh ơi, em nghe người ta bảo chứng khoán là mua thì có người bán, mình lời là có người lỗ, đúng không anh?
+
+13
+00:00:58,500 --> 00:00:59,420
+ Anh Sơn thở dài.
+
+14
+00:01:00,100 --> 00:01:06,400
+ Anh cũng nghĩ vậy đấy, nên anh mới tự hỏi, thị trường tăng cả năm, vậy ai là người lỗ, sao lại là anh?
+
+15
+00:01:07,040 --> 00:01:11,580
+ Câu trả lời là đúng một nửa, nửa còn lại mới là chỗ tiền thật sự nằm.
+
+16
+00:01:12,080 --> 00:01:13,620
+ Để hiểu, mình đi chợ trước đã.
+
+17
+00:01:14,140 --> 00:01:20,580
+ 6 giờ sáng, chợ đầu mối, bà bán cá hô giá con cá chép 100.000, khách mặc cả 80.000 thôi.
+
+18
+00:01:21,180 --> 00:01:25,540
+ Chốt 80, khách tiết kiệm được 20.000, bà bán cá mất đúng 20.000.
+
+19
+00:01:26,000 --> 00:01:31,040
+ Cộng lại, hai bên không ai làm ra thêm đồng nào, tiền chỉ chuyển từ túi này sang túi kia.
+
+20
+00:01:31,600 --> 00:01:36,140
+ Loại cuộc chơi này người ta gọi là trò chơi tổng bằng không, chính là zero sum game.
+
+21
+00:01:36,640 --> 00:01:39,160
+ Một người được bao nhiêu, người kia mất đúng bấy nhiêu.
+
+22
+00:01:39,700 --> 00:01:41,160
+ Chứng khoán có chỗ giống hệt vậy.
+
+23
+00:01:41,620 --> 00:01:46,240
+ Cụ thể là hợp đồng tương lai và quyền chọn, giới tài chính gọi chung là phái sinh.
+
+24
+00:01:46,400 --> 00:01:49,560
+ Bên lời bao nhiêu, bên lỗ đúng bấy nhiêu, không dư một đồng.
+
+25
+00:01:50,160 --> 00:01:51,660
+ Lướt sóng ngắn hạn cũng gần giống.
+
+26
+00:01:52,140 --> 00:01:55,920
+ Anh Sơn mua một cổ phiếu lúc 10 giờ, bán cho người khác lúc 2 giờ chiều.
+
+27
+00:01:56,380 --> 00:02:00,520
+ Trong 4 tiếng đó, doanh nghiệp không nướng thêm cái bánh nào, không bán thêm đơn hàng nào.
+
+28
+00:02:00,880 --> 00:02:01,780
+ Tiền chỉ đổi chủ.
+
+29
+00:02:02,360 --> 00:02:02,980
+ Linh gật gù.
+
+30
+00:02:03,520 --> 00:02:06,140
+ Vậy là con cá không lớn thêm khi hai người cãi giá.
+
+31
+00:02:06,440 --> 00:02:10,480
+ Đúng thế, hai người cãi nhau càng hăng, con cá càng không béo lên.
+
+32
+00:02:10,920 --> 00:02:13,480
+ Mà đó mới là phiên bản đẹp, chưa tính phí.
+
+33
+00:02:14,000 --> 00:02:16,980
+ Vì bên cạnh bà bán cá còn có một người đứng thu tiền chợ.
+
+34
+00:02:17,420 --> 00:02:19,780
+ Trong chứng khoán, người đó là phí và thuế.
+
+35
+00:02:20,300 --> 00:02:25,260
+ Thuế bán cổ phiếu là 0,1%, tức là mỗi 1 triệu đồng bán ra mất 1.000 đồng.
+
+36
+00:02:25,520 --> 00:02:27,280
+ Và nó thu cả khi bạn bán lỗ.
+
+37
+00:02:27,820 --> 00:02:30,600
+ Chưa kể phí môi giới, mỗi công ty chứng khoán một mức.
+
+38
+00:02:30,900 --> 00:02:32,000
+ Nghe nhỏ xíu, đúng không?
+
+39
+00:02:32,500 --> 00:02:33,340
+ Thử tính ví dụ nha.
+
+40
+00:02:33,680 --> 00:02:34,240
+ Chỉ là ví dụ.
+
+41
+00:02:34,520 --> 00:02:40,160
+ Giả sử mỗi vòng mua rồi bán, bạn mất cả phí lẫn thuế khoảng 2.000 đồng trên mỗi 1 triệu.
+
+42
+00:02:40,220 --> 00:02:42,100
+ Anh Sơn lướt sóng hăng hái.
+
+43
+00:02:42,440 --> 00:02:43,680
+ Một năm chạy 200 vòng.
+
+44
+00:02:44,080 --> 00:02:47,580
+ 200 x 2.000 là 400.000 đồng trên mỗi 1 triệu vốn.
+
+45
+00:02:47,980 --> 00:02:49,640
+ Tức là mất 40%.
+
+46
+00:02:49,640 --> 00:02:54,100
+ 40% kể cả khi anh chưa lỗ một lệnh nào mà chỉ hòa vốn.
+
+47
+00:02:54,580 --> 00:02:55,940
+ Hòa vốn mà vẫn mất tiền.
+
+48
+00:02:56,460 --> 00:02:58,460
+ Lúc này cuộc chơi không còn bằng không nữa.
+
+49
+00:02:58,880 --> 00:02:59,280
+ Nó âm.
+
+50
+00:02:59,780 --> 00:03:02,300
+ Người luôn có lãi trong ván này là cái máy trừ phí.
+
+51
+00:03:02,920 --> 00:03:05,140
+ Anh Sơn nhìn tài khoản đỏ lòm, gãi đầu.
+
+52
+00:03:05,640 --> 00:03:07,460
+ Hóa ra anh không lỗ vì xui.
+
+53
+00:03:07,980 --> 00:03:10,700
+ Nhưng khoan, nếu chứng khoán chỉ là mặt cả con cá,
+
+54
+00:03:11,060 --> 00:03:13,460
+ thì sao có người giữ cổ phiếu 10 năm vẫn giàu lên?
+
+55
+00:03:13,960 --> 00:03:16,400
+ Qua con hẻm bên kia, có tiệm bánh mì của cô Hạnh.
+
+56
+00:03:16,880 --> 00:03:19,060
+ Hai năm trước, Linh góp một ít vốn vào tiệm,
+
+57
+00:03:19,360 --> 00:03:20,780
+ đổi lại sở hữu một phần nhỏ.
+
+58
+00:03:21,280 --> 00:03:23,920
+ Phần sở hữu đó, giới tài chính gọi là cổ phiếu.
+
+59
+00:03:24,420 --> 00:03:26,060
+ Năm đầu, tiệm chỉ có một lò.
+
+60
+00:03:26,480 --> 00:03:28,440
+ Năm sau, cô Hạnh mua thêm lò thứ hai,
+
+61
+00:03:28,740 --> 00:03:31,680
+ thuê thêm một người, bán thêm cho cả mấy quán cơm quanh đó.
+
+62
+00:03:32,160 --> 00:03:34,360
+ Cuối năm, cô Hạnh chia lại cho người góp vốn.
+
+63
+00:03:34,740 --> 00:03:36,620
+ Khoản chia lại này gọi là cổ tức.
+
+64
+00:03:37,080 --> 00:03:40,100
+ Linh nhận được tiền mà không ai phải mất đúng số tiền đó.
+
+65
+00:03:40,220 --> 00:03:42,340
+ Vì tiền này không lấy từ túi người khác.
+
+66
+00:03:42,720 --> 00:03:45,580
+ Nó sinh ra từ những ổ bánh nướng thêm và bán được thêm.
+
+67
+00:03:46,140 --> 00:03:48,660
+ Số thật cho thấy điều tương tự trên cả thị trường.
+
+68
+00:03:49,100 --> 00:03:51,540
+ Theo tổng hợp báo cáo tài chính của các công ty chứng khoán,
+
+69
+00:03:51,940 --> 00:03:55,720
+ lợi nhuận rồng của doanh nghiệp trên sàn Jose 9 tháng năm 2025
+
+70
+00:03:55,720 --> 00:03:58,560
+ tăng 21,5% so với cùng kỳ.
+
+71
+00:03:59,080 --> 00:04:00,420
+ Cái bánh thật sự lớn lên.
+
+72
+00:04:00,860 --> 00:04:01,460
+ Linh tò mò.
+
+73
+00:04:01,880 --> 00:04:03,680
+ Thế con cá có cổ tức không cô?
+
+74
+00:04:04,080 --> 00:04:04,700
+ Cô Hạnh cười.
+
+75
+00:04:05,200 --> 00:04:06,540
+ Cá chỉ có xương thôi con.
+
+76
+00:04:06,740 --> 00:04:09,800
+ Cái bánh lớn lên thì không ai phải giành phần của ai.
+
+77
+00:04:10,180 --> 00:04:12,960
+ Người mua sớm lời, người mua sau vẫn có thể lời.
+
+78
+00:04:13,360 --> 00:04:14,620
+ Đó mới là cùng thắng.
+
+79
+00:04:15,080 --> 00:04:17,020
+ Vậy là chia nhau hay cùng thắng?
+
+80
+00:04:17,400 --> 00:04:20,220
+ Tùy bạn đang mặc cả con cá hay đang đứng trong tiệm bánh.
+
+81
+00:04:20,600 --> 00:04:22,100
+ Nhưng đến đây có cái bẫy.
+
+82
+00:04:22,500 --> 00:04:26,340
+ Nghe cùng thắng thì ai cũng tưởng cổ phiếu nào lên giá cũng là bánh lớn.
+
+83
+00:04:26,820 --> 00:04:28,720
+ Bây giờ tưởng tượng có một tiệm bánh khác.
+
+84
+00:04:29,040 --> 00:04:30,980
+ Tin đồn bảo là sắp trúng hợp đồng lớn.
+
+85
+00:04:31,360 --> 00:04:34,160
+ Tiệm đó vẫn một lò, vẫn bán đúng chừng ấy ổ bánh.
+
+86
+00:04:34,320 --> 00:04:36,820
+ Nhưng giá cổ phần từ 10 lên 20.
+
+87
+00:04:37,320 --> 00:04:40,900
+ Người mua ở giá 20 tin rằng sẽ có người mua tiếp ở giá 25.
+
+88
+00:04:41,340 --> 00:04:42,960
+ Người đó lại chờ người sau nữa.
+
+89
+00:04:43,380 --> 00:04:44,960
+ Tiệm vẫn không nướng thêm ổ nào.
+
+90
+00:04:45,380 --> 00:04:50,300
+ Khi hết người đến sau, người cuối cùng đang cầm cổ phần giá 25 trả giá cho cả chuỗi.
+
+91
+00:04:50,780 --> 00:04:55,500
+ Cái tên là cổ phiếu nhưng bản chất là chia nhau và có người phải đứng cuối.
+
+92
+00:04:55,940 --> 00:04:57,540
+ Giờ quay lại câu hỏi của anh Sơn.
+
+93
+00:04:57,820 --> 00:05:00,320
+ Năm 2025, chỉ số tăng mạnh.
+
+94
+00:05:00,800 --> 00:05:04,400
+ Nhưng theo các chuyên gia, mức tăng tập trung ở một nhóm cổ phiếu nhất định.
+
+95
+00:05:04,880 --> 00:05:09,680
+ Ai không đứng đúng nhóm đó hoặc đứng nhầm chỗ thì thị trường tăng mà tài khoản vẫn đỏ.
+
+96
+00:05:10,260 --> 00:05:11,580
+ Chứng khoán không phải cờ bạc.
+
+97
+00:05:12,000 --> 00:05:14,260
+ Nhưng chơi như cờ bạc thì nó thành cờ bạc.
+
+98
+00:05:14,780 --> 00:05:15,960
+ Anh Sơn im lặng một lúc.
+
+99
+00:05:16,440 --> 00:05:19,080
+ Vậy làm sao nhận ra doanh nghiệp thật sự làm bánh lớn?
+
+100
+00:05:19,660 --> 00:05:20,700
+ Đây là 4 câu hỏi.
+
+101
+00:05:20,700 --> 00:05:22,980
+ Tôi gọi đùa là 4 cái que thử bánh.
+
+102
+00:05:23,540 --> 00:05:24,560
+ Không câu nào cần đoán.
+
+103
+00:05:24,920 --> 00:05:27,660
+ Bạn tìm câu trả lời ngay trong báo cáo tài chính của doanh nghiệp.
+
+104
+00:05:28,300 --> 00:05:31,920
+ Que thứ nhất, tiệm có làm ra tiền thật và đều qua nhiều năm không?
+
+105
+00:05:32,480 --> 00:05:36,320
+ Một mùa Tết bán chạy rồi tháng sau vắng hoe thì chưa gọi là làm ăn.
+
+106
+00:05:36,900 --> 00:05:39,880
+ Que thứ hai, tiền lãi trên sổ có về tới két không?
+
+107
+00:05:40,380 --> 00:05:43,480
+ Có tiệm ghi lãi đẹp nhưng khách mua chịu bánh mãi chưa trả.
+
+108
+00:05:44,080 --> 00:05:46,520
+ Lãi trên giấy mà két rỗng thì ăn không được.
+
+109
+00:05:47,000 --> 00:05:49,200
+ Que thứ ba, nợ có vừa sức không?
+
+110
+00:05:49,480 --> 00:05:52,180
+ Cô Hạnh mà vay tiền mở cùng lúc 3 tiệm mới.
+
+111
+00:05:52,600 --> 00:05:54,220
+ Tiền lãi ngân hàng ăn hết tiền bánh.
+
+112
+00:05:54,600 --> 00:05:56,980
+ Thì bánh có lớn cũng không đến tay người góp vốn.
+
+113
+00:05:57,540 --> 00:06:00,620
+ Que thứ tư, bạn có hiểu họ kiếm tiền bằng cách nào không?
+
+114
+00:06:01,180 --> 00:06:06,240
+ Nếu bạn không giải thích được trong 2 câu, đó là lúc nên ngồi lại tìm hiểu chứ không phải bấm mua.
+
+115
+00:06:06,800 --> 00:06:08,980
+ 4 câu hỏi này không chọn giúp bạn mã nào.
+
+116
+00:06:09,420 --> 00:06:12,020
+ Nó chỉ giúp bạn lọc bớt những tiệm chỉ có tin đồn.
+
+117
+00:06:12,520 --> 00:06:16,320
+ Linh hỏi, vậy em chọn được tiệm tốt rồi, mua xong là yên tâm ạ?
+
+118
+00:06:16,820 --> 00:06:17,320
+ Chưa đâu.
+
+119
+00:06:17,760 --> 00:06:22,140
+ Còn một thứ nữa mà nhiều người quên và nó nằm ở chính cái bản giá anh Sơn đang nhìn.
+
+120
+00:06:22,680 --> 00:06:25,660
+ Giá cổ phiếu lên xuống từng ngày, kể cả doanh nghiệp tốt.
+
+121
+00:06:26,200 --> 00:06:31,260
+ Trong khi cô Hạnh vẫn đều đặn nướng bánh mỗi sáng, thì cái bản giá của anh Sơn đỏ xanh liên tục.
+
+122
+00:06:31,700 --> 00:06:35,940
+ Giá trị của doanh nghiệp tích lũy theo năm, còn giá thì nhảy theo tâm trạng từng ngày.
+
+123
+00:06:36,420 --> 00:06:37,840
+ Hai thứ này không đi cùng nhịp.
+
+124
+00:06:38,280 --> 00:06:49,080
+ Ví dụ năm 2022, VN Index lập đỉnh 1536 điểm hồi tháng 1, rồi rơi xuống đáy 874 điểm hồi tháng 11, mất hơn 40%.
+
+125
+00:06:49,080 --> 00:06:56,340
+ Theo báo chí, phải đến cuối tháng 7 năm 2025, chỉ số mới vượt lại đỉnh cũ, tức là khoảng 3 năm rưỡi.
+
+126
+00:06:56,580 --> 00:06:58,020
+ Đó là cả chỉ số.
+
+127
+00:06:58,480 --> 00:07:02,480
+ Từng doanh nghiệp có thể hồi nhanh hơn hoặc chậm hơn, nhưng bài học giống nhau.
+
+128
+00:07:03,000 --> 00:07:04,840
+ Giá có thể ngược chiều bạn rất lâu.
+
+129
+00:07:05,360 --> 00:07:07,880
+ Nên đầu tư vào doanh nghiệp tốn thời gian ở 3 việc.
+
+130
+00:07:08,320 --> 00:07:11,180
+ Một là chọn, tìm hiểu bằng 4 câu hỏi ở trên.
+
+131
+00:07:11,680 --> 00:07:14,260
+ Hai là theo dõi, đọc báo cáo mỗi quý.
+
+132
+00:07:14,760 --> 00:07:17,760
+ Ba là giữ đủ lâu để cái bánh có thời gian lớn.
+
+133
+00:07:18,260 --> 00:07:19,680
+ Hệ quả thực tế rất đơn giản.
+
+134
+00:07:20,160 --> 00:07:25,760
+ Tiền bạn cần dùng trong thời gian ngắn, tiền mua xe, tiền đóng học, tiền trả nhà thì đừng bỏ vào đây.
+
+135
+00:07:25,760 --> 00:07:28,140
+ Trước khi mua, hãy hỏi mình một câu thôi.
+
+136
+00:07:28,680 --> 00:07:30,480
+ Số tiền này mình để yên được bao lâu?
+
+137
+00:07:31,020 --> 00:07:34,720
+ Tôi không hứa bạn sẽ lãi và cũng không nói bạn nên giữ bao nhiêu năm.
+
+138
+00:07:35,240 --> 00:07:36,980
+ Câu trả lời tùy vào hoàn cảnh của bạn.
+
+139
+00:07:37,560 --> 00:07:40,560
+ 9 giờ tối, anh Sơn tắt ứng dụng, mở cuốn sổ.
+
+140
+00:07:41,040 --> 00:07:41,800
+ Anh viết 2 dòng.
+
+141
+00:07:42,380 --> 00:07:44,360
+ Mua doanh nghiệp, không mua tin đồn.
+
+142
+00:07:44,560 --> 00:07:45,700
+ Tiền để yên được bao lâu?
+
+143
+00:07:46,220 --> 00:07:48,580
+ Quay lại cái chợ buổi sáng và tiệm bánh của cô Hạnh.
+
+144
+00:07:49,100 --> 00:07:53,700
+ Nếu bạn lướt sóng ngắn hạn và phái sinh, bạn đang chia bánh và phí còn trừ thêm.
+
+145
+00:07:53,880 --> 00:07:59,960
+ Nếu bạn mua một doanh nghiệp có giá trị thật, rồi cho nó thời gian, bạn đứng trong tiệm khi cái bánh lớn lên.
+
+146
+00:08:00,420 --> 00:08:04,040
+ Chia bánh hay làm bánh lớn, bạn đã biết mình đang đứng ở đâu.
+
+147
+00:08:04,540 --> 00:08:06,260
+ Giá lên chưa chắc có giá trị.
+
+148
+00:08:06,740 --> 00:08:08,200
+ Giá trị thật cần thời gian.
+
+149
+00:08:08,700 --> 00:08:11,120
+ Vắt thêm chút chanh, chuyện tiền bớt khô.
+
+150
+00:08:11,680 --> 00:08:14,180
+ Nội dung mang tính giáo dục, không phải lời khuyên đầu tư.
+
+151
+00:08:14,580 --> 00:08:19,960
+ Số liệu lấy từ báo chí và tổng hợp của các công ty chứng khoán xem tháng 11 năm 2026.
+
+152
+00:08:20,420 --> 00:08:22,680
+ Các phép tính và ví dụ phí chỉ để minh họa.
+

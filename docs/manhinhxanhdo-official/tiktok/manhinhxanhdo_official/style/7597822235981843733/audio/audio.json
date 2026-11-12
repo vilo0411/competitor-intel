@@ -1,0 +1,530 @@
+{
+  "engine": "whisper-cli",
+  "language": "en",
+  "text": "Fading out on the edge of paradise Every inch on your skin is the holy grid I've gotta find Only you can set my heart on fire, on fire Yeah, I'll let you set the pace Cause I'm not thinking straight My head spinning around, I can't see clear no more What are you waiting for? Love me like you do, love me like you do Love me like you do, love me like you do Touch me like you do, touch me like you do What are you waiting for?",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.34,
+      "text": "Fading out on the edge of paradise"
+    },
+    {
+      "id": 1,
+      "start": 3.34,
+      "end": 9.62,
+      "text": "Every inch on your skin is the holy grid I've gotta find"
+    },
+    {
+      "id": 2,
+      "start": 9.62,
+      "end": 17.22,
+      "text": "Only you can set my heart on fire, on fire"
+    },
+    {
+      "id": 3,
+      "start": 17.22,
+      "end": 23.16,
+      "text": "Yeah, I'll let you set the pace"
+    },
+    {
+      "id": 4,
+      "start": 23.16,
+      "end": 28.12,
+      "text": "Cause I'm not thinking straight"
+    },
+    {
+      "id": 5,
+      "start": 28.12,
+      "end": 35.14,
+      "text": "My head spinning around, I can't see clear no more"
+    },
+    {
+      "id": 6,
+      "start": 35.14,
+      "end": 38.94,
+      "text": "What are you waiting for?"
+    },
+    {
+      "id": 7,
+      "start": 39.56,
+      "end": 43.88,
+      "text": "Love me like you do, love me like you do"
+    },
+    {
+      "id": 8,
+      "start": 43.88,
+      "end": 49.06,
+      "text": "Love me like you do, love me like you do"
+    },
+    {
+      "id": 9,
+      "start": 49.06,
+      "end": 54.38,
+      "text": "Touch me like you do, touch me like you do"
+    },
+    {
+      "id": 10,
+      "start": 54.38,
+      "end": 59.42,
+      "text": "What are you waiting for?"
+    }
+  ],
+  "words": [
+    {
+      "word": "Fading",
+      "start": 0.01,
+      "end": 0.71
+    },
+    {
+      "word": "out",
+      "start": 0.71,
+      "end": 1.04
+    },
+    {
+      "word": "on",
+      "start": 1.04,
+      "end": 1.29
+    },
+    {
+      "word": "the",
+      "start": 1.29,
+      "end": 1.64
+    },
+    {
+      "word": "edge",
+      "start": 1.64,
+      "end": 2.11
+    },
+    {
+      "word": "of",
+      "start": 2.11,
+      "end": 2.34
+    },
+    {
+      "word": "paradise",
+      "start": 2.34,
+      "end": 3.34
+    },
+    {
+      "word": "Every",
+      "start": 3.35,
+      "end": 4.02
+    },
+    {
+      "word": "inch",
+      "start": 4.02,
+      "end": 4.56
+    },
+    {
+      "word": "on",
+      "start": 4.56,
+      "end": 4.84
+    },
+    {
+      "word": "your",
+      "start": 4.84,
+      "end": 5.39
+    },
+    {
+      "word": "skin",
+      "start": 5.39,
+      "end": 5.96
+    },
+    {
+      "word": "is",
+      "start": 5.96,
+      "end": 6.22
+    },
+    {
+      "word": "the",
+      "start": 6.22,
+      "end": 6.61
+    },
+    {
+      "word": "holy",
+      "start": 6.61,
+      "end": 7.13
+    },
+    {
+      "word": "grid",
+      "start": 7.13,
+      "end": 7.68
+    },
+    {
+      "word": "I've",
+      "start": 7.68,
+      "end": 8.27
+    },
+    {
+      "word": "gotta",
+      "start": 8.27,
+      "end": 9.01
+    },
+    {
+      "word": "find",
+      "start": 9.01,
+      "end": 9.62
+    },
+    {
+      "word": "Only",
+      "start": 9.63,
+      "end": 10.37
+    },
+    {
+      "word": "you",
+      "start": 10.37,
+      "end": 10.93
+    },
+    {
+      "word": "can",
+      "start": 10.94,
+      "end": 11.51
+    },
+    {
+      "word": "set",
+      "start": 11.51,
+      "end": 12.08
+    },
+    {
+      "word": "my",
+      "start": 12.08,
+      "end": 12.46
+    },
+    {
+      "word": "heart",
+      "start": 12.46,
+      "end": 13.4
+    },
+    {
+      "word": "on",
+      "start": 13.4,
+      "end": 13.78
+    },
+    {
+      "word": "fire,",
+      "start": 13.78,
+      "end": 15.22
+    },
+    {
+      "word": "on",
+      "start": 15.22,
+      "end": 15.88
+    },
+    {
+      "word": "fire",
+      "start": 15.88,
+      "end": 17.22
+    },
+    {
+      "word": "Yeah,",
+      "start": 17.23,
+      "end": 19.12
+    },
+    {
+      "word": "I'll",
+      "start": 19.12,
+      "end": 19.92
+    },
+    {
+      "word": "let",
+      "start": 19.92,
+      "end": 20.52
+    },
+    {
+      "word": "you",
+      "start": 20.52,
+      "end": 21.12
+    },
+    {
+      "word": "set",
+      "start": 21.12,
+      "end": 21.72
+    },
+    {
+      "word": "the",
+      "start": 21.72,
+      "end": 22.32
+    },
+    {
+      "word": "pace",
+      "start": 22.32,
+      "end": 23.16
+    },
+    {
+      "word": "Cause",
+      "start": 23.17,
+      "end": 24.07
+    },
+    {
+      "word": "I'm",
+      "start": 24.07,
+      "end": 24.61
+    },
+    {
+      "word": "not",
+      "start": 24.61,
+      "end": 25.16
+    },
+    {
+      "word": "thinking",
+      "start": 25.16,
+      "end": 26.62
+    },
+    {
+      "word": "straight",
+      "start": 26.62,
+      "end": 28.12
+    },
+    {
+      "word": "My",
+      "start": 28.13,
+      "end": 28.49
+    },
+    {
+      "word": "head",
+      "start": 28.49,
+      "end": 29.23
+    },
+    {
+      "word": "spinning",
+      "start": 29.23,
+      "end": 30.71
+    },
+    {
+      "word": "around,",
+      "start": 30.71,
+      "end": 32.13
+    },
+    {
+      "word": "I",
+      "start": 32.13,
+      "end": 32.28
+    },
+    {
+      "word": "can't",
+      "start": 32.28,
+      "end": 33.02
+    },
+    {
+      "word": "see",
+      "start": 33.02,
+      "end": 33.47
+    },
+    {
+      "word": "clear",
+      "start": 33.47,
+      "end": 34.19
+    },
+    {
+      "word": "no",
+      "start": 34.2,
+      "end": 34.51
+    },
+    {
+      "word": "more",
+      "start": 34.51,
+      "end": 35.14
+    },
+    {
+      "word": "What",
+      "start": 35.15,
+      "end": 35.9
+    },
+    {
+      "word": "are",
+      "start": 35.9,
+      "end": 36.47
+    },
+    {
+      "word": "you",
+      "start": 36.47,
+      "end": 37.04
+    },
+    {
+      "word": "waiting",
+      "start": 37.04,
+      "end": 38.36
+    },
+    {
+      "word": "for?",
+      "start": 38.36,
+      "end": 38.94
+    },
+    {
+      "word": "Love",
+      "start": 39.57,
+      "end": 39.6
+    },
+    {
+      "word": "me",
+      "start": 39.6,
+      "end": 39.93
+    },
+    {
+      "word": "like",
+      "start": 39.93,
+      "end": 40.59
+    },
+    {
+      "word": "you",
+      "start": 40.59,
+      "end": 41.08
+    },
+    {
+      "word": "do,",
+      "start": 41.08,
+      "end": 41.7
+    },
+    {
+      "word": "love",
+      "start": 41.7,
+      "end": 42.27
+    },
+    {
+      "word": "me",
+      "start": 42.27,
+      "end": 42.56
+    },
+    {
+      "word": "like",
+      "start": 42.56,
+      "end": 43.12
+    },
+    {
+      "word": "you",
+      "start": 43.12,
+      "end": 43.56
+    },
+    {
+      "word": "do",
+      "start": 43.56,
+      "end": 43.88
+    },
+    {
+      "word": "Love",
+      "start": 43.89,
+      "end": 44.52
+    },
+    {
+      "word": "me",
+      "start": 44.52,
+      "end": 44.84
+    },
+    {
+      "word": "like",
+      "start": 44.84,
+      "end": 45.48
+    },
+    {
+      "word": "you",
+      "start": 45.48,
+      "end": 45.96
+    },
+    {
+      "word": "do,",
+      "start": 45.96,
+      "end": 46.6
+    },
+    {
+      "word": "love",
+      "start": 46.6,
+      "end": 47.24
+    },
+    {
+      "word": "me",
+      "start": 47.24,
+      "end": 47.56
+    },
+    {
+      "word": "like",
+      "start": 47.56,
+      "end": 48.2
+    },
+    {
+      "word": "you",
+      "start": 48.2,
+      "end": 48.68
+    },
+    {
+      "word": "do",
+      "start": 48.68,
+      "end": 49.04
+    },
+    {
+      "word": "Touch",
+      "start": 49.07,
+      "end": 49.8
+    },
+    {
+      "word": "me",
+      "start": 49.8,
+      "end": 50.09
+    },
+    {
+      "word": "like",
+      "start": 50.09,
+      "end": 50.68
+    },
+    {
+      "word": "you",
+      "start": 50.68,
+      "end": 51.12
+    },
+    {
+      "word": "do,",
+      "start": 51.12,
+      "end": 51.76
+    },
+    {
+      "word": "touch",
+      "start": 51.76,
+      "end": 52.57
+    },
+    {
+      "word": "me",
+      "start": 52.57,
+      "end": 52.89
+    },
+    {
+      "word": "like",
+      "start": 52.89,
+      "end": 53.54
+    },
+    {
+      "word": "you",
+      "start": 53.54,
+      "end": 54.03
+    },
+    {
+      "word": "do",
+      "start": 54.03,
+      "end": 54.38
+    },
+    {
+      "word": "What",
+      "start": 54.39,
+      "end": 55.25
+    },
+    {
+      "word": "are",
+      "start": 55.25,
+      "end": 55.9
+    },
+    {
+      "word": "you",
+      "start": 55.9,
+      "end": 56.55
+    },
+    {
+      "word": "waiting",
+      "start": 56.55,
+      "end": 58.08
+    },
+    {
+      "word": "for?",
+      "start": 58.08,
+      "end": 59.41
+    }
+  ]
+}

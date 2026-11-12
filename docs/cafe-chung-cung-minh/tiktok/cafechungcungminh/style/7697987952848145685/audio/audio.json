@@ -1,0 +1,1391 @@
+{
+  "engine": "whisper-cli",
+  "language": "vi",
+  "text": "Năm 2025, VIC, VHM và VRE chỉ chiếm 21% vốn hóa thị trường nhưng đóng góp 67% mức tăng của VN Index. Sáng 2026, vẫn như vậy. 6 tháng đầu năm, vốn hóa toàn thị trường tăng thêm khoảng 714.000 tỷ đồng. Riêng Vingroup và Vinhomes chiếm hơn 500.000 tỷ, khoảng 70%. Ngày 16 tháng 4, giữa phiên chiều, nhóm VIN kéo hơn 27 điểm trong khi 441 mã giảm, chỉ 212 mã tăng. Chỉ số xanh, danh mục đỏ. VIC từng lập đỉnh 256.100 đồng. Cộn hóa Vingroup gần 2 triệu tỷ đồng. Lần đầu tiên có doanh nghiệp chạm mốc này. Nhưng tháng 10 cho thấy mặt còn lại. Phiên 14 tháng 10, VN Index giảm 14,55 điểm. Riêng VIC và VHM lấy đi hơn 11 điểm. VHM về 61.000 đồng, thấp nhất 6 tháng. Phiên 16 tháng 10, VHM kéo lên 3,56 điểm. VIC lấy đi 4,81 điểm. Hai mã cùng nhà, hai chiều ngược nhau. Trong khi đó, thanh khoản chưa tới 12.000 tỷ đồng. Khối ngoại bán dòng 11 phiên liên tiếp. Nói thẳng, họ Ving không chỉ đỡ thị trường. Họ đang quyết định thị trường lên hay xuống. Khi nhóm này quay đầu, chưa nhóm nào đủ lớn để thay. Bạn nghĩ VN Index sẽ đi tiếp thế nào nếu họ Ving ngừng kéo, gánh được hay gục? Liệu thị trường sẽ sụt giảm nặng nề như thế nào? Hãy bình luận cho chúng tôi biết nhé!",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 6.16,
+      "text": "Năm 2025, VIC, VHM và VRE chỉ chiếm 21% vốn hóa thị trường"
+    },
+    {
+      "id": 1,
+      "start": 6.16,
+      "end": 9.22,
+      "text": "nhưng đóng góp 67% mức tăng của VN Index."
+    },
+    {
+      "id": 2,
+      "start": 9.86,
+      "end": 11.98,
+      "text": "Sáng 2026, vẫn như vậy."
+    },
+    {
+      "id": 3,
+      "start": 12.54,
+      "end": 16.58,
+      "text": "6 tháng đầu năm, vốn hóa toàn thị trường tăng thêm khoảng 714.000 tỷ đồng."
+    },
+    {
+      "id": 4,
+      "start": 17.1,
+      "end": 21.1,
+      "text": "Riêng Vingroup và Vinhomes chiếm hơn 500.000 tỷ, khoảng 70%."
+    },
+    {
+      "id": 5,
+      "start": 21.1,
+      "end": 25.02,
+      "text": "Ngày 16 tháng 4, giữa phiên chiều, nhóm VIN kéo hơn 27 điểm"
+    },
+    {
+      "id": 6,
+      "start": 25.02,
+      "end": 28.7,
+      "text": "trong khi 441 mã giảm, chỉ 212 mã tăng."
+    },
+    {
+      "id": 7,
+      "start": 29.22,
+      "end": 30.64,
+      "text": "Chỉ số xanh, danh mục đỏ."
+    },
+    {
+      "id": 8,
+      "start": 31.22,
+      "end": 33.92,
+      "text": "VIC từng lập đỉnh 256.100 đồng."
+    },
+    {
+      "id": 9,
+      "start": 34.4,
+      "end": 36.18,
+      "text": "Cộn hóa Vingroup gần 2 triệu tỷ đồng."
+    },
+    {
+      "id": 10,
+      "start": 36.6,
+      "end": 38.18,
+      "text": "Lần đầu tiên có doanh nghiệp chạm mốc này."
+    },
+    {
+      "id": 11,
+      "start": 38.66,
+      "end": 40.26,
+      "text": "Nhưng tháng 10 cho thấy mặt còn lại."
+    },
+    {
+      "id": 12,
+      "start": 40.84,
+      "end": 44.08,
+      "text": "Phiên 14 tháng 10, VN Index giảm 14,55 điểm."
+    },
+    {
+      "id": 13,
+      "start": 44.54,
+      "end": 47.4,
+      "text": "Riêng VIC và VHM lấy đi hơn 11 điểm."
+    },
+    {
+      "id": 14,
+      "start": 47.94,
+      "end": 50.6,
+      "text": "VHM về 61.000 đồng, thấp nhất 6 tháng."
+    },
+    {
+      "id": 15,
+      "start": 51.14,
+      "end": 54.22,
+      "text": "Phiên 16 tháng 10, VHM kéo lên 3,56 điểm."
+    },
+    {
+      "id": 16,
+      "start": 54.62,
+      "end": 56.6,
+      "text": "VIC lấy đi 4,81 điểm."
+    },
+    {
+      "id": 17,
+      "start": 57.1,
+      "end": 59.08,
+      "text": "Hai mã cùng nhà, hai chiều ngược nhau."
+    },
+    {
+      "id": 18,
+      "start": 59.62,
+      "end": 62.16,
+      "text": "Trong khi đó, thanh khoản chưa tới 12.000 tỷ đồng."
+    },
+    {
+      "id": 19,
+      "start": 62.58,
+      "end": 64.32,
+      "text": "Khối ngoại bán dòng 11 phiên liên tiếp."
+    },
+    {
+      "id": 20,
+      "start": 64.84,
+      "end": 67.0,
+      "text": "Nói thẳng, họ Ving không chỉ đỡ thị trường."
+    },
+    {
+      "id": 21,
+      "start": 67.42,
+      "end": 69.54,
+      "text": "Họ đang quyết định thị trường lên hay xuống."
+    },
+    {
+      "id": 22,
+      "start": 70.08,
+      "end": 72.68,
+      "text": "Khi nhóm này quay đầu, chưa nhóm nào đủ lớn để thay."
+    },
+    {
+      "id": 23,
+      "start": 73.22,
+      "end": 75.18,
+      "text": "Bạn nghĩ VN Index sẽ đi tiếp thế nào"
+    },
+    {
+      "id": 24,
+      "start": 75.18,
+      "end": 77.88,
+      "text": "nếu họ Ving ngừng kéo, gánh được hay gục?"
+    },
+    {
+      "id": 25,
+      "start": 78.36,
+      "end": 80.34,
+      "text": "Liệu thị trường sẽ sụt giảm nặng nề như thế nào?"
+    },
+    {
+      "id": 26,
+      "start": 80.74,
+      "end": 81.88,
+      "text": "Hãy bình luận cho chúng tôi biết nhé!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Năm",
+      "start": 0.06,
+      "end": 0.39
+    },
+    {
+      "word": "2025,",
+      "start": 0.39,
+      "end": 2.22
+    },
+    {
+      "word": "VIC,",
+      "start": 2.22,
+      "end": 2.87
+    },
+    {
+      "word": "VHM",
+      "start": 2.87,
+      "end": 3.25
+    },
+    {
+      "word": "và",
+      "start": 3.26,
+      "end": 3.5
+    },
+    {
+      "word": "VRE",
+      "start": 3.53,
+      "end": 3.94
+    },
+    {
+      "word": "chỉ",
+      "start": 3.94,
+      "end": 4.14
+    },
+    {
+      "word": "chiếm",
+      "start": 4.17,
+      "end": 4.52
+    },
+    {
+      "word": "21%",
+      "start": 4.52,
+      "end": 5.03
+    },
+    {
+      "word": "vốn",
+      "start": 5.03,
+      "end": 5.24
+    },
+    {
+      "word": "hóa",
+      "start": 5.24,
+      "end": 5.45
+    },
+    {
+      "word": "thị",
+      "start": 5.45,
+      "end": 5.66
+    },
+    {
+      "word": "trường",
+      "start": 5.66,
+      "end": 6.16
+    },
+    {
+      "word": "nhưng",
+      "start": 6.22,
+      "end": 6.58
+    },
+    {
+      "word": "đóng",
+      "start": 6.58,
+      "end": 6.89
+    },
+    {
+      "word": "góp",
+      "start": 6.92,
+      "end": 7.15
+    },
+    {
+      "word": "67%",
+      "start": 7.15,
+      "end": 7.73
+    },
+    {
+      "word": "mức",
+      "start": 7.73,
+      "end": 7.97
+    },
+    {
+      "word": "tăng",
+      "start": 7.97,
+      "end": 8.3
+    },
+    {
+      "word": "của",
+      "start": 8.3,
+      "end": 8.53
+    },
+    {
+      "word": "VN",
+      "start": 8.53,
+      "end": 8.63
+    },
+    {
+      "word": "Index.",
+      "start": 8.73,
+      "end": 9.22
+    },
+    {
+      "word": "Sáng",
+      "start": 9.86,
+      "end": 9.86
+    },
+    {
+      "word": "2026,",
+      "start": 9.92,
+      "end": 10.86
+    },
+    {
+      "word": "vẫn",
+      "start": 10.86,
+      "end": 11.13
+    },
+    {
+      "word": "như",
+      "start": 11.13,
+      "end": 11.4
+    },
+    {
+      "word": "vậy.",
+      "start": 11.42,
+      "end": 11.97
+    },
+    {
+      "word": "6",
+      "start": 12.54,
+      "end": 12.54
+    },
+    {
+      "word": "tháng",
+      "start": 12.54,
+      "end": 12.54
+    },
+    {
+      "word": "đầu",
+      "start": 12.6,
+      "end": 12.6
+    },
+    {
+      "word": "năm,",
+      "start": 12.6,
+      "end": 12.88
+    },
+    {
+      "word": "vốn",
+      "start": 12.88,
+      "end": 13.04
+    },
+    {
+      "word": "hóa",
+      "start": 13.04,
+      "end": 13.19
+    },
+    {
+      "word": "toàn",
+      "start": 13.19,
+      "end": 13.41
+    },
+    {
+      "word": "thị",
+      "start": 13.41,
+      "end": 13.57
+    },
+    {
+      "word": "trường",
+      "start": 13.57,
+      "end": 13.91
+    },
+    {
+      "word": "tăng",
+      "start": 13.91,
+      "end": 14.13
+    },
+    {
+      "word": "thêm",
+      "start": 14.13,
+      "end": 14.35
+    },
+    {
+      "word": "khoảng",
+      "start": 14.35,
+      "end": 14.69
+    },
+    {
+      "word": "714.000",
+      "start": 14.69,
+      "end": 15.9
+    },
+    {
+      "word": "tỷ",
+      "start": 15.9,
+      "end": 16.11
+    },
+    {
+      "word": "đồng.",
+      "start": 16.11,
+      "end": 16.58
+    },
+    {
+      "word": "Riêng",
+      "start": 17.1,
+      "end": 17.1
+    },
+    {
+      "word": "Vingroup",
+      "start": 17.1,
+      "end": 17.36
+    },
+    {
+      "word": "và",
+      "start": 17.36,
+      "end": 17.48
+    },
+    {
+      "word": "Vinhomes",
+      "start": 17.48,
+      "end": 17.96
+    },
+    {
+      "word": "chiếm",
+      "start": 17.96,
+      "end": 18.26
+    },
+    {
+      "word": "hơn",
+      "start": 18.26,
+      "end": 18.44
+    },
+    {
+      "word": "500.000",
+      "start": 18.44,
+      "end": 19.7
+    },
+    {
+      "word": "tỷ,",
+      "start": 19.72,
+      "end": 20.06
+    },
+    {
+      "word": "khoảng",
+      "start": 20.06,
+      "end": 20.42
+    },
+    {
+      "word": "70%.",
+      "start": 20.42,
+      "end": 21.1
+    },
+    {
+      "word": "Ngày",
+      "start": 21.16,
+      "end": 21.32
+    },
+    {
+      "word": "16",
+      "start": 21.32,
+      "end": 21.63
+    },
+    {
+      "word": "tháng",
+      "start": 21.68,
+      "end": 21.94
+    },
+    {
+      "word": "4,",
+      "start": 21.94,
+      "end": 22.22
+    },
+    {
+      "word": "giữa",
+      "start": 22.22,
+      "end": 22.44
+    },
+    {
+      "word": "phiên",
+      "start": 22.44,
+      "end": 22.72
+    },
+    {
+      "word": "chiều,",
+      "start": 22.81,
+      "end": 23.09
+    },
+    {
+      "word": "nhóm",
+      "start": 23.2,
+      "end": 23.47
+    },
+    {
+      "word": "VIN",
+      "start": 23.47,
+      "end": 23.72
+    },
+    {
+      "word": "kéo",
+      "start": 23.72,
+      "end": 23.94
+    },
+    {
+      "word": "hơn",
+      "start": 23.94,
+      "end": 24.19
+    },
+    {
+      "word": "27",
+      "start": 24.19,
+      "end": 24.66
+    },
+    {
+      "word": "điểm",
+      "start": 24.66,
+      "end": 25.02
+    },
+    {
+      "word": "trong",
+      "start": 25.08,
+      "end": 25.42
+    },
+    {
+      "word": "khi",
+      "start": 25.42,
+      "end": 25.66
+    },
+    {
+      "word": "441",
+      "start": 25.66,
+      "end": 26.36
+    },
+    {
+      "word": "mã",
+      "start": 26.36,
+      "end": 26.5
+    },
+    {
+      "word": "giảm,",
+      "start": 26.51,
+      "end": 26.97
+    },
+    {
+      "word": "chỉ",
+      "start": 26.97,
+      "end": 27.21
+    },
+    {
+      "word": "212",
+      "start": 27.21,
+      "end": 27.92
+    },
+    {
+      "word": "mã",
+      "start": 27.92,
+      "end": 28.08
+    },
+    {
+      "word": "tăng.",
+      "start": 28.08,
+      "end": 28.7
+    },
+    {
+      "word": "Chỉ",
+      "start": 29.28,
+      "end": 29.4
+    },
+    {
+      "word": "số",
+      "start": 29.4,
+      "end": 29.52
+    },
+    {
+      "word": "xanh,",
+      "start": 29.52,
+      "end": 29.88
+    },
+    {
+      "word": "danh",
+      "start": 29.88,
+      "end": 30.12
+    },
+    {
+      "word": "mục",
+      "start": 30.12,
+      "end": 30.3
+    },
+    {
+      "word": "đỏ.",
+      "start": 30.3,
+      "end": 30.64
+    },
+    {
+      "word": "VIC",
+      "start": 31.22,
+      "end": 31.22
+    },
+    {
+      "word": "từng",
+      "start": 31.22,
+      "end": 31.22
+    },
+    {
+      "word": "lập",
+      "start": 31.23,
+      "end": 31.38
+    },
+    {
+      "word": "đỉnh",
+      "start": 31.38,
+      "end": 31.67
+    },
+    {
+      "word": "256.100",
+      "start": 31.67,
+      "end": 33.27
+    },
+    {
+      "word": "đồng.",
+      "start": 33.32,
+      "end": 33.92
+    },
+    {
+      "word": "Cộn",
+      "start": 34.4,
+      "end": 34.4
+    },
+    {
+      "word": "hóa",
+      "start": 34.4,
+      "end": 34.4
+    },
+    {
+      "word": "Vingroup",
+      "start": 34.4,
+      "end": 34.76
+    },
+    {
+      "word": "gần",
+      "start": 34.76,
+      "end": 34.93
+    },
+    {
+      "word": "2",
+      "start": 34.94,
+      "end": 35.12
+    },
+    {
+      "word": "triệu",
+      "start": 35.12,
+      "end": 35.42
+    },
+    {
+      "word": "tỷ",
+      "start": 35.42,
+      "end": 35.66
+    },
+    {
+      "word": "đồng.",
+      "start": 35.66,
+      "end": 36.18
+    },
+    {
+      "word": "Lần",
+      "start": 36.6,
+      "end": 36.6
+    },
+    {
+      "word": "đầu",
+      "start": 36.6,
+      "end": 36.6
+    },
+    {
+      "word": "tiên",
+      "start": 36.66,
+      "end": 36.78
+    },
+    {
+      "word": "có",
+      "start": 36.78,
+      "end": 36.9
+    },
+    {
+      "word": "doanh",
+      "start": 36.9,
+      "end": 37.2
+    },
+    {
+      "word": "nghiệp",
+      "start": 37.2,
+      "end": 37.54
+    },
+    {
+      "word": "chạm",
+      "start": 37.56,
+      "end": 37.8
+    },
+    {
+      "word": "mốc",
+      "start": 37.8,
+      "end": 37.98
+    },
+    {
+      "word": "này.",
+      "start": 37.98,
+      "end": 38.18
+    },
+    {
+      "word": "Nhưng",
+      "start": 38.66,
+      "end": 38.66
+    },
+    {
+      "word": "tháng",
+      "start": 38.66,
+      "end": 38.74
+    },
+    {
+      "word": "10",
+      "start": 38.74,
+      "end": 39.09
+    },
+    {
+      "word": "cho",
+      "start": 39.09,
+      "end": 39.26
+    },
+    {
+      "word": "thấy",
+      "start": 39.26,
+      "end": 39.49
+    },
+    {
+      "word": "mặt",
+      "start": 39.49,
+      "end": 39.65
+    },
+    {
+      "word": "còn",
+      "start": 39.65,
+      "end": 39.82
+    },
+    {
+      "word": "lại.",
+      "start": 39.82,
+      "end": 40.25
+    },
+    {
+      "word": "Phiên",
+      "start": 40.84,
+      "end": 40.84
+    },
+    {
+      "word": "14",
+      "start": 40.9,
+      "end": 40.99
+    },
+    {
+      "word": "tháng",
+      "start": 40.99,
+      "end": 41.32
+    },
+    {
+      "word": "10,",
+      "start": 41.32,
+      "end": 41.85
+    },
+    {
+      "word": "VN",
+      "start": 41.85,
+      "end": 41.97
+    },
+    {
+      "word": "Index",
+      "start": 41.97,
+      "end": 42.3
+    },
+    {
+      "word": "giảm",
+      "start": 42.3,
+      "end": 42.56
+    },
+    {
+      "word": "14,55",
+      "start": 42.56,
+      "end": 43.49
+    },
+    {
+      "word": "điểm.",
+      "start": 43.49,
+      "end": 44.08
+    },
+    {
+      "word": "Riêng",
+      "start": 44.54,
+      "end": 44.55
+    },
+    {
+      "word": "VIC",
+      "start": 44.6,
+      "end": 44.83
+    },
+    {
+      "word": "và",
+      "start": 44.83,
+      "end": 45.02
+    },
+    {
+      "word": "VHM",
+      "start": 45.02,
+      "end": 45.27
+    },
+    {
+      "word": "lấy",
+      "start": 45.3,
+      "end": 45.57
+    },
+    {
+      "word": "đi",
+      "start": 45.57,
+      "end": 45.76
+    },
+    {
+      "word": "hơn",
+      "start": 45.76,
+      "end": 46.04
+    },
+    {
+      "word": "11",
+      "start": 46.05,
+      "end": 46.59
+    },
+    {
+      "word": "điểm.",
+      "start": 46.64,
+      "end": 47.4
+    },
+    {
+      "word": "VHM",
+      "start": 47.94,
+      "end": 47.94
+    },
+    {
+      "word": "về",
+      "start": 47.94,
+      "end": 47.94
+    },
+    {
+      "word": "61.000",
+      "start": 48.0,
+      "end": 48.88
+    },
+    {
+      "word": "đồng,",
+      "start": 48.9,
+      "end": 49.27
+    },
+    {
+      "word": "thấp",
+      "start": 49.27,
+      "end": 49.53
+    },
+    {
+      "word": "nhất",
+      "start": 49.55,
+      "end": 49.79
+    },
+    {
+      "word": "6",
+      "start": 49.79,
+      "end": 49.93
+    },
+    {
+      "word": "tháng.",
+      "start": 49.99,
+      "end": 50.6
+    },
+    {
+      "word": "Phiên",
+      "start": 51.14,
+      "end": 51.14
+    },
+    {
+      "word": "16",
+      "start": 51.2,
+      "end": 51.37
+    },
+    {
+      "word": "tháng",
+      "start": 51.37,
+      "end": 51.67
+    },
+    {
+      "word": "10,",
+      "start": 51.73,
+      "end": 52.28
+    },
+    {
+      "word": "VHM",
+      "start": 52.28,
+      "end": 52.49
+    },
+    {
+      "word": "kéo",
+      "start": 52.49,
+      "end": 52.7
+    },
+    {
+      "word": "lên",
+      "start": 52.7,
+      "end": 52.9
+    },
+    {
+      "word": "3,56",
+      "start": 52.91,
+      "end": 53.6
+    },
+    {
+      "word": "điểm.",
+      "start": 53.71,
+      "end": 54.22
+    },
+    {
+      "word": "VIC",
+      "start": 54.62,
+      "end": 54.62
+    },
+    {
+      "word": "lấy",
+      "start": 54.62,
+      "end": 54.76
+    },
+    {
+      "word": "đi",
+      "start": 54.76,
+      "end": 54.94
+    },
+    {
+      "word": "4,81",
+      "start": 54.94,
+      "end": 55.93
+    },
+    {
+      "word": "điểm.",
+      "start": 55.93,
+      "end": 56.6
+    },
+    {
+      "word": "Hai",
+      "start": 57.1,
+      "end": 57.1
+    },
+    {
+      "word": "mã",
+      "start": 57.1,
+      "end": 57.1
+    },
+    {
+      "word": "cùng",
+      "start": 57.16,
+      "end": 57.24
+    },
+    {
+      "word": "nhà,",
+      "start": 57.24,
+      "end": 57.59
+    },
+    {
+      "word": "hai",
+      "start": 57.59,
+      "end": 57.8
+    },
+    {
+      "word": "chiều",
+      "start": 57.8,
+      "end": 58.15
+    },
+    {
+      "word": "ngược",
+      "start": 58.15,
+      "end": 58.5
+    },
+    {
+      "word": "nhau.",
+      "start": 58.5,
+      "end": 59.08
+    },
+    {
+      "word": "Trong",
+      "start": 59.62,
+      "end": 59.62
+    },
+    {
+      "word": "khi",
+      "start": 59.62,
+      "end": 59.62
+    },
+    {
+      "word": "đó,",
+      "start": 59.62,
+      "end": 59.68
+    },
+    {
+      "word": "thanh",
+      "start": 59.68,
+      "end": 59.94
+    },
+    {
+      "word": "khoản",
+      "start": 59.94,
+      "end": 60.15
+    },
+    {
+      "word": "chưa",
+      "start": 60.2,
+      "end": 60.4
+    },
+    {
+      "word": "tới",
+      "start": 60.4,
+      "end": 60.54
+    },
+    {
+      "word": "12.000",
+      "start": 60.56,
+      "end": 61.48
+    },
+    {
+      "word": "tỷ",
+      "start": 61.48,
+      "end": 61.64
+    },
+    {
+      "word": "đồng.",
+      "start": 61.72,
+      "end": 62.06
+    },
+    {
+      "word": "Khối",
+      "start": 62.58,
+      "end": 62.58
+    },
+    {
+      "word": "ngoại",
+      "start": 62.58,
+      "end": 62.66
+    },
+    {
+      "word": "bán",
+      "start": 62.66,
+      "end": 62.82
+    },
+    {
+      "word": "dòng",
+      "start": 62.82,
+      "end": 63.04
+    },
+    {
+      "word": "11",
+      "start": 63.04,
+      "end": 63.38
+    },
+    {
+      "word": "phiên",
+      "start": 63.38,
+      "end": 63.66
+    },
+    {
+      "word": "liên",
+      "start": 63.66,
+      "end": 63.88
+    },
+    {
+      "word": "tiếp.",
+      "start": 63.88,
+      "end": 64.32
+    },
+    {
+      "word": "Nói",
+      "start": 64.84,
+      "end": 64.84
+    },
+    {
+      "word": "thẳng,",
+      "start": 64.84,
+      "end": 65.04
+    },
+    {
+      "word": "họ",
+      "start": 65.04,
+      "end": 65.16
+    },
+    {
+      "word": "Ving",
+      "start": 65.16,
+      "end": 65.37
+    },
+    {
+      "word": "không",
+      "start": 65.42,
+      "end": 65.72
+    },
+    {
+      "word": "chỉ",
+      "start": 65.72,
+      "end": 65.91
+    },
+    {
+      "word": "đỡ",
+      "start": 65.91,
+      "end": 66.15
+    },
+    {
+      "word": "thị",
+      "start": 66.15,
+      "end": 66.32
+    },
+    {
+      "word": "trường.",
+      "start": 66.33,
+      "end": 67.0
+    },
+    {
+      "word": "Họ",
+      "start": 67.42,
+      "end": 67.42
+    },
+    {
+      "word": "đang",
+      "start": 67.42,
+      "end": 67.42
+    },
+    {
+      "word": "quyết",
+      "start": 67.48,
+      "end": 67.71
+    },
+    {
+      "word": "định",
+      "start": 67.71,
+      "end": 67.95
+    },
+    {
+      "word": "thị",
+      "start": 67.97,
+      "end": 68.15
+    },
+    {
+      "word": "trường",
+      "start": 68.18,
+      "end": 68.55
+    },
+    {
+      "word": "lên",
+      "start": 68.55,
+      "end": 68.75
+    },
+    {
+      "word": "hay",
+      "start": 68.75,
+      "end": 68.94
+    },
+    {
+      "word": "xuống.",
+      "start": 68.94,
+      "end": 69.53
+    },
+    {
+      "word": "Khi",
+      "start": 70.08,
+      "end": 70.08
+    },
+    {
+      "word": "nhóm",
+      "start": 70.08,
+      "end": 70.08
+    },
+    {
+      "word": "này",
+      "start": 70.14,
+      "end": 70.24
+    },
+    {
+      "word": "quay",
+      "start": 70.24,
+      "end": 70.52
+    },
+    {
+      "word": "đầu,",
+      "start": 70.52,
+      "end": 70.86
+    },
+    {
+      "word": "chưa",
+      "start": 70.87,
+      "end": 71.15
+    },
+    {
+      "word": "nhóm",
+      "start": 71.15,
+      "end": 71.43
+    },
+    {
+      "word": "nào",
+      "start": 71.43,
+      "end": 71.64
+    },
+    {
+      "word": "đủ",
+      "start": 71.64,
+      "end": 71.76
+    },
+    {
+      "word": "lớn",
+      "start": 71.79,
+      "end": 71.99
+    },
+    {
+      "word": "để",
+      "start": 71.99,
+      "end": 72.07
+    },
+    {
+      "word": "thay.",
+      "start": 72.13,
+      "end": 72.68
+    },
+    {
+      "word": "Bạn",
+      "start": 73.22,
+      "end": 73.22
+    },
+    {
+      "word": "nghĩ",
+      "start": 73.28,
+      "end": 73.28
+    },
+    {
+      "word": "VN",
+      "start": 73.28,
+      "end": 73.44
+    },
+    {
+      "word": "Index",
+      "start": 73.44,
+      "end": 73.88
+    },
+    {
+      "word": "sẽ",
+      "start": 73.88,
+      "end": 74.05
+    },
+    {
+      "word": "đi",
+      "start": 74.05,
+      "end": 74.22
+    },
+    {
+      "word": "tiếp",
+      "start": 74.22,
+      "end": 74.57
+    },
+    {
+      "word": "thế",
+      "start": 74.57,
+      "end": 74.83
+    },
+    {
+      "word": "nào",
+      "start": 74.83,
+      "end": 75.18
+    },
+    {
+      "word": "nếu",
+      "start": 75.24,
+      "end": 75.39
+    },
+    {
+      "word": "họ",
+      "start": 75.39,
+      "end": 75.54
+    },
+    {
+      "word": "Ving",
+      "start": 75.54,
+      "end": 75.83
+    },
+    {
+      "word": "ngừng",
+      "start": 75.83,
+      "end": 76.2
+    },
+    {
+      "word": "kéo,",
+      "start": 76.2,
+      "end": 76.55
+    },
+    {
+      "word": "gánh",
+      "start": 76.55,
+      "end": 76.84
+    },
+    {
+      "word": "được",
+      "start": 76.89,
+      "end": 77.14
+    },
+    {
+      "word": "hay",
+      "start": 77.14,
+      "end": 77.36
+    },
+    {
+      "word": "gục?",
+      "start": 77.36,
+      "end": 77.88
+    },
+    {
+      "word": "Liệu",
+      "start": 78.36,
+      "end": 78.36
+    },
+    {
+      "word": "thị",
+      "start": 78.36,
+      "end": 78.36
+    },
+    {
+      "word": "trường",
+      "start": 78.42,
+      "end": 78.66
+    },
+    {
+      "word": "sẽ",
+      "start": 78.66,
+      "end": 78.78
+    },
+    {
+      "word": "sụt",
+      "start": 78.78,
+      "end": 78.96
+    },
+    {
+      "word": "giảm",
+      "start": 78.96,
+      "end": 79.2
+    },
+    {
+      "word": "nặng",
+      "start": 79.2,
+      "end": 79.44
+    },
+    {
+      "word": "nề",
+      "start": 79.44,
+      "end": 79.56
+    },
+    {
+      "word": "như",
+      "start": 79.56,
+      "end": 79.73
+    },
+    {
+      "word": "thế",
+      "start": 79.73,
+      "end": 79.92
+    },
+    {
+      "word": "nào?",
+      "start": 79.92,
+      "end": 80.34
+    },
+    {
+      "word": "Hãy",
+      "start": 80.74,
+      "end": 80.74
+    },
+    {
+      "word": "bình",
+      "start": 80.74,
+      "end": 80.74
+    },
+    {
+      "word": "luận",
+      "start": 80.74,
+      "end": 80.83
+    },
+    {
+      "word": "cho",
+      "start": 80.83,
+      "end": 80.97
+    },
+    {
+      "word": "chúng",
+      "start": 80.97,
+      "end": 81.21
+    },
+    {
+      "word": "tôi",
+      "start": 81.21,
+      "end": 81.35
+    },
+    {
+      "word": "biết",
+      "start": 81.35,
+      "end": 81.54
+    },
+    {
+      "word": "nhé!",
+      "start": 81.54,
+      "end": 81.88
+    }
+  ]
+}

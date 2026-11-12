@@ -1,0 +1,150 @@
+{
+  "source": "video.mp4",
+  "width": 576,
+  "height": 1024,
+  "duration": 62.07,
+  "analysisFps": 15,
+  "analysisSize": [
+    180,
+    320
+  ],
+  "boxUnits": "fraction of frame [x, y, w, h]",
+  "captionTrack": null,
+  "shots": [
+    {
+      "index": 1,
+      "start": 0,
+      "end": 62.07,
+      "startWord": "Música",
+      "fps": 15,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 41.6,
+          "t1": 42,
+          "box": [
+            0.356,
+            0.3,
+            0.222,
+            0.4
+          ],
+          "area": 0.006,
+          "kind": "change",
+          "easing": "ease_in",
+          "sweep": "right",
+          "slide": null,
+          "scale": null,
+          "colour": "#d0afb0"
+        },
+        {
+          "t0": 56.6,
+          "t1": 60.13,
+          "box": [
+            0.689,
+            0.638,
+            0.111,
+            0.088
+          ],
+          "area": 0.002,
+          "kind": "appear",
+          "easing": "linear",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#8d8d8d"
+        },
+        {
+          "t0": 57.4,
+          "t1": 60.13,
+          "box": [
+            0.356,
+            0.338,
+            0.489,
+            0.388
+          ],
+          "area": 0.013,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": null,
+          "slide": "down",
+          "scale": null,
+          "colour": "#d2c2c2"
+        },
+        {
+          "t0": 59.27,
+          "t1": 60.13,
+          "box": [
+            0.089,
+            0.3,
+            0.756,
+            0.488
+          ],
+          "area": 0.141,
+          "kind": "change",
+          "easing": "ease_in",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#c1b6b6"
+        }
+      ],
+      "sequences": []
+    }
+  ],
+  "stickerBeats": {
+    "beats": [
+      {
+        "t": 0,
+        "at": "Música",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 1
+      },
+      {
+        "t": 41.6,
+        "at": null,
+        "fx": "draw-right",
+        "boxes": [
+          [
+            0.356,
+            0.3,
+            0.222,
+            0.4
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 57.4,
+        "at": null,
+        "fx": "drop",
+        "boxes": [
+          [
+            0.356,
+            0.338,
+            0.489,
+            0.388
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 59.27,
+        "at": null,
+        "fx": "slide-left",
+        "boxes": [
+          [
+            0.089,
+            0.3,
+            0.756,
+            0.488
+          ]
+        ],
+        "shot": 1
+      }
+    ],
+    "medianInterval": 15.8,
+    "perMinute": 3.87
+  }
+}

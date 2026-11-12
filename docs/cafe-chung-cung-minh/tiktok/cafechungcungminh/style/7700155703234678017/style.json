@@ -1,0 +1,81 @@
+{
+  "id": "7700155703234678017",
+  "duration": 51.478005,
+  "language": "vi",
+  "wpm": 235.6687898089172,
+  "speechCoverage": 0.9149538720469063,
+  "hook": "5 năm trước, bạn bỏ 100 triệu vào Vinamil, cổ phiếu",
+  "transcript": "5 năm trước, bạn bỏ 100 triệu vào Vinamil, cổ phiếu quốc dân của người Việt. Hôm nay, bạn có bao nhiêu? Con số có thể làm bạn bất ngờ. Theo dữ liệu giá đã điều chỉnh cổ tức, 5 năm qua, Vinamil chỉ tăng khoảng 16%, 100 triệu thành khoảng 116 triệu, 3 năm qua tăng khoảng 5,5%, 1 năm qua chưa tới 1%. Hôm nay, cổ phiếu quanh 57.700 đồng, B gạch chéo E khoảng 11 lần. Rồi, giả sử bạn gửi tiết kiệm lãi suất 7% một năm và tái tục mỗi năm, sau 5 năm, 100 triệu thành khoảng 140 triệu. Đó là lãi kép đang làm việc, kể cả với mức lãi nghe có vẻ khiêm tốn. Nhưng công bằng mà nói, lãi suất những năm qua không cố định như giả định này và cổ phiếu có thể biến động theo cả 2 hướng. Đây là phép so sánh minh họa, dữ liệu quá khứ, không phải khuyến nghị đầu tư. Bạn chọn khoản lãi đều hay chấp nhận biến động để đổi lấy khả năng tăng cao hơn?",
+  "changes": 1,
+  "secPerChange": 25.7390025,
+  "cuts": 0,
+  "changesFirst3s": 0,
+  "firstChangeAt": 45.5,
+  "lufs": -16.1,
+  "grids": [
+    "grid_001.jpg",
+    "grid_002.jpg",
+    "grid_003.jpg",
+    "grid_004.jpg",
+    "grid_005.jpg",
+    "grid_006.jpg",
+    "grid_007.jpg"
+  ],
+  "motion": {
+    "beats": 11,
+    "beatsPerMin": 12.82,
+    "medianBeat": 0.79,
+    "beatsFirst3s": 0,
+    "entrances": {
+      "cut": 4,
+      "slide-right": 1,
+      "draw-down": 2,
+      "draw-right": 2,
+      "draw-up": 1,
+      "fade": 1
+    },
+    "caption": null,
+    "firstBeats": [
+      {
+        "t": 0,
+        "at": "5",
+        "fx": "cut"
+      },
+      {
+        "t": 43.87,
+        "at": "họa,",
+        "fx": "slide-right"
+      },
+      {
+        "t": 44.27,
+        "at": "liệu",
+        "fx": "cut"
+      },
+      {
+        "t": 45.07,
+        "at": "phải",
+        "fx": "draw-down"
+      },
+      {
+        "t": 45.5,
+        "at": "khuyến",
+        "fx": "cut"
+      },
+      {
+        "t": 46.27,
+        "at": "tư.",
+        "fx": "draw-right"
+      },
+      {
+        "t": 48.4,
+        "at": "biến",
+        "fx": "draw-up"
+      },
+      {
+        "t": 49.53,
+        "at": "năng",
+        "fx": "fade"
+      }
+    ]
+  }
+}
