@@ -24,6 +24,27 @@
       ]
     },
     {
+      "slug": "gorillanomics",
+      "name": "Gorillanomics",
+      "updated": "2026-11-12",
+      "todo": [],
+      "report": "gorillanomics/gorillanomics.html",
+      "summary": "gorillanomics/summary.json",
+      "channels": [
+        {
+          "handle": "gorillanomics",
+          "followers": 166000,
+          "medianViews": 153400,
+          "labelsTodo": "gorillanomics/tiktok/gorillanomics/labels.todo.json",
+          "styles": [
+            "gorillanomics/tiktok/gorillanomics/style/7514219246356942122/style.json",
+            "gorillanomics/tiktok/gorillanomics/style/7511246760254180650/style.json",
+            "gorillanomics/tiktok/gorillanomics/style/7507727025692495146/style.json"
+          ]
+        }
+      ]
+    },
+    {
       "slug": "heotaichinh102",
       "name": "heotaichinh102",
       "updated": "2026-11-12",
@@ -47,6 +68,29 @@
       ]
     },
     {
+      "slug": "kinh-te-don-gian",
+      "name": "Kinh Tế Đơn Giản",
+      "updated": "2026-11-12",
+      "todo": [],
+      "report": "kinh-te-don-gian/kinh-te-don-gian.html",
+      "summary": "kinh-te-don-gian/summary.json",
+      "channels": [
+        {
+          "handle": "kinhtedongian.official",
+          "followers": 262300,
+          "medianViews": 1247,
+          "labelsTodo": "kinh-te-don-gian/tiktok/kinhtedongian.official/labels.todo.json",
+          "styles": [
+            "kinh-te-don-gian/tiktok/kinhtedongian.official/style/7697093977106926868/style.json",
+            "kinh-te-don-gian/tiktok/kinhtedongian.official/style/7697963191405432084/style.json",
+            "kinh-te-don-gian/tiktok/kinhtedongian.official/style/7698381666473315604/style.json",
+            "kinh-te-don-gian/tiktok/kinhtedongian.official/style/7699120393377828116/style.json",
+            "kinh-te-don-gian/tiktok/kinhtedongian.official/style/7702123229443280148/style.json"
+          ]
+        }
+      ]
+    },
+    {
       "slug": "manhinhxanhdo-official",
       "name": "manhinhxanhdo_official",
       "updated": "2026-11-12",
@@ -65,50 +109,6 @@
             "manhinhxanhdo-official/tiktok/manhinhxanhdo_official/style/7542161826541243656/style.json",
             "manhinhxanhdo-official/tiktok/manhinhxanhdo_official/style/7540861204533759250/style.json",
             "manhinhxanhdo-official/tiktok/manhinhxanhdo_official/style/7547692216236838162/style.json"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "gorillanomics",
-      "name": "Gorillanomics",
-      "updated": "2026-11-11",
-      "todo": [],
-      "report": "gorillanomics/gorillanomics.html",
-      "summary": "gorillanomics/summary.json",
-      "channels": [
-        {
-          "handle": "gorillanomics",
-          "followers": 166000,
-          "medianViews": 153400,
-          "labelsTodo": "gorillanomics/tiktok/gorillanomics/labels.todo.json",
-          "styles": [
-            "gorillanomics/tiktok/gorillanomics/style/7514219246356942122/style.json",
-            "gorillanomics/tiktok/gorillanomics/style/7511246760254180650/style.json",
-            "gorillanomics/tiktok/gorillanomics/style/7507727025692495146/style.json"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "kinh-te-don-gian",
-      "name": "Kinh Tế Đơn Giản",
-      "updated": "2026-11-11",
-      "todo": [],
-      "report": "kinh-te-don-gian/kinh-te-don-gian.html",
-      "summary": "kinh-te-don-gian/summary.json",
-      "channels": [
-        {
-          "handle": "kinhtedongian.official",
-          "followers": 262300,
-          "medianViews": 1247,
-          "labelsTodo": "kinh-te-don-gian/tiktok/kinhtedongian.official/labels.todo.json",
-          "styles": [
-            "kinh-te-don-gian/tiktok/kinhtedongian.official/style/7697093977106926868/style.json",
-            "kinh-te-don-gian/tiktok/kinhtedongian.official/style/7697963191405432084/style.json",
-            "kinh-te-don-gian/tiktok/kinhtedongian.official/style/7698381666473315604/style.json",
-            "kinh-te-don-gian/tiktok/kinhtedongian.official/style/7699120393377828116/style.json",
-            "kinh-te-don-gian/tiktok/kinhtedongian.official/style/7702123229443280148/style.json"
           ]
         }
       ]

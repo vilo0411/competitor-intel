@@ -1,0 +1,3060 @@
+{
+  "name": "Kinh Tế Đơn Giản",
+  "updated": "2026-11-12",
+  "tiktok": [
+    {
+      "handle": "kinhtedongian.official",
+      "profile": {
+        "followers": 262300,
+        "hearts": 8400000,
+        "videoCount": 914,
+        "nickname": "Kinh Tế Đơn Giản",
+        "bio": "Hotline\n0968.856.419\nHoặc ib @nguyenhungthanh\nHệ sinh thái chung @Kinh Tế Gì Thế"
+      },
+      "stats": {
+        "n": 300,
+        "first": "2026-05-23",
+        "last": "2026-11-11",
+        "daysSinceLast": 0,
+        "totalViews": 5597081,
+        "meanViews": 18656.93666666667,
+        "medianViews": 1247,
+        "maxViews": 1200000,
+        "minViews": 168,
+        "medianER": 0.03199697878568496,
+        "postsPerWeek": 12.236947609961053,
+        "medianGapDays": 0.07424768518518518,
+        "postsLast30": 86,
+        "medianDuration": 58.5,
+        "originalSoundShare": 0.8066666666666666,
+        "viralCount": 58
+      },
+      "takeaways": {
+        "category": "Không loại nội dung nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 2,2k–5,4k)",
+        "viral": "31/300 video đạt từ 12k view (10× trung vị kênh) và mang về 91,6% tổng view; top 3 chiếm 42,6%",
+        "trend": "Kênh đổi format từ 07/10/2026 (độ dài trung vị 43s → 3:59): view trung vị 893 trước đó → 2,5k sau đó; chưa so ở cùng tuổi bài",
+        "hits": "Số hit (từ 12k view) theo tuần gần nhất: 12/26 → 4/24 → 0/15 → 1/8 (kỳ cuối có 8 bài dưới 7 ngày tuổi, còn tích view)",
+        "cadence": "Đăng 12,2 video/tuần; tháng dày nhất T6/26 có 129 video; 30 ngày qua: 86 video",
+        "time": "Không khung giờ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 2k–5,3k)",
+        "weekday": "Không thứ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 1,3k–9,5k)",
+        "duration": ">6 phút nổi trội: gấp 3,3× các bài đăng cùng thời, nhóm kế tiếp (4–6 phút) 1,6×",
+        "tags": "Không hashtag đủ mẫu nào đi kèm view cao hơn hẳn trung vị; không chứng minh hashtag làm tăng view"
+      },
+      "evidence": {
+        "channelMedian": 1247,
+        "hitThreshold": 12470,
+        "periodUnit": "tuần",
+        "labeledCount": 300,
+        "totalCount": 300,
+        "youngCount": 15,
+        "categories": [
+          {
+            "name": "Khái niệm tài chính",
+            "count": 18,
+            "weak": false,
+            "young": 4,
+            "median": 4904.5,
+            "q25": 2049.75,
+            "q75": 23125,
+            "aboveChannel": 0.8888888888888888,
+            "relMedian": 2.0696911188642453,
+            "aboveLocal": 0.6666666666666666,
+            "hits": 7,
+            "hitRate": 0.3888888888888889,
+            "interactions": {
+              "likes": {
+                "median": 0.0348842437857117,
+                "count": 18
+              },
+              "comments": {
+                "median": 0.00021234533593451237,
+                "count": 18
+              },
+              "shares": {
+                "median": 0.0047046404564198155,
+                "count": 18
+              },
+              "saves": {
+                "median": 0.004767033147675408,
+                "count": 18
+              }
+            }
+          },
+          {
+            "name": "Giải mã mô hình kinh doanh",
+            "count": 46,
+            "weak": false,
+            "young": 8,
+            "median": 2288,
+            "q25": 1513.75,
+            "q75": 8718,
+            "aboveChannel": 0.8478260869565217,
+            "relMedian": 0.789994633478718,
+            "aboveLocal": 0.391304347826087,
+            "hits": 11,
+            "hitRate": 0.2391304347826087,
+            "interactions": {
+              "likes": {
+                "median": 0.03137239849110226,
+                "count": 46
+              },
+              "comments": {
+                "median": 0.0004978720880228954,
+                "count": 46
+              },
+              "shares": {
+                "median": 0.0038376836728720286,
+                "count": 46
+              },
+              "saves": {
+                "median": 0.003967444606856298,
+                "count": 46
+              }
+            }
+          },
+          {
+            "name": "Tội phạm & mặt tối tài chính",
+            "count": 17,
+            "weak": false,
+            "young": 2,
+            "median": 2153,
+            "q25": 1923,
+            "q75": 9457,
+            "aboveChannel": 0.8823529411764706,
+            "relMedian": 1.2730138713745272,
+            "aboveLocal": 0.6470588235294118,
+            "hits": 4,
+            "hitRate": 0.23529411764705882,
+            "interactions": {
+              "likes": {
+                "median": 0.031722533573014695,
+                "count": 17
+              },
+              "comments": {
+                "median": 0.0005114754098360655,
+                "count": 17
+              },
+              "shares": {
+                "median": 0.003367003367003367,
+                "count": 17
+              },
+              "saves": {
+                "median": 0.004160166406656267,
+                "count": 17
+              }
+            }
+          },
+          {
+            "name": "Tin thời sự / chính trị",
+            "count": 219,
+            "weak": false,
+            "young": 1,
+            "median": 910,
+            "q25": 606,
+            "q75": 1573,
+            "aboveChannel": 0.365296803652968,
+            "relMedian": 1.0222222222222221,
+            "aboveLocal": 0.5068493150684932,
+            "hits": 9,
+            "hitRate": 0.0410958904109589,
+            "interactions": {
+              "likes": {
+                "median": 0.023894862604540025,
+                "count": 219
+              },
+              "comments": {
+                "median": 0.00017241379310344826,
+                "count": 219
+              },
+              "shares": {
+                "median": 0,
+                "count": 219
+              },
+              "saves": {
+                "median": 0.0007855459544383347,
+                "count": 219
+              }
+            }
+          }
+        ],
+        "sensitivity": [
+          {
+            "remove": 0,
+            "excluded": [],
+            "categories": [
+              {
+                "name": "Khái niệm tài chính",
+                "count": 18,
+                "weak": false,
+                "young": 4,
+                "median": 4904.5,
+                "q25": 2049.75,
+                "q75": 23125,
+                "aboveChannel": 0.8888888888888888,
+                "relMedian": 2.0696911188642453,
+                "aboveLocal": 0.6666666666666666,
+                "hits": 7,
+                "hitRate": 0.3888888888888889,
+                "interactions": {
+                  "likes": {
+                    "median": 0.0348842437857117,
+                    "count": 18
+                  },
+                  "comments": {
+                    "median": 0.00021234533593451237,
+                    "count": 18
+                  },
+                  "shares": {
+                    "median": 0.0047046404564198155,
+                    "count": 18
+                  },
+                  "saves": {
+                    "median": 0.004767033147675408,
+                    "count": 18
+                  }
+                }
+              },
+              {
+                "name": "Giải mã mô hình kinh doanh",
+                "count": 46,
+                "weak": false,
+                "young": 8,
+                "median": 2288,
+                "q25": 1513.75,
+                "q75": 8718,
+                "aboveChannel": 0.8478260869565217,
+                "relMedian": 0.789994633478718,
+                "aboveLocal": 0.391304347826087,
+                "hits": 11,
+                "hitRate": 0.2391304347826087,
+                "interactions": {
+                  "likes": {
+                    "median": 0.03137239849110226,
+                    "count": 46
+                  },
+                  "comments": {
+                    "median": 0.0004978720880228954,
+                    "count": 46
+                  },
+                  "shares": {
+                    "median": 0.0038376836728720286,
+                    "count": 46
+                  },
+                  "saves": {
+                    "median": 0.003967444606856298,
+                    "count": 46
+                  }
+                }
+              },
+              {
+                "name": "Tội phạm & mặt tối tài chính",
+                "count": 17,
+                "weak": false,
+                "young": 2,
+                "median": 2153,
+                "q25": 1923,
+                "q75": 9457,
+                "aboveChannel": 0.8823529411764706,
+                "relMedian": 1.2730138713745272,
+                "aboveLocal": 0.6470588235294118,
+                "hits": 4,
+                "hitRate": 0.23529411764705882,
+                "interactions": {
+                  "likes": {
+                    "median": 0.031722533573014695,
+                    "count": 17
+                  },
+                  "comments": {
+                    "median": 0.0005114754098360655,
+                    "count": 17
+                  },
+                  "shares": {
+                    "median": 0.003367003367003367,
+                    "count": 17
+                  },
+                  "saves": {
+                    "median": 0.004160166406656267,
+                    "count": 17
+                  }
+                }
+              },
+              {
+                "name": "Tin thời sự / chính trị",
+                "count": 219,
+                "weak": false,
+                "young": 1,
+                "median": 910,
+                "q25": 606,
+                "q75": 1573,
+                "aboveChannel": 0.365296803652968,
+                "relMedian": 1.0222222222222221,
+                "aboveLocal": 0.5068493150684932,
+                "hits": 9,
+                "hitRate": 0.0410958904109589,
+                "interactions": {
+                  "likes": {
+                    "median": 0.023894862604540025,
+                    "count": 219
+                  },
+                  "comments": {
+                    "median": 0.00017241379310344826,
+                    "count": 219
+                  },
+                  "shares": {
+                    "median": 0,
+                    "count": 219
+                  },
+                  "saves": {
+                    "median": 0.0007855459544383347,
+                    "count": 219
+                  }
+                }
+              }
+            ],
+            "leaders": [
+              "Khái niệm tài chính"
+            ]
+          },
+          {
+            "remove": 1,
+            "excluded": [
+              "7697093977106926868"
+            ],
+            "categories": [
+              {
+                "name": "Khái niệm tài chính",
+                "count": 18,
+                "weak": false,
+                "young": 4,
+                "median": 4904.5,
+                "q25": 2049.75,
+                "q75": 23125,
+                "aboveChannel": 0.8888888888888888,
+                "relMedian": 2.0696911188642453,
+                "aboveLocal": 0.6666666666666666,
+                "hits": 7,
+                "hitRate": 0.3888888888888889,
+                "interactions": {
+                  "likes": {
+                    "median": 0.0348842437857117,
+                    "count": 18
+                  },
+                  "comments": {
+                    "median": 0.00021234533593451237,
+                    "count": 18
+                  },
+                  "shares": {
+                    "median": 0.0047046404564198155,
+                    "count": 18
+                  },
+                  "saves": {
+                    "median": 0.004767033147675408,
+                    "count": 18
+                  }
+                }
+              },
+              {
+                "name": "Giải mã mô hình kinh doanh",
+                "count": 45,
+                "weak": false,
+                "young": 8,
+                "median": 2171,
+                "q25": 1500,
+                "q75": 7827,
+                "aboveChannel": 0.8444444444444444,
+                "relMedian": 0.7858851674641149,
+                "aboveLocal": 0.37777777777777777,
+                "hits": 10,
+                "hitRate": 0.2222222222222222,
+                "interactions": {
+                  "likes": {
+                    "median": 0.03132197144173192,
+                    "count": 45
+                  },
+                  "comments": {
+                    "median": 0.0005249343832020997,
+                    "count": 45
+                  },
+                  "shares": {
+                    "median": 0.00380517503805175,
+                    "count": 45
+                  },
+                  "saves": {
+                    "median": 0.003912363067292645,
+                    "count": 45
+                  }
+                }
+              },
+              {
+                "name": "Tội phạm & mặt tối tài chính",
+                "count": 17,
+                "weak": false,
+                "young": 2,
+                "median": 2153,
+                "q25": 1923,
+                "q75": 9457,
+                "aboveChannel": 0.8823529411764706,
+                "relMedian": 1.2730138713745272,
+                "aboveLocal": 0.6470588235294118,
+                "hits": 4,
+                "hitRate": 0.23529411764705882,
+                "interactions": {
+                  "likes": {
+                    "median": 0.031722533573014695,
+                    "count": 17
+                  },
+                  "comments": {
+                    "median": 0.0005114754098360655,
+                    "count": 17
+                  },
+                  "shares": {
+                    "median": 0.003367003367003367,
+                    "count": 17
+                  },
+                  "saves": {
+                    "median": 0.004160166406656267,
+                    "count": 17
+                  }
+                }
+              },
+              {
+                "name": "Tin thời sự / chính trị",
+                "count": 219,
+                "weak": false,
+                "young": 1,
+                "median": 910,
+                "q25": 606,
+                "q75": 1573,
+                "aboveChannel": 0.365296803652968,
+                "relMedian": 1.0222222222222221,
+                "aboveLocal": 0.5068493150684932,
+                "hits": 9,
+                "hitRate": 0.0410958904109589,
+                "interactions": {
+                  "likes": {
+                    "median": 0.023894862604540025,
+                    "count": 219
+                  },
+                  "comments": {
+                    "median": 0.00017241379310344826,
+                    "count": 219
+                  },
+                  "shares": {
+                    "median": 0,
+                    "count": 219
+                  },
+                  "saves": {
+                    "median": 0.0007855459544383347,
+                    "count": 219
+                  }
+                }
+              }
+            ],
+            "leaders": [
+              "Khái niệm tài chính"
+            ]
+          },
+          {
+            "remove": 3,
+            "excluded": [
+              "7697093977106926868",
+              "7697963191405432084",
+              "7698381666473315604"
+            ],
+            "categories": [
+              {
+                "name": "Khái niệm tài chính",
+                "count": 18,
+                "weak": false,
+                "young": 4,
+                "median": 4904.5,
+                "q25": 2049.75,
+                "q75": 23125,
+                "aboveChannel": 0.8888888888888888,
+                "relMedian": 2.0696911188642453,
+                "aboveLocal": 0.6666666666666666,
+                "hits": 7,
+                "hitRate": 0.3888888888888889,
+                "interactions": {
+                  "likes": {
+                    "median": 0.0348842437857117,
+                    "count": 18
+                  },
+                  "comments": {
+                    "median": 0.00021234533593451237,
+                    "count": 18
+                  },
+                  "shares": {
+                    "median": 0.0047046404564198155,
+                    "count": 18
+                  },
+                  "saves": {
+                    "median": 0.004767033147675408,
+                    "count": 18
+                  }
+                }
+              },
+              {
+                "name": "Giải mã mô hình kinh doanh",
+                "count": 44,
+                "weak": false,
+                "young": 8,
+                "median": 2147.5,
+                "q25": 1466.75,
+                "q75": 7106.25,
+                "aboveChannel": 0.8409090909090909,
+                "relMedian": 0.7855604145100246,
+                "aboveLocal": 0.36363636363636365,
+                "hits": 9,
+                "hitRate": 0.20454545454545456,
+                "interactions": {
+                  "likes": {
+                    "median": 0.031310437990036535,
+                    "count": 44
+                  },
+                  "comments": {
+                    "median": 0.0004978720880228954,
+                    "count": 44
+                  },
+                  "shares": {
+                    "median": 0.003595589776362218,
+                    "count": 44
+                  },
+                  "saves": {
+                    "median": 0.0036953119684289314,
+                    "count": 44
+                  }
+                }
+              },
+              {
+                "name": "Tội phạm & mặt tối tài chính",
+                "count": 16,
+                "weak": false,
+                "young": 2,
+                "median": 2122,
+                "q25": 1874.25,
+                "q75": 5719.75,
+                "aboveChannel": 0.875,
+                "relMedian": 1.2217169174279818,
+                "aboveLocal": 0.625,
+                "hits": 3,
+                "hitRate": 0.1875,
+                "interactions": {
+                  "likes": {
+                    "median": 0.03164318931161495,
+                    "count": 16
+                  },
+                  "comments": {
+                    "median": 0.000494857743177239,
+                    "count": 16
+                  },
+                  "shares": {
+                    "median": 0.0031363403066576962,
+                    "count": 16
+                  },
+                  "saves": {
+                    "median": 0.0038161943144392444,
+                    "count": 16
+                  }
+                }
+              },
+              {
+                "name": "Tin thời sự / chính trị",
+                "count": 219,
+                "weak": false,
+                "young": 1,
+                "median": 910,
+                "q25": 606,
+                "q75": 1573,
+                "aboveChannel": 0.365296803652968,
+                "relMedian": 1.0222222222222221,
+                "aboveLocal": 0.5068493150684932,
+                "hits": 9,
+                "hitRate": 0.0410958904109589,
+                "interactions": {
+                  "likes": {
+                    "median": 0.023894862604540025,
+                    "count": 219
+                  },
+                  "comments": {
+                    "median": 0.00017241379310344826,
+                    "count": 219
+                  },
+                  "shares": {
+                    "median": 0,
+                    "count": 219
+                  },
+                  "saves": {
+                    "median": 0.0007855459544383347,
+                    "count": 219
+                  }
+                }
+              }
+            ],
+            "leaders": [
+              "Khái niệm tài chính"
+            ]
+          }
+        ],
+        "periods": [
+          {
+            "period": "Tuần từ 12/10/2026",
+            "key": "2026-10-12",
+            "categories": [
+              {
+                "name": "Giải mã mô hình kinh doanh",
+                "count": 12,
+                "weak": false,
+                "young": 0,
+                "median": 47850,
+                "q25": 5884.25,
+                "q75": 124275,
+                "aboveChannel": 1,
+                "relMedian": 3.6288448302742005,
+                "aboveLocal": 0.5833333333333334,
+                "hits": 7,
+                "hitRate": 0.5833333333333334,
+                "interactions": {
+                  "likes": {
+                    "median": 0.03464261283420903,
+                    "count": 12
+                  },
+                  "comments": {
+                    "median": 0.00045364054757890637,
+                    "count": 12
+                  },
+                  "shares": {
+                    "median": 0.004070031458836912,
+                    "count": 12
+                  },
+                  "saves": {
+                    "median": 0.002542303959213277,
+                    "count": 12
+                  }
+                }
+              },
+              {
+                "name": "Khái niệm tài chính",
+                "count": 1,
+                "weak": true,
+                "young": 0,
+                "median": 1967,
+                "q25": 1967,
+                "q75": 1967,
+                "aboveChannel": 1,
+                "relMedian": 0.10352631578947369,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.029994916115912557,
+                    "count": 1
+                  },
+                  "comments": {
+                    "median": 0,
+                    "count": 1
+                  },
+                  "shares": {
+                    "median": 0.005083884087442806,
+                    "count": 1
+                  },
+                  "saves": {
+                    "median": 0.0066090493136756485,
+                    "count": 1
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "period": "Tuần từ 19/10/2026",
+            "key": "2026-10-19",
+            "categories": [
+              {
+                "name": "Tin thời sự / chính trị",
+                "count": 3,
+                "weak": true,
+                "young": 0,
+                "median": 56400,
+                "q25": 29052,
+                "q75": 84200,
+                "aboveChannel": 1,
+                "relMedian": 14.177978883861236,
+                "aboveLocal": 0.6666666666666666,
+                "hits": 2,
+                "hitRate": 0.6666666666666666,
+                "interactions": {
+                  "likes": {
+                    "median": 0.022887323943661973,
+                    "count": 3
+                  },
+                  "comments": {
+                    "median": 0.0018439716312056737,
+                    "count": 3
+                  },
+                  "shares": {
+                    "median": 0.005517857142857143,
+                    "count": 3
+                  },
+                  "saves": {
+                    "median": 0.0021785714285714286,
+                    "count": 3
+                  }
+                }
+              },
+              {
+                "name": "Tội phạm & mặt tối tài chính",
+                "count": 6,
+                "weak": false,
+                "young": 0,
+                "median": 51428.5,
+                "q25": 3871,
+                "q75": 137725,
+                "aboveChannel": 1,
+                "relMedian": 10.326701052473375,
+                "aboveLocal": 0.6666666666666666,
+                "hits": 3,
+                "hitRate": 0.5,
+                "interactions": {
+                  "likes": {
+                    "median": 0.03825955372440885,
+                    "count": 6
+                  },
+                  "comments": {
+                    "median": 0.0006065771875819988,
+                    "count": 6
+                  },
+                  "shares": {
+                    "median": 0.006359517886828561,
+                    "count": 6
+                  },
+                  "saves": {
+                    "median": 0.004664376635736378,
+                    "count": 6
+                  }
+                }
+              },
+              {
+                "name": "Khái niệm tài chính",
+                "count": 6,
+                "weak": false,
+                "young": 0,
+                "median": 15800,
+                "q25": 7295.25,
+                "q75": 77725,
+                "aboveChannel": 1,
+                "relMedian": 4.120695094032647,
+                "aboveLocal": 0.8333333333333334,
+                "hits": 4,
+                "hitRate": 0.6666666666666666,
+                "interactions": {
+                  "likes": {
+                    "median": 0.0328235021494894,
+                    "count": 6
+                  },
+                  "comments": {
+                    "median": 0.00025151300071221667,
+                    "count": 6
+                  },
+                  "shares": {
+                    "median": 0.004223796417261746,
+                    "count": 6
+                  },
+                  "saves": {
+                    "median": 0.0036038355677883334,
+                    "count": 6
+                  }
+                }
+              },
+              {
+                "name": "Giải mã mô hình kinh doanh",
+                "count": 11,
+                "weak": false,
+                "young": 0,
+                "median": 3978,
+                "q25": 2288,
+                "q75": 10813.5,
+                "aboveChannel": 1,
+                "relMedian": 0.8241143567433188,
+                "aboveLocal": 0.45454545454545453,
+                "hits": 3,
+                "hitRate": 0.2727272727272727,
+                "interactions": {
+                  "likes": {
+                    "median": 0.0314228255404726,
+                    "count": 11
+                  },
+                  "comments": {
+                    "median": 0.0005797101449275362,
+                    "count": 11
+                  },
+                  "shares": {
+                    "median": 0.004158004158004158,
+                    "count": 11
+                  },
+                  "saves": {
+                    "median": 0.003215434083601286,
+                    "count": 11
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "period": "Tuần từ 26/10/2026",
+            "key": "2026-10-26",
+            "categories": [
+              {
+                "name": "Khái niệm tài chính",
+                "count": 6,
+                "weak": false,
+                "young": 0,
+                "median": 4109.5,
+                "q25": 2373,
+                "q75": 38605.25,
+                "aboveChannel": 0.8333333333333334,
+                "relMedian": 2.0696911188642453,
+                "aboveLocal": 0.8333333333333334,
+                "hits": 2,
+                "hitRate": 0.3333333333333333,
+                "interactions": {
+                  "likes": {
+                    "median": 0.032704931726713626,
+                    "count": 6
+                  },
+                  "comments": {
+                    "median": 0.0004936727996669528,
+                    "count": 6
+                  },
+                  "shares": {
+                    "median": 0.00461186255894504,
+                    "count": 6
+                  },
+                  "saves": {
+                    "median": 0.0037921859128498547,
+                    "count": 6
+                  }
+                }
+              },
+              {
+                "name": "Tội phạm & mặt tối tài chính",
+                "count": 5,
+                "weak": false,
+                "young": 0,
+                "median": 2153,
+                "q25": 1715,
+                "q75": 2185,
+                "aboveChannel": 0.8,
+                "relMedian": 0.8410315627405697,
+                "aboveLocal": 0.4,
+                "hits": 1,
+                "hitRate": 0.2,
+                "interactions": {
+                  "likes": {
+                    "median": 0.02745995423340961,
+                    "count": 5
+                  },
+                  "comments": {
+                    "median": 0,
+                    "count": 5
+                  },
+                  "shares": {
+                    "median": 0.002288329519450801,
+                    "count": 5
+                  },
+                  "saves": {
+                    "median": 0.003076923076923077,
+                    "count": 5
+                  }
+                }
+              },
+              {
+                "name": "Giải mã mô hình kinh doanh",
+                "count": 12,
+                "weak": false,
+                "young": 0,
+                "median": 1645.5,
+                "q25": 1531.25,
+                "q75": 2054.25,
+                "aboveChannel": 0.9166666666666666,
+                "relMedian": 0.8408125421920998,
+                "aboveLocal": 0.25,
+                "hits": 1,
+                "hitRate": 0.08333333333333333,
+                "interactions": {
+                  "likes": {
+                    "median": 0.029505853922267743,
+                    "count": 12
+                  },
+                  "comments": {
+                    "median": 0.000465093229867353,
+                    "count": 12
+                  },
+                  "shares": {
+                    "median": 0.0023457327937736936,
+                    "count": 12
+                  },
+                  "saves": {
+                    "median": 0.004740458360223292,
+                    "count": 12
+                  }
+                }
+              },
+              {
+                "name": "Tin thời sự / chính trị",
+                "count": 1,
+                "weak": true,
+                "young": 0,
+                "median": 1342,
+                "q25": 1342,
+                "q75": 1342,
+                "aboveChannel": 1,
+                "relMedian": 0.5209627329192547,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.023099850968703428,
+                    "count": 1
+                  },
+                  "comments": {
+                    "median": 0,
+                    "count": 1
+                  },
+                  "shares": {
+                    "median": 0,
+                    "count": 1
+                  },
+                  "saves": {
+                    "median": 0.004470938897168405,
+                    "count": 1
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "period": "Tuần từ 02/11/2026",
+            "key": "2026-11-02",
+            "categories": [
+              {
+                "name": "Tội phạm & mặt tối tài chính",
+                "count": 5,
+                "weak": false,
+                "young": 1,
+                "median": 2091,
+                "q25": 2019,
+                "q75": 4158,
+                "aboveChannel": 1,
+                "relMedian": 1.3052434456928839,
+                "aboveLocal": 1,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.03156384505021521,
+                    "count": 5
+                  },
+                  "comments": {
+                    "median": 0.00047824007651841227,
+                    "count": 5
+                  },
+                  "shares": {
+                    "median": 0.003367003367003367,
+                    "count": 5
+                  },
+                  "saves": {
+                    "median": 0.005291005291005291,
+                    "count": 5
+                  }
+                }
+              },
+              {
+                "name": "Tin thời sự / chính trị",
+                "count": 1,
+                "weak": true,
+                "young": 1,
+                "median": 1672,
+                "q25": 1672,
+                "q75": 1672,
+                "aboveChannel": 1,
+                "relMedian": 1.0489335006273526,
+                "aboveLocal": 1,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.014354066985645933,
+                    "count": 1
+                  },
+                  "comments": {
+                    "median": 0,
+                    "count": 1
+                  },
+                  "shares": {
+                    "median": 0,
+                    "count": 1
+                  },
+                  "saves": {
+                    "median": 0.0011961722488038277,
+                    "count": 1
+                  }
+                }
+              },
+              {
+                "name": "Khái niệm tài chính",
+                "count": 1,
+                "weak": true,
+                "young": 0,
+                "median": 1334,
+                "q25": 1334,
+                "q75": 1334,
+                "aboveChannel": 1,
+                "relMedian": 0.7978468899521531,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.04047976011994003,
+                    "count": 1
+                  },
+                  "comments": {
+                    "median": 0,
+                    "count": 1
+                  },
+                  "shares": {
+                    "median": 0.005997001499250375,
+                    "count": 1
+                  },
+                  "saves": {
+                    "median": 0.005997001499250375,
+                    "count": 1
+                  }
+                }
+              },
+              {
+                "name": "Giải mã mô hình kinh doanh",
+                "count": 8,
+                "weak": false,
+                "young": 5,
+                "median": 1260.5,
+                "q25": 1060,
+                "q75": 1360.5,
+                "aboveChannel": 0.5,
+                "relMedian": 0.7292930668865785,
+                "aboveLocal": 0.25,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.030935051625566395,
+                    "count": 8
+                  },
+                  "comments": {
+                    "median": 0.0006693230697993424,
+                    "count": 8
+                  },
+                  "shares": {
+                    "median": 0.003595589776362218,
+                    "count": 8
+                  },
+                  "saves": {
+                    "median": 0.003967444606856298,
+                    "count": 8
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "period": "Tuần từ 09/11/2026",
+            "key": "2026-11-09",
+            "categories": [
+              {
+                "name": "Khái niệm tài chính",
+                "count": 4,
+                "weak": true,
+                "young": 4,
+                "median": 3116.5,
+                "q25": 1124,
+                "q75": 10036.5,
+                "aboveChannel": 0.75,
+                "relMedian": 2.0776666666666666,
+                "aboveLocal": 0.5,
+                "hits": 1,
+                "hitRate": 0.25,
+                "interactions": {
+                  "likes": {
+                    "median": 0.03886162498572571,
+                    "count": 4
+                  },
+                  "comments": {
+                    "median": 0.000376984126984127,
+                    "count": 4
+                  },
+                  "shares": {
+                    "median": 0.00296205892428914,
+                    "count": 4
+                  },
+                  "saves": {
+                    "median": 0.005609643156610802,
+                    "count": 4
+                  }
+                }
+              },
+              {
+                "name": "Giải mã mô hình kinh doanh",
+                "count": 3,
+                "weak": true,
+                "young": 3,
+                "median": 883,
+                "q25": 811.5,
+                "q75": 1757,
+                "aboveChannel": 0.3333333333333333,
+                "relMedian": 0.5886666666666667,
+                "aboveLocal": 0.3333333333333333,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.04028886354998099,
+                    "count": 3
+                  },
+                  "comments": {
+                    "median": 0.0003800836183960471,
+                    "count": 3
+                  },
+                  "shares": {
+                    "median": 0.005405405405405406,
+                    "count": 3
+                  },
+                  "saves": {
+                    "median": 0.005405405405405406,
+                    "count": 3
+                  }
+                }
+              },
+              {
+                "name": "Tội phạm & mặt tối tài chính",
+                "count": 1,
+                "weak": true,
+                "young": 1,
+                "median": 366,
+                "q25": 366,
+                "q75": 366,
+                "aboveChannel": 0,
+                "relMedian": 0.21095100864553315,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.07377049180327869,
+                    "count": 1
+                  },
+                  "comments": {
+                    "median": 0,
+                    "count": 1
+                  },
+                  "shares": {
+                    "median": 0.00273224043715847,
+                    "count": 1
+                  },
+                  "saves": {
+                    "median": 0.00273224043715847,
+                    "count": 1
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "durationStrata": [
+          {
+            "stratum": "Giải mã mô hình kinh doanh",
+            "comparable": true,
+            "durations": [
+              {
+                "name": "≤3:15",
+                "count": 14,
+                "weak": false,
+                "young": 2,
+                "median": 2038,
+                "q25": 1513.75,
+                "q75": 6013.75,
+                "aboveChannel": 0.9285714285714286,
+                "relMedian": 0.6082533460363815,
+                "aboveLocal": 0.21428571428571427,
+                "hits": 2,
+                "hitRate": 0.14285714285714285,
+                "interactions": {
+                  "likes": {
+                    "median": 0.032347878924749454,
+                    "count": 14
+                  },
+                  "comments": {
+                    "median": 0.00005545286506469501,
+                    "count": 14
+                  },
+                  "shares": {
+                    "median": 0.0025465771388235945,
+                    "count": 14
+                  },
+                  "saves": {
+                    "median": 0.0023617410860134174,
+                    "count": 14
+                  }
+                }
+              },
+              {
+                "name": "3:15–4:00",
+                "count": 12,
+                "weak": false,
+                "young": 4,
+                "median": 1594,
+                "q25": 1122.25,
+                "q75": 2687.25,
+                "aboveChannel": 0.5833333333333334,
+                "relMedian": 0.9078392873469456,
+                "aboveLocal": 0.3333333333333333,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.02903270387600185,
+                    "count": 12
+                  },
+                  "comments": {
+                    "median": 0.0004969314823605217,
+                    "count": 12
+                  },
+                  "shares": {
+                    "median": 0.0033283063392057764,
+                    "count": 12
+                  },
+                  "saves": {
+                    "median": 0.0035315975467941647,
+                    "count": 12
+                  }
+                }
+              },
+              {
+                "name": ">4:00",
+                "count": 20,
+                "weak": false,
+                "young": 2,
+                "median": 3474.5,
+                "q25": 1795.25,
+                "q75": 72425,
+                "aboveChannel": 0.95,
+                "relMedian": 1.2730257678178454,
+                "aboveLocal": 0.55,
+                "hits": 9,
+                "hitRate": 0.45,
+                "interactions": {
+                  "likes": {
+                    "median": 0.038043467000629286,
+                    "count": 20
+                  },
+                  "comments": {
+                    "median": 0.0006266102095976497,
+                    "count": 20
+                  },
+                  "shares": {
+                    "median": 0.004806853728973768,
+                    "count": 20
+                  },
+                  "saves": {
+                    "median": 0.0052517182506676,
+                    "count": 20
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "stratum": "Khái niệm tài chính",
+            "comparable": true,
+            "durations": [
+              {
+                "name": "≤3:30",
+                "count": 6,
+                "weak": false,
+                "young": 1,
+                "median": 2282.5,
+                "q25": 1071.5,
+                "q75": 4865.25,
+                "aboveChannel": 0.6666666666666666,
+                "relMedian": 1.0176257725377242,
+                "aboveLocal": 0.5,
+                "hits": 1,
+                "hitRate": 0.16666666666666666,
+                "interactions": {
+                  "likes": {
+                    "median": 0.03457773205313463,
+                    "count": 6
+                  },
+                  "comments": {
+                    "median": 0.00010080645161290323,
+                    "count": 6
+                  },
+                  "shares": {
+                    "median": 0.0036725932078312804,
+                    "count": 6
+                  },
+                  "saves": {
+                    "median": 0.004387794143185864,
+                    "count": 6
+                  }
+                }
+              },
+              {
+                "name": "3:30–6:30",
+                "count": 6,
+                "weak": false,
+                "young": 1,
+                "median": 8627,
+                "q25": 1639,
+                "q75": 251925,
+                "aboveChannel": 1,
+                "relMedian": 2.2646621417797888,
+                "aboveLocal": 0.5,
+                "hits": 3,
+                "hitRate": 0.5,
+                "interactions": {
+                  "likes": {
+                    "median": 0.03785930057680635,
+                    "count": 6
+                  },
+                  "comments": {
+                    "median": 0.00003401360544217687,
+                    "count": 6
+                  },
+                  "shares": {
+                    "median": 0.004529112994523146,
+                    "count": 6
+                  },
+                  "saves": {
+                    "median": 0.005396582284397369,
+                    "count": 6
+                  }
+                }
+              },
+              {
+                "name": ">6:30",
+                "count": 6,
+                "weak": false,
+                "young": 2,
+                "median": 10941,
+                "q25": 4865.75,
+                "q75": 23125,
+                "aboveChannel": 1,
+                "relMedian": 3.933699618919525,
+                "aboveLocal": 1,
+                "hits": 3,
+                "hitRate": 0.5,
+                "interactions": {
+                  "likes": {
+                    "median": 0.0330114434592907,
+                    "count": 6
+                  },
+                  "comments": {
+                    "median": 0.00063718820861678,
+                    "count": 6
+                  },
+                  "shares": {
+                    "median": 0.005739311239378583,
+                    "count": 6
+                  },
+                  "saves": {
+                    "median": 0.005386825761055524,
+                    "count": 6
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "stratum": "Tin thời sự / chính trị",
+            "comparable": true,
+            "durations": [
+              {
+                "name": "≤30s",
+                "count": 65,
+                "weak": false,
+                "young": 0,
+                "median": 1087,
+                "q25": 671,
+                "q75": 1525,
+                "aboveChannel": 0.4153846153846154,
+                "relMedian": 0.9790123456790123,
+                "aboveLocal": 0.47692307692307695,
+                "hits": 3,
+                "hitRate": 0.046153846153846156,
+                "interactions": {
+                  "likes": {
+                    "median": 0.021437578814627996,
+                    "count": 65
+                  },
+                  "comments": {
+                    "median": 0,
+                    "count": 65
+                  },
+                  "shares": {
+                    "median": 0,
+                    "count": 65
+                  },
+                  "saves": {
+                    "median": 0.0007855459544383347,
+                    "count": 65
+                  }
+                }
+              },
+              {
+                "name": "30s–60s",
+                "count": 100,
+                "weak": false,
+                "young": 0,
+                "median": 871,
+                "q25": 577.75,
+                "q75": 1652.25,
+                "aboveChannel": 0.34,
+                "relMedian": 0.9844065656565656,
+                "aboveLocal": 0.5,
+                "hits": 3,
+                "hitRate": 0.03,
+                "interactions": {
+                  "likes": {
+                    "median": 0.025091913079553094,
+                    "count": 100
+                  },
+                  "comments": {
+                    "median": 0.00031096809228872517,
+                    "count": 100
+                  },
+                  "shares": {
+                    "median": 0,
+                    "count": 100
+                  },
+                  "saves": {
+                    "median": 0.0011469111656799986,
+                    "count": 100
+                  }
+                }
+              },
+              {
+                "name": ">60s",
+                "count": 54,
+                "weak": false,
+                "young": 1,
+                "median": 914.5,
+                "q25": 494.25,
+                "q75": 1544,
+                "aboveChannel": 0.35185185185185186,
+                "relMedian": 1.0658758974088556,
+                "aboveLocal": 0.5555555555555556,
+                "hits": 3,
+                "hitRate": 0.05555555555555555,
+                "interactions": {
+                  "likes": {
+                    "median": 0.023521505376344086,
+                    "count": 54
+                  },
+                  "comments": {
+                    "median": 0.0002304237987726644,
+                    "count": 54
+                  },
+                  "shares": {
+                    "median": 0,
+                    "count": 54
+                  },
+                  "saves": {
+                    "median": 0.00034046263600933616,
+                    "count": 54
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "stratum": "Tội phạm & mặt tối tài chính",
+            "comparable": true,
+            "durations": [
+              {
+                "name": "≤3:45",
+                "count": 7,
+                "weak": false,
+                "young": 1,
+                "median": 2019,
+                "q25": 1868.5,
+                "q75": 3282.5,
+                "aboveChannel": 1,
+                "relMedian": 1.2730138713745272,
+                "aboveLocal": 0.5714285714285714,
+                "hits": 1,
+                "hitRate": 0.14285714285714285,
+                "interactions": {
+                  "likes": {
+                    "median": 0.026985253959584926,
+                    "count": 7
+                  },
+                  "comments": {
+                    "median": 0.00047824007651841227,
+                    "count": 7
+                  },
+                  "shares": {
+                    "median": 0.0028935185185185184,
+                    "count": 7
+                  },
+                  "saves": {
+                    "median": 0.003472222222222222,
+                    "count": 7
+                  }
+                }
+              },
+              {
+                "name": "3:45–4:30",
+                "count": 4,
+                "weak": true,
+                "young": 0,
+                "median": 2169,
+                "q25": 2095.5,
+                "q75": 2678.25,
+                "aboveChannel": 1,
+                "relMedian": 1.100035424112789,
+                "aboveLocal": 0.75,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.03161200219798674,
+                    "count": 4
+                  },
+                  "comments": {
+                    "median": 0.00012025012025012025,
+                    "count": 4
+                  },
+                  "shares": {
+                    "median": 0.0042836056876618496,
+                    "count": 4
+                  },
+                  "saves": {
+                    "median": 0.004725585848830779,
+                    "count": 4
+                  }
+                }
+              },
+              {
+                "name": ">4:30",
+                "count": 6,
+                "weak": false,
+                "young": 1,
+                "median": 51428.5,
+                "q25": 3095.5,
+                "q75": 137725,
+                "aboveChannel": 0.6666666666666666,
+                "relMedian": 10.326701052473375,
+                "aboveLocal": 0.6666666666666666,
+                "hits": 3,
+                "hitRate": 0.5,
+                "interactions": {
+                  "likes": {
+                    "median": 0.04772615579036052,
+                    "count": 6
+                  },
+                  "comments": {
+                    "median": 0.0005902446076787552,
+                    "count": 6
+                  },
+                  "shares": {
+                    "median": 0.006359517886828561,
+                    "count": 6
+                  },
+                  "saves": {
+                    "median": 0.004514392203276003,
+                    "count": 6
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "timeline": [
+          {
+            "period": "Tuần từ 18/05/2026",
+            "key": "2026-05-18",
+            "count": 6,
+            "young": 0,
+            "median": 560.5,
+            "hits": 1,
+            "hitRate": 0.16666666666666666
+          },
+          {
+            "period": "Tuần từ 25/05/2026",
+            "key": "2026-05-25",
+            "count": 36,
+            "young": 0,
+            "median": 744,
+            "hits": 1,
+            "hitRate": 0.027777777777777776
+          },
+          {
+            "period": "Tuần từ 01/06/2026",
+            "key": "2026-06-01",
+            "count": 35,
+            "young": 0,
+            "median": 863,
+            "hits": 1,
+            "hitRate": 0.02857142857142857
+          },
+          {
+            "period": "Tuần từ 08/06/2026",
+            "key": "2026-06-08",
+            "count": 37,
+            "young": 0,
+            "median": 883,
+            "hits": 2,
+            "hitRate": 0.05405405405405406
+          },
+          {
+            "period": "Tuần từ 15/06/2026",
+            "key": "2026-06-15",
+            "count": 38,
+            "young": 0,
+            "median": 856.5,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "Tuần từ 22/06/2026",
+            "key": "2026-06-22",
+            "count": 19,
+            "young": 0,
+            "median": 1087,
+            "hits": 2,
+            "hitRate": 0.10526315789473684
+          },
+          {
+            "period": "Tuần từ 06/07/2026",
+            "key": "2026-07-06",
+            "count": 6,
+            "young": 0,
+            "median": 608.5,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "Tuần từ 13/07/2026",
+            "key": "2026-07-13",
+            "count": 2,
+            "young": 0,
+            "median": 2571,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "Tuần từ 20/07/2026",
+            "key": "2026-07-20",
+            "count": 2,
+            "young": 0,
+            "median": 802,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "Tuần từ 27/07/2026",
+            "key": "2026-07-27",
+            "count": 7,
+            "young": 0,
+            "median": 782,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "Tuần từ 03/08/2026",
+            "key": "2026-08-03",
+            "count": 10,
+            "young": 0,
+            "median": 1213,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "Tuần từ 10/08/2026",
+            "key": "2026-08-10",
+            "count": 5,
+            "young": 0,
+            "median": 1547,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "Tuần từ 17/08/2026",
+            "key": "2026-08-17",
+            "count": 6,
+            "young": 0,
+            "median": 1517,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "Tuần từ 14/09/2026",
+            "key": "2026-09-14",
+            "count": 1,
+            "young": 0,
+            "median": 12300,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "Tuần từ 21/09/2026",
+            "key": "2026-09-21",
+            "count": 1,
+            "young": 0,
+            "median": 1391,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "Tuần từ 28/09/2026",
+            "key": "2026-09-28",
+            "count": 1,
+            "young": 0,
+            "median": 3188,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "Tuần từ 05/10/2026",
+            "key": "2026-10-05",
+            "count": 2,
+            "young": 0,
+            "median": 5808,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "Tuần từ 12/10/2026",
+            "key": "2026-10-12",
+            "count": 13,
+            "young": 0,
+            "median": 41600,
+            "hits": 7,
+            "hitRate": 0.5384615384615384
+          },
+          {
+            "period": "Tuần từ 19/10/2026",
+            "key": "2026-10-19",
+            "count": 26,
+            "young": 0,
+            "median": 8642,
+            "hits": 12,
+            "hitRate": 0.46153846153846156
+          },
+          {
+            "period": "Tuần từ 26/10/2026",
+            "key": "2026-10-26",
+            "count": 24,
+            "young": 0,
+            "median": 1755.5,
+            "hits": 4,
+            "hitRate": 0.16666666666666666
+          },
+          {
+            "period": "Tuần từ 02/11/2026",
+            "key": "2026-11-02",
+            "count": 15,
+            "young": 7,
+            "median": 1500,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "Tuần từ 09/11/2026",
+            "key": "2026-11-09",
+            "count": 8,
+            "young": 8,
+            "median": 1067,
+            "hits": 1,
+            "hitRate": 0.125
+          }
+        ],
+        "pairs": [
+          {
+            "high": {
+              "id": "7654930194410523924",
+              "title": "Đại tá Phạm Thanh Tùng - Phó Giám đốc Công an tỉnh Vĩnh Long, được Bộ trưởng Bộ Công an điều động giữ chức Phó Giám đốc Công an tỉnh Tây Ninh. #congan #tiktoknews #xuhuong #Kinhtedongian ",
+              "url": "https://www.tiktok.com/@kinhtedongian.official/video/7654930194410523924",
+              "views": 130400,
+              "duration": 59,
+              "date": "2026-06-24",
+              "category": "Tin thời sự / chính trị"
+            },
+            "low": {
+              "id": "7646391451265305876",
+              "title": "TỔNG BÍ THƯ, CHỦ TỊCH NƯỚC TÔ LÂM \" Ở ĐẦU NGƯỜI DÂN CÒN BỨC XÚC, THẮC MẮC CHÍNH QUYỀN NƠI ĐÓ PHẢI CHỊU TRÁCH NHIỆM #tongbithuchutichnuoctolam #tiktoknews #xuhuong #Kinhtedongian ",
+              "url": "https://www.tiktok.com/@kinhtedongian.official/video/7646391451265305876",
+              "views": 213,
+              "duration": 61,
+              "date": "2026-06-01",
+              "category": "Tin thời sự / chính trị"
+            },
+            "ratio": 612.206572769953,
+            "daysApart": 22.894444444444446
+          },
+          {
+            "high": {
+              "id": "7643423773223456020",
+              "title": "Chỉ hơn 1 tháng nữa, Vingroup của tỷ phú Phạm Nhật Vượng sẽ khởi công siêu công trình hầm – cầu vượt biển đầu tiên trong lịch sử, tích hợp 2 đảo nhân tạo 3,4 tỷ USD tại thành phố giàu nhất Việt Nam #vingroup #tiktoknews #xuhuong #Kinhtedongian ",
+              "url": "https://www.tiktok.com/@kinhtedongian.official/video/7643423773223456020",
+              "views": 91600,
+              "duration": 26,
+              "date": "2026-05-24",
+              "category": "Tin thời sự / chính trị"
+            },
+            "low": {
+              "id": "7643065105739025685",
+              "title": "Tổng Bí thư, Chủ tịch nước TÔ LÂM: Xã, phường không được đánh đố dân #tongbithuchutichnuoctolam #Kinhtedongian #xuhuong #tiktoknews ",
+              "url": "https://www.tiktok.com/@kinhtedongian.official/video/7643065105739025685",
+              "views": 176,
+              "duration": 36,
+              "date": "2026-05-23",
+              "category": "Tin thời sự / chính trị"
+            },
+            "ratio": 520.4545454545455,
+            "daysApart": 0.9875
+          },
+          {
+            "high": {
+              "id": "7702123229443280148",
+              "title": "Tại sao các Giám đốc mua xe sang 5 tỷ luôn đứng tên Công ty chứ không bao giờ đứng tên cá nhân? #kinhtedongian #kinhtegithe #tintuc",
+              "url": "https://www.tiktok.com/@kinhtedongian.official/video/7702123229443280148",
+              "views": 331000,
+              "duration": 245,
+              "date": "2026-10-29",
+              "category": "Khái niệm tài chính"
+            },
+            "low": {
+              "id": "7704174173219786005",
+              "title": "TUỔI 35 BỊ AI THẾ CHỖ ? @hungtttoffical @kinhtegithe #kinhtedongian #kinhtegithe #hung001",
+              "url": "https://www.tiktok.com/@kinhtedongian.official/video/7704174173219786005",
+              "views": 1334,
+              "duration": 221,
+              "date": "2026-11-04",
+              "category": "Khái niệm tài chính"
+            },
+            "ratio": 248.12593703148426,
+            "daysApart": 5.526886574074074
+          },
+          {
+            "high": {
+              "id": "7697963191405432084",
+              "title": "TIỆM KÍNH VẮNG KHÁCH VẪN SỐNG KHỎE  #kinhtedongian #kinhtegithe #tintuc #matkinh",
+              "url": "https://www.tiktok.com/@kinhtedongian.official/video/7697963191405432084",
+              "views": 712800,
+              "duration": 355,
+              "date": "2026-10-18",
+              "category": "Giải mã mô hình kinh doanh"
+            },
+            "low": {
+              "id": "7697931089712614657",
+              "title": "THỊ TRƯỜNG BIA VIỆT NAM #kinhtedongian #kinhtegithe",
+              "url": "https://www.tiktok.com/@kinhtedongian.official/video/7697931089712614657",
+              "views": 2939,
+              "duration": 389,
+              "date": "2026-10-18",
+              "category": "Giải mã mô hình kinh doanh"
+            },
+            "ratio": 242.53147329023477,
+            "daysApart": 0.20221064814814815
+          },
+          {
+            "high": {
+              "id": "7697594989961809172",
+              "title": "Chuỗi nhà thuốc quá quen với mọi gia đình #kinhtedongian #kinhtegithe #tintuc ",
+              "url": "https://www.tiktok.com/@kinhtedongian.official/video/7697594989961809172",
+              "views": 213000,
+              "duration": 278,
+              "date": "2026-10-17",
+              "category": "Giải mã mô hình kinh doanh"
+            },
+            "low": {
+              "id": "7703623058455612692",
+              "title": "BẾP TỪ CHÂU ÂU 1 VỐN 10 LỜI ? @hungtttoffical@kinhtegithe #kinhtedongian #kinhtegithe #hung001",
+              "url": "https://www.tiktok.com/@kinhtedongian.official/video/7703623058455612692",
+              "views": 1278,
+              "duration": 251,
+              "date": "2026-11-03",
+              "category": "Giải mã mô hình kinh doanh"
+            },
+            "ratio": 166.66666666666666,
+            "daysApart": 16.24445601851852
+          },
+          {
+            "high": {
+              "id": "7699120393377828116",
+              "title": "CƠN SÓNG LÀM GIÀU TIẾP THEO MỌI NGƯỜI NGHỈ LÀ GÌ AD ĐI LÀM TÔ MÌ TÔM CÁI #kinhtedongian #kinhtegithe #tintuc #coin #chungkhoan #batdongsan",
+              "url": "https://www.tiktok.com/@kinhtedongian.official/video/7699120393377828116",
+              "views": 387900,
+              "duration": 339,
+              "date": "2026-10-21",
+              "category": "Khái niệm tài chính"
+            },
+            "low": {
+              "id": "7700129351999786261",
+              "title": "DÂN HÀN QUỐC SINH RA LÀM CHO SAMSUNG #kinhtedongian #kinhtegithe #tintuc #samsung",
+              "url": "https://www.tiktok.com/@kinhtedongian.official/video/7700129351999786261",
+              "views": 2554,
+              "duration": 367,
+              "date": "2026-10-24",
+              "category": "Khái niệm tài chính"
+            },
+            "ratio": 151.8794048551292,
+            "daysApart": 2.7189814814814817
+          },
+          {
+            "high": {
+              "id": "7702387339212999937",
+              "title": "tại sao nhiều quán vắng khai doanh thu 10 tỷ ? #kinhtedongian #kinhtegithe #tintuc",
+              "url": "https://www.tiktok.com/@kinhtedongian.official/video/7702387339212999937",
+              "views": 183100,
+              "duration": 184,
+              "date": "2026-10-30",
+              "category": "Tội phạm & mặt tối tài chính"
+            },
+            "low": {
+              "id": "7701003865696554260",
+              "title": "TH-ẬN 300TR CÒ BÁN 1 TỶ 5 ? #kinhtedongian #kinhtegithe #tintuc",
+              "url": "https://www.tiktok.com/@kinhtedongian.official/video/7701003865696554260",
+              "views": 1715,
+              "duration": 160,
+              "date": "2026-10-26",
+              "category": "Tội phạm & mặt tối tài chính"
+            },
+            "ratio": 106.76384839650146,
+            "daysApart": 3.7282060185185184
+          },
+          {
+            "high": {
+              "id": "7699137917037464853",
+              "title": "TRÀ SỮA NHƯỢNG QUYỀN NHƯỢNG LUÔN CUỘC ĐỜI #kinhtedongian #kinhtegithe #tintuc #fnbvietnam #kinhdoanhfnb",
+              "url": "https://www.tiktok.com/@kinhtedongian.official/video/7699137917037464853",
+              "views": 93400,
+              "duration": 465,
+              "date": "2026-10-21",
+              "category": "Tội phạm & mặt tối tài chính"
+            },
+            "low": {
+              "id": "7700846206351576340",
+              "title": "BẪY TRÁI PHIẾU LÃI SUẤT CAO #kinhtedongian #kinhtegithe #tintuc #traiphieudoanhnghiep #batdongsan",
+              "url": "https://www.tiktok.com/@kinhtedongian.official/video/7700846206351576340",
+              "views": 975,
+              "duration": 430,
+              "date": "2026-10-26",
+              "category": "Tội phạm & mặt tối tài chính"
+            },
+            "ratio": 95.7948717948718,
+            "daysApart": 4.603541666666667
+          }
+        ]
+      },
+      "era": {
+        "start": "2026-10-07",
+        "timestamp": 1791351896,
+        "count": 87,
+        "medianDurationBefore": 43,
+        "medianDurationAfter": 239,
+        "medianViewsBefore": 893,
+        "medianViewsAfter": 2506
+      },
+      "scope": {
+        "count": 87,
+        "medianViews": 2506,
+        "categories": [
+          {
+            "name": "Tin thời sự / chính trị",
+            "count": 6,
+            "median": 5431,
+            "mean": 30379.333333333332,
+            "q25": 1680,
+            "q75": 44589.5,
+            "relMedian": 0.8562783445165749,
+            "relQ25": 0.5566278467908903,
+            "relQ75": 10.895717538052764
+          },
+          {
+            "name": "Khái niệm tài chính",
+            "count": 18,
+            "median": 4904.5,
+            "mean": 52902.666666666664,
+            "q25": 2049.75,
+            "q75": 23125,
+            "relMedian": 2.0696911188642453,
+            "relQ25": 0.8068851674641149,
+            "relQ75": 9.094506948192258
+          },
+          {
+            "name": "Giải mã mô hình kinh doanh",
+            "count": 46,
+            "median": 2288,
+            "mean": 59000.69565217391,
+            "q25": 1513.75,
+            "q75": 8718,
+            "relMedian": 0.789994633478718,
+            "relQ25": 0.5707383048094737,
+            "relQ75": 1.8273266123735716
+          },
+          {
+            "name": "Tội phạm & mặt tối tài chính",
+            "count": 17,
+            "median": 2153,
+            "mean": 54903.117647058825,
+            "q25": 1923,
+            "q75": 9457,
+            "relMedian": 1.2730138713745272,
+            "relQ25": 0.6714956930305404,
+            "relQ75": 2.757473035439137
+          }
+        ],
+        "note": "timeBuckets, weekdays, durations, tags and scope.categories only cover the current format when era is set"
+      },
+      "timeBuckets": [
+        {
+          "name": "Sáng (5–11h)",
+          "count": 10,
+          "median": 5301.5,
+          "mean": 138025.7,
+          "q25": 2189.25,
+          "q75": 42939.25,
+          "relMedian": 2.5861959128596226,
+          "relQ25": 1.1145238169305696,
+          "relQ75": 3.5905374149659863
+        },
+        {
+          "name": "Trưa (11–14h)",
+          "count": 25,
+          "median": 2009,
+          "mean": 7802.56,
+          "q25": 1367,
+          "q75": 9015,
+          "relMedian": 0.6636231884057971,
+          "relQ25": 0.48245315161839863,
+          "relQ75": 1.2730138713745272
+        },
+        {
+          "name": "Chiều (14–18h)",
+          "count": 21,
+          "median": 2298,
+          "mean": 26939.428571428572,
+          "q25": 1798,
+          "q75": 6866,
+          "relMedian": 0.8410315627405697,
+          "relQ25": 0.6195931727846622,
+          "relQ75": 2.107598447032723
+        },
+        {
+          "name": "Tối (18–23h)",
+          "count": 23,
+          "median": 4158,
+          "mean": 97479.60869565218,
+          "q25": 1719.5,
+          "q75": 94050,
+          "relMedian": 1.5109043326548415,
+          "relQ25": 0.8140520497466606,
+          "relQ75": 20.27959708780445
+        },
+        {
+          "name": "Đêm (23–5h)",
+          "count": 8,
+          "median": 2247,
+          "mean": 49853.625,
+          "q25": 1305,
+          "q75": 16692.75,
+          "relMedian": 0.7502003713487562,
+          "relQ25": 0.5592814681183094,
+          "relQ75": 4.133908596563395
+        }
+      ],
+      "categories": [
+        {
+          "name": "Khái niệm tài chính",
+          "count": 18,
+          "median": 4904.5,
+          "mean": 52902.666666666664,
+          "q25": 2049.75,
+          "q75": 23125,
+          "relMedian": 2.0696911188642453,
+          "relQ25": 0.8068851674641149,
+          "relQ75": 9.094506948192258
+        },
+        {
+          "name": "Giải mã mô hình kinh doanh",
+          "count": 46,
+          "median": 2288,
+          "mean": 59000.69565217391,
+          "q25": 1513.75,
+          "q75": 8718,
+          "relMedian": 0.789994633478718,
+          "relQ25": 0.5707383048094737,
+          "relQ75": 1.8273266123735716
+        },
+        {
+          "name": "Tội phạm & mặt tối tài chính",
+          "count": 17,
+          "median": 2153,
+          "mean": 54903.117647058825,
+          "q25": 1923,
+          "q75": 9457,
+          "relMedian": 1.2730138713745272,
+          "relQ25": 0.6714956930305404,
+          "relQ75": 2.757473035439137
+        },
+        {
+          "name": "Tin thời sự / chính trị",
+          "count": 219,
+          "median": 910,
+          "mean": 4554.557077625571,
+          "q25": 606,
+          "q75": 1573,
+          "relMedian": 1.0222222222222221,
+          "relQ25": 0.6397747332872823,
+          "relQ75": 1.754731219619335
+        }
+      ],
+      "months": [
+        {
+          "name": "2026-05",
+          "count": 42,
+          "median": 715,
+          "mean": 6018.928571428572,
+          "q25": 378,
+          "q75": 1088,
+          "relMedian": 0.9338566576557843,
+          "relQ25": 0.505599100388103,
+          "relQ75": 1.4468691228871267
+        },
+        {
+          "name": "2026-06",
+          "count": 129,
+          "median": 880,
+          "mean": 3745.170542635659,
+          "q25": 634,
+          "q75": 1545,
+          "relMedian": 1.0352272727272727,
+          "relQ25": 0.7180067950169875,
+          "relQ75": 1.8762626262626263
+        },
+        {
+          "name": "2026-07",
+          "count": 17,
+          "median": 782,
+          "mean": 1074,
+          "q25": 605,
+          "q75": 1277,
+          "relMedian": 1.0454545454545454,
+          "relQ25": 0.5368421052631579,
+          "relQ75": 1.7072192513368984
+        },
+        {
+          "name": "2026-08",
+          "count": 21,
+          "median": 1304,
+          "mean": 1983.5714285714287,
+          "q25": 1019,
+          "q75": 1701,
+          "relMedian": 0.975317875841436,
+          "relQ25": 0.6570111915734036,
+          "relQ75": 1.2733672272193977
+        },
+        {
+          "name": "2026-09",
+          "count": 2,
+          "median": 6845.5,
+          "mean": 6845.5,
+          "q25": 4118.25,
+          "q75": 9572.75,
+          "relMedian": 2.875705843111606,
+          "relQ25": 1.4943976370029572,
+          "relQ75": 4.257014049220254
+        },
+        {
+          "name": "2026-10",
+          "count": 64,
+          "median": 3717.5,
+          "mean": 73747.515625,
+          "q25": 1998.5,
+          "q75": 54675,
+          "relMedian": 1.091015942821754,
+          "relQ25": 0.5663426919287035,
+          "relQ75": 5.125129138524215
+        },
+        {
+          "name": "2026-11",
+          "count": 25,
+          "median": 1500,
+          "mean": 2708.56,
+          "q25": 1118,
+          "q75": 2019,
+          "relMedian": 0.9281575898030128,
+          "relQ25": 0.6978776529338327,
+          "relQ75": 1.3052434456928839
+        }
+      ],
+      "weekdays": [
+        {
+          "name": "T2",
+          "count": 13,
+          "median": 2631,
+          "mean": 59846.92307692308,
+          "q25": 1648,
+          "q75": 25200,
+          "relMedian": 1.1982254486791692,
+          "relQ25": 0.6452623335943618,
+          "relQ75": 10.610653962754439
+        },
+        {
+          "name": "T3",
+          "count": 10,
+          "median": 1322.5,
+          "mean": 9517.6,
+          "q25": 1245,
+          "q75": 6317,
+          "relMedian": 0.7320654365799557,
+          "relQ25": 0.6202912702853945,
+          "relQ75": 1.109259551941077
+        },
+        {
+          "name": "T4",
+          "count": 15,
+          "median": 2298,
+          "mean": 34660.333333333336,
+          "q25": 1324,
+          "q75": 5749.5,
+          "relMedian": 1.0673478866697632,
+          "relQ25": 0.724754177934956,
+          "relQ75": 1.9370033151235
+        },
+        {
+          "name": "T5",
+          "count": 12,
+          "median": 3965.5,
+          "mean": 32741.416666666668,
+          "q25": 2137.5,
+          "q75": 8824.5,
+          "relMedian": 1.1674471652185128,
+          "relQ25": 0.6012650101961059,
+          "relQ75": 2.9919358474692475
+        },
+        {
+          "name": "T6",
+          "count": 13,
+          "median": 9457,
+          "mean": 132909.92307692306,
+          "q25": 2019,
+          "q75": 60400,
+          "relMedian": 2.543913920645595,
+          "relQ25": 1.0489335006273526,
+          "relQ75": 25.228891149542218
+        },
+        {
+          "name": "T7",
+          "count": 13,
+          "median": 2554,
+          "mean": 38224.53846153846,
+          "q25": 1586,
+          "q75": 54100,
+          "relMedian": 0.6978776529338327,
+          "relQ25": 0.5426599749058971,
+          "relQ75": 3.6802721088435373
+        },
+        {
+          "name": "CN",
+          "count": 11,
+          "median": 1798,
+          "mean": 70106.63636363637,
+          "q25": 1622.5,
+          "q75": 2722.5,
+          "relMedian": 0.9281575898030128,
+          "relQ25": 0.578007966041231,
+          "relQ75": 1.2361319340329835
+        }
+      ],
+      "durations": [
+        {
+          "name": "≤1 phút",
+          "count": 6,
+          "median": 1782,
+          "mean": 20026.166666666668,
+          "q25": 1374.25,
+          "q75": 2381.75,
+          "relMedian": 0.4697966678374344,
+          "relQ25": 0.3702347076619634,
+          "relQ75": 0.7202620748575947
+        },
+        {
+          "name": "1–3 phút",
+          "count": 14,
+          "median": 1816.5,
+          "mean": 10521.214285714286,
+          "q25": 1537,
+          "q75": 6013.75,
+          "relMedian": 0.578007966041231,
+          "relQ25": 0.5310906170186211,
+          "relQ75": 0.7568006694245857
+        },
+        {
+          "name": "3–4 phút",
+          "count": 26,
+          "median": 2122,
+          "mean": 11325.961538461539,
+          "q25": 1590,
+          "q75": 3832.5,
+          "relMedian": 1.039292192685747,
+          "relQ25": 0.7570275119617225,
+          "relQ75": 1.4610019409511863
+        },
+        {
+          "name": "4–6 phút",
+          "count": 22,
+          "median": 9307.5,
+          "mean": 90396.72727272728,
+          "q25": 1821,
+          "q75": 59150,
+          "relMedian": 1.6390092052570797,
+          "relQ25": 0.7165512659882667,
+          "relQ75": 12.499918027411635
+        },
+        {
+          "name": ">6 phút",
+          "count": 19,
+          "median": 4982,
+          "mean": 117434.31578947368,
+          "q25": 2426,
+          "q75": 94050,
+          "relMedian": 3.3213333333333335,
+          "relQ25": 0.8771843670067041,
+          "relQ75": 16.143733534081193
+        }
+      ],
+      "tags": [
+        {
+          "name": "#kinhtedongian",
+          "count": 87,
+          "median": 2506,
+          "mean": 54964.471264367814,
+          "q25": 1622.5,
+          "q75": 15800,
+          "relMedian": 1.0296508847441415,
+          "relQ25": 0.5867191201353639,
+          "relQ75": 3.4493754425190986
+        },
+        {
+          "name": "#kinhtegithe",
+          "count": 87,
+          "median": 2506,
+          "mean": 54964.471264367814,
+          "q25": 1622.5,
+          "q75": 15800,
+          "relMedian": 1.0296508847441415,
+          "relQ25": 0.5867191201353639,
+          "relQ75": 3.4493754425190986
+        },
+        {
+          "name": "#tintuc",
+          "count": 66,
+          "median": 3214,
+          "mean": 71456.0303030303,
+          "q25": 1725,
+          "q75": 52975,
+          "relMedian": 0.9789042372735771,
+          "relQ25": 0.5741201085908887,
+          "relQ75": 4.436760312733028
+        },
+        {
+          "name": "#hung001",
+          "count": 24,
+          "median": 1417,
+          "mean": 2754.6666666666665,
+          "q25": 1060,
+          "q75": 2037,
+          "relMedian": 0.8947551613841233,
+          "relQ25": 0.6705749063670412,
+          "relQ75": 1.3158891060087934
+        },
+        {
+          "name": "#batdongsan",
+          "count": 8,
+          "median": 2055,
+          "mean": 50262.625,
+          "q25": 1539.75,
+          "q75": 2746.75,
+          "relMedian": 1.003850421304861,
+          "relQ25": 0.5696654833081974,
+          "relQ75": 1.668300843129447
+        },
+        {
+          "name": "#nhadat",
+          "count": 4,
+          "median": 2055,
+          "mean": 2331.75,
+          "q25": 1700,
+          "q75": 2686.75,
+          "relMedian": 1.2891286585337056,
+          "relQ25": 1.0858472066360472,
+          "relQ75": 1.668300843129447
+        },
+        {
+          "name": "#tintuc24h",
+          "count": 3,
+          "median": 6866,
+          "mean": 5976.333333333333,
+          "q25": 4385.5,
+          "q75": 8012,
+          "relMedian": 0.14349007314524556,
+          "relQ25": 0.09165099268547544,
+          "relQ75": 0.4035566307755214
+        },
+        {
+          "name": "#tiktoknews",
+          "count": 2,
+          "median": 4385.5,
+          "mean": 4385.5,
+          "q25": 3145.25,
+          "q75": 5625.75,
+          "relMedian": 0.09165099268547544,
+          "relQ25": 0.0657314524555904,
+          "relQ75": 0.11757053291536051
+        },
+        {
+          "name": "#hientangnhandao",
+          "count": 2,
+          "median": 84200,
+          "mean": 84200,
+          "q25": 70300,
+          "q75": 98100,
+          "relMedian": 24.51276044379745,
+          "relQ25": 19.345369663829345,
+          "relQ75": 29.680151223765556
+        },
+        {
+          "name": "#hientang",
+          "count": 2,
+          "median": 84200,
+          "mean": 84200,
+          "q25": 70300,
+          "q75": 98100,
+          "relMedian": 24.51276044379745,
+          "relQ25": 19.345369663829345,
+          "relQ75": 29.680151223765556
+        },
+        {
+          "name": "#nganhang",
+          "count": 2,
+          "median": 3246.5,
+          "mean": 3246.5,
+          "q25": 2632.75,
+          "q75": 3860.25,
+          "relMedian": 2.015243453406832,
+          "relQ25": 1.6441286623906797,
+          "relQ75": 2.3863582444229845
+        },
+        {
+          "name": "#nonson",
+          "count": 1,
+          "median": 1200000,
+          "mean": 1200000,
+          "q25": 1200000,
+          "q75": 1200000,
+          "relMedian": 71.00591715976331,
+          "relQ25": 71.00591715976331,
+          "relQ75": 71.00591715976331
+        },
+        {
+          "name": "#concung",
+          "count": 1,
+          "median": 94700,
+          "mean": 94700,
+          "q25": 94700,
+          "q75": 94700,
+          "relMedian": 6.86231884057971,
+          "relQ25": 6.86231884057971,
+          "relQ75": 6.86231884057971
+        },
+        {
+          "name": "#valimia",
+          "count": 1,
+          "median": 41600,
+          "mean": 41600,
+          "q25": 41600,
+          "q75": 41600,
+          "relMedian": 3.577417551704863,
+          "relQ25": 3.577417551704863,
+          "relQ75": 3.577417551704863
+        },
+        {
+          "name": "#matkinh",
+          "count": 1,
+          "median": 712800,
+          "mean": 712800,
+          "q25": 712800,
+          "q75": 712800,
+          "relMedian": 77.17626678215677,
+          "relQ25": 77.17626678215677,
+          "relQ75": 77.17626678215677
+        }
+      ],
+      "styles": [
+        {
+          "id": "7697093977106926868",
+          "duration": 462.058005,
+          "language": "vi",
+          "changes": 62,
+          "secPerChange": 7.334254047619047,
+          "cuts": 16,
+          "changesFirst3s": 1,
+          "firstChangeAt": 0.133333,
+          "wpm": 232.60907657263013,
+          "speechCoverage": 0.9881010502133817,
+          "lufs": -18.8,
+          "hook": "Có một truyền thuyết đô thị mà bất kỳ ai sống ở Việt Nam cũng",
+          "motion": {
+            "beats": 131,
+            "beatsPerMin": 17.02,
+            "medianBeat": 2.83,
+            "beatsFirst3s": 1,
+            "entrances": {
+              "cut": 92,
+              "drop": 5,
+              "slide-left": 14,
+              "slide-right": 15,
+              "fade": 1,
+              "draw-down": 2,
+              "draw-left": 1,
+              "slide-up": 1
+            },
+            "caption": {
+              "swaps": 16,
+              "medianInterval": 30.04,
+              "box": [
+                0.044,
+                0.413,
+                0.911,
+                0.15
+              ]
+            },
+            "firstBeats": [
+              {
+                "t": 0.13,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 5.13,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 6.16,
+                "at": null,
+                "fx": "drop"
+              },
+              {
+                "t": 7.96,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 9.24,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 10.33,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 10.78,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 15.66,
+                "at": null,
+                "fx": "cut"
+              }
+            ]
+          },
+          "title": "ĐẶC VỤ NON SON #nonson #kinhtedongian #kinhtegithe #tintuc",
+          "views": 1200000,
+          "folder": "tiktok/kinhtedongian.official/style/7697093977106926868"
+        },
+        {
+          "id": "7697963191405432084",
+          "duration": 355.677007,
+          "language": "vi",
+          "changes": 23,
+          "secPerChange": 14.819875291666667,
+          "cuts": 16,
+          "changesFirst3s": 1,
+          "firstChangeAt": 0.2,
+          "wpm": 232.9427980702963,
+          "speechCoverage": 0.979090560104719,
+          "lufs": -18.2,
+          "hook": "Giải mã bíẩn các cửa hàng mắt kính ở vị trí đắc địa,",
+          "motion": {
+            "beats": 90,
+            "beatsPerMin": 15.19,
+            "medianBeat": 3.56,
+            "beatsFirst3s": 1,
+            "entrances": {
+              "cut": 52,
+              "slide-right": 15,
+              "fade": 10,
+              "slide-left": 9,
+              "drop": 1,
+              "slide-up": 2,
+              "draw-down": 1
+            },
+            "caption": {
+              "swaps": 27,
+              "medianInterval": 10.08,
+              "box": [
+                0.022,
+                0.313,
+                0.956,
+                0.125
+              ]
+            },
+            "firstBeats": [
+              {
+                "t": 0.2,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 4.94,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 6.73,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 7.71,
+                "at": null,
+                "fx": "slide-right"
+              },
+              {
+                "t": 8.69,
+                "at": null,
+                "fx": "slide-right"
+              },
+              {
+                "t": 12.05,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 15.61,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 16.53,
+                "at": null,
+                "fx": "cut"
+              }
+            ]
+          },
+          "title": "TIỆM KÍNH VẮNG KHÁCH VẪN SỐNG KHỎE  #kinhtedongian #kinhtegithe #tintuc #matkinh",
+          "views": 712800,
+          "folder": "tiktok/kinhtedongian.official/style/7697963191405432084"
+        },
+        {
+          "id": "7698381666473315604",
+          "duration": 586.376009,
+          "language": "vi",
+          "changes": 32,
+          "secPerChange": 17.76896996969697,
+          "cuts": 21,
+          "changesFirst3s": 1,
+          "firstChangeAt": 0.2,
+          "wpm": 229.7783933518005,
+          "speechCoverage": 0.9850334787486167,
+          "lufs": -18.4,
+          "hook": "Giả sử sáng mai thức dậy, mở cửa phòng trọ ra,",
+          "motion": {
+            "beats": 116,
+            "beatsPerMin": 11.87,
+            "medianBeat": 3.64,
+            "beatsFirst3s": 2,
+            "entrances": {
+              "cut": 98,
+              "slide-right": 7,
+              "drop": 4,
+              "fade": 3,
+              "draw-right": 1,
+              "slide-left": 2,
+              "draw-down": 1
+            },
+            "caption": {
+              "swaps": 20,
+              "medianInterval": 17.27,
+              "box": [
+                0.067,
+                0.325,
+                0.844,
+                0.126
+              ]
+            },
+            "firstBeats": [
+              {
+                "t": 0.2,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 0.65,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 6.52,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 14.01,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 14.6,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 18.24,
+                "at": null,
+                "fx": "slide-right"
+              },
+              {
+                "t": 21.17,
+                "at": null,
+                "fx": "drop"
+              },
+              {
+                "t": 28.63,
+                "at": null,
+                "fx": "cut"
+              }
+            ]
+          },
+          "title": "NẾU MỘT NGÀY BẠN CÓ 1000 TỶ TIỀN MẶT TRÊN TRỜI RƠI XUỐNG ? #kinhtedongian #kinhtegithe #tintuc",
+          "views": 469100,
+          "folder": "tiktok/kinhtedongian.official/style/7698381666473315604"
+        },
+        {
+          "id": "7699120393377828116",
+          "duration": 339.976009,
+          "language": "vi",
+          "changes": 29,
+          "secPerChange": 11.332533633333332,
+          "cuts": 18,
+          "changesFirst3s": 1,
+          "firstChangeAt": 0.2,
+          "wpm": 216.05667060212514,
+          "speechCoverage": 0.9965409059202176,
+          "lufs": -18,
+          "hook": "Quy luật chu kỳ làm giàu của các thế hệ 7x giàu nhờ",
+          "motion": {
+            "beats": 67,
+            "beatsPerMin": 11.83,
+            "medianBeat": 2.72,
+            "beatsFirst3s": 3,
+            "entrances": {
+              "cut": 27,
+              "slide-right": 17,
+              "slide-left": 8,
+              "slide-up": 3,
+              "draw-down": 1,
+              "fade": 3,
+              "drop": 5,
+              "draw-up": 2,
+              "draw-right": 1
+            },
+            "caption": {
+              "swaps": 5,
+              "medianInterval": 84.14,
+              "box": [
+                0.022,
+                0.225,
+                0.933,
+                0.113
+              ]
+            },
+            "firstBeats": [
+              {
+                "t": 0.2,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 0.57,
+                "at": null,
+                "fx": "slide-right"
+              },
+              {
+                "t": 2.27,
+                "at": null,
+                "fx": "slide-left"
+              },
+              {
+                "t": 4.34,
+                "at": null,
+                "fx": "slide-up"
+              },
+              {
+                "t": 6.04,
+                "at": null,
+                "fx": "slide-right"
+              },
+              {
+                "t": 16.63,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 17,
+                "at": null,
+                "fx": "draw-down"
+              },
+              {
+                "t": 22.29,
+                "at": null,
+                "fx": "slide-right"
+              }
+            ]
+          },
+          "title": "CƠN SÓNG LÀM GIÀU TIẾP THEO MỌI NGƯỜI NGHỈ LÀ GÌ AD ĐI LÀM TÔ MÌ TÔM CÁI #kinhtedongian #kinhtegithe #tintuc #coin #chungkhoan #batdongsan",
+          "views": 387900,
+          "folder": "tiktok/kinhtedongian.official/style/7699120393377828116"
+        },
+        {
+          "id": "7702123229443280148",
+          "duration": 245.17,
+          "language": "vi",
+          "changes": 44,
+          "secPerChange": 5.448222222222222,
+          "cuts": 13,
+          "changesFirst3s": 1,
+          "firstChangeAt": 0.2,
+          "wpm": 245.46370967741927,
+          "speechCoverage": 0.9710812905330997,
+          "lufs": -18.2,
+          "hook": "Tại sao các giám đốc mua xe sang 5 tỷ luôn đứng tên công",
+          "motion": {
+            "beats": 107,
+            "beatsPerMin": 26.21,
+            "medianBeat": 1.63,
+            "beatsFirst3s": 4,
+            "entrances": {
+              "cut": 51,
+              "slide-left": 16,
+              "fade": 13,
+              "slide-right": 16,
+              "draw-down": 4,
+              "draw-right": 3,
+              "slide-up": 1,
+              "drop": 2,
+              "draw-up": 1
+            },
+            "caption": {
+              "swaps": 16,
+              "medianInterval": 4.36,
+              "box": [
+                0.311,
+                0.938,
+                0.6,
+                0.063
+              ]
+            },
+            "firstBeats": [
+              {
+                "t": 0.2,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 1.23,
+                "at": null,
+                "fx": "slide-left"
+              },
+              {
+                "t": 1.91,
+                "at": null,
+                "fx": "slide-left"
+              },
+              {
+                "t": 2.72,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 3.1,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 12.26,
+                "at": null,
+                "fx": "fade"
+              },
+              {
+                "t": 12.8,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 14.17,
+                "at": null,
+                "fx": "slide-left"
+              }
+            ]
+          },
+          "title": "Tại sao các Giám đốc mua xe sang 5 tỷ luôn đứng tên Công ty chứ không bao giờ đứng tên cá nhân? #kinhtedongian #kinhtegithe #tintuc",
+          "views": 331000,
+          "folder": "tiktok/kinhtedongian.official/style/7702123229443280148"
+        }
+      ],
+      "top": [
+        {
+          "id": "7697093977106926868",
+          "title": "ĐẶC VỤ NON SON #nonson #kinhtedongian #kinhtegithe #tintuc",
+          "url": "https://www.tiktok.com/@kinhtedongian.official/video/7697093977106926868",
+          "views": 1200000,
+          "er": 0.110785,
+          "duration": 462,
+          "date": "2026-10-16",
+          "time": "09:55",
+          "category": "Giải mã mô hình kinh doanh",
+          "ratio": 962.3095429029671
+        },
+        {
+          "id": "7697963191405432084",
+          "title": "TIỆM KÍNH VẮNG KHÁCH VẪN SỐNG KHỎE  #kinhtedongian #kinhtegithe #tintuc #matkinh",
+          "url": "https://www.tiktok.com/@kinhtedongian.official/video/7697963191405432084",
+          "views": 712800,
+          "er": 0.0660016835016835,
+          "duration": 355,
+          "date": "2026-10-18",
+          "time": "18:08",
+          "category": "Giải mã mô hình kinh doanh",
+          "ratio": 571.6118684843625
+        },
+        {
+          "id": "7698381666473315604",
+          "title": "NẾU MỘT NGÀY BẠN CÓ 1000 TỶ TIỀN MẶT TRÊN TRỜI RƠI XUỐNG ? #kinhtedongian #kinhtegithe #tintuc",
+          "url": "https://www.tiktok.com/@kinhtedongian.official/video/7698381666473315604",
+          "views": 469100,
+          "er": 0.08661692602856534,
+          "duration": 586,
+          "date": "2026-10-19",
+          "time": "21:12",
+          "category": "Tội phạm & mặt tối tài chính",
+          "ratio": 376.1828388131516
+        },
+        {
+          "id": "7699120393377828116",
+          "title": "CƠN SÓNG LÀM GIÀU TIẾP THEO MỌI NGƯỜI NGHỈ LÀ GÌ AD ĐI LÀM TÔ MÌ TÔM CÁI #kinhtedongian #kinhtegithe #tintuc #coin #chungkhoan #batdongsan",
+          "url": "https://www.tiktok.com/@kinhtedongian.official/video/7699120393377828116",
+          "views": 387900,
+          "er": 0.08524619747357566,
+          "duration": 339,
+          "date": "2026-10-21",
+          "time": "20:59",
+          "category": "Khái niệm tài chính",
+          "ratio": 311.0665597433841
+        },
+        {
+          "id": "7702123229443280148",
+          "title": "Tại sao các Giám đốc mua xe sang 5 tỷ luôn đứng tên Công ty chứ không bao giờ đứng tên cá nhân? #kinhtedongian #kinhtegithe #tintuc",
+          "url": "https://www.tiktok.com/@kinhtedongian.official/video/7702123229443280148",
+          "views": 331000,
+          "er": 0.044939577039274925,
+          "duration": 245,
+          "date": "2026-10-29",
+          "time": "23:11",
+          "category": "Khái niệm tài chính",
+          "ratio": 265.43704891740174
+        },
+        {
+          "id": "7697594989961809172",
+          "title": "Chuỗi nhà thuốc quá quen với mọi gia đình #kinhtedongian #kinhtegithe #tintuc ",
+          "url": "https://www.tiktok.com/@kinhtedongian.official/video/7697594989961809172",
+          "views": 213000,
+          "er": 0.05410798122065728,
+          "duration": 278,
+          "date": "2026-10-17",
+          "time": "18:20",
+          "category": "Giải mã mô hình kinh doanh",
+          "ratio": 170.80994386527667
+        },
+        {
+          "id": "7702387339212999937",
+          "title": "tại sao nhiều quán vắng khai doanh thu 10 tỷ ? #kinhtedongian #kinhtegithe #tintuc",
+          "url": "https://www.tiktok.com/@kinhtedongian.official/video/7702387339212999937",
+          "views": 183100,
+          "er": 0.0379191698525396,
+          "duration": 184,
+          "date": "2026-10-30",
+          "time": "16:16",
+          "category": "Tội phạm & mặt tối tài chính",
+          "ratio": 146.83239775461107
+        },
+        {
+          "id": "7698328391631654165",
+          "title": "Tiền bẩn từ cb được rửa như thế nào ? #kinhtedongian #kinhtegithe #tintuc ",
+          "url": "https://www.tiktok.com/@kinhtedongian.official/video/7698328391631654165",
+          "views": 152500,
+          "er": 0.0715344262295082,
+          "duration": 544,
+          "date": "2026-10-19",
+          "time": "17:46",
+          "category": "Tội phạm & mặt tối tài chính",
+          "ratio": 122.2935044105854
+        },
+        {
+          "id": "7699863674399247636",
+          "title": "BUÔN VE CHAI ĐỒNG NÁT VUA CỦA MỌI NGHỀ #kinhtedongian #kinhtegithe #tintuc",
+          "url": "https://www.tiktok.com/@kinhtedongian.official/video/7699863674399247636",
+          "views": 152400,
+          "er": 0.08214566929133858,
+          "duration": 267,
+          "date": "2026-10-23",
+          "time": "21:03",
+          "category": "Giải mã mô hình kinh doanh",
+          "ratio": 122.21331194867682
+        },
+        {
+          "id": "7654930194410523924",
+          "title": "Đại tá Phạm Thanh Tùng - Phó Giám đốc Công an tỉnh Vĩnh Long, được Bộ trưởng Bộ Công an điều động giữ chức Phó Giám đốc Công an tỉnh Tây Ninh. #congan #tiktoknews #xuhuong #Kinhtedongian ",
+          "url": "https://www.tiktok.com/@kinhtedongian.official/video/7654930194410523924",
+          "views": 130400,
+          "er": 0.007361963190184049,
+          "duration": 59,
+          "date": "2026-06-24",
+          "time": "19:28",
+          "category": "Tin thời sự / chính trị",
+          "ratio": 104.57097032878909
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Kinh Tế Đơn Giản — phân tích đối thủ
 
-Cập nhật 2026-11-11 · TikTok: @kinhtedongian.official. Biểu đồ xem trong `kinh-te-don-gian.html`.
+Cập nhật 2026-11-12 · TikTok: @kinhtedongian.official. Biểu đồ xem trong `kinh-te-don-gian.html`.
 
 ## Nhận định
 
@@ -128,7 +128,7 @@ View là số tích lũy trong cache, không phải view ở cùng tuổi bài; 
 |---|---|---|---|---|---|---|
 | Khái niệm tài chính | 18 · 4 bài <7 ngày | 4,9k | 2k–23k | 7/18 | 2,1× | 66,7% |
 | Giải mã mô hình kinh doanh | 46 · 8 bài <7 ngày | 2,3k | 1,5k–8,7k | 11/46 | 0,8× | 39,1% |
-| Tội phạm & mặt tối tài chính | 17 · 4 bài <7 ngày | 2,2k | 1,9k–9,5k | 4/17 | 1,3× | 64,7% |
+| Tội phạm & mặt tối tài chính | 17 · 2 bài <7 ngày | 2,2k | 1,9k–9,5k | 4/17 | 1,3× | 64,7% |
 | Tin thời sự / chính trị | 219 · 1 bài <7 ngày | 910 | 606–1,6k | 9/219 | 1,0× | 50,7% |
 
 **Tỷ lệ hit theo tuần (mọi bài)**
@@ -155,7 +155,7 @@ View là số tích lũy trong cache, không phải view ở cùng tuổi bài; 
 | Tuần từ 12/10/2026 | 13 | 42k | 7/13 |
 | Tuần từ 19/10/2026 | 26 | 8,6k | 12/26 |
 | Tuần từ 26/10/2026 | 24 | 1,8k | 4/24 |
-| Tuần từ 02/11/2026 | 15 · 9 bài <7 ngày | 1,5k | 0/15 |
+| Tuần từ 02/11/2026 | 15 · 7 bài <7 ngày | 1,5k | 0/15 |
 | Tuần từ 09/11/2026 | 8 · 8 bài <7 ngày | 1,1k | 1/8 |
 
 **Kiểm tra khi bỏ video nhiều view nhất toàn kênh**
@@ -164,15 +164,15 @@ View là số tích lũy trong cache, không phải view ở cùng tuổi bài; 
 |---|---|---|---|---|
 | 0 | Khái niệm tài chính | 18 · 4 bài <7 ngày | 4,9k | Có (có thể đồng hạng) |
 | 0 | Giải mã mô hình kinh doanh | 46 · 8 bài <7 ngày | 2,3k | — |
-| 0 | Tội phạm & mặt tối tài chính | 17 · 4 bài <7 ngày | 2,2k | — |
+| 0 | Tội phạm & mặt tối tài chính | 17 · 2 bài <7 ngày | 2,2k | — |
 | 0 | Tin thời sự / chính trị | 219 · 1 bài <7 ngày | 910 | — |
 | 1 | Khái niệm tài chính | 18 · 4 bài <7 ngày | 4,9k | Có (có thể đồng hạng) |
 | 1 | Giải mã mô hình kinh doanh | 45 · 8 bài <7 ngày | 2,2k | — |
-| 1 | Tội phạm & mặt tối tài chính | 17 · 4 bài <7 ngày | 2,2k | — |
+| 1 | Tội phạm & mặt tối tài chính | 17 · 2 bài <7 ngày | 2,2k | — |
 | 1 | Tin thời sự / chính trị | 219 · 1 bài <7 ngày | 910 | — |
 | 3 | Khái niệm tài chính | 18 · 4 bài <7 ngày | 4,9k | Có (có thể đồng hạng) |
 | 3 | Giải mã mô hình kinh doanh | 44 · 8 bài <7 ngày | 2,1k | — |
-| 3 | Tội phạm & mặt tối tài chính | 16 · 4 bài <7 ngày | 2,1k | — |
+| 3 | Tội phạm & mặt tối tài chính | 16 · 2 bài <7 ngày | 2,1k | — |
 | 3 | Tin thời sự / chính trị | 219 · 1 bài <7 ngày | 910 | — |
 
 **So chủ đề trong cùng tuần (chỉ kỳ có từ 2 loại)**
@@ -189,7 +189,7 @@ View là số tích lũy trong cache, không phải view ở cùng tuổi bài; 
 | Tuần từ 26/10/2026 | Tội phạm & mặt tối tài chính | 5 | 2,2k | 1/5 |
 | Tuần từ 26/10/2026 | Giải mã mô hình kinh doanh | 12 | 1,6k | 1/12 |
 | Tuần từ 26/10/2026 | Tin thời sự / chính trị | 1 · ít mẫu | 1,3k | 0/1 |
-| Tuần từ 02/11/2026 | Tội phạm & mặt tối tài chính | 5 · 3 bài <7 ngày | 2,1k | 0/5 |
+| Tuần từ 02/11/2026 | Tội phạm & mặt tối tài chính | 5 · 1 bài <7 ngày | 2,1k | 0/5 |
 | Tuần từ 02/11/2026 | Tin thời sự / chính trị | 1 · ít mẫu · 1 bài <7 ngày | 1,7k | 0/1 |
 | Tuần từ 02/11/2026 | Khái niệm tài chính | 1 · ít mẫu | 1,3k | 0/1 |
 | Tuần từ 02/11/2026 | Giải mã mô hình kinh doanh | 8 · 5 bài <7 ngày | 1,3k | 0/8 |
@@ -210,7 +210,7 @@ View là số tích lũy trong cache, không phải view ở cùng tuổi bài; 
 | Tin thời sự / chính trị | ≤30s | 65 | 1,1k | 1,0× | 3/65 | Có; vẫn là tương quan |
 | Tin thời sự / chính trị | 30s–60s | 100 | 871 | 1,0× | 3/100 | Có; vẫn là tương quan |
 | Tin thời sự / chính trị | >60s | 54 · 1 bài <7 ngày | 915 | 1,1× | 3/54 | Có; vẫn là tương quan |
-| Tội phạm & mặt tối tài chính | ≤3:45 | 7 · 3 bài <7 ngày | 2k | 1,3× | 1/7 | Có; vẫn là tương quan |
+| Tội phạm & mặt tối tài chính | ≤3:45 | 7 · 1 bài <7 ngày | 2k | 1,3× | 1/7 | Có; vẫn là tương quan |
 | Tội phạm & mặt tối tài chính | 3:45–4:30 | 4 · ít mẫu | 2,2k | 1,1× | 0/4 | Có; vẫn là tương quan |
 | Tội phạm & mặt tối tài chính | >4:30 | 6 · 1 bài <7 ngày | 51k | 10× | 3/6 | Có; vẫn là tương quan |
 

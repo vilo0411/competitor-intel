@@ -1,6 +1,6 @@
 # Gorillanomics — phân tích đối thủ
 
-Cập nhật 2026-11-11 · TikTok: @gorillanomics. Biểu đồ xem trong `gorillanomics.html`.
+Cập nhật 2026-11-12 · TikTok: @gorillanomics. Biểu đồ xem trong `gorillanomics.html`.
 
 ## Nhận định
 
