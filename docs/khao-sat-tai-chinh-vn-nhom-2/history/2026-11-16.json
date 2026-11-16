@@ -1,0 +1,682 @@
+{
+  "name": "Khao sat tai chinh VN - nhom 2",
+  "updated": "2026-11-16",
+  "tiktok": [
+    {
+      "handle": "nguyentrangtkneu",
+      "profile": {
+        "followers": 529500,
+        "hearts": 7400000,
+        "videoCount": 1052,
+        "nickname": "Trang Ngân Hàng 🏦",
+        "bio": "Người Cố vấn quản lý gia sản và Đam mê Đầu tư giá trị 🏦"
+      },
+      "stats": {
+        "n": 50,
+        "first": "2026-08-25",
+        "last": "2026-11-12",
+        "daysSinceLast": 4,
+        "totalViews": 2635379,
+        "meanViews": 52707.58,
+        "medianViews": 17450,
+        "maxViews": 393100,
+        "minViews": 1075,
+        "medianER": 0.022511213140962383,
+        "postsPerWeek": 4.445109512269767,
+        "medianGapDays": 1.0673148148148148,
+        "postsLast30": 17,
+        "medianDuration": 112.5,
+        "originalSoundShare": 0.84,
+        "viralCount": 15
+      },
+      "takeaways": {
+        "category": "Chưa đủ nhóm có nhãn để so sánh",
+        "viral": "4/50 video đạt từ 175k view (10× trung vị kênh) và mang về 43,5% tổng view; top 3 chiếm 36,4%",
+        "trend": "View tích lũy trung vị tăng: 8,9k ở 2 tháng có bài đầu → 29k ở 2 tháng có bài cuối; chưa so ở cùng tuổi bài",
+        "hits": "Số hit (từ 175k view) theo tháng gần nhất: 0/3 → 1/22 → 2/17 → 1/8 (kỳ cuối có 2 bài dưới 7 ngày tuổi, còn tích view)",
+        "cadence": "Đăng 4,4 video/tuần; tháng dày nhất T9/26 có 22 video; 30 ngày qua: 17 video",
+        "time": "Không khung giờ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 11k–21k)",
+        "weekday": "Không thứ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 5,6k–57k)",
+        "duration": "Không mức độ dài nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 2k–27k)",
+        "tags": "Hashtag đi kèm view cao hơn hẳn trung vị: #vang, #dautugiatri, #nganhang; không chứng minh hashtag làm tăng view"
+      },
+      "evidence": {
+        "channelMedian": 17450,
+        "hitThreshold": 174500,
+        "periodUnit": "tháng",
+        "labeledCount": 0,
+        "totalCount": 50,
+        "youngCount": 2,
+        "categories": [],
+        "sensitivity": [
+          {
+            "remove": 0,
+            "excluded": [],
+            "categories": [],
+            "leaders": []
+          },
+          {
+            "remove": 1,
+            "excluded": [
+              "7686433504032279816"
+            ],
+            "categories": [],
+            "leaders": []
+          },
+          {
+            "remove": 3,
+            "excluded": [
+              "7686433504032279816",
+              "7694235315124456712",
+              "7707135109660462342"
+            ],
+            "categories": [],
+            "leaders": []
+          }
+        ],
+        "periods": [],
+        "durationStrata": [],
+        "timeline": [
+          {
+            "period": "T8/2026",
+            "key": "2026-08",
+            "count": 3,
+            "young": 0,
+            "median": 10800,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "T9/2026",
+            "key": "2026-09",
+            "count": 22,
+            "young": 0,
+            "median": 8587,
+            "hits": 1,
+            "hitRate": 0.045454545454545456
+          },
+          {
+            "period": "T10/2026",
+            "key": "2026-10",
+            "count": 17,
+            "young": 0,
+            "median": 29000,
+            "hits": 2,
+            "hitRate": 0.11764705882352941
+          },
+          {
+            "period": "T11/2026",
+            "key": "2026-11",
+            "count": 8,
+            "young": 2,
+            "median": 31100,
+            "hits": 1,
+            "hitRate": 0.125
+          }
+        ],
+        "pairs": []
+      },
+      "era": null,
+      "scope": {
+        "count": 50,
+        "medianViews": 17450,
+        "categories": [
+          {
+            "name": "Chưa phân loại",
+            "count": 50,
+            "median": 17450,
+            "mean": 52707.58,
+            "q25": 4865.75,
+            "q75": 63200,
+            "relMedian": 0.8390527950310559,
+            "relQ25": 0.27517658871831485,
+            "relQ75": 4.305847381598064
+          }
+        ],
+        "note": "timeBuckets, weekdays, durations, tags and scope.categories only cover the current format when era is set"
+      },
+      "timeBuckets": [
+        {
+          "name": "Sáng (5–11h)",
+          "count": 1,
+          "median": 166100,
+          "mean": 166100,
+          "q25": 166100,
+          "q75": 166100,
+          "relMedian": 5.095092024539877,
+          "relQ25": 5.095092024539877,
+          "relQ75": 5.095092024539877
+        },
+        {
+          "name": "Trưa (11–14h)",
+          "count": 9,
+          "median": 19500,
+          "mean": 43602.22222222222,
+          "q25": 8912,
+          "q75": 36700,
+          "relMedian": 0.4713896457765668,
+          "relQ25": 0.279492255735414,
+          "relQ75": 1.6446886446886446
+        },
+        {
+          "name": "Chiều (14–18h)",
+          "count": 29,
+          "median": 10800,
+          "mean": 56038.379310344826,
+          "q25": 3506,
+          "q75": 62600,
+          "relMedian": 0.6350084697910785,
+          "relQ25": 0.26360902255639096,
+          "relQ75": 4.579101394388019
+        },
+        {
+          "name": "Tối (18–23h)",
+          "count": 11,
+          "median": 21100,
+          "mean": 41067.818181818184,
+          "q25": 11709.5,
+          "q75": 76900,
+          "relMedian": 2.2683982683982684,
+          "relQ25": 0.7473371368721801,
+          "relQ75": 2.990700506975899
+        },
+        {
+          "name": "Đêm (23–5h)",
+          "count": 0,
+          "median": 0,
+          "mean": 0,
+          "q25": 0,
+          "q75": 0,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        }
+      ],
+      "categories": [
+        {
+          "name": "Chưa phân loại",
+          "count": 50,
+          "median": 17450,
+          "mean": 52707.58,
+          "q25": 4865.75,
+          "q75": 63200,
+          "relMedian": 0.8390527950310559,
+          "relQ25": 0.27517658871831485,
+          "relQ75": 4.305847381598064
+        }
+      ],
+      "months": [
+        {
+          "name": "2026-08",
+          "count": 3,
+          "median": 10800,
+          "mean": 14379,
+          "q25": 7818.5,
+          "q75": 19150,
+          "relMedian": 0.9996297667530544,
+          "relQ25": 0.686571640133284,
+          "relQ75": 1.7729630315246752
+        },
+        {
+          "name": "2026-09",
+          "count": 22,
+          "median": 8587,
+          "mean": 47642.681818181816,
+          "q25": 3308.75,
+          "q75": 60425,
+          "relMedian": 0.7872388481084134,
+          "relQ25": 0.27542465265216837,
+          "relQ75": 10.662558222989642
+        },
+        {
+          "name": "2026-10",
+          "count": 17,
+          "median": 29000,
+          "mean": 62649.470588235294,
+          "q25": 13000,
+          "q75": 75200,
+          "relMedian": 0.7386363636363636,
+          "relQ25": 0.25930851063829785,
+          "relQ75": 3.4705495949200786
+        },
+        {
+          "name": "2026-11",
+          "count": 8,
+          "median": 31100,
+          "mean": 59882.75,
+          "q25": 7677.75,
+          "q75": 75625,
+          "relMedian": 1.0580391452326057,
+          "relQ25": 0.23595265667574933,
+          "relQ75": 3.391255605381166
+        }
+      ],
+      "weekdays": [
+        {
+          "name": "T2",
+          "count": 7,
+          "median": 5623,
+          "mean": 21716.428571428572,
+          "q25": 2858.5,
+          "q75": 14050,
+          "relMedian": 0.6350084697910785,
+          "relQ25": 0.09533734644842536,
+          "relQ75": 0.9162610969152551
+        },
+        {
+          "name": "T3",
+          "count": 3,
+          "median": 27500,
+          "mean": 35884,
+          "q25": 16226,
+          "q75": 51350,
+          "relMedian": 2.5108514190317197,
+          "relQ25": 1.3922212896263573,
+          "relQ75": 2.528573857664008
+        },
+        {
+          "name": "T4",
+          "count": 12,
+          "median": 9827.5,
+          "mean": 34604.583333333336,
+          "q25": 5160.25,
+          "q75": 30475,
+          "relMedian": 0.487752711751828,
+          "relQ25": 0.27037871637788935,
+          "relQ75": 3.2770623441127
+        },
+        {
+          "name": "T5",
+          "count": 14,
+          "median": 57150,
+          "mean": 110560.71428571429,
+          "q25": 8467.25,
+          "q75": 179800,
+          "relMedian": 2.212777284826974,
+          "relQ25": 0.3607531101792424,
+          "relQ75": 13.199139520590045
+        },
+        {
+          "name": "T6",
+          "count": 6,
+          "median": 25050,
+          "mean": 20350.166666666668,
+          "q25": 6953.5,
+          "q75": 31025,
+          "relMedian": 1.6997275276812793,
+          "relQ25": 0.3653140650510906,
+          "relQ75": 3.198620835376959
+        },
+        {
+          "name": "T7",
+          "count": 5,
+          "median": 27300,
+          "mean": 34881.2,
+          "q25": 3506,
+          "q75": 62600,
+          "relMedian": 0.6691176470588235,
+          "relQ25": 0.279492255735414,
+          "relQ75": 2.2683982683982684
+        },
+        {
+          "name": "CN",
+          "count": 3,
+          "median": 44900,
+          "mean": 38700,
+          "q25": 31100,
+          "q75": 49400,
+          "relMedian": 1.6446886446886446,
+          "relQ25": 1.0580391452326057,
+          "relQ75": 3.3167908236401384
+        }
+      ],
+      "durations": [
+        {
+          "name": "≤30s",
+          "count": 5,
+          "median": 1968,
+          "mean": 2662.8,
+          "q25": 1363,
+          "q75": 2400,
+          "relMedian": 0.076875,
+          "relQ25": 0.03340686274509804,
+          "relQ75": 0.279492255735414
+        },
+        {
+          "name": "31–45s",
+          "count": 2,
+          "median": 3963,
+          "mean": 3963,
+          "q25": 3133,
+          "q75": 4793,
+          "relMedian": 0.45453862737441586,
+          "relQ25": 0.3643037061660845,
+          "relQ75": 0.5447735485827472
+        },
+        {
+          "name": "46–60s",
+          "count": 5,
+          "median": 4837,
+          "mean": 52950.2,
+          "q25": 3506,
+          "q75": 87300,
+          "relMedian": 0.37351351351351353,
+          "relQ25": 0.3396950875211745,
+          "relQ75": 5.095092024539877
+        },
+        {
+          "name": "61–90s",
+          "count": 6,
+          "median": 22350,
+          "mean": 34059,
+          "q25": 9934,
+          "q75": 35450,
+          "relMedian": 0.877628431125661,
+          "relQ25": 0.3935340909090909,
+          "relQ75": 2.8570673208437984
+        },
+        {
+          "name": ">90s",
+          "count": 32,
+          "median": 27400,
+          "mean": 67032.3125,
+          "q25": 10313.75,
+          "q75": 76050,
+          "relMedian": 1.9565434565434565,
+          "relQ25": 0.4595240288707866,
+          "relQ75": 5.117903616788068
+        }
+      ],
+      "tags": [
+        {
+          "name": "#learnontiktok",
+          "count": 42,
+          "median": 20300,
+          "mean": 56337.26190476191,
+          "q25": 6960.75,
+          "q75": 63200,
+          "relMedian": 1.0081251326840064,
+          "relQ25": 0.29876450276243094,
+          "relQ75": 4.305847381598064
+        },
+        {
+          "name": "#quanlygiasan",
+          "count": 42,
+          "median": 18550,
+          "mean": 56890.40476190476,
+          "q25": 5844.25,
+          "q75": 63200,
+          "relMedian": 0.9695494965894013,
+          "relQ25": 0.27874806393385354,
+          "relQ75": 4.305847381598064
+        },
+        {
+          "name": "#taichinhcanhan",
+          "count": 33,
+          "median": 19500,
+          "mean": 62573.969696969696,
+          "q25": 8319,
+          "q75": 63400,
+          "relMedian": 0.9394692264257481,
+          "relQ25": 0.35955801104972374,
+          "relQ75": 4.579101394388019
+        },
+        {
+          "name": "#dautugiatri",
+          "count": 26,
+          "median": 28250,
+          "mean": 73884.5,
+          "q25": 9341.25,
+          "q75": 77750,
+          "relMedian": 1.9565434565434565,
+          "relQ25": 0.6102460499403765,
+          "relQ75": 5.402474600667999
+        },
+        {
+          "name": "#vang",
+          "count": 9,
+          "median": 44900,
+          "mean": 59622.22222222222,
+          "q25": 29000,
+          "q75": 75200,
+          "relMedian": 2.8430493273542603,
+          "relQ25": 1.6446886446886446,
+          "relQ75": 5.095092024539877
+        },
+        {
+          "name": "#nganhang",
+          "count": 6,
+          "median": 25100,
+          "mean": 61918.666666666664,
+          "q25": 14150,
+          "q75": 91775,
+          "relMedian": 0.6469207054774878,
+          "relQ25": 0.45674664544473753,
+          "relQ75": 2.799223098330241
+        },
+        {
+          "name": "#laisuat",
+          "count": 2,
+          "median": 83150,
+          "mean": 83150,
+          "q25": 46975,
+          "q75": 119325,
+          "relMedian": 9.845890132805547,
+          "relQ25": 5.422759949779301,
+          "relQ75": 14.269020315831794
+        },
+        {
+          "name": "#giatricuocsong",
+          "count": 2,
+          "median": 45403,
+          "mean": 45403,
+          "q25": 24454.5,
+          "q75": 66351.5,
+          "relMedian": 6.8389341978178395,
+          "relQ25": 3.551271610187115,
+          "relQ75": 10.126596785448564
+        },
+        {
+          "name": "#neu70nam",
+          "count": 2,
+          "median": 1219,
+          "mean": 1219,
+          "q25": 1147,
+          "q75": 1291,
+          "relMedian": 0.03134920793930651,
+          "relQ25": 0.03032038053641075,
+          "relQ75": 0.03237803534220228
+        },
+        {
+          "name": "#chungkhoan",
+          "count": 1,
+          "median": 27500,
+          "mean": 27500,
+          "q25": 27500,
+          "q75": 27500,
+          "relMedian": 2.5462962962962963,
+          "relQ25": 2.5462962962962963,
+          "relQ75": 2.5462962962962963
+        },
+        {
+          "name": "#hieudoi",
+          "count": 1,
+          "median": 87300,
+          "mean": 87300,
+          "q25": 87300,
+          "q75": 87300,
+          "relMedian": 13.414259373079288,
+          "relQ25": 13.414259373079288,
+          "relQ75": 13.414259373079288
+        },
+        {
+          "name": "#thuysi",
+          "count": 1,
+          "median": 3243,
+          "mean": 3243,
+          "q25": 3243,
+          "q75": 3243,
+          "relMedian": 0.2147682119205298,
+          "relQ25": 0.2147682119205298,
+          "relQ75": 0.2147682119205298
+        },
+        {
+          "name": "#muanha",
+          "count": 1,
+          "median": 53900,
+          "mean": 53900,
+          "q25": 53900,
+          "q75": 53900,
+          "relMedian": 4.988893002591633,
+          "relQ25": 4.988893002591633,
+          "relQ75": 4.988893002591633
+        },
+        {
+          "name": "#vochong",
+          "count": 1,
+          "median": 15100,
+          "mean": 15100,
+          "q25": 15100,
+          "q75": 15100,
+          "relMedian": 1.0938858301941465,
+          "relQ25": 1.0938858301941465,
+          "relQ75": 1.0938858301941465
+        },
+        {
+          "name": "#oldmoney",
+          "count": 1,
+          "median": 4952,
+          "mean": 4952,
+          "q25": 4952,
+          "q75": 4952,
+          "relMedian": 0.2735911602209945,
+          "relQ25": 0.2735911602209945,
+          "relQ75": 0.2735911602209945
+        }
+      ],
+      "styles": [],
+      "top": [
+        {
+          "id": "7686433504032279816",
+          "title": "Hoạch định tài chính cá nhân ngắn hạn và dài hạn là tấm bản đồ kiểm soát rủi ro  #learnontiktok #quanlygiasan #TaiChinhCaNhan #dautugiatri ",
+          "url": "https://www.tiktok.com/@nguyentrangtkneu/video/7686433504032279816",
+          "views": 393100,
+          "er": 0.025158992622742304,
+          "duration": 102,
+          "date": "2026-09-17",
+          "time": "16:27",
+          "category": "Chưa phân loại",
+          "ratio": 22.527220630372494
+        },
+        {
+          "id": "7694235315124456712",
+          "title": "Có nên gửi tiết kiệm??? #quanlygiasan #TaiChinhCaNhan #learnontiktok #dautugiatri ",
+          "url": "https://www.tiktok.com/@nguyentrangtkneu/video/7694235315124456712",
+          "views": 339500,
+          "er": 0.017198821796759942,
+          "duration": 92,
+          "date": "2026-10-08",
+          "time": "17:02",
+          "category": "Chưa phân loại",
+          "ratio": 19.455587392550143
+        },
+        {
+          "id": "7707135109660462342",
+          "title": "Quản trị rủi ro trong quản lý tài sản  #quanlygiasan #taichinhcanhan #LearnOnTikTok #dautugiatri ",
+          "url": "https://www.tiktok.com/@nguyentrangtkneu/video/7707135109660462342",
+          "views": 227200,
+          "er": 0.0659419014084507,
+          "duration": 145,
+          "date": "2026-11-12",
+          "time": "11:20",
+          "category": "Chưa phân loại",
+          "ratio": 13.020057306590259
+        },
+        {
+          "id": "7699425550460292359",
+          "title": "Lưu ý khi dùng tài khoản ngân hàng đột nhiên bị KHÓA  #nganhang #quanlygiasan #TaiChinhCaNhan #learnontiktok ",
+          "url": "https://www.tiktok.com/@nguyentrangtkneu/video/7699425550460292359",
+          "views": 187900,
+          "er": 0.016322511974454498,
+          "duration": 166,
+          "date": "2026-10-22",
+          "time": "16:43",
+          "category": "Chưa phân loại",
+          "ratio": 10.767908309455587
+        },
+        {
+          "id": "7698965258613968136",
+          "title": "Bán vàng trên 5tr giao dịch tiền mặt bị phạt 20tr đồng #quanlygiasan #dautugiatri #vang ",
+          "url": "https://www.tiktok.com/@nguyentrangtkneu/video/7698965258613968136",
+          "views": 166100,
+          "er": 0.02333534015653221,
+          "duration": 55,
+          "date": "2026-10-21",
+          "time": "10:57",
+          "category": "Chưa phân loại",
+          "ratio": 9.51862464183381
+        },
+        {
+          "id": "7686417213745548551",
+          "title": "FED tăng lãi suất 0,25% lần đầu tiên từ 2023, và dự báo sẽ tiếp tục có các đợt tăng khác trong năm nay. Điều này ảnh hưởng thế nào đến túi tiền của chúng ta?  #dautugiatri #TaiChinhCaNhan #quanlygiasan #learnontiktok #laisuat ",
+          "url": "https://www.tiktok.com/@nguyentrangtkneu/video/7686417213745548551",
+          "views": 155500,
+          "er": 0.031260450160771704,
+          "duration": 125,
+          "date": "2026-09-17",
+          "time": "15:24",
+          "category": "Chưa phân loại",
+          "ratio": 8.911174785100286
+        },
+        {
+          "id": "7704263918473972999",
+          "title": "Tổng thống Trump chúc mừng đảng Dân chủ, nêu lý do đảng Cộng hòa thất bại. Xu hướng kinh tế thời gian tới sẽ ra sao?  #taichinhcanhan #LearnOnTikTok #trump ",
+          "url": "https://www.tiktok.com/@nguyentrangtkneu/video/7704263918473972999",
+          "views": 112300,
+          "er": 0.015378450578806768,
+          "duration": 75,
+          "date": "2026-11-04",
+          "time": "17:38",
+          "category": "Chưa phân loại",
+          "ratio": 6.435530085959885
+        },
+        {
+          "id": "7685347749969104146",
+          "title": "Cứ mua đất đi không bán được cùng lắm cắm vào ngân hàng lấy tiền ra  #dautugiatri #TaiChinhCaNhan #quanlygiasan #learnontiktok  #nganhang ",
+          "url": "https://www.tiktok.com/@nguyentrangtkneu/video/7685347749969104146",
+          "views": 111500,
+          "er": 0.020331838565022423,
+          "duration": 152,
+          "date": "2026-09-14",
+          "time": "18:14",
+          "category": "Chưa phân loại",
+          "ratio": 6.389684813753582
+        },
+        {
+          "id": "7681276794879692050",
+          "title": "Câu chuyện đem lại nhiều suy ngẫm #giatricuocsong  #hieudoi ",
+          "url": "https://www.tiktok.com/@nguyentrangtkneu/video/7681276794879692050",
+          "views": 87300,
+          "er": 0.023207331042382588,
+          "duration": 49,
+          "date": "2026-09-03",
+          "time": "18:57",
+          "category": "Chưa phân loại",
+          "ratio": 5.002865329512894
+        },
+        {
+          "id": "7681260349764603143",
+          "title": "Ngân hàng trung ương Hà Lan chuyển 86 tấn vàng từ Mỹ và Canada sang Anh #learnontiktok #quanlygiasan #vang ",
+          "url": "https://www.tiktok.com/@nguyentrangtkneu/video/7681260349764603143",
+          "views": 81700,
+          "er": 0.014932680538555692,
+          "duration": 125,
+          "date": "2026-09-03",
+          "time": "17:53",
+          "category": "Chưa phân loại",
+          "ratio": 4.681948424068768
+        }
+      ]
+    }
+  ]
+}
