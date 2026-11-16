@@ -1,0 +1,22 @@
+{
+  "id": "20261116-142616-khao-sat-tai-chinh-vn-nhom-3",
+  "request": {
+    "id": "20261116-142616-khao-sat-tai-chinh-vn-nhom-3",
+    "name": "Khao sat tai chinh VN - nhom 3",
+    "channels": [
+      "@thayqueo",
+      "@kimkhanhchungkhoan",
+      "@intelligentmoneyvietnam"
+    ],
+    "refresh": true,
+    "style": 0,
+    "limit": 50
+  },
+  "finishedAt": "2026-11-16T14:27:25.572Z",
+  "status": "error",
+  "slug": "khao-sat-tai-chinh-vn-nhom-3",
+  "name": "Khao sat tai chinh VN - nhom 3",
+  "report": null,
+  "seconds": 9,
+  "log": "↓ @thayqueo: lấy danh sách video…\n✓ @thayqueo: 50 video, view trung vị 13k, 50 video chưa gắn nhãn\n↓ @kimkhanhchungkhoan: lấy danh sách video…\nfile:///home/runner/work/competitor-intel/competitor-intel/scripts/competitors.mjs:59\n  if (r.status !== 0) throw new Error(`yt-dlp lỗi với @${handle}: ${(r.stderr || '').trim().split('\\n').pop()}`);\n                            ^\n\nError: yt-dlp lỗi với @kimkhanhchungkhoan: ERROR: [tiktok:user] kimkhanhchungkhoan: Unable to extract secondary user ID. If you are able to get the channel_id from a video posted by this user, try using \"tiktokuser:channel_id\" as the input URL (replacing `channel_id` with its actual value)\n    at scrapeVideos (file:///home/runner/work/competitor-intel/competitor-intel/scripts/competitors.mjs:59:29)\n    at file:///home/runner/work/competitor-intel/competitor-intel/scripts/competitors.mjs:684:113\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n\nNode.js v22.23.4"
+}

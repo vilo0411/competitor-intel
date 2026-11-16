@@ -1,0 +1,668 @@
+{
+  "name": "Khao sat tai chinh VN - nhom 3",
+  "updated": "2026-11-16",
+  "tiktok": [
+    {
+      "handle": "thayqueo",
+      "profile": {
+        "followers": 2500000,
+        "hearts": 73300000,
+        "videoCount": 1085,
+        "nickname": "Thầy Quéo (Nguyễn Hữu Trí)",
+        "bio": "CEO AYP since 2009\nTâm lý, Định hướng, Tài chính, Lối sống\nHotline: 0325876652\n👇"
+      },
+      "stats": {
+        "n": 50,
+        "first": "2026-10-16",
+        "last": "2026-11-15",
+        "daysSinceLast": 1,
+        "totalViews": 4136847,
+        "meanViews": 82736.94,
+        "medianViews": 13000,
+        "maxViews": 1300000,
+        "minViews": 3071,
+        "medianER": 0.05667038243868976,
+        "postsPerWeek": 11.61825726141079,
+        "medianGapDays": 0.875,
+        "postsLast30": 46,
+        "medianDuration": 79.5,
+        "originalSoundShare": 0.86,
+        "viralCount": 15
+      },
+      "takeaways": {
+        "category": "Chưa đủ nhóm có nhãn để so sánh",
+        "viral": "6/50 video đạt từ 130k view (10× trung vị kênh) và mang về 73,4% tổng view; top 3 chiếm 59,0%",
+        "hits": "Số hit (từ 130k view) theo tuần gần nhất: 3/15 → 0/8 → 2/10 → 1/11 (kỳ cuối có 8 bài dưới 7 ngày tuổi, còn tích view)",
+        "cadence": "Đăng 11,6 video/tuần; tháng dày nhất T10/26 có 29 video; 30 ngày qua: 46 video",
+        "time": "Chưa đủ mẫu để so sánh khung giờ",
+        "weekday": "Không thứ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 7,3k–59k)",
+        "duration": "Không mức độ dài nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 9,2k–20k)",
+        "tags": "Hashtag đi kèm view cao hơn hẳn trung vị: #adminted, #taichinhgiadinh, #cn; không chứng minh hashtag làm tăng view"
+      },
+      "evidence": {
+        "channelMedian": 13000,
+        "hitThreshold": 130000,
+        "periodUnit": "tuần",
+        "labeledCount": 0,
+        "totalCount": 50,
+        "youngCount": 8,
+        "categories": [],
+        "sensitivity": [
+          {
+            "remove": 0,
+            "excluded": [],
+            "categories": [],
+            "leaders": []
+          },
+          {
+            "remove": 1,
+            "excluded": [
+              "7705377974828141832"
+            ],
+            "categories": [],
+            "leaders": []
+          },
+          {
+            "remove": 3,
+            "excluded": [
+              "7705377974828141832",
+              "7705232301206048007",
+              "7707191277405736193"
+            ],
+            "categories": [],
+            "leaders": []
+          }
+        ],
+        "periods": [],
+        "durationStrata": [],
+        "timeline": [
+          {
+            "period": "Tuần từ 12/10/2026",
+            "key": "2026-10-12",
+            "count": 6,
+            "young": 0,
+            "median": 8074.5,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "Tuần từ 19/10/2026",
+            "key": "2026-10-19",
+            "count": 15,
+            "young": 0,
+            "median": 20400,
+            "hits": 3,
+            "hitRate": 0.2
+          },
+          {
+            "period": "Tuần từ 26/10/2026",
+            "key": "2026-10-26",
+            "count": 8,
+            "young": 0,
+            "median": 26400,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "Tuần từ 02/11/2026",
+            "key": "2026-11-02",
+            "count": 10,
+            "young": 0,
+            "median": 9655.5,
+            "hits": 2,
+            "hitRate": 0.2
+          },
+          {
+            "period": "Tuần từ 09/11/2026",
+            "key": "2026-11-09",
+            "count": 11,
+            "young": 8,
+            "median": 10700,
+            "hits": 1,
+            "hitRate": 0.09090909090909091
+          }
+        ],
+        "pairs": []
+      },
+      "era": null,
+      "scope": {
+        "count": 50,
+        "medianViews": 13000,
+        "categories": [
+          {
+            "name": "Chưa phân loại",
+            "count": 50,
+            "median": 13000,
+            "mean": 82736.94,
+            "q25": 6935,
+            "q75": 67525,
+            "relMedian": 0.9909116448939459,
+            "relQ25": 0.45236089108910893,
+            "relQ75": 4.682916705101006
+          }
+        ],
+        "note": "timeBuckets, weekdays, durations, tags and scope.categories only cover the current format when era is set"
+      },
+      "timeBuckets": [
+        {
+          "name": "Sáng (5–11h)",
+          "count": 0,
+          "median": 0,
+          "mean": 0,
+          "q25": 0,
+          "q75": 0,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "Trưa (11–14h)",
+          "count": 4,
+          "median": 41100,
+          "mean": 42538,
+          "q25": 15988,
+          "q75": 67650,
+          "relMedian": 3.3454234796026,
+          "relQ25": 1.6733433109310103,
+          "relQ75": 4.9151141432694825
+        },
+        {
+          "name": "Chiều (14–18h)",
+          "count": 2,
+          "median": 18685.5,
+          "mean": 18685.5,
+          "q25": 10878.25,
+          "q75": 26492.75,
+          "relMedian": 1.1943231651897297,
+          "relQ25": 0.7393375085207907,
+          "relQ75": 1.6493088218586682
+        },
+        {
+          "name": "Tối (18–23h)",
+          "count": 44,
+          "median": 12150,
+          "mean": 89302.81818181818,
+          "q25": 7137,
+          "q75": 69875,
+          "relMedian": 0.9292035398230089,
+          "relQ25": 0.45788267326732673,
+          "relQ75": 4.73825776044206
+        },
+        {
+          "name": "Đêm (23–5h)",
+          "count": 0,
+          "median": 0,
+          "mean": 0,
+          "q25": 0,
+          "q75": 0,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        }
+      ],
+      "categories": [
+        {
+          "name": "Chưa phân loại",
+          "count": 50,
+          "median": 13000,
+          "mean": 82736.94,
+          "q25": 6935,
+          "q75": 67525,
+          "relMedian": 0.9909116448939459,
+          "relQ25": 0.45236089108910893,
+          "relQ75": 4.682916705101006
+        }
+      ],
+      "months": [
+        {
+          "name": "2026-10",
+          "count": 29,
+          "median": 18500,
+          "mean": 49214.31034482759,
+          "q25": 8328,
+          "q75": 75000,
+          "relMedian": 1.1027027027027028,
+          "relQ25": 0.46064356435643566,
+          "relQ75": 4.73037542662116
+        },
+        {
+          "name": "2026-11",
+          "count": 21,
+          "median": 10300,
+          "mean": 129030.09523809524,
+          "q25": 5390,
+          "q75": 23400,
+          "relMedian": 0.911504424778761,
+          "relQ25": 0.44404907975460123,
+          "relQ75": 2.2285714285714286
+        }
+      ],
+      "weekdays": [
+        {
+          "name": "T2",
+          "count": 6,
+          "median": 9269,
+          "mean": 11256.166666666666,
+          "q25": 5852,
+          "q75": 12575,
+          "relMedian": 0.5286331938633193,
+          "relQ25": 0.46137014314928426,
+          "relQ75": 1.013721340342151
+        },
+        {
+          "name": "T3",
+          "count": 4,
+          "median": 38444,
+          "mean": 58110,
+          "q25": 4954,
+          "q75": 91600,
+          "relMedian": 2.4366826547685445,
+          "relQ25": 0.4211589514779699,
+          "relQ75": 6.209863142991978
+        },
+        {
+          "name": "T4",
+          "count": 7,
+          "median": 19000,
+          "mean": 31580.428571428572,
+          "q25": 13746,
+          "q75": 48250,
+          "relMedian": 1.8095238095238095,
+          "relQ25": 0.7922846625766872,
+          "relQ75": 3.4330996202161845
+        },
+        {
+          "name": "T5",
+          "count": 7,
+          "median": 58600,
+          "mean": 91258.28571428571,
+          "q25": 16348.5,
+          "q75": 102800,
+          "relMedian": 6.308108108108108,
+          "relQ25": 1.5314616402116403,
+          "relQ75": 6.670812169741256
+        },
+        {
+          "name": "T6",
+          "count": 14,
+          "median": 7327.5,
+          "mean": 33641.21428571428,
+          "q25": 5764,
+          "q75": 14800,
+          "relMedian": 0.5037414187643021,
+          "relQ25": 0.31104837662337664,
+          "relQ75": 1.0040665823851664
+        },
+        {
+          "name": "T7",
+          "count": 6,
+          "median": 11850,
+          "mean": 153155.5,
+          "q25": 9653.75,
+          "q75": 55225,
+          "relMedian": 0.7984513274336283,
+          "relQ25": 0.6429615384615385,
+          "relQ75": 3.7845072336826844
+        },
+        {
+          "name": "CN",
+          "count": 6,
+          "median": 20200,
+          "mean": 264514.8333333333,
+          "q25": 17900,
+          "q75": 172725,
+          "relMedian": 2.1204282017358547,
+          "relQ25": 1.3496645232287894,
+          "relQ75": 9.598387415476976
+        }
+      ],
+      "durations": [
+        {
+          "name": "≤30s",
+          "count": 12,
+          "median": 9158,
+          "mean": 25929.666666666668,
+          "q25": 8055.5,
+          "q75": 20725,
+          "relMedian": 0.7374836182336182,
+          "relQ25": 0.4482122699386503,
+          "relQ75": 1.4046611536669016
+        },
+        {
+          "name": "31–45s",
+          "count": 2,
+          "median": 154850,
+          "mean": 154850,
+          "q25": 121875,
+          "q75": 187825,
+          "relMedian": 9.386798336798337,
+          "relQ25": 8.112629937629938,
+          "relQ75": 10.660966735966737
+        },
+        {
+          "name": "46–60s",
+          "count": 10,
+          "median": 20200,
+          "mean": 77308.9,
+          "q25": 16525,
+          "q75": 68350,
+          "relMedian": 2.1204282017358547,
+          "relQ25": 1.051866151866152,
+          "relQ75": 5.9755316099681846
+        },
+        {
+          "name": "61–90s",
+          "count": 4,
+          "median": 16850,
+          "mean": 30902.25,
+          "q25": 8527.25,
+          "q75": 39225,
+          "relMedian": 1.570037926675095,
+          "relQ25": 0.7600330804888327,
+          "relQ75": 4.041705787241355
+        },
+        {
+          "name": ">90s",
+          "count": 22,
+          "median": 9998.5,
+          "mean": 119058.77272727272,
+          "q25": 5490.25,
+          "q75": 55225,
+          "relMedian": 0.6268115942028986,
+          "relQ25": 0.41408860619469023,
+          "relQ75": 4.073855189597772
+        }
+      ],
+      "tags": [
+        {
+          "name": "#im",
+          "count": 17,
+          "median": 9011,
+          "mean": 90956.88235294117,
+          "q25": 5390,
+          "q75": 69300,
+          "relMedian": 0.5439330543933054,
+          "relQ25": 0.3417,
+          "relQ75": 6.308108108108108
+        },
+        {
+          "name": "#hocvien",
+          "count": 16,
+          "median": 7783,
+          "mean": 16124.75,
+          "q25": 5159.75,
+          "q75": 20850,
+          "relMedian": 0.5286331938633193,
+          "relQ25": 0.29953587662337666,
+          "relQ75": 2.1051439358187825
+        },
+        {
+          "name": "#ayp",
+          "count": 15,
+          "median": 16300,
+          "mean": 136012.26666666666,
+          "q25": 10500,
+          "q75": 87500,
+          "relMedian": 1.1027027027027028,
+          "relQ25": 0.7807522123893805,
+          "relQ75": 6.945054945054944
+        },
+        {
+          "name": "#wealth",
+          "count": 12,
+          "median": 37900,
+          "mean": 127299.66666666667,
+          "q25": 7574.25,
+          "q75": 95850,
+          "relMedian": 3.410462705714105,
+          "relQ25": 0.44960241228070175,
+          "relQ75": 6.5869874853811154
+        },
+        {
+          "name": "#career",
+          "count": 12,
+          "median": 19700,
+          "mean": 35043.583333333336,
+          "q25": 10351.25,
+          "q75": 64550,
+          "relMedian": 1.4722465673385918,
+          "relQ25": 0.8610827882518918,
+          "relQ75": 4.484954718083553
+        },
+        {
+          "name": "#admintruc",
+          "count": 9,
+          "median": 7238,
+          "mean": 11779.444444444445,
+          "q25": 5791,
+          "q75": 20000,
+          "relMedian": 0.44404907975460123,
+          "relQ25": 0.29565,
+          "relQ75": 2.1076923076923078
+        },
+        {
+          "name": "#tietkiem",
+          "count": 9,
+          "median": 9011,
+          "mean": 102672.66666666667,
+          "q25": 3476,
+          "q75": 13000,
+          "relMedian": 0.5133333333333333,
+          "relQ25": 0.3056190476190476,
+          "relQ75": 0.8343518518518519
+        },
+        {
+          "name": "#adminted",
+          "count": 8,
+          "median": 146400,
+          "mean": 344744,
+          "q25": 8928,
+          "q75": 451750,
+          "relMedian": 8.40572825385112,
+          "relQ25": 0.7471418320425943,
+          "relQ75": 46.20394042202388
+        },
+        {
+          "name": "#adminlb",
+          "count": 8,
+          "median": 39250,
+          "mean": 59709.5,
+          "q25": 9047,
+          "q75": 75375,
+          "relMedian": 2.713779335865226,
+          "relQ25": 0.803810136765889,
+          "relQ75": 6.899403429405017
+        },
+        {
+          "name": "#adminlcw",
+          "count": 8,
+          "median": 14600,
+          "mean": 21278.375,
+          "q25": 9226.75,
+          "q75": 19350,
+          "relMedian": 1.0248026787849798,
+          "relQ25": 0.5678782823934567,
+          "relQ75": 1.303607946245983
+        },
+        {
+          "name": "#family",
+          "count": 7,
+          "median": 16300,
+          "mean": 255025.7142857143,
+          "q25": 9646,
+          "q75": 222150,
+          "relMedian": 1.034920634920635,
+          "relQ25": 0.6961158487530169,
+          "relQ75": 12.008108108108107
+        },
+        {
+          "name": "#adminvt",
+          "count": 6,
+          "median": 37900,
+          "mean": 48857.333333333336,
+          "q25": 8791.75,
+          "q75": 81325,
+          "relMedian": 4.199329046457579,
+          "relQ25": 0.8255322330438677,
+          "relQ75": 6.454399127792758
+        },
+        {
+          "name": "#cn",
+          "count": 5,
+          "median": 71600,
+          "mean": 61797.6,
+          "q25": 62200,
+          "q75": 84000,
+          "relMedian": 4.54054054054054,
+          "relQ25": 4.392638036809816,
+          "relQ75": 6.038834951456311
+        },
+        {
+          "name": "#taichinhgiadinh",
+          "count": 5,
+          "median": 88900,
+          "mean": 205344.6,
+          "q25": 6834,
+          "q75": 116700,
+          "relMedian": 6.308108108108108,
+          "relQ25": 0.36296969696969694,
+          "relQ75": 6.838461538461538
+        },
+        {
+          "name": "#adminh",
+          "count": 5,
+          "median": 5390,
+          "mean": 6736.2,
+          "q25": 3209,
+          "q75": 9011,
+          "relMedian": 0.5133333333333333,
+          "relQ25": 0.3056190476190476,
+          "relQ75": 0.5439330543933054
+        }
+      ],
+      "styles": [],
+      "top": [
+        {
+          "id": "7705377974828141832",
+          "title": "Vì sao ông bà cha mẹ thường nói không nên yêu sớm? --- AYP - Thấu hiểu mình, tìm lại hạnh phúc! #ayp #family #thauhieucamxuchp #adminTED",
+          "url": "https://www.tiktok.com/@thayqueo/video/7705377974828141832",
+          "views": 1300000,
+          "er": 0.19364923076923077,
+          "duration": 211,
+          "date": "2026-11-08",
+          "time": "18:00",
+          "category": "Chưa phân loại",
+          "ratio": 100
+        },
+        {
+          "id": "7705232301206048007",
+          "title": "Liệu siêu Elnino 2027 có ảnh hưởng đến cuộc sống của chúng ta? --- Intelligent Money - Đồng hành cùng bạn hoạch định tài chính cá nhân và gia đình #wealth #im #tietkiem #taichinhgiadinh #adminTED",
+          "url": "https://www.tiktok.com/@thayqueo/video/7705232301206048007",
+          "views": 808300,
+          "er": 0.09433626128912533,
+          "duration": 379,
+          "date": "2026-11-07",
+          "time": "18:00",
+          "category": "Chưa phân loại",
+          "ratio": 62.176923076923075
+        },
+        {
+          "id": "7707191277405736193",
+          "title": "Đừng nhìn thành công của người khác rồi quay lại đánh giá mình nhé! --- Intelligent Money - Giàu có hơn để hạnh phúc hơn #im #wealth #khoisudautu #chuanbichotuonglai #adminTED",
+          "url": "https://www.tiktok.com/@thayqueo/video/7707191277405736193",
+          "views": 332900,
+          "er": 0.11754881345749474,
+          "duration": 55,
+          "date": "2026-11-12",
+          "time": "20:00",
+          "category": "Chưa phân loại",
+          "ratio": 25.607692307692307
+        },
+        {
+          "id": "7700169298643406100",
+          "title": "Không phải lúc nào chúng ta cũng đáng yêu... --- [Góc giới thiệu] AYP - Thấu hiểu mình, tìm lại hạnh phúc! #family #ayp #thauhieucamxuchp #adminTED",
+          "url": "https://www.tiktok.com/@thayqueo/video/7700169298643406100",
+          "views": 223500,
+          "er": 0.08984787472035795,
+          "duration": 53,
+          "date": "2026-10-25",
+          "time": "20:00",
+          "category": "Chưa phân loại",
+          "ratio": 17.192307692307693
+        },
+        {
+          "id": "7699103618397523208",
+          "title": "Khi anh ta thật sự yêu bạn, điều anh ta sợ nhất là làm bạn tổn thương. Nhưng nếu anh ta không thật sự yêu thì...  _____ AYP - Thấu hiểu mình, tìm lại hạnh phúc!  #adminLB #ayp #family",
+          "url": "https://www.tiktok.com/@thayqueo/video/7699103618397523208",
+          "views": 220800,
+          "er": 0.06942481884057972,
+          "duration": 41,
+          "date": "2026-10-23",
+          "time": "21:00",
+          "category": "Chưa phân loại",
+          "ratio": 16.984615384615385
+        },
+        {
+          "id": "7698731723571416327",
+          "title": "Kiệt sức với mớ deadline, công việc bộn bề - Đây là video dành cho bạn #AYP #Prudential #KienTaoSuNghiepTuViTheTienPhong",
+          "url": "https://www.tiktok.com/@thayqueo/video/7698731723571416327",
+          "views": 151600,
+          "er": 0.06390501319261213,
+          "duration": 296,
+          "date": "2026-10-20",
+          "time": "22:00",
+          "category": "Chưa phân loại",
+          "ratio": 11.661538461538461
+        },
+        {
+          "id": "7699038814790012166",
+          "title": "Thông điệp hôm nay ----  [góc thông tin chương trình] Intelligent Money - Đồng hành cùng bạn hoạch định tài chính cá nhân và gia đình  #taichinhgiadinh #wealth #adminvt #im",
+          "url": "https://www.tiktok.com/@thayqueo/video/7699038814790012166",
+          "views": 116700,
+          "er": 0.07362467866323907,
+          "duration": 29,
+          "date": "2026-10-22",
+          "time": "18:00",
+          "category": "Chưa phân loại",
+          "ratio": 8.976923076923077
+        },
+        {
+          "id": "7701660235827563782",
+          "title": "Sự thật chỉ có một người duy nhất chứng kiến toàn bộ hành trình của bạn --- [góc thông tin chương trình] Intelligent Money - Đồng hành cùng bạn hoạch định tài chính cá nhân và gia đình  #taichinhgiadinh #wealth #adminvt #im",
+          "url": "https://www.tiktok.com/@thayqueo/video/7701660235827563782",
+          "views": 88900,
+          "er": 0.10061867266591676,
+          "duration": 43,
+          "date": "2026-10-29",
+          "time": "18:00",
+          "category": "Chưa phân loại",
+          "ratio": 6.838461538461538
+        },
+        {
+          "id": "7696738277285432584",
+          "title": "Dường như càng trưởng thành, ta lại càng muốn giảm bớt ồn ào, bớt chứng tỏ... ____ Career Navigation - Thấu hiểu bản thân, mở rộng cơ hội sự nghiệp. #adminLB #career #cn #morong",
+          "url": "https://www.tiktok.com/@thayqueo/video/7696738277285432584",
+          "views": 86700,
+          "er": 0.07839677047289505,
+          "duration": 84,
+          "date": "2026-10-16",
+          "time": "21:00",
+          "category": "Chưa phân loại",
+          "ratio": 6.6692307692307695
+        },
+        {
+          "id": "7699435265047268626",
+          "title": "Bạn dính bao nhiêu trên 10 dấu hiệu này?  --- Career Navigation - Hãy để lần chuyển việc tiếp theo của bạn là một bước tiến #chanviec #hocvien #admingnas #cn ",
+          "url": "https://www.tiktok.com/@thayqueo/video/7699435265047268626",
+          "views": 84000,
+          "er": 0.012797619047619047,
+          "duration": 13,
+          "date": "2026-10-23",
+          "time": "12:00",
+          "category": "Chưa phân loại",
+          "ratio": 6.461538461538462
+        }
+      ]
+    }
+  ]
+}
