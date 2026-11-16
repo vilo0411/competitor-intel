@@ -1,0 +1,8 @@
+{
+  "id": "20261116-143711-kiem-tra-lai-chungkhoanviethoang",
+  "name": "Kiem tra lai chungkhoanviethoang",
+  "channels": ["@chungkhoanviethoang"],
+  "refresh": true,
+  "style": 0,
+  "limit": 50
+}
