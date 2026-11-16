@@ -249,6 +249,14 @@
   ],
   "runs": [
     {
+      "id": "20261116-143711-kiem-tra-lai-chungkhoanviethoang",
+      "status": "error",
+      "slug": "kiem-tra-lai-chungkhoanviethoang",
+      "name": "Kiem tra lai chungkhoanviethoang",
+      "finishedAt": "2026-11-16T14:38:11.326Z",
+      "seconds": 1
+    },
+    {
       "id": "20261116-143533-kiem-tra-lai-seriestaichinh",
       "status": "error",
       "slug": "kiem-tra-lai-seriestaichinh",
@@ -319,14 +327,6 @@
       "name": "manhinhxanhdo_official",
       "finishedAt": "2026-11-16T07:39:28.632Z",
       "seconds": 86
-    },
-    {
-      "id": "20261116-072803-kinh-te-don-gian",
-      "status": "ok",
-      "slug": "kinh-te-don-gian",
-      "name": "Kinh Tế Đơn Giản",
-      "finishedAt": "2026-11-16T07:38:02.764Z",
-      "seconds": 8
     }
   ]
 }
