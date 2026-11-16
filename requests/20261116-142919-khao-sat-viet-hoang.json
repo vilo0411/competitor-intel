@@ -1,0 +1,8 @@
+{
+  "id": "20261116-142919-khao-sat-viet-hoang",
+  "name": "Khao sat Viet Hoang",
+  "channels": ["@chungkhoanviethoang"],
+  "refresh": true,
+  "style": 0,
+  "limit": 50
+}
