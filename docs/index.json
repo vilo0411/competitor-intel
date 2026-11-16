@@ -249,6 +249,14 @@
   ],
   "runs": [
     {
+      "id": "20261116-143819-kiem-tra-lai-duonglostock",
+      "status": "error",
+      "slug": "kiem-tra-lai-duonglostock",
+      "name": "Kiem tra lai duonglostock",
+      "finishedAt": "2026-11-16T14:39:25.444Z",
+      "seconds": 1
+    },
+    {
       "id": "20261116-143711-kiem-tra-lai-chungkhoanviethoang",
       "status": "error",
       "slug": "kiem-tra-lai-chungkhoanviethoang",
@@ -319,14 +327,6 @@
       "name": "CafeF",
       "finishedAt": "2026-11-16T14:22:29.353Z",
       "seconds": 6
-    },
-    {
-      "id": "20261116-072803-manhinhxanhdo-official",
-      "status": "ok",
-      "slug": "manhinhxanhdo-official",
-      "name": "manhinhxanhdo_official",
-      "finishedAt": "2026-11-16T07:39:28.632Z",
-      "seconds": 86
     }
   ]
 }
