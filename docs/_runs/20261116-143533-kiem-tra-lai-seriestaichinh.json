@@ -1,0 +1,20 @@
+{
+  "id": "20261116-143533-kiem-tra-lai-seriestaichinh",
+  "request": {
+    "id": "20261116-143533-kiem-tra-lai-seriestaichinh",
+    "name": "Kiem tra lai seriestaichinh",
+    "channels": [
+      "@seriestaichinh"
+    ],
+    "refresh": true,
+    "style": 0,
+    "limit": 50
+  },
+  "finishedAt": "2026-11-16T14:36:53.320Z",
+  "status": "error",
+  "slug": "kiem-tra-lai-seriestaichinh",
+  "name": "Kiem tra lai seriestaichinh",
+  "report": null,
+  "seconds": 3,
+  "log": "↓ @seriestaichinh: lấy danh sách video…\nfile:///home/runner/work/competitor-intel/competitor-intel/scripts/competitors.mjs:59\n  if (r.status !== 0) throw new Error(`yt-dlp lỗi với @${handle}: ${(r.stderr || '').trim().split('\\n').pop()}`);\n                            ^\n\nError: yt-dlp lỗi với @seriestaichinh: ERROR: [tiktok:user] seriestaichinh: Unable to extract secondary user ID. If you are able to get the channel_id from a video posted by this user, try using \"tiktokuser:channel_id\" as the input URL (replacing `channel_id` with its actual value)\n    at scrapeVideos (file:///home/runner/work/competitor-intel/competitor-intel/scripts/competitors.mjs:59:29)\n    at file:///home/runner/work/competitor-intel/competitor-intel/scripts/competitors.mjs:684:113\n    at ModuleJob.run (node:internal/modules/esm/module_job:343:25)\n    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:681:26)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)\n\nNode.js v22.23.4"
+}

@@ -249,6 +249,14 @@
   ],
   "runs": [
     {
+      "id": "20261116-143533-kiem-tra-lai-seriestaichinh",
+      "status": "error",
+      "slug": "kiem-tra-lai-seriestaichinh",
+      "name": "Kiem tra lai seriestaichinh",
+      "finishedAt": "2026-11-16T14:36:53.320Z",
+      "seconds": 3
+    },
+    {
       "id": "20261116-143058-khao-sat-intelligent-money",
       "status": "ok",
       "slug": "khao-sat-intelligent-money",
@@ -319,14 +327,6 @@
       "name": "Kinh Tế Đơn Giản",
       "finishedAt": "2026-11-16T07:38:02.764Z",
       "seconds": 8
-    },
-    {
-      "id": "20261116-072803-heotaichinh102",
-      "status": "ok",
-      "slug": "heotaichinh102",
-      "name": "heotaichinh102",
-      "finishedAt": "2026-11-16T07:37:55.241Z",
-      "seconds": 2
     }
   ]
 }
