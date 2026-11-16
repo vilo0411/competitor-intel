@@ -1,6 +1,6 @@
 # Cafe Chung Cung Minh — phân tích đối thủ
 
-Cập nhật 2026-11-12 · TikTok: @cafechungcungminh. Biểu đồ xem trong `cafe-chung-cung-minh.html`.
+Cập nhật 2026-11-16 · TikTok: @cafechungcungminh. Biểu đồ xem trong `cafe-chung-cung-minh.html`.
 
 ## Nhận định
 
@@ -37,33 +37,33 @@ Cập nhật 2026-11-12 · TikTok: @cafechungcungminh. Biểu đồ xem trong `c
 
 ### @cafechungcungminh
 
-- 4,4k follower · 18 video phân tích (2026-10-18 → 2026-11-11) · tổng 1,4 tr view
-- View trung vị 4,4k, trung bình 75k, cao nhất 778k · tương tác trung vị 2,3%
+- 4,8k follower · 18 video phân tích (2026-10-18 → 2026-11-11) · tổng 1,4 tr view
+- View trung vị 4,5k, trung bình 77k, cao nhất 784k · tương tác trung vị 2,4%
 - 5,2 video/tuần · 18 video trong 30 ngày qua · độ dài trung vị 77s · 77,8% dùng âm thanh gốc
 
 **Điểm chính**
 
 - Chưa đủ mẫu để so sánh loại nội dung
-- **Thị trường & vĩ mô** chiếm 22,2% số video nhưng chỉ mang về 0,5% tổng view
-- **3/18 video** đạt từ 44k view (10× trung vị kênh) và mang về **93,0%** tổng view; top 3 chiếm 93,0%
-- Số hit (từ 44k view) theo tháng gần nhất: **3/12 → 0/6** (kỳ cuối có 3 bài dưới 7 ngày tuổi, còn tích view)
+- **Thị trường & vĩ mô** chiếm 22,2% số video nhưng chỉ mang về 0,6% tổng view
+- **3/18 video** đạt từ 45k view (10× trung vị kênh) và mang về **92,5%** tổng view; top 3 chiếm 92,5%
+- Số hit (từ 45k view) theo tháng gần nhất: **3/12 → 0/6** (kỳ cuối có 1 bài dưới 7 ngày tuổi, còn tích view)
 - Đăng 5,2 video/tuần; tháng dày nhất T10/26 có 12 video; 30 ngày qua: 18 video
-- Không khung giờ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 3,7k–9,8k)
-- Không thứ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 1,7k–7,9k)
-- Không mức độ dài nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 3,8k–4,6k)
+- Không khung giờ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 4,1k–9,9k)
+- Không thứ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 2,1k–8,1k)
+- Không mức độ dài nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 4,3k–4,7k)
 - Hashtag đi kèm view cao hơn hẳn trung vị: **#cổphiếu**; không chứng minh hashtag làm tăng view
 
 | # | Video | View | Tương tác | Giây | Ngày | Loại |
 |---|---|---|---|---|---|---|
-| 1 | [Giải thích về VNM trong 1 phút #creatorsearchinsights #cổphi](https://www.tiktok.com/@cafechungcungminh/video/7700155703234678017) | 778k | 2,4% | 51 | 2026-10-24 | Phân tích một mã cổ phiếu |
-| 2 | [Phượng hoàng tái sinh FPT #creatorsearchinsights #cổphiếu #c](https://www.tiktok.com/@cafechungcungminh/video/7702380012628020500) | 422k | 3,3% | 122 | 2026-10-30 | Phân tích một mã cổ phiếu |
-| 3 | [Các bạn đánh giá sao về mẹo này #creatorsearchinsights #cổph](https://www.tiktok.com/@cafechungcungminh/video/7701680816157445396) | 62k | 8,5% | 77 | 2026-10-28 | Kiến thức / mẹo đầu tư |
-| 4 | [Liệu còn chuyến tàu thứ 2 cho VSC? #creatorsearchinsights #c](https://www.tiktok.com/@cafechungcungminh/video/7703123815131368724) | 30k | 3,8% | 96 | 2026-11-01 | Phân tích một mã cổ phiếu |
-| 5 | [#creatorsearchinsights #cổphiếu #cafechung #vin ](https://www.tiktok.com/@cafechungcungminh/video/7697987952848145685) | 13k | 2,0% | 82 | 2026-10-18 | Phân tích một mã cổ phiếu |
-| 6 | [Lãi suất tăng cứ tăng, VHM vẫn bán được nhà #creatorsearchin](https://www.tiktok.com/@cafechungcungminh/video/7698344579770240262) | 9,8k | 1,9% | 77 | 2026-10-19 | Phân tích một mã cổ phiếu |
-| 7 | [Kiếm tiền từ cổ phiếu như thế nào? #creatorsearchinsights #c](https://www.tiktok.com/@cafechungcungminh/video/7706090045530246452) | 8,7k | 6,5% | 72 | 2026-11-09 | Kiến thức / mẹo đầu tư |
-| 8 | [Gánh cả Vn-index có khác #creatorsearchinsights #cổphiếu #ca](https://www.tiktok.com/@cafechungcungminh/video/7700928215514205441) | 7,9k | 2,0% | 74 | 2026-10-26 | Phân tích một mã cổ phiếu |
-| 9 | [#creatorsearchinsights #cổphiếuchứngkhoán #cafechung #VHM ](https://www.tiktok.com/@cafechungcungminh/video/7699090033105521941) | 4,6k | 1,8% | 77 | 2026-10-21 | Phân tích một mã cổ phiếu |
+| 1 | [Giải thích về VNM trong 1 phút #creatorsearchinsights #cổphi](https://www.tiktok.com/@cafechungcungminh/video/7700155703234678017) | 784k | 2,4% | 51 | 2026-10-24 | Phân tích một mã cổ phiếu |
+| 2 | [Phượng hoàng tái sinh FPT #creatorsearchinsights #cổphiếu #c](https://www.tiktok.com/@cafechungcungminh/video/7702380012628020500) | 433k | 3,3% | 122 | 2026-10-30 | Phân tích một mã cổ phiếu |
+| 3 | [Các bạn đánh giá sao về mẹo này #creatorsearchinsights #cổph](https://www.tiktok.com/@cafechungcungminh/video/7701680816157445396) | 74k | 9,0% | 77 | 2026-10-28 | Kiến thức / mẹo đầu tư |
+| 4 | [Liệu còn chuyến tàu thứ 2 cho VSC? #creatorsearchinsights #c](https://www.tiktok.com/@cafechungcungminh/video/7703123815131368724) | 31k | 3,8% | 96 | 2026-11-01 | Phân tích một mã cổ phiếu |
+| 5 | [Kiếm tiền từ cổ phiếu như thế nào? #creatorsearchinsights #c](https://www.tiktok.com/@cafechungcungminh/video/7706090045530246452) | 13k | 6,6% | 72 | 2026-11-09 | Kiến thức / mẹo đầu tư |
+| 6 | [#creatorsearchinsights #cổphiếu #cafechung #vin ](https://www.tiktok.com/@cafechungcungminh/video/7697987952848145685) | 13k | 2,0% | 82 | 2026-10-18 | Phân tích một mã cổ phiếu |
+| 7 | [Lãi suất tăng cứ tăng, VHM vẫn bán được nhà #creatorsearchin](https://www.tiktok.com/@cafechungcungminh/video/7698344579770240262) | 9,9k | 1,9% | 77 | 2026-10-19 | Phân tích một mã cổ phiếu |
+| 8 | [Gánh cả Vn-index có khác #creatorsearchinsights #cổphiếu #ca](https://www.tiktok.com/@cafechungcungminh/video/7700928215514205441) | 8,1k | 2,1% | 74 | 2026-10-26 | Phân tích một mã cổ phiếu |
+| 9 | [#creatorsearchinsights #cổphiếuchứngkhoán #cafechung #VHM ](https://www.tiktok.com/@cafechungcungminh/video/7699090033105521941) | 4,7k | 1,8% | 77 | 2026-10-21 | Phân tích một mã cổ phiếu |
 | 10 | [Vin thì cứ vài cây trần là đẹp #creatorsearchinsights #cổphi](https://www.tiktok.com/@cafechungcungminh/video/7699451700351995156) | 4,3k | 1,9% | 76 | 2026-10-22 | Phân tích một mã cổ phiếu |
 
 **Phong cách dựng (video top)**
@@ -101,11 +101,11 @@ Cập nhật 2026-11-12 · TikTok: @cafechungcungminh. Biểu đồ xem trong `c
 
 | Video | View | Đổi hình | 3s đầu | Phụ đề | Âm tiết/phút | 3 giây đầu nói |
 |---|---|---|---|---|---|---|
-| [Giải thích về VNM trong 1 phút #creators](https://www.tiktok.com/@cafechungcungminh/video/7700155703234678017) | 778k | 0,8s/beat | 0 | — | 236 | 5 năm trước, bạn bỏ 100 triệu vào Vinamil, cổ phiếu |
-| [Phượng hoàng tái sinh FPT #creatorsearch](https://www.tiktok.com/@cafechungcungminh/video/7702380012628020500) | 422k | 0,6s/beat | 0 | — | 220 | Có người từng khuyên tôi mua FPT ở giá 145.000 |
-| [Các bạn đánh giá sao về mẹo này #creator](https://www.tiktok.com/@cafechungcungminh/video/7701680816157445396) | 62k | 0,4s/beat | 0 | — | 251 | Mẹo nhìn động thái của Ngân hàng Nhà nước để dự đoán hướng đi của thị trường chứng |
-| [Liệu còn chuyến tàu thứ 2 cho VSC? #crea](https://www.tiktok.com/@cafechungcungminh/video/7703123815131368724) | 30k | 0,5s/beat | 2 | — | 257 | Có một cổ phiếu từng khiến rất nhiều người tiếc nuối vì không mua, |
-| [#creatorsearchinsights #cổphiếu #cafechu](https://www.tiktok.com/@cafechungcungminh/video/7697987952848145685) | 13k | 1,7s/beat | 0 | — | 207 | Năm 2025, VIC, VHM |
+| [Giải thích về VNM trong 1 phút #creators](https://www.tiktok.com/@cafechungcungminh/video/7700155703234678017) | 784k | 0,8s/beat | 0 | — | 236 | 5 năm trước, bạn bỏ 100 triệu vào Vinamil, cổ phiếu |
+| [Phượng hoàng tái sinh FPT #creatorsearch](https://www.tiktok.com/@cafechungcungminh/video/7702380012628020500) | 433k | 0,6s/beat | 0 | — | 220 | Có người từng khuyên tôi mua FPT ở giá 145.000 |
+| [Các bạn đánh giá sao về mẹo này #creator](https://www.tiktok.com/@cafechungcungminh/video/7701680816157445396) | 74k | 0,4s/beat | 0 | — | 251 | Mẹo nhìn động thái của Ngân hàng Nhà nước để dự đoán hướng đi của thị trường chứng |
+| [Liệu còn chuyến tàu thứ 2 cho VSC? #crea](https://www.tiktok.com/@cafechungcungminh/video/7703123815131368724) | 31k | 0,5s/beat | 2 | — | 257 | Có một cổ phiếu từng khiến rất nhiều người tiếc nuối vì không mua, |
+| [Kiếm tiền từ cổ phiếu như thế nào? #crea](https://www.tiktok.com/@cafechungcungminh/video/7706090045530246452) | 13k | 3,9s/beat | 0 | — | 246 | Bạn nghĩ rằng đầu tư chứng khoán chỉ đơn giản là mua cổ phiếu khi giá |
 
 #### Kiểm tra bằng chứng
 
@@ -115,82 +115,83 @@ View là số tích lũy trong cache, không phải view ở cùng tuổi bài; 
 
 **Độ ổn định theo loại nội dung**
 
-| Loại | n | Trung vị | P25–P75 | Hit (≥44k) | So với bài cùng thời | Vượt bài cùng thời |
+| Loại | n | Trung vị | P25–P75 | Hit (≥45k) | So với bài cùng thời | Vượt bài cùng thời |
 |---|---|---|---|---|---|---|
-| Kiến thức / mẹo đầu tư | 3 · ít mẫu · 1 bài <7 ngày | 8,7k | 6,2k–35k | 1/3 | 1,5× | 66,7% |
-| Phân tích một mã cổ phiếu | 11 · 1 bài <7 ngày | 7,9k | 4k–21k | 2/11 | 1,1× | 54,5% |
-| Thị trường & vĩ mô | 4 · ít mẫu · 1 bài <7 ngày | 1,6k | 1,5k–2k | 0/4 | 0,4× | 0,0% |
+| Kiến thức / mẹo đầu tư | 3 · ít mẫu | 13k | 8,7k–43k | 1/3 | 2,1× | 66,7% |
+| Phân tích một mã cổ phiếu | 11 · 1 bài <7 ngày | 8,1k | 4,1k–22k | 2/11 | 1,1× | 54,5% |
+| Thị trường & vĩ mô | 4 · ít mẫu | 1,9k | 1,7k–2,2k | 0/4 | 0,4× | 0,0% |
 
 **Tỷ lệ hit theo tháng (mọi bài)**
 
-| Kỳ | n | Trung vị | Hit (≥44k) |
+| Kỳ | n | Trung vị | Hit (≥45k) |
 |---|---|---|---|
-| T10/2026 | 12 | 6,3k | 3/12 |
-| T11/2026 | 6 · 3 bài <7 ngày | 2,6k | 0/6 |
+| T10/2026 | 12 | 6,4k | 3/12 |
+| T11/2026 | 6 · 1 bài <7 ngày | 3,2k | 0/6 |
 
 **Kiểm tra khi bỏ video nhiều view nhất toàn kênh**
 
 | Bỏ top | Loại | n còn lại | Trung vị | Dẫn đầu đủ mẫu |
 |---|---|---|---|---|
-| 0 | Kiến thức / mẹo đầu tư | 3 · ít mẫu · 1 bài <7 ngày | 8,7k | — |
-| 0 | Phân tích một mã cổ phiếu | 11 · 1 bài <7 ngày | 7,9k | Có (có thể đồng hạng) |
-| 0 | Thị trường & vĩ mô | 4 · ít mẫu · 1 bài <7 ngày | 1,6k | — |
-| 1 | Kiến thức / mẹo đầu tư | 3 · ít mẫu · 1 bài <7 ngày | 8,7k | — |
-| 1 | Phân tích một mã cổ phiếu | 10 · 1 bài <7 ngày | 6,3k | Có (có thể đồng hạng) |
-| 1 | Thị trường & vĩ mô | 4 · ít mẫu · 1 bài <7 ngày | 1,6k | — |
-| 3 | Kiến thức / mẹo đầu tư | 2 · ít mẫu · 1 bài <7 ngày | 6,2k | — |
-| 3 | Phân tích một mã cổ phiếu | 9 · 1 bài <7 ngày | 4,6k | Có (có thể đồng hạng) |
-| 3 | Thị trường & vĩ mô | 4 · ít mẫu · 1 bài <7 ngày | 1,6k | — |
+| 0 | Kiến thức / mẹo đầu tư | 3 · ít mẫu | 13k | — |
+| 0 | Phân tích một mã cổ phiếu | 11 · 1 bài <7 ngày | 8,1k | Có (có thể đồng hạng) |
+| 0 | Thị trường & vĩ mô | 4 · ít mẫu | 1,9k | — |
+| 1 | Kiến thức / mẹo đầu tư | 3 · ít mẫu | 13k | — |
+| 1 | Phân tích một mã cổ phiếu | 10 · 1 bài <7 ngày | 6,4k | Có (có thể đồng hạng) |
+| 1 | Thị trường & vĩ mô | 4 · ít mẫu | 1,9k | — |
+| 3 | Kiến thức / mẹo đầu tư | 2 · ít mẫu | 8,7k | — |
+| 3 | Phân tích một mã cổ phiếu | 9 · 1 bài <7 ngày | 4,7k | Có (có thể đồng hạng) |
+| 3 | Thị trường & vĩ mô | 4 · ít mẫu | 1,9k | — |
 
 **So chủ đề trong cùng tháng (chỉ kỳ có từ 2 loại)**
 
 | Kỳ | Loại | n | Trung vị | Hit |
 |---|---|---|---|---|
-| T10/2026 | Kiến thức / mẹo đầu tư | 1 · ít mẫu | 62k | 1/1 |
-| T10/2026 | Phân tích một mã cổ phiếu | 9 | 7,9k | 2/9 |
-| T10/2026 | Thị trường & vĩ mô | 2 · ít mẫu | 2,3k | 0/2 |
-| T11/2026 | Phân tích một mã cổ phiếu | 2 · ít mẫu · 1 bài <7 ngày | 15k | 0/2 |
-| T11/2026 | Kiến thức / mẹo đầu tư | 2 · ít mẫu · 1 bài <7 ngày | 6,2k | 0/2 |
-| T11/2026 | Thị trường & vĩ mô | 2 · ít mẫu · 1 bài <7 ngày | 1,4k | 0/2 |
+| T10/2026 | Kiến thức / mẹo đầu tư | 1 · ít mẫu | 74k | 1/1 |
+| T10/2026 | Phân tích một mã cổ phiếu | 9 | 8,1k | 2/9 |
+| T10/2026 | Thị trường & vĩ mô | 2 · ít mẫu | 2,4k | 0/2 |
+| T11/2026 | Phân tích một mã cổ phiếu | 2 · ít mẫu · 1 bài <7 ngày | 17k | 0/2 |
+| T11/2026 | Kiến thức / mẹo đầu tư | 2 · ít mẫu | 8,7k | 0/2 |
+| T11/2026 | Thị trường & vĩ mô | 2 · ít mẫu | 1,7k | 0/2 |
 
 **Độ dài trong cùng chủ đề (mốc chia theo phân vị của từng loại)**
 
 | Loại | Độ dài | n | Trung vị | So với bài cùng thời | Hit | Đủ hai nhóm ≥5 bài |
 |---|---|---|---|---|---|---|
-| Kiến thức / mẹo đầu tư | ≤75s | 1 · ít mẫu · 1 bài <7 ngày | 8,7k | 1,5× | 0/1 | Chưa đủ mẫu |
-| Kiến thức / mẹo đầu tư | 75s–1:30 | 1 · ít mẫu | 62k | 10,0× | 1/1 | Chưa đủ mẫu |
-| Kiến thức / mẹo đầu tư | >1:30 | 1 · ít mẫu | 3,7k | 0,4× | 0/1 | Chưa đủ mẫu |
-| Phân tích một mã cổ phiếu | ≤75s | 4 · ít mẫu · 1 bài <7 ngày | 4,7k | 0,7× | 1/4 | Chưa đủ mẫu |
-| Phân tích một mã cổ phiếu | 75s–80s | 3 · ít mẫu | 4,6k | 0,8× | 0/3 | Chưa đủ mẫu |
-| Phân tích một mã cổ phiếu | >80s | 4 · ít mẫu | 21k | 4,1× | 1/4 | Chưa đủ mẫu |
-| Thị trường & vĩ mô | ≤70s | 1 · ít mẫu | 1,7k | 0,4× | 0/1 | Chưa đủ mẫu |
-| Thị trường & vĩ mô | 70s–85s | 2 · ít mẫu | 2,1k | 0,4× | 0/2 | Chưa đủ mẫu |
-| Thị trường & vĩ mô | >85s | 1 · ít mẫu · 1 bài <7 ngày | 1,6k | 0,4× | 0/1 | Chưa đủ mẫu |
+| Kiến thức / mẹo đầu tư | ≤75s | 1 · ít mẫu | 13k | 2,1× | 0/1 | Chưa đủ mẫu |
+| Kiến thức / mẹo đầu tư | 75s–1:30 | 1 · ít mẫu | 74k | 11× | 1/1 | Chưa đủ mẫu |
+| Kiến thức / mẹo đầu tư | >1:30 | 1 · ít mẫu | 4,3k | 0,3× | 0/1 | Chưa đủ mẫu |
+| Phân tích một mã cổ phiếu | ≤75s | 4 · ít mẫu · 1 bài <7 ngày | 5,1k | 0,7× | 1/4 | Chưa đủ mẫu |
+| Phân tích một mã cổ phiếu | 75s–80s | 3 · ít mẫu | 4,7k | 0,8× | 0/3 | Chưa đủ mẫu |
+| Phân tích một mã cổ phiếu | >80s | 4 · ít mẫu | 22k | 4,0× | 1/4 | Chưa đủ mẫu |
+| Thị trường & vĩ mô | ≤70s | 1 · ít mẫu | 1,8k | 0,4× | 0/1 | Chưa đủ mẫu |
+| Thị trường & vĩ mô | 70s–85s | 2 · ít mẫu | 2,2k | 0,4× | 0/2 | Chưa đủ mẫu |
+| Thị trường & vĩ mô | >85s | 1 · ít mẫu | 1,9k | 0,4× | 0/1 | Chưa đủ mẫu |
 
 **Tương tác theo từng loại (trung vị tỷ lệ trên view)**
 
 | Loại | Like/view | Bình luận/view | Chia sẻ/view | Lưu/view |
 |---|---|---|---|---|
-| Kiến thức / mẹo đầu tư | 5,1% (n=3) | 0,0% (n=3) | 0,7% (n=3) | 1,0% (n=3) |
-| Phân tích một mã cổ phiếu | 1,6% (n=11) | 0,1% (n=11) | 0,1% (n=11) | 0,1% (n=11) |
+| Kiến thức / mẹo đầu tư | 5,1% (n=3) | 0,0% (n=3) | 0,6% (n=3) | 1,1% (n=3) |
+| Phân tích một mã cổ phiếu | 1,7% (n=11) | 0,1% (n=11) | 0,1% (n=11) | 0,2% (n=11) |
 | Thị trường & vĩ mô | 1,6% (n=4) | 0,1% (n=4) | 0,2% (n=4) | 0,2% (n=4) |
 
 **Cặp video để xem đối chứng thủ công**
 
 | Loại | Video cao / ID | Video thấp / ID | Tỷ lệ view | Cách ngày |
 |---|---|---|---|---|
-| Phân tích một mã cổ phiếu | Liệu còn chuyến tàu thứ 2 cho VSC? #creatorsearchinsights #cổphiếu #cafechung  [7703123815131368724] | #creatorsearchinsights #cổphiếu #cafechung #fpt  [7698293889710542086] | 7.7× | 13.0 |
-| Phân tích một mã cổ phiếu | Gánh cả Vn-index có khác #creatorsearchinsights #cổphiếu #cafechung  [7700928215514205441] | Ai bắt đáy PNJ chắc khóc thét #pnj #cafechung #chungkhoan  [7697877464361536789] | 5.4× | 8.2 |
+| Phân tích một mã cổ phiếu | Liệu còn chuyến tàu thứ 2 cho VSC? #creatorsearchinsights #cổphiếu #cafechung  [7703123815131368724] | #creatorsearchinsights #cổphiếu #cafechung #fpt  [7698293889710542086] | 7.9× | 13.0 |
+| Kiến thức / mẹo đầu tư | Các bạn đánh giá sao về mẹo này #creatorsearchinsights #cổphiếu #cafechung  [7701680816157445396] | Kiếm tiền từ cổ phiếu như thế nào? #creatorsearchinsights #cổphiếu #cafechung  [7706090045530246452] | 5.7× | 11.9 |
+| Phân tích một mã cổ phiếu | Gánh cả Vn-index có khác #creatorsearchinsights #cổphiếu #cafechung  [7700928215514205441] | Ai bắt đáy PNJ chắc khóc thét #pnj #cafechung #chungkhoan  [7697877464361536789] | 5.2× | 8.2 |
 
 Cặp đối chứng: cùng loại, cách tối đa 30 ngày, độ dài chênh tối đa 15% (ít nhất 10 giây), view chênh ít nhất 2 lần, cả hai bài đã đủ 7 ngày tuổi; mỗi loại tối đa 2 cặp, không lặp video, ưu tiên chênh view lớn. Chỉ dùng để xem thủ công, chưa chứng minh nguyên nhân.
 
 | Loại hình | Số video | View trung vị |
 |---|---|---|
-| Kiến thức / mẹo đầu tư | 3 | 8,7k |
-| Phân tích một mã cổ phiếu | 11 | 7,9k |
-| Thị trường & vĩ mô | 4 | 1,6k |
+| Kiến thức / mẹo đầu tư | 3 | 13k |
+| Phân tích một mã cổ phiếu | 11 | 8,1k |
+| Thị trường & vĩ mô | 4 | 1,9k |
 
 | Tháng | Số video | View trung vị |
 |---|---|---|
-| 2026-10 | 12 | 6,3k |
-| 2026-11 | 6 | 2,6k |
+| 2026-10 | 12 | 6,4k |
+| 2026-11 | 6 | 3,2k |

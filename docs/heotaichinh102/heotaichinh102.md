@@ -1,6 +1,6 @@
 # heotaichinh102 — phân tích đối thủ
 
-Cập nhật 2026-11-12 · TikTok: @heotaichinh102. Biểu đồ xem trong `heotaichinh102.html`.
+Cập nhật 2026-11-16 · TikTok: @heotaichinh102. Biểu đồ xem trong `heotaichinh102.html`.
 
 ## Nhận định
 
@@ -38,34 +38,34 @@ Cập nhật 2026-11-12 · TikTok: @heotaichinh102. Biểu đồ xem trong `heot
 
 ### @heotaichinh102
 
-- 3,8k follower · 16 video phân tích (2026-10-29 → 2026-11-11) · tổng 909k view
-- View trung vị 9,3k, trung bình 57k, cao nhất 355k · tương tác trung vị 6,3%
-- 8,5 video/tuần · 16 video trong 30 ngày qua · độ dài trung vị 482s · 93,8% dùng âm thanh gốc
+- 4,7k follower · 18 video phân tích (2026-10-29 → 2026-11-15) · tổng 1,1 tr view
+- View trung vị 12k, trung bình 61k, cao nhất 396k · tương tác trung vị 6,9%
+- 7,4 video/tuần · 18 video trong 30 ngày qua · độ dài trung vị 470.5s · 94,4% dùng âm thanh gốc
 
 **Điểm chính**
 
-- Không loại nội dung nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 8,8k–18k)
-- **Nghề nghiệp, AI & thông báo kênh** chiếm 18,8% số video nhưng chỉ mang về 0,5% tổng view
-- **3/16 video** đạt từ 93k view (10× trung vị kênh) và mang về **88,0%** tổng view; top 3 chiếm 88,0%
-- Số hit (từ 93k view) theo tuần gần nhất: **1/2 → 2/8 → 0/6** (kỳ cuối có 6 bài dưới 7 ngày tuổi, còn tích view)
-- Đăng 8,5 video/tuần; tháng dày nhất T11/26 có 14 video; 30 ngày qua: 16 video
+- Không loại nội dung nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 13k–23k)
+- **Nghề nghiệp, AI & thông báo kênh** chiếm 11,1% số video nhưng chỉ mang về 0,2% tổng view
+- **3/18 video** đạt từ 119k view (10× trung vị kênh) và mang về **83,4%** tổng view; top 3 chiếm 83,4%
+- Số hit (từ 119k view) theo tuần gần nhất: **1/2 → 2/6 → 0/10** (kỳ cuối có 8 bài dưới 7 ngày tuổi, còn tích view)
+- Đăng 7,4 video/tuần; tháng dày nhất T11/26 có 16 video; 30 ngày qua: 18 video
 - Chưa đủ mẫu để so sánh khung giờ
 - Chưa đủ mẫu để so sánh thứ
 - Chưa đủ mẫu để so sánh mức độ dài
-- Không hashtag đủ mẫu nào đi kèm view cao hơn hẳn trung vị; không chứng minh hashtag làm tăng view
+- Hashtag đi kèm view cao hơn hẳn trung vị: **#chungkhoan**; không chứng minh hashtag làm tăng view
 
 | # | Video | View | Tương tác | Giây | Ngày | Loại |
 |---|---|---|---|---|---|---|
-| 1 | [Phòng gym >.< bạn "đóng tiền… không đến tập" 😅 Thẻ trả trướ](https://www.tiktok.com/@heotaichinh102/video/7703758926361267476) | 355k | 7,3% | 537 | 2026-11-03 | Chi tiêu & tiền cá nhân |
-| 2 | [Cùng một chiếc iPhone 18 đời mới, người lãi, người lỗ. Khác ](https://www.tiktok.com/@heotaichinh102/video/7702335824507030804) | 316k | 8,4% | 492 | 2026-10-30 | Chi tiêu & tiền cá nhân |
-| 3 | [Định giá nhanh bất kỳ thứ gì bằng 2 câu hỏi của dân chứng kh](https://www.tiktok.com/@heotaichinh102/video/7704587333823221013) | 129k | 12,5% | 501 | 2026-11-07 | Chứng khoán, ngân hàng & kinh tế |
-| 4 | [Giải mã cổ phiếu: bạn thật sự đang bấm mua cái gì? Bạn mua c](https://www.tiktok.com/@heotaichinh102/video/7704527129001610516) | 27k | 8,7% | 521 | 2026-11-05 | Chứng khoán, ngân hàng & kinh tế |
-| 5 | [Chứng khoán là zero-sum hay cùng thắng? Để lại suy nghĩ của ](https://www.tiktok.com/@heotaichinh102/video/7706076277110885652) | 20k | 5,0% | 505 | 2026-11-09 | Chứng khoán, ngân hàng & kinh tế |
-| 6 | [Ngân hàng trả bạn 6%, cho vay 9%. Ba phần chênh đi đâu? Xem ](https://www.tiktok.com/@heotaichinh102/video/7704543131810729222) | 17k | 4,7% | 560 | 2026-11-06 | Chứng khoán, ngân hàng & kinh tế |
-| 7 | [Bạn đang trả hằng ngày mà không hề hay biết? Không ai thu, k](https://www.tiktok.com/@heotaichinh102/video/7704548265324219668) | 12k | 7,3% | 366 | 2026-11-10 | Chi tiêu & tiền cá nhân |
-| 8 | [Bạn đang đứng ở đâu trong chu kỳ của nền kinh tế? 4 pha, 4 b](https://www.tiktok.com/@heotaichinh102/video/7706013289758690580) | 9,9k | 6,5% | 561 | 2026-11-09 | Chứng khoán, ngân hàng & kinh tế |
-| 9 | [Công ty đóng cửa, bạn quyết về quê hay ở lại trong 3 ngày? T](https://www.tiktok.com/@heotaichinh102/video/7703845201919626516) | 8,8k | 5,3% | 472 | 2026-11-03 | Chi tiêu & tiền cá nhân |
-| 10 | [Giá cổ phiếu giảm 20% sau một đêm? Có thể chỉ là ngày chia c](https://www.tiktok.com/@heotaichinh102/video/7706429083869089044) | 5,5k | 4,9% | 463 | 2026-11-10 | Chứng khoán, ngân hàng & kinh tế |
+| 1 | [Phòng gym >.< bạn "đóng tiền… không đến tập" 😅 Thẻ trả trướ](https://www.tiktok.com/@heotaichinh102/video/7703758926361267476) | 396k | 7,4% | 537 | 2026-11-03 | Chi tiêu & tiền cá nhân |
+| 2 | [Cùng một chiếc iPhone 18 đời mới, người lãi, người lỗ. Khác ](https://www.tiktok.com/@heotaichinh102/video/7702335824507030804) | 365k | 8,5% | 492 | 2026-10-30 | Chi tiêu & tiền cá nhân |
+| 3 | [Định giá nhanh bất kỳ thứ gì bằng 2 câu hỏi của dân chứng kh](https://www.tiktok.com/@heotaichinh102/video/7704587333823221013) | 147k | 12,8% | 501 | 2026-11-07 | Chứng khoán, ngân hàng & kinh tế |
+| 4 | [Giải mã cổ phiếu: bạn thật sự đang bấm mua cái gì? Bạn mua c](https://www.tiktok.com/@heotaichinh102/video/7704527129001610516) | 59k | 9,9% | 521 | 2026-11-05 | Chứng khoán, ngân hàng & kinh tế |
+| 5 | [Chứng khoán là zero-sum hay cùng thắng? Để lại suy nghĩ của ](https://www.tiktok.com/@heotaichinh102/video/7706076277110885652) | 25k | 5,3% | 505 | 2026-11-09 | Chứng khoán, ngân hàng & kinh tế |
+| 6 | [Ngân hàng trả bạn 6%, cho vay 9%. Ba phần chênh đi đâu? Xem ](https://www.tiktok.com/@heotaichinh102/video/7704543131810729222) | 22k | 4,9% | 560 | 2026-11-06 | Chứng khoán, ngân hàng & kinh tế |
+| 7 | [Bạn đang trả hằng ngày mà không hề hay biết? Không ai thu, k](https://www.tiktok.com/@heotaichinh102/video/7704548265324219668) | 16k | 7,6% | 366 | 2026-11-10 | Chi tiêu & tiền cá nhân |
+| 8 | [Bạn bè có nhà có xe, còn bạn chỉ có sổ tiết kiệm? 5 lớp tài ](https://www.tiktok.com/@heotaichinh102/video/7706796099629092097) | 13k | 6,4% | 469 | 2026-11-12 | Chưa phân loại |
+| 9 | [Giá cổ phiếu giảm 20% sau một đêm? Có thể chỉ là ngày chia c](https://www.tiktok.com/@heotaichinh102/video/7706429083869089044) | 12k | 5,2% | 463 | 2026-11-10 | Chứng khoán, ngân hàng & kinh tế |
+| 10 | [Bạn đang đứng ở đâu trong chu kỳ của nền kinh tế? 4 pha, 4 b](https://www.tiktok.com/@heotaichinh102/video/7706013289758690580) | 12k | 6,6% | 561 | 2026-11-09 | Chứng khoán, ngân hàng & kinh tế |
 
 **Phong cách dựng (video top)**
 
@@ -106,96 +106,99 @@ Cập nhật 2026-11-12 · TikTok: @heotaichinh102. Biểu đồ xem trong `heot
 
 | Video | View | Đổi hình | 3s đầu | Phụ đề | Âm tiết/phút | 3 giây đầu nói |
 |---|---|---|---|---|---|---|
-| [Phòng gym >.< bạn "đóng tiền… không đến ](https://www.tiktok.com/@heotaichinh102/video/7703758926361267476) | 355k | 1,1s/beat | 4 | — | 274 | Phòng gym kiếm tiền nhờ bạn, không đến tập. Giả sử bạn |
-| [Cùng một chiếc iPhone 18 đời mới, người ](https://www.tiktok.com/@heotaichinh102/video/7702335824507030804) | 316k | 1,9s/beat | 4 | 60,2s/cụm | 267 | Cùng một chiếc iPhone, người lãi, người lỗ. Hai người bạn cùng |
-| [Định giá nhanh bất kỳ thứ gì bằng 2 câu ](https://www.tiktok.com/@heotaichinh102/video/7704587333823221013) | 129k | 1,4s/beat | 4 | 9,5s/cụm | 240 | Bạn sắp bỏ tiền mua một thứ gì đó, căn hộ, quán cà phê |
-| [Giải mã cổ phiếu: bạn thật sự đang bấm m](https://www.tiktok.com/@heotaichinh102/video/7704527129001610516) | 27k | 9,6s/beat | 1 | — | 265 | Ai cũng nói cổ phiếu, bạn đã hiểu nó là gì chưa? |
-| [Chứng khoán là zero-sum hay cùng thắng? ](https://www.tiktok.com/@heotaichinh102/video/7706076277110885652) | 20k | 3,1s/beat | 1 | 32,6s/cụm | 240 | Bạn nghe nói chứng khoán là người này lời thì người kia lỗ, |
+| [Phòng gym >.< bạn "đóng tiền… không đến ](https://www.tiktok.com/@heotaichinh102/video/7703758926361267476) | 396k | 1,1s/beat | 4 | — | 274 | Phòng gym kiếm tiền nhờ bạn, không đến tập. Giả sử bạn |
+| [Cùng một chiếc iPhone 18 đời mới, người ](https://www.tiktok.com/@heotaichinh102/video/7702335824507030804) | 365k | 1,9s/beat | 4 | 60,2s/cụm | 267 | Cùng một chiếc iPhone, người lãi, người lỗ. Hai người bạn cùng |
+| [Định giá nhanh bất kỳ thứ gì bằng 2 câu ](https://www.tiktok.com/@heotaichinh102/video/7704587333823221013) | 147k | 1,4s/beat | 4 | 9,5s/cụm | 240 | Bạn sắp bỏ tiền mua một thứ gì đó, căn hộ, quán cà phê |
+| [Giải mã cổ phiếu: bạn thật sự đang bấm m](https://www.tiktok.com/@heotaichinh102/video/7704527129001610516) | 59k | 9,6s/beat | 1 | — | 265 | Ai cũng nói cổ phiếu, bạn đã hiểu nó là gì chưa? |
+| [Chứng khoán là zero-sum hay cùng thắng? ](https://www.tiktok.com/@heotaichinh102/video/7706076277110885652) | 25k | 3,1s/beat | 1 | 32,6s/cụm | 240 | Bạn nghe nói chứng khoán là người này lời thì người kia lỗ, |
 
 #### Kiểm tra bằng chứng
 
 View là số tích lũy trong cache, không phải view ở cùng tuổi bài; bài dưới 7 ngày tuổi lúc thu thập còn đang tích view và được đếm riêng. "So với bài cùng thời" = view chia cho trung vị các bài khác đăng trong ±7 ngày (nới tới ±30 ngày nếu thiếu mẫu); cách này giảm nhiễu giai đoạn nhưng không chứng minh nhân quả. Hit = bài đạt từ 10× trung vị kênh. Nhóm dưới 5 bài là ít mẫu; không chọn làm nhóm dẫn đầu. Tỷ lệ vượt chuẩn dùng dấu >. Thiếu số đo hiển thị —; cache cũ có thể đã thay dữ liệu tương tác thiếu bằng 0. Không suy ra giữ chân, người xem quay lại hoặc cơ hội thị trường từ dữ liệu này.
 
-Đã gắn nhãn 16/16 video. P25–P75 là khoảng phân vị, không phải khoảng tin cậy.
+Đã gắn nhãn 14/18 video. P25–P75 là khoảng phân vị, không phải khoảng tin cậy.
 
 **Độ ổn định theo loại nội dung**
 
-| Loại | n | Trung vị | P25–P75 | Hit (≥93k) | So với bài cùng thời | Vượt bài cùng thời |
+| Loại | n | Trung vị | P25–P75 | Hit (≥119k) | So với bài cùng thời | Vượt bài cùng thời |
 |---|---|---|---|---|---|---|
-| Chứng khoán, ngân hàng & kinh tế | 6 · 5 bài <7 ngày | 18k | 12k–25k | 1/6 | 2,0× | 83,3% |
-| Chi tiêu & tiền cá nhân | 7 · 2 bài <7 ngày | 8,8k | 2,2k–164k | 2/7 | 0,8× | 42,9% |
-| Nghề nghiệp, AI & thông báo kênh | 3 · ít mẫu · 2 bài <7 ngày | 1,1k | 697–2,4k | 0/3 | 0,1× | 0,0% |
+| Chứng khoán, ngân hàng & kinh tế | 6 · 1 bài <7 ngày | 23k | 15k–50k | 1/6 | 1,9× | 83,3% |
+| Chi tiêu & tiền cá nhân | 6 · 2 bài <7 ngày | 13k | 4,4k–278k | 2/6 | 1,0× | 50,0% |
+| Nghề nghiệp, AI & thông báo kênh | 2 · ít mẫu · 1 bài <7 ngày | 1,1k | 786–1,4k | 0/2 | 0,1× | 0,0% |
 
 **Tỷ lệ hit theo tuần (mọi bài)**
 
-| Kỳ | n | Trung vị | Hit (≥93k) |
+| Kỳ | n | Trung vị | Hit (≥119k) |
 |---|---|---|---|
-| Tuần từ 26/10/2026 | 2 | 159k | 1/2 |
-| Tuần từ 02/11/2026 | 8 · 3 bài <7 ngày | 13k | 2/8 |
-| Tuần từ 09/11/2026 | 6 · 6 bài <7 ngày | 7,7k | 0/6 |
+| Tuần từ 26/10/2026 | 2 | 184k | 1/2 |
+| Tuần từ 02/11/2026 | 6 | 40k | 2/6 |
+| Tuần từ 09/11/2026 | 10 · 8 bài <7 ngày | 7,6k | 0/10 |
 
 **Kiểm tra khi bỏ video nhiều view nhất toàn kênh**
 
 | Bỏ top | Loại | n còn lại | Trung vị | Dẫn đầu đủ mẫu |
 |---|---|---|---|---|
-| 0 | Chứng khoán, ngân hàng & kinh tế | 6 · 5 bài <7 ngày | 18k | Có (có thể đồng hạng) |
-| 0 | Chi tiêu & tiền cá nhân | 7 · 2 bài <7 ngày | 8,8k | — |
-| 0 | Nghề nghiệp, AI & thông báo kênh | 3 · ít mẫu · 2 bài <7 ngày | 1,1k | — |
-| 1 | Chứng khoán, ngân hàng & kinh tế | 6 · 5 bài <7 ngày | 18k | Có (có thể đồng hạng) |
-| 1 | Chi tiêu & tiền cá nhân | 6 · 2 bài <7 ngày | 5,7k | — |
-| 1 | Nghề nghiệp, AI & thông báo kênh | 3 · ít mẫu · 2 bài <7 ngày | 1,1k | — |
-| 3 | Chứng khoán, ngân hàng & kinh tế | 5 · 4 bài <7 ngày | 17k | Có (có thể đồng hạng) |
-| 3 | Chi tiêu & tiền cá nhân | 5 · 2 bài <7 ngày | 2,6k | — |
-| 3 | Nghề nghiệp, AI & thông báo kênh | 3 · ít mẫu · 2 bài <7 ngày | 1,1k | — |
+| 0 | Chứng khoán, ngân hàng & kinh tế | 6 · 1 bài <7 ngày | 23k | Có (có thể đồng hạng) |
+| 0 | Chi tiêu & tiền cá nhân | 6 · 2 bài <7 ngày | 13k | — |
+| 0 | Nghề nghiệp, AI & thông báo kênh | 2 · ít mẫu · 1 bài <7 ngày | 1,1k | — |
+| 1 | Chứng khoán, ngân hàng & kinh tế | 6 · 1 bài <7 ngày | 23k | Có (có thể đồng hạng) |
+| 1 | Chi tiêu & tiền cá nhân | 5 · 2 bài <7 ngày | 9,7k | — |
+| 1 | Nghề nghiệp, AI & thông báo kênh | 2 · ít mẫu · 1 bài <7 ngày | 1,1k | — |
+| 3 | Chứng khoán, ngân hàng & kinh tế | 5 · 1 bài <7 ngày | 22k | Có (có thể đồng hạng) |
+| 3 | Chi tiêu & tiền cá nhân | 4 · ít mẫu · 2 bài <7 ngày | 6,2k | — |
+| 3 | Nghề nghiệp, AI & thông báo kênh | 2 · ít mẫu · 1 bài <7 ngày | 1,1k | — |
 
 **So chủ đề trong cùng tuần (chỉ kỳ có từ 2 loại)**
 
 | Kỳ | Loại | n | Trung vị | Hit |
 |---|---|---|---|---|
-| Tuần từ 02/11/2026 | Chứng khoán, ngân hàng & kinh tế | 3 · ít mẫu · 2 bài <7 ngày | 27k | 1/3 |
-| Tuần từ 02/11/2026 | Chi tiêu & tiền cá nhân | 3 · ít mẫu | 8,8k | 1/3 |
-| Tuần từ 02/11/2026 | Nghề nghiệp, AI & thông báo kênh | 2 · ít mẫu · 1 bài <7 ngày | 2,4k | 0/2 |
-| Tuần từ 09/11/2026 | Chứng khoán, ngân hàng & kinh tế | 3 · ít mẫu · 3 bài <7 ngày | 9,9k | 0/3 |
-| Tuần từ 09/11/2026 | Chi tiêu & tiền cá nhân | 2 · ít mẫu · 2 bài <7 ngày | 6,4k | 0/2 |
-| Tuần từ 09/11/2026 | Nghề nghiệp, AI & thông báo kênh | 1 · ít mẫu · 1 bài <7 ngày | 253 | 0/1 |
+| Tuần từ 02/11/2026 | Chi tiêu & tiền cá nhân | 2 · ít mẫu | 203k | 1/2 |
+| Tuần từ 02/11/2026 | Chứng khoán, ngân hàng & kinh tế | 3 · ít mẫu | 59k | 1/3 |
+| Tuần từ 02/11/2026 | Nghề nghiệp, AI & thông báo kênh | 1 · ít mẫu | 1,7k | 0/1 |
+| Tuần từ 09/11/2026 | Chứng khoán, ngân hàng & kinh tế | 3 · ít mẫu · 1 bài <7 ngày | 12k | 0/3 |
+| Tuần từ 09/11/2026 | Chi tiêu & tiền cá nhân | 2 · ít mẫu · 2 bài <7 ngày | 8,9k | 0/2 |
+| Tuần từ 09/11/2026 | Nghề nghiệp, AI & thông báo kênh | 1 · ít mẫu · 1 bài <7 ngày | 492 | 0/1 |
 
 **Độ dài trong cùng chủ đề (mốc chia theo phân vị của từng loại)**
 
 | Loại | Độ dài | n | Trung vị | So với bài cùng thời | Hit | Đủ hai nhóm ≥5 bài |
 |---|---|---|---|---|---|---|
-| Chi tiêu & tiền cá nhân | ≤7:45 | 2 · ít mẫu · 2 bài <7 ngày | 6,4k | 0,9× | 0/2 | Chưa đủ mẫu |
-| Chi tiêu & tiền cá nhân | 7:45–8:15 | 3 · ít mẫu | 8,8k | 0,8× | 1/3 | Chưa đủ mẫu |
-| Chi tiêu & tiền cá nhân | >8:15 | 2 · ít mẫu | 179k | 18× | 1/2 | Chưa đủ mẫu |
-| Chứng khoán, ngân hàng & kinh tế | ≤8:30 | 3 · ít mẫu · 3 bài <7 ngày | 20k | 2,2× | 1/3 | Chưa đủ mẫu |
-| Chứng khoán, ngân hàng & kinh tế | 8:30–9:00 | 1 · ít mẫu | 27k | 3,1× | 0/1 | Chưa đủ mẫu |
-| Chứng khoán, ngân hàng & kinh tế | >9:00 | 2 · ít mẫu · 2 bài <7 ngày | 13k | 1,5× | 0/2 | Chưa đủ mẫu |
-| Nghề nghiệp, AI & thông báo kênh | ≤5:15 | 1 · ít mẫu · 1 bài <7 ngày | 253 | 0,0× | 0/1 | Chưa đủ mẫu |
-| Nghề nghiệp, AI & thông báo kênh | >7:00 | 2 · ít mẫu · 1 bài <7 ngày | 2,4k | 0,2× | 0/2 | Chưa đủ mẫu |
+| Chi tiêu & tiền cá nhân | ≤7:30 | 2 · ít mẫu · 2 bài <7 ngày | 8,9k | 0,8× | 0/2 | Chưa đủ mẫu |
+| Chi tiêu & tiền cá nhân | 7:30–8:15 | 2 · ít mẫu | 187k | 8,6× | 1/2 | Chưa đủ mẫu |
+| Chi tiêu & tiền cá nhân | >8:15 | 2 · ít mẫu | 199k | 9,2× | 1/2 | Chưa đủ mẫu |
+| Chứng khoán, ngân hàng & kinh tế | ≤8:30 | 3 · ít mẫu · 1 bài <7 ngày | 25k | 2,2× | 1/3 | Chưa đủ mẫu |
+| Chứng khoán, ngân hàng & kinh tế | 8:30–9:00 | 1 · ít mẫu | 59k | 4,8× | 0/1 | Chưa đủ mẫu |
+| Chứng khoán, ngân hàng & kinh tế | >9:00 | 2 · ít mẫu | 17k | 1,3× | 0/2 | Chưa đủ mẫu |
+| Nghề nghiệp, AI & thông báo kênh | ≤3:45 | 1 · ít mẫu · 1 bài <7 ngày | 492 | 0,0× | 0/1 | Chưa đủ mẫu |
+| Nghề nghiệp, AI & thông báo kênh | >5:30 | 1 · ít mẫu | 1,7k | 0,1× | 0/1 | Chưa đủ mẫu |
 
 **Tương tác theo từng loại (trung vị tỷ lệ trên view)**
 
 | Loại | Like/view | Bình luận/view | Chia sẻ/view | Lưu/view |
 |---|---|---|---|---|
-| Chứng khoán, ngân hàng & kinh tế | 4,1% (n=6) | 0,0% (n=6) | 0,5% (n=6) | 1,3% (n=6) |
-| Chi tiêu & tiền cá nhân | 5,1% (n=7) | 0,0% (n=7) | 0,7% (n=7) | 0,7% (n=7) |
-| Nghề nghiệp, AI & thông báo kênh | 4,3% (n=3) | 0,3% (n=3) | 0,2% (n=3) | 0,4% (n=3) |
+| Chứng khoán, ngân hàng & kinh tế | 4,2% (n=6) | 0,0% (n=6) | 0,6% (n=6) | 1,4% (n=6) |
+| Chi tiêu & tiền cá nhân | 5,5% (n=6) | 0,0% (n=6) | 1,0% (n=6) | 0,7% (n=6) |
+| Nghề nghiệp, AI & thông báo kênh | 4,6% (n=2) | 0,6% (n=2) | 0,2% (n=2) | 1,4% (n=2) |
 
 **Cặp video để xem đối chứng thủ công**
 
 | Loại | Video cao / ID | Video thấp / ID | Tỷ lệ view | Cách ngày |
 |---|---|---|---|---|
-| Chi tiêu & tiền cá nhân | Phòng gym >.< bạn "đóng tiền… không đến tập" 😅 Thẻ trả trước thật ra là gì? Xem hết để biết. #taichanh #thegym #taichinhcanhan #hoathinh #phonggym Miễn trừ (dòng cuối mô tả): *Nội dung giáo dục, không phải lời khuyên tài chính. Số tiền là ví dụ.* [7703758926361267476] | Trúng 100 tỷ Vietlott, việc đầu tiên là gì? Giữ vé, nhận thưởng sớm, 7 ngày đầu chưa làm gì cả, rồi chia tiền thành năm hũ. Nhớ lưu video. Số liệu ví dụ, không phải lời khuyên đầu tư. #taichanh #vietlott #trungso #quanlytien [7704612570837110036] | 204.1× | 2.4 |
-| Chi tiêu & tiền cá nhân | Cùng một chiếc iPhone 18 đời mới, người lãi, người lỗ. Khác nhau ở một câu hỏi: mua để làm gì?  #taichanh #tiensan #taisan #iphone #taichinhcanhan Nội dung giáo dục, không phải lời khuyên tài chính. Số liệu là ví dụ. [7702335824507030804] | Vé bán lại đắt gấp 10 mà vẫn đông người mua. Bạn chi vì THÍCH THẬT hay vì SỢ LỠ? 🍋 Nội dung giáo dục, không phải lời khuyên tài chính. #taichinh #dieuhotoi #fomo #concert #chitieu #taichanh [7702021090473741589] | 120.9× | 0.8 |
+| Chi tiêu & tiền cá nhân | Phòng gym >.< bạn "đóng tiền… không đến tập" 😅 Thẻ trả trước thật ra là gì? Xem hết để biết. #taichanh #thegym #taichinhcanhan #hoathinh #phonggym Miễn trừ (dòng cuối mô tả): *Nội dung giáo dục, không phải lời khuyên tài chính. Số tiền là ví dụ.* [7703758926361267476] | Vé bán lại đắt gấp 10 mà vẫn đông người mua. Bạn chi vì THÍCH THẬT hay vì SỢ LỠ? 🍋 Nội dung giáo dục, không phải lời khuyên tài chính. #taichinh #dieuhotoi #fomo #concert #chitieu #taichanh [7702021090473741589] | 147.8× | 4.7 |
+| Chi tiêu & tiền cá nhân | Cùng một chiếc iPhone 18 đời mới, người lãi, người lỗ. Khác nhau ở một câu hỏi: mua để làm gì?  #taichanh #tiensan #taisan #iphone #taichinhcanhan Nội dung giáo dục, không phải lời khuyên tài chính. Số liệu là ví dụ. [7702335824507030804] | Công ty đóng cửa, bạn quyết về quê hay ở lại trong 3 ngày? Tính 3 con số trước đã: bình nước còn mấy tháng. Nội dung giáo dục, không phải lời khuyên. #matviec #veque #taichinhcanhan #quydutphong #taichanh #hoctaichinh [7703845201919626516] | 37.7× | 4.3 |
+| Chứng khoán, ngân hàng & kinh tế | Định giá nhanh bất kỳ thứ gì bằng 2 câu hỏi của dân chứng khoán 🍋 Giáo dục, không phải lời khuyên tài chính. #taichinh #PE #PB #chungkhoan #taichanh [7704587333823221013] | Bạn đang đứng ở đâu trong chu kỳ của nền kinh tế? 4 pha, 4 bánh răng, và vì sao lúc kinh tế nóng nhất tiền vay lại đắt dần. Nội dung giáo dục, không phải lời khuyên tài chính. #chukykinhte #suythoai #taichinhcanhan #laisuat #taichanh #hoctaichinh [7706013289758690580] | 12.7× | 2.1 |
+| Chứng khoán, ngân hàng & kinh tế | Giải mã cổ phiếu: bạn thật sự đang bấm mua cái gì? Bạn mua cổ phiếu mà đã biết mình mua gì chưa? Cổ phiếu là một phần của công ty; giá của nó là tài sản cộng kỳ vọng; tiền lời đến từ công ty làm ăn có lãi. Số liệu ví dụ, không phải khuyên mua bán. #taichanh #cophieu #chungkhoan #kienthuctaichinh [7704527129001610516] | Ngân hàng trả bạn 6%, cho vay 9%. Ba phần chênh đi đâu? Xem khâu bạn không thấy 👇 #nganhang #laisuat #taichinh #taichanh Nội dung mang tính giáo dục, không phải lời khuyên tài chính. [7704543131810729222] | 2.7× | 1.0 |
 
 Cặp đối chứng: cùng loại, cách tối đa 30 ngày, độ dài chênh tối đa 15% (ít nhất 10 giây), view chênh ít nhất 2 lần, cả hai bài đã đủ 7 ngày tuổi; mỗi loại tối đa 2 cặp, không lặp video, ưu tiên chênh view lớn. Chỉ dùng để xem thủ công, chưa chứng minh nguyên nhân.
 
 | Loại hình | Số video | View trung vị |
 |---|---|---|
-| Chứng khoán, ngân hàng & kinh tế | 6 | 18k |
-| Chi tiêu & tiền cá nhân | 7 | 8,8k |
-| Nghề nghiệp, AI & thông báo kênh | 3 | 1,1k |
+| Chứng khoán, ngân hàng & kinh tế | 6 | 23k |
+| Chi tiêu & tiền cá nhân | 6 | 13k |
+| Chưa phân loại | 4 | 2,7k |
+| Nghề nghiệp, AI & thông báo kênh | 2 | 1,1k |
 
 | Tháng | Số video | View trung vị |
 |---|---|---|
-| 2026-10 | 2 | 159k |
-| 2026-11 | 14 | 9,3k |
+| 2026-10 | 2 | 184k |
+| 2026-11 | 16 | 12k |

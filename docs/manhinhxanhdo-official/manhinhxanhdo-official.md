@@ -1,6 +1,6 @@
 # manhinhxanhdo_official — phân tích đối thủ
 
-Cập nhật 2026-11-12 · TikTok: @manhinhxanhdo_official. Biểu đồ xem trong `manhinhxanhdo-official.html`.
+Cập nhật 2026-11-16 · TikTok: @manhinhxanhdo_official. Biểu đồ xem trong `manhinhxanhdo-official.html`.
 
 ## Nhận định
 
@@ -38,35 +38,34 @@ Cập nhật 2026-11-12 · TikTok: @manhinhxanhdo_official. Biểu đồ xem tro
 
 ### @manhinhxanhdo_official
 
-- 13k follower · 56 video phân tích (2025-08-15 → 2026-07-23) · tổng 4,5 tr view
-- View trung vị 25k, trung bình 81k, cao nhất 1,5 tr · tương tác trung vị 1,1%
-- 1,1 video/tuần · 0 video trong 30 ngày qua · độ dài trung vị 62s · 19,6% dùng âm thanh gốc
+- 13k follower · 50 video phân tích (2025-08-15 → 2026-07-23) · tổng 3,8 tr view
+- View trung vị 22k, trung bình 76k, cao nhất 1,5 tr · tương tác trung vị 1,1%
+- 1,0 video/tuần · 0 video trong 30 ngày qua · độ dài trung vị 62s · 20,0% dùng âm thanh gốc
 
 **Điểm chính**
 
-- Không loại nội dung nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 6,9k–28k)
-- **Bỏ một lần, giờ ra sao** chiếm 57,1% số video nhưng chỉ mang về 40,9% tổng view
-- **4/56 video** đạt từ 246k view (10× trung vị kênh) và mang về **54,8%** tổng view; top 3 chiếm 48,9%
-- View tích lũy trung vị **giảm**: 28k ở 3 tháng có bài đầu → 15k ở 3 tháng có bài cuối; chưa so ở cùng tuổi bài
-- Số hit (từ 246k view) theo tháng gần nhất: **1/8 → 0/2 → 0/8 → 0/1**
-- Đăng 1,1 video/tuần; tháng dày nhất T8/25 có 20 video; 30 ngày qua: 0 video
-- Không khung giờ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 17k–69k)
+- **Tích sản định kỳ** nổi trội: gấp 2,7× các bài đăng cùng thời, nhóm kế tiếp (Bỏ một lần, giờ ra sao) 0,8×
+- **Bỏ một lần, giờ ra sao** chiếm 54,0% số video nhưng chỉ mang về 30,8% tổng view
+- **3/50 video** đạt từ 218k view (10× trung vị kênh) và mang về **54,7%** tổng view; top 3 chiếm 54,7%
+- View tích lũy trung vị **giảm**: 28k ở 3 tháng có bài đầu → 17k ở 3 tháng có bài cuối; chưa so ở cùng tuổi bài
+- Đăng 1,0 video/tuần; tháng dày nhất T8/25 có 20 video; 30 ngày qua: 0 video
+- Không khung giờ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 17k–55k)
 - Không thứ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 13k–95k)
-- Không mức độ dài nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 8,9k–30k)
+- Không mức độ dài nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 8,9k–29k)
 - Không hashtag đủ mẫu nào đi kèm view cao hơn hẳn trung vị; không chứng minh hashtag làm tăng view
 
 | # | Video | View | Tương tác | Giây | Ngày | Loại |
 |---|---|---|---|---|---|---|
 | 1 | [Trả lời @zvinh31 Nếu bạn đầu tư 5 triệu đồng mỗi tháng vào c](https://www.tiktok.com/@manhinhxanhdo_official/video/7541243778741406983) | 1,5 tr | 2,4% | 60 | 2025-08-22 | Tích sản định kỳ |
-| 2 | [Nếu bạn đầu tư 500 triệu vào cổ phiếu Petrolimex (PLX) từ lú](https://www.tiktok.com/@manhinhxanhdo_official/video/7597822235981843733) | 385k | 0,7% | 62 | 2026-01-21 | Bỏ một lần, giờ ra sao |
-| 3 | [Trả lời @tlrmme111  Nếu bạn đầu tư 2 triệu đồng mỗi tháng và](https://www.tiktok.com/@manhinhxanhdo_official/video/7542161826541243656) | 319k | 1,4% | 62 | 2025-08-24 | Tích sản định kỳ |
-| 4 | [Trả lời @topcomentdao  Nếu bạn đầu tư 2 triệu đồng mỗi tháng](https://www.tiktok.com/@manhinhxanhdo_official/video/7540861204533759250) | 268k | 1,3% | 60 | 2025-08-21 | Tích sản định kỳ |
-| 5 | [Nếu bạn bỏ ra 200 triệu đồng mua vàng từ năm 2010 thì hiện t](https://www.tiktok.com/@manhinhxanhdo_official/video/7547692216236838162) | 163k | 1,1% | 62 | 2025-09-08 | Bỏ một lần, giờ ra sao |
-| 6 | [Nếu bạn đầu tư 100 triệu vào cổ phiếu PNJ cách đây 3 tháng t](https://www.tiktok.com/@manhinhxanhdo_official/video/7665753171674926356) | 139k | 2,4% | 22 | 2026-07-23 | Bỏ một lần, giờ ra sao |
-| 7 | [Nếu cách đây 5 năm bạn đầu tư 500 triệu vào cổ phiếu BSR thì](https://www.tiktok.com/@manhinhxanhdo_official/video/7614455539761761557) | 138k | 1,3% | 46 | 2026-03-07 | Bỏ một lần, giờ ra sao |
-| 8 | [So sánh nếu bạn đầu tư 2 triệu đồng mỗi tháng giữa vàng và c](https://www.tiktok.com/@manhinhxanhdo_official/video/7540161432093003026) | 123k | 1,6% | 60 | 2025-08-19 | Tích sản định kỳ |
-| 9 | [Trả lời @teacherhpodcast  Nếu bạn đầu tư 200 triệu mua cổ ph](https://www.tiktok.com/@manhinhxanhdo_official/video/7544550690488634642) | 115k | 0,9% | 62 | 2025-08-31 | Bỏ một lần, giờ ra sao |
-| 10 | [Nếu bạn đầu tư 200 triệu vào cổ phiếu Hoa Sen từ 2010 thì hi](https://www.tiktok.com/@manhinhxanhdo_official/video/7549817923750071570) | 110k | 1,7% | 62 | 2025-09-14 | Bỏ một lần, giờ ra sao |
+| 2 | [Trả lời @tlrmme111  Nếu bạn đầu tư 2 triệu đồng mỗi tháng và](https://www.tiktok.com/@manhinhxanhdo_official/video/7542161826541243656) | 319k | 1,4% | 62 | 2025-08-24 | Tích sản định kỳ |
+| 3 | [Trả lời @topcomentdao  Nếu bạn đầu tư 2 triệu đồng mỗi tháng](https://www.tiktok.com/@manhinhxanhdo_official/video/7540861204533759250) | 268k | 1,3% | 60 | 2025-08-21 | Tích sản định kỳ |
+| 4 | [Nếu bạn bỏ ra 200 triệu đồng mua vàng từ năm 2010 thì hiện t](https://www.tiktok.com/@manhinhxanhdo_official/video/7547692216236838162) | 164k | 1,1% | 62 | 2025-09-08 | Bỏ một lần, giờ ra sao |
+| 5 | [Nếu bạn đầu tư 100 triệu vào cổ phiếu PNJ cách đây 3 tháng t](https://www.tiktok.com/@manhinhxanhdo_official/video/7665753171674926356) | 139k | 2,4% | 22 | 2026-07-23 | Bỏ một lần, giờ ra sao |
+| 6 | [So sánh nếu bạn đầu tư 2 triệu đồng mỗi tháng giữa vàng và c](https://www.tiktok.com/@manhinhxanhdo_official/video/7540161432093003026) | 123k | 1,6% | 60 | 2025-08-19 | Tích sản định kỳ |
+| 7 | [Trả lời @teacherhpodcast  Nếu bạn đầu tư 200 triệu mua cổ ph](https://www.tiktok.com/@manhinhxanhdo_official/video/7544550690488634642) | 115k | 0,9% | 62 | 2025-08-31 | Bỏ một lần, giờ ra sao |
+| 8 | [Nếu bạn đầu tư 200 triệu vào cổ phiếu Hoa Sen từ 2010 thì hi](https://www.tiktok.com/@manhinhxanhdo_official/video/7549817923750071570) | 110k | 1,7% | 62 | 2025-09-14 | Bỏ một lần, giờ ra sao |
+| 9 | [Nếu bạn đầu tư 2 triệu mỗi tháng vào Hoà Phát từ 2010 thì gi](https://www.tiktok.com/@manhinhxanhdo_official/video/7539420333485329672) | 95k | 1,7% | 60 | 2025-08-17 | Tích sản định kỳ |
+| 10 | [Trả lời @_nguyenhoangminhnhat  Nếu 10 năm trước bỏ ra 2 triệ](https://www.tiktok.com/@manhinhxanhdo_official/video/7540529342263119112) | 80k | 1,8% | 60 | 2025-08-20 | Tích sản định kỳ |
 
 **Phong cách dựng (video top)**
 
@@ -95,50 +94,49 @@ Cập nhật 2026-11-12 · TikTok: @manhinhxanhdo_official. Biểu đồ xem tro
 | Video | View | Đổi hình | 3s đầu | Phụ đề | Từ/phút | 3 giây đầu nói |
 |---|---|---|---|---|---|---|
 | [Trả lời @zvinh31 Nếu bạn đầu tư 5 triệu ](https://www.tiktok.com/@manhinhxanhdo_official/video/7541243778741406983) | 1,5 tr | 5,7s/beat | 0 | — | 106 | I need to know |
-| [Nếu bạn đầu tư 500 triệu vào cổ phiếu Pe](https://www.tiktok.com/@manhinhxanhdo_official/video/7597822235981843733) | 385k | 1,4s/beat | 1 | — | 93 | Fading out on the edge of paradise |
 | [Trả lời @tlrmme111  Nếu bạn đầu tư 2 tri](https://www.tiktok.com/@manhinhxanhdo_official/video/7542161826541243656) | 319k | 15,8s/beat | 0 | — | 59 | Música |
 | [Trả lời @topcomentdao  Nếu bạn đầu tư 2 ](https://www.tiktok.com/@manhinhxanhdo_official/video/7540861204533759250) | 268k | 4,1s/beat | 0 | — | 75 | I have no excuse I just want |
-| [Nếu bạn bỏ ra 200 triệu đồng mua vàng từ](https://www.tiktok.com/@manhinhxanhdo_official/video/7547692216236838162) | 163k | 15,3s/beat | 0 | — | 44 | Hãy subscribe |
+| [Nếu bạn bỏ ra 200 triệu đồng mua vàng từ](https://www.tiktok.com/@manhinhxanhdo_official/video/7547692216236838162) | 164k | 15,3s/beat | 0 | — | 44 | Hãy subscribe |
+| [Nếu bạn đầu tư 100 triệu vào cổ phiếu PN](https://www.tiktok.com/@manhinhxanhdo_official/video/7665753171674926356) | 139k | 4,2s/beat | 0 | — | 172 | Tôi đã thưởng thành từ trong đau khổ Tôi đứng |
 
 #### Kiểm tra bằng chứng
 
 View là số tích lũy trong cache, không phải view ở cùng tuổi bài; bài dưới 7 ngày tuổi lúc thu thập còn đang tích view và được đếm riêng. "So với bài cùng thời" = view chia cho trung vị các bài khác đăng trong ±7 ngày (nới tới ±30 ngày nếu thiếu mẫu); cách này giảm nhiễu giai đoạn nhưng không chứng minh nhân quả. Hit = bài đạt từ 10× trung vị kênh. Nhóm dưới 5 bài là ít mẫu; không chọn làm nhóm dẫn đầu. Tỷ lệ vượt chuẩn dùng dấu >. Thiếu số đo hiển thị —; cache cũ có thể đã thay dữ liệu tương tác thiếu bằng 0. Không suy ra giữ chân, người xem quay lại hoặc cơ hội thị trường từ dữ liệu này.
 
-Đã gắn nhãn 56/56 video. P25–P75 là khoảng phân vị, không phải khoảng tin cậy.
+Đã gắn nhãn 50/50 video. P25–P75 là khoảng phân vị, không phải khoảng tin cậy.
 
 **Độ ổn định theo loại nội dung**
 
-| Loại | n | Trung vị | P25–P75 | Hit (≥246k) | So với bài cùng thời | Vượt bài cùng thời |
+| Loại | n | Trung vị | P25–P75 | Hit (≥218k) | So với bài cùng thời | Vượt bài cùng thời |
 |---|---|---|---|---|---|---|
-| Bỏ một lần, giờ ra sao | 32 | 28k | 16k–72k | 1/32 | 0,9× | 46,4% |
-| Tích sản định kỳ | 18 | 27k | 15k–92k | 3/18 | 2,1× | 68,8% |
+| Tích sản định kỳ | 17 | 29k | 15k–95k | 3/17 | 2,7× | 73,3% |
+| Bỏ một lần, giờ ra sao | 27 | 27k | 16k–59k | 0/27 | 0,8× | 44,4% |
 | Khác (IPO, quote, sự kiện) | 6 | 6,9k | 4,4k–8,5k | 0/6 | 0,2× | 0,0% |
 
 **Tỷ lệ hit theo tháng (mọi bài)**
 
-| Kỳ | n | Trung vị | Hit (≥246k) |
+| Kỳ | n | Trung vị | Hit (≥218k) |
 |---|---|---|---|
 | T8/2025 | 20 | 29k | 3/20 |
 | T9/2025 | 9 | 27k | 0/9 |
 | T10/2025 | 4 | 22k | 0/4 |
 | T12/2025 | 4 | 15k | 0/4 |
-| T1/2026 | 8 | 53k | 1/8 |
-| T2/2026 | 2 | 17k | 0/2 |
-| T3/2026 | 8 | 13k | 0/8 |
+| T1/2026 | 5 | 21k | 0/5 |
+| T3/2026 | 7 | 12k | 0/7 |
 | T7/2026 | 1 | 139k | 0/1 |
 
 **Kiểm tra khi bỏ video nhiều view nhất toàn kênh**
 
 | Bỏ top | Loại | n còn lại | Trung vị | Dẫn đầu đủ mẫu |
 |---|---|---|---|---|
-| 0 | Bỏ một lần, giờ ra sao | 32 | 28k | Có (có thể đồng hạng) |
-| 0 | Tích sản định kỳ | 18 | 27k | — |
+| 0 | Tích sản định kỳ | 17 | 29k | Có (có thể đồng hạng) |
+| 0 | Bỏ một lần, giờ ra sao | 27 | 27k | — |
 | 0 | Khác (IPO, quote, sự kiện) | 6 | 6,9k | — |
-| 1 | Bỏ một lần, giờ ra sao | 32 | 28k | Có (có thể đồng hạng) |
-| 1 | Tích sản định kỳ | 17 | 25k | — |
+| 1 | Bỏ một lần, giờ ra sao | 27 | 27k | Có (có thể đồng hạng) |
+| 1 | Tích sản định kỳ | 16 | 27k | — |
 | 1 | Khác (IPO, quote, sự kiện) | 6 | 6,9k | — |
-| 3 | Bỏ một lần, giờ ra sao | 31 | 28k | Có (có thể đồng hạng) |
-| 3 | Tích sản định kỳ | 16 | 25k | — |
+| 3 | Bỏ một lần, giờ ra sao | 27 | 27k | Có (có thể đồng hạng) |
+| 3 | Tích sản định kỳ | 14 | 23k | — |
 | 3 | Khác (IPO, quote, sự kiện) | 6 | 6,9k | — |
 
 **So chủ đề trong cùng tháng (chỉ kỳ có từ 2 loại)**
@@ -154,47 +152,43 @@ View là số tích lũy trong cache, không phải view ở cùng tuổi bài; 
 | T10/2025 | Tích sản định kỳ | 1 · ít mẫu | 21k | 0/1 |
 | T12/2025 | Tích sản định kỳ | 1 · ít mẫu | 17k | 0/1 |
 | T12/2025 | Bỏ một lần, giờ ra sao | 3 · ít mẫu | 14k | 0/3 |
-| T2/2026 | Tích sản định kỳ | 1 · ít mẫu | 24k | 0/1 |
-| T2/2026 | Bỏ một lần, giờ ra sao | 1 · ít mẫu | 9,6k | 0/1 |
-| T3/2026 | Bỏ một lần, giờ ra sao | 1 · ít mẫu | 138k | 0/1 |
-| T3/2026 | Tích sản định kỳ | 7 | 12k | 0/7 |
 
 **Độ dài trong cùng chủ đề (mốc chia theo phân vị của từng loại)**
 
 | Loại | Độ dài | n | Trung vị | So với bài cùng thời | Hit | Đủ hai nhóm ≥5 bài |
 |---|---|---|---|---|---|---|
-| Bỏ một lần, giờ ra sao | ≤60s | 10 | 29k | 0,8× | 0/10 | Có; vẫn là tương quan |
-| Bỏ một lần, giờ ra sao | >60s | 22 | 28k | 1,0× | 1/22 | Có; vẫn là tương quan |
+| Bỏ một lần, giờ ra sao | ≤60s | 8 | 19k | 0,6× | 0/8 | Có; vẫn là tương quan |
+| Bỏ một lần, giờ ra sao | >60s | 19 | 28k | 1,0× | 0/19 | Có; vẫn là tương quan |
 | Khác (IPO, quote, sự kiện) | ≤15s | 2 · ít mẫu | 5,6k | 0,2× | 0/2 | Chưa đủ mẫu |
 | Khác (IPO, quote, sự kiện) | 15s–40s | 2 · ít mẫu | 14k | 0,5× | 0/2 | Chưa đủ mẫu |
 | Khác (IPO, quote, sự kiện) | >40s | 2 · ít mẫu | 5,4k | 0,2× | 0/2 | Chưa đủ mẫu |
-| Tích sản định kỳ | ≤60s | 10 | 55k | 2,2× | 2/10 | Có; vẫn là tương quan |
-| Tích sản định kỳ | >60s | 8 | 19k | 2,1× | 1/8 | Có; vẫn là tương quan |
+| Tích sản định kỳ | ≤60s | 10 | 55k | 2,8× | 2/10 | Có; vẫn là tương quan |
+| Tích sản định kỳ | >60s | 7 | 17k | 2,3× | 1/7 | Có; vẫn là tương quan |
 
 **Tương tác theo từng loại (trung vị tỷ lệ trên view)**
 
 | Loại | Like/view | Bình luận/view | Chia sẻ/view | Lưu/view |
 |---|---|---|---|---|
-| Bỏ một lần, giờ ra sao | 0,8% (n=32) | 0,0% (n=32) | 0,1% (n=32) | 0,1% (n=32) |
-| Tích sản định kỳ | 0,9% (n=18) | 0,0% (n=18) | 0,2% (n=18) | 0,1% (n=18) |
+| Tích sản định kỳ | 0,9% (n=17) | 0,1% (n=17) | 0,2% (n=17) | 0,1% (n=17) |
+| Bỏ một lần, giờ ra sao | 0,8% (n=27) | 0,0% (n=27) | 0,1% (n=27) | 0,1% (n=27) |
 | Khác (IPO, quote, sự kiện) | 1,2% (n=6) | 0,1% (n=6) | 0,0% (n=6) | 0,1% (n=6) |
 
 **Cặp video để xem đối chứng thủ công**
 
 | Loại | Video cao / ID | Video thấp / ID | Tỷ lệ view | Cách ngày |
 |---|---|---|---|---|
-| Bỏ một lần, giờ ra sao | Nếu bạn bỏ ra 200 triệu đồng mua vàng từ năm 2010 thì hiện tại sẽ có bao nhiêu??? 🤑😱 #xuhuong #xuhuongtiktok #vang #chungkhoan #dautu  [7547692216236838162] | Nếu quay lại 2020, bạn có chọn MB Bank không? Các bạn muốn mình làm tiếp mã nào thì comment bên dưới nhé. #chungkhoanvietnam #chungkhoan #dautu #xuhuong #xuhuongtiktok #dautuchungkhoan [7539161542026071303] | 59.5× | 23.0 |
+| Bỏ một lần, giờ ra sao | Nếu bạn bỏ ra 200 triệu đồng mua vàng từ năm 2010 thì hiện tại sẽ có bao nhiêu??? 🤑😱 #xuhuong #xuhuongtiktok #vang #chungkhoan #dautu  [7547692216236838162] | Nếu quay lại 2020, bạn có chọn MB Bank không? Các bạn muốn mình làm tiếp mã nào thì comment bên dưới nhé. #chungkhoanvietnam #chungkhoan #dautu #xuhuong #xuhuongtiktok #dautuchungkhoan [7539161542026071303] | 59.6× | 23.0 |
 | Tích sản định kỳ | Trả lời @zvinh31 Nếu bạn đầu tư 5 triệu đồng mỗi tháng vào cổ phiếu Vinamilk từ năm 2010!! #xuhuong #learnontiktok #chungkhoan #chungkhoanvietnam #dautu  [7541243778741406983] | Nếu bạn đầu tư 2 triệu đồng mỗi tháng vào cổ phiếu Vingroup từ năm 2010 thì bây giờ sẽ có bao nhiêu ?? Bạn nghĩ kết quả này có ấn tượng không? Hãy comment cho mình biết nhé! #xuhuong #xuhuongtiktok #dautu #chungkhoan #chungkhoanvietnam  [7539775975198919954] | 52.3× | 4.0 |
-| Bỏ một lần, giờ ra sao | Nếu bạn đầu tư 500 triệu vào cổ phiếu Petrolimex (PLX) từ lúc niêm yết thì hiện tại sẽ có bao nhiêu ??? #xuhuong #xuhuongtiktok #chungkhoan #chungkhoanvietnam #dautu  [7597822235981843733] | Nếu cách đây 10 năm bạn đầu tư 500 triệu vào 1 trong các ngân hàng quốc doanh thì hiện tại sẽ có bao nhiêu ??? #xuhuong #xuhuongtiktok #chungkhoan #chungkhoanvietnam #dautu  [7602315202889092373] | 40.2× | 12.1 |
 | Tích sản định kỳ | Nếu mỗi ngày bạn không uống trà sữa và dành ra 50k mua cổ phiếu Vingroup trong vòng 1 năm thì sẽ có bao nhiêu ??? #xuhuong #xuhuongtiktok #chungkhoan #chungkhoanvietnam #dautu  [7617157061071162644] | Trả lời @Cá Diếc Nếu anh em nhin uống cà phê mỗi sáng để mua cổ phiếu vingroup trong 1 năm thì sẽ có bao nhiêu ??? #xuhuong #xuhuongtiktok #chungkhoan #chungkhoanvietnam #dautu  [7617528487024315669] | 16.8× | 1.0 |
+| Bỏ một lần, giờ ra sao | Trả lời @teacherhpodcast  Nếu bạn đầu tư 200 triệu mua cổ phiếu của SSI so với gửi tiết kiệm vào năm 2010! #xuhuong #xuhuongtiktok #chungkhoan #chungkhoanvietnam #dautu  [7544550690488634642] | Nếu bạn đầu tư 200 triệu đồng vào cổ phiếu Phát Đạt từ năm 2015 so với gửi tiết kiệm thì hiện tại sẽ có bao nhiêu ??? #xuhuong #xuhuongtiktok #chungkhoan #chungkhoanvietnam #dautu  [7545805325119769874] | 15.8× | 3.4 |
 | Khác (IPO, quote, sự kiện) | IPO TCBS - Thương vụ IPO lớn nhất 2025 chính thức mở bán. Liên hệ trực tiếp hoặc để lại comment để được hướng dẫn đăng ký nhanh nhất! #xuhuong #xuhuongtiktok #TCBS #chungkhoan #chungkhoanvietnam  [7540341333290962194] | Anh em có ai bán sớm như tôi không? Ae nào chốt được giá 34 cho tôi xin cánh tay 🙌 #chungkhoan #chungkhoanvietnam  #dautu #xuhuong #xuhuongtiktok  [7538848387332885778] | 4.0× | 4.0 |
 
 Cặp đối chứng: cùng loại, cách tối đa 30 ngày, độ dài chênh tối đa 15% (ít nhất 10 giây), view chênh ít nhất 2 lần, cả hai bài đã đủ 7 ngày tuổi; mỗi loại tối đa 2 cặp, không lặp video, ưu tiên chênh view lớn. Chỉ dùng để xem thủ công, chưa chứng minh nguyên nhân.
 
 | Loại hình | Số video | View trung vị |
 |---|---|---|
-| Bỏ một lần, giờ ra sao | 32 | 28k |
-| Tích sản định kỳ | 18 | 27k |
+| Tích sản định kỳ | 17 | 29k |
+| Bỏ một lần, giờ ra sao | 27 | 27k |
 | Khác (IPO, quote, sự kiện) | 6 | 6,9k |
 
 | Tháng | Số video | View trung vị |
@@ -203,7 +197,6 @@ Cặp đối chứng: cùng loại, cách tối đa 30 ngày, độ dài chênh 
 | 2025-09 | 9 | 27k |
 | 2025-10 | 4 | 22k |
 | 2025-12 | 4 | 15k |
-| 2026-01 | 8 | 53k |
-| 2026-02 | 2 | 17k |
-| 2026-03 | 8 | 13k |
+| 2026-01 | 5 | 21k |
+| 2026-03 | 7 | 12k |
 | 2026-07 | 1 | 139k |

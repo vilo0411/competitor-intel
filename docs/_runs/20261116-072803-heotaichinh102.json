@@ -1,0 +1,15 @@
+{
+  "id": "20261116-072803-heotaichinh102",
+  "request": {
+    "name": "heotaichinh102",
+    "refresh": true,
+    "id": "20261116-072803-heotaichinh102"
+  },
+  "finishedAt": "2026-11-16T07:37:55.241Z",
+  "status": "ok",
+  "slug": "heotaichinh102",
+  "name": "heotaichinh102",
+  "report": "heotaichinh102/heotaichinh102.html",
+  "seconds": 2,
+  "log": "↓ @heotaichinh102: lấy danh sách video…\n  phân tích phong cách dựng video 1/5…\n  phân tích phong cách dựng video 2/5…\n  phân tích phong cách dựng video 3/5…\n  phân tích phong cách dựng video 4/5…\n  phân tích phong cách dựng video 5/5…\n✓ @heotaichinh102: 18 video, view trung vị 12k, 4 video chưa gắn nhãn\n\nBáo cáo: /home/runner/work/competitor-intel/competitor-intel/docs/heotaichinh102/heotaichinh102.html\n         /home/runner/work/competitor-intel/competitor-intel/docs/heotaichinh102/heotaichinh102.md"
+}

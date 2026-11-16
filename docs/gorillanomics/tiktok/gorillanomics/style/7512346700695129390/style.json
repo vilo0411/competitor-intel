@@ -1,0 +1,93 @@
+{
+  "id": "7512346700695129390",
+  "duration": 60.522653,
+  "language": "en",
+  "wpm": 220.0925313945803,
+  "speechCoverage": 0.9999561651733939,
+  "hook": "what is a mortgage gorilla want buy new house but gorilla too",
+  "transcript": "what is a mortgage gorilla want buy new house but gorilla too broke so go to bank for money banks say okay i lend banana so gorilla pay what he have right now and bank pay the rest what gorilla pay is called down payment what bank pay is a loan called mortgage but bank need make money so bank tell gorilla you pay back what you borrow plus extra banana in small monthly payments that extra banana called interest gorilla look at contract gorilla surprised have to pay lot of interest banana every month why so much two reason one bank no trust gorilla to pay back because gorilla credit score bad to improve gorilla starts to pay bills on time gorilla also pay back credit card spending too credit score go up bank trust more now but interest still high why it because gorilla makes small down payment that means that the bank provide most money for the loan of the house big loan equal big risk for bank bank charge more interest to cover risk to have cheap mortgage need good credit score and big down payment now using the money gorilla got from bank he pays for the house Every month he pays a small bit of the loan back along with extra interest, so now you know",
+  "changes": 57,
+  "secPerChange": 1.0434940172413794,
+  "cuts": 0,
+  "changesFirst3s": 5,
+  "firstChangeAt": 0.333333,
+  "lufs": -19.3,
+  "grids": [
+    "grid_001.jpg",
+    "grid_002.jpg",
+    "grid_003.jpg",
+    "grid_004.jpg",
+    "grid_005.jpg",
+    "grid_006.jpg",
+    "grid_007.jpg",
+    "grid_008.jpg",
+    "grid_009.jpg"
+  ],
+  "motion": {
+    "beats": 92,
+    "beatsPerMin": 91.19,
+    "medianBeat": 0.58,
+    "beatsFirst3s": 6,
+    "entrances": {
+      "cut": 78,
+      "slide-right": 4,
+      "slide-up": 2,
+      "pop": 2,
+      "slide-left": 3,
+      "fade": 2,
+      "draw-right": 1
+    },
+    "caption": {
+      "swaps": 35,
+      "medianInterval": 1.13,
+      "box": [
+        0.244,
+        0.588,
+        0.533,
+        0.1
+      ]
+    },
+    "firstBeats": [
+      {
+        "t": 0,
+        "at": "what",
+        "fx": "cut"
+      },
+      {
+        "t": 0.33,
+        "at": "a",
+        "fx": "cut"
+      },
+      {
+        "t": 0.87,
+        "at": "gorilla",
+        "fx": "cut"
+      },
+      {
+        "t": 1.53,
+        "at": "buy",
+        "fx": "cut"
+      },
+      {
+        "t": 2.07,
+        "at": "house",
+        "fx": "slide-right"
+      },
+      {
+        "t": 2.45,
+        "at": "gorilla",
+        "fx": "cut"
+      },
+      {
+        "t": 2.93,
+        "at": "too",
+        "fx": "cut"
+      },
+      {
+        "t": 3.48,
+        "at": "so",
+        "fx": "cut"
+      }
+    ]
+  }
+}

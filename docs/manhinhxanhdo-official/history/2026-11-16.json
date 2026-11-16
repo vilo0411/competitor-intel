@@ -1,0 +1,2104 @@
+{
+  "name": "manhinhxanhdo_official",
+  "updated": "2026-11-16",
+  "tiktok": [
+    {
+      "handle": "manhinhxanhdo_official",
+      "profile": {
+        "followers": 13100,
+        "hearts": 59900,
+        "videoCount": 56,
+        "nickname": "Màn hình xanh đỏ",
+        "bio": "Tham gia ngay cộng đồng để không bỏ lỡ cơ hội đầu tư 🚀🚀🚀\n👇👇"
+      },
+      "stats": {
+        "n": 50,
+        "first": "2025-08-15",
+        "last": "2026-07-23",
+        "daysSinceLast": 115,
+        "totalViews": 3814414,
+        "meanViews": 76288.28,
+        "medianViews": 21750,
+        "maxViews": 1500000,
+        "minViews": 2214,
+        "medianER": 0.010859121383203952,
+        "postsPerWeek": 1.023442658037619,
+        "medianGapDays": 1.2739583333333333,
+        "postsLast30": 0,
+        "medianDuration": 62,
+        "originalSoundShare": 0.2,
+        "viralCount": 13
+      },
+      "takeaways": {
+        "category": "Tích sản định kỳ nổi trội: gấp 2,7× các bài đăng cùng thời, nhóm kế tiếp (Bỏ một lần, giờ ra sao) 0,8×",
+        "share": "Bỏ một lần, giờ ra sao chiếm 54,0% số video nhưng chỉ mang về 30,8% tổng view",
+        "viral": "3/50 video đạt từ 218k view (10× trung vị kênh) và mang về 54,7% tổng view; top 3 chiếm 54,7%",
+        "trend": "View tích lũy trung vị giảm: 28k ở 3 tháng có bài đầu → 17k ở 3 tháng có bài cuối; chưa so ở cùng tuổi bài",
+        "cadence": "Đăng 1,0 video/tuần; tháng dày nhất T8/25 có 20 video; 30 ngày qua: 0 video",
+        "time": "Không khung giờ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 17k–55k)",
+        "weekday": "Không thứ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 13k–95k)",
+        "duration": "Không mức độ dài nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 8,9k–29k)",
+        "tags": "Không hashtag đủ mẫu nào đi kèm view cao hơn hẳn trung vị; không chứng minh hashtag làm tăng view"
+      },
+      "evidence": {
+        "channelMedian": 21750,
+        "hitThreshold": 217500,
+        "periodUnit": "tháng",
+        "labeledCount": 50,
+        "totalCount": 50,
+        "youngCount": 0,
+        "categories": [
+          {
+            "name": "Tích sản định kỳ",
+            "count": 17,
+            "weak": false,
+            "young": 0,
+            "median": 28700,
+            "q25": 14800,
+            "q75": 95400,
+            "aboveChannel": 0.5882352941176471,
+            "relMedian": 2.742907703367804,
+            "aboveLocal": 0.7333333333333333,
+            "hits": 3,
+            "hitRate": 0.17647058823529413,
+            "interactions": {
+              "likes": {
+                "median": 0.009064327485380117,
+                "count": 17
+              },
+              "comments": {
+                "median": 0.0005128205128205128,
+                "count": 17
+              },
+              "shares": {
+                "median": 0.001938,
+                "count": 17
+              },
+              "saves": {
+                "median": 0.0006161314413741598,
+                "count": 17
+              }
+            }
+          },
+          {
+            "name": "Bỏ một lần, giờ ra sao",
+            "count": 27,
+            "weak": false,
+            "young": 0,
+            "median": 26900,
+            "q25": 16100,
+            "q75": 59000,
+            "aboveChannel": 0.5555555555555556,
+            "relMedian": 0.838545484775429,
+            "aboveLocal": 0.4444444444444444,
+            "hits": 0,
+            "hitRate": 0,
+            "interactions": {
+              "likes": {
+                "median": 0.008,
+                "count": 27
+              },
+              "comments": {
+                "median": 0.00040268456375838925,
+                "count": 27
+              },
+              "shares": {
+                "median": 0.0010638297872340426,
+                "count": 27
+              },
+              "saves": {
+                "median": 0.0006382978723404255,
+                "count": 27
+              }
+            }
+          },
+          {
+            "name": "Khác (IPO, quote, sự kiện)",
+            "count": 6,
+            "weak": false,
+            "young": 0,
+            "median": 6909,
+            "q25": 4404.25,
+            "q75": 8457.5,
+            "aboveChannel": 0,
+            "relMedian": 0.23408753513451502,
+            "aboveLocal": 0,
+            "hits": 0,
+            "hitRate": 0,
+            "interactions": {
+              "likes": {
+                "median": 0.012086720867208672,
+                "count": 6
+              },
+              "comments": {
+                "median": 0.0006497891456027523,
+                "count": 6
+              },
+              "shares": {
+                "median": 0.0004996204515175453,
+                "count": 6
+              },
+              "saves": {
+                "median": 0.0011553019179689874,
+                "count": 6
+              }
+            }
+          }
+        ],
+        "sensitivity": [
+          {
+            "remove": 0,
+            "excluded": [],
+            "categories": [
+              {
+                "name": "Tích sản định kỳ",
+                "count": 17,
+                "weak": false,
+                "young": 0,
+                "median": 28700,
+                "q25": 14800,
+                "q75": 95400,
+                "aboveChannel": 0.5882352941176471,
+                "relMedian": 2.742907703367804,
+                "aboveLocal": 0.7333333333333333,
+                "hits": 3,
+                "hitRate": 0.17647058823529413,
+                "interactions": {
+                  "likes": {
+                    "median": 0.009064327485380117,
+                    "count": 17
+                  },
+                  "comments": {
+                    "median": 0.0005128205128205128,
+                    "count": 17
+                  },
+                  "shares": {
+                    "median": 0.001938,
+                    "count": 17
+                  },
+                  "saves": {
+                    "median": 0.0006161314413741598,
+                    "count": 17
+                  }
+                }
+              },
+              {
+                "name": "Bỏ một lần, giờ ra sao",
+                "count": 27,
+                "weak": false,
+                "young": 0,
+                "median": 26900,
+                "q25": 16100,
+                "q75": 59000,
+                "aboveChannel": 0.5555555555555556,
+                "relMedian": 0.838545484775429,
+                "aboveLocal": 0.4444444444444444,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.008,
+                    "count": 27
+                  },
+                  "comments": {
+                    "median": 0.00040268456375838925,
+                    "count": 27
+                  },
+                  "shares": {
+                    "median": 0.0010638297872340426,
+                    "count": 27
+                  },
+                  "saves": {
+                    "median": 0.0006382978723404255,
+                    "count": 27
+                  }
+                }
+              },
+              {
+                "name": "Khác (IPO, quote, sự kiện)",
+                "count": 6,
+                "weak": false,
+                "young": 0,
+                "median": 6909,
+                "q25": 4404.25,
+                "q75": 8457.5,
+                "aboveChannel": 0,
+                "relMedian": 0.23408753513451502,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.012086720867208672,
+                    "count": 6
+                  },
+                  "comments": {
+                    "median": 0.0006497891456027523,
+                    "count": 6
+                  },
+                  "shares": {
+                    "median": 0.0004996204515175453,
+                    "count": 6
+                  },
+                  "saves": {
+                    "median": 0.0011553019179689874,
+                    "count": 6
+                  }
+                }
+              }
+            ],
+            "leaders": [
+              "Tích sản định kỳ"
+            ]
+          },
+          {
+            "remove": 1,
+            "excluded": [
+              "7541243778741406983"
+            ],
+            "categories": [
+              {
+                "name": "Bỏ một lần, giờ ra sao",
+                "count": 27,
+                "weak": false,
+                "young": 0,
+                "median": 26900,
+                "q25": 16100,
+                "q75": 59000,
+                "aboveChannel": 0.5555555555555556,
+                "relMedian": 0.838545484775429,
+                "aboveLocal": 0.4444444444444444,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.008,
+                    "count": 27
+                  },
+                  "comments": {
+                    "median": 0.00040268456375838925,
+                    "count": 27
+                  },
+                  "shares": {
+                    "median": 0.0010638297872340426,
+                    "count": 27
+                  },
+                  "saves": {
+                    "median": 0.0006382978723404255,
+                    "count": 27
+                  }
+                }
+              },
+              {
+                "name": "Tích sản định kỳ",
+                "count": 16,
+                "weak": false,
+                "young": 0,
+                "median": 26750,
+                "q25": 14025,
+                "q75": 83925,
+                "aboveChannel": 0.5625,
+                "relMedian": 2.5307833205856722,
+                "aboveLocal": 0.7142857142857143,
+                "hits": 2,
+                "hitRate": 0.125,
+                "interactions": {
+                  "likes": {
+                    "median": 0.009025406985933302,
+                    "count": 16
+                  },
+                  "comments": {
+                    "median": 0.0005185070306038047,
+                    "count": 16
+                  },
+                  "shares": {
+                    "median": 0.0019370436678037425,
+                    "count": 16
+                  },
+                  "saves": {
+                    "median": 0.0006145634730368959,
+                    "count": 16
+                  }
+                }
+              },
+              {
+                "name": "Khác (IPO, quote, sự kiện)",
+                "count": 6,
+                "weak": false,
+                "young": 0,
+                "median": 6909,
+                "q25": 4404.25,
+                "q75": 8457.5,
+                "aboveChannel": 0,
+                "relMedian": 0.23408753513451502,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.012086720867208672,
+                    "count": 6
+                  },
+                  "comments": {
+                    "median": 0.0006497891456027523,
+                    "count": 6
+                  },
+                  "shares": {
+                    "median": 0.0004996204515175453,
+                    "count": 6
+                  },
+                  "saves": {
+                    "median": 0.0011553019179689874,
+                    "count": 6
+                  }
+                }
+              }
+            ],
+            "leaders": [
+              "Bỏ một lần, giờ ra sao"
+            ]
+          },
+          {
+            "remove": 3,
+            "excluded": [
+              "7541243778741406983",
+              "7542161826541243656",
+              "7540861204533759250"
+            ],
+            "categories": [
+              {
+                "name": "Bỏ một lần, giờ ra sao",
+                "count": 27,
+                "weak": false,
+                "young": 0,
+                "median": 26900,
+                "q25": 16100,
+                "q75": 59000,
+                "aboveChannel": 0.5555555555555556,
+                "relMedian": 0.838545484775429,
+                "aboveLocal": 0.4444444444444444,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.008,
+                    "count": 27
+                  },
+                  "comments": {
+                    "median": 0.00040268456375838925,
+                    "count": 27
+                  },
+                  "shares": {
+                    "median": 0.0010638297872340426,
+                    "count": 27
+                  },
+                  "saves": {
+                    "median": 0.0006382978723404255,
+                    "count": 27
+                  }
+                }
+              },
+              {
+                "name": "Tích sản định kỳ",
+                "count": 14,
+                "weak": false,
+                "young": 0,
+                "median": 22800,
+                "q25": 12475,
+                "q75": 40075,
+                "aboveChannel": 0.5,
+                "relMedian": 2.0758264139119538,
+                "aboveLocal": 0.6666666666666666,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.008796127858627859,
+                    "count": 14
+                  },
+                  "comments": {
+                    "median": 0.0005724416017797553,
+                    "count": 14
+                  },
+                  "shares": {
+                    "median": 0.0019479485416022937,
+                    "count": 14
+                  },
+                  "saves": {
+                    "median": 0.0005749541281887423,
+                    "count": 14
+                  }
+                }
+              },
+              {
+                "name": "Khác (IPO, quote, sự kiện)",
+                "count": 6,
+                "weak": false,
+                "young": 0,
+                "median": 6909,
+                "q25": 4404.25,
+                "q75": 8457.5,
+                "aboveChannel": 0,
+                "relMedian": 0.23408753513451502,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.012086720867208672,
+                    "count": 6
+                  },
+                  "comments": {
+                    "median": 0.0006497891456027523,
+                    "count": 6
+                  },
+                  "shares": {
+                    "median": 0.0004996204515175453,
+                    "count": 6
+                  },
+                  "saves": {
+                    "median": 0.0011553019179689874,
+                    "count": 6
+                  }
+                }
+              }
+            ],
+            "leaders": [
+              "Bỏ một lần, giờ ra sao"
+            ]
+          }
+        ],
+        "periods": [
+          {
+            "period": "T8/2025",
+            "key": "2025-08",
+            "categories": [
+              {
+                "name": "Tích sản định kỳ",
+                "count": 8,
+                "weak": false,
+                "young": 0,
+                "median": 109200,
+                "q25": 67525,
+                "q75": 280650,
+                "aboveChannel": 1,
+                "relMedian": 4.70218727810385,
+                "aboveLocal": 0.875,
+                "hits": 3,
+                "hitRate": 0.375,
+                "interactions": {
+                  "likes": {
+                    "median": 0.012215164435478942,
+                    "count": 8
+                  },
+                  "comments": {
+                    "median": 0.00036380199587992645,
+                    "count": 8
+                  },
+                  "shares": {
+                    "median": 0.0019865504107542944,
+                    "count": 8
+                  },
+                  "saves": {
+                    "median": 0.0006987799555067443,
+                    "count": 8
+                  }
+                }
+              },
+              {
+                "name": "Bỏ một lần, giờ ra sao",
+                "count": 7,
+                "weak": false,
+                "young": 0,
+                "median": 28100,
+                "q25": 22600,
+                "q75": 63050,
+                "aboveChannel": 0.7142857142857143,
+                "relMedian": 0.7030456852791879,
+                "aboveLocal": 0.42857142857142855,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.008256227758007117,
+                    "count": 7
+                  },
+                  "comments": {
+                    "median": 0.0005142857142857143,
+                    "count": 7
+                  },
+                  "shares": {
+                    "median": 0.001074235807860262,
+                    "count": 7
+                  },
+                  "saves": {
+                    "median": 0.000604982206405694,
+                    "count": 7
+                  }
+                }
+              },
+              {
+                "name": "Khác (IPO, quote, sự kiện)",
+                "count": 5,
+                "weak": false,
+                "young": 0,
+                "median": 6712,
+                "q25": 3635,
+                "q75": 7106,
+                "aboveChannel": 0,
+                "relMedian": 0.22523489932885907,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.01084010840108401,
+                    "count": 5
+                  },
+                  "comments": {
+                    "median": 0.0007036307345904869,
+                    "count": 5
+                  },
+                  "shares": {
+                    "median": 0.000449034575662326,
+                    "count": 5
+                  },
+                  "saves": {
+                    "median": 0.0014072614691809737,
+                    "count": 5
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "period": "T9/2025",
+            "key": "2025-09",
+            "categories": [
+              {
+                "name": "Bỏ một lần, giờ ra sao",
+                "count": 8,
+                "weak": false,
+                "young": 0,
+                "median": 27750,
+                "q25": 13125,
+                "q75": 49800,
+                "aboveChannel": 0.625,
+                "relMedian": 0.8172555883747219,
+                "aboveLocal": 0.5,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.007342087013858099,
+                    "count": 8
+                  },
+                  "comments": {
+                    "median": 0.0004243906090167411,
+                    "count": 8
+                  },
+                  "shares": {
+                    "median": 0.0010423891619470572,
+                    "count": 8
+                  },
+                  "saves": {
+                    "median": 0.0005206807396056247,
+                    "count": 8
+                  }
+                }
+              },
+              {
+                "name": "Khác (IPO, quote, sự kiện)",
+                "count": 1,
+                "weak": true,
+                "young": 0,
+                "median": 20700,
+                "q25": 20700,
+                "q75": 20700,
+                "aboveChannel": 0,
+                "relMedian": 0.7237762237762237,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.013333333333333334,
+                    "count": 1
+                  },
+                  "comments": {
+                    "median": 0.0004347826086956522,
+                    "count": 1
+                  },
+                  "shares": {
+                    "median": 0.0007729468599033816,
+                    "count": 1
+                  },
+                  "saves": {
+                    "median": 0.000676328502415459,
+                    "count": 1
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "period": "T10/2025",
+            "key": "2025-10",
+            "categories": [
+              {
+                "name": "Bỏ một lần, giờ ra sao",
+                "count": 3,
+                "weak": true,
+                "young": 0,
+                "median": 22500,
+                "q25": 21550,
+                "q75": 36000,
+                "aboveChannel": 0.6666666666666666,
+                "relMedian": 0.8893280632411067,
+                "aboveLocal": 0.3333333333333333,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.008,
+                    "count": 3
+                  },
+                  "comments": {
+                    "median": 0.0003883495145631068,
+                    "count": 3
+                  },
+                  "shares": {
+                    "median": 0.0011555555555555555,
+                    "count": 3
+                  },
+                  "saves": {
+                    "median": 0.0011111111111111111,
+                    "count": 3
+                  }
+                }
+              },
+              {
+                "name": "Tích sản định kỳ",
+                "count": 1,
+                "weak": true,
+                "young": 0,
+                "median": 20800,
+                "q25": 20800,
+                "q75": 20800,
+                "aboveChannel": 0,
+                "relMedian": null,
+                "aboveLocal": null,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.008605769230769231,
+                    "count": 1
+                  },
+                  "comments": {
+                    "median": 0.000673076923076923,
+                    "count": 1
+                  },
+                  "shares": {
+                    "median": 0.00125,
+                    "count": 1
+                  },
+                  "saves": {
+                    "median": 0.0005288461538461538,
+                    "count": 1
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "period": "T12/2025",
+            "key": "2025-12",
+            "categories": [
+              {
+                "name": "Tích sản định kỳ",
+                "count": 1,
+                "weak": true,
+                "young": 0,
+                "median": 17100,
+                "q25": 17100,
+                "q75": 17100,
+                "aboveChannel": 0,
+                "relMedian": null,
+                "aboveLocal": null,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.009064327485380117,
+                    "count": 1
+                  },
+                  "comments": {
+                    "median": 0.00005847953216374269,
+                    "count": 1
+                  },
+                  "shares": {
+                    "median": 0.0018128654970760234,
+                    "count": 1
+                  },
+                  "saves": {
+                    "median": 0.0015789473684210526,
+                    "count": 1
+                  }
+                }
+              },
+              {
+                "name": "Bỏ một lần, giờ ra sao",
+                "count": 3,
+                "weak": true,
+                "young": 0,
+                "median": 14100,
+                "q25": 12750,
+                "q75": 15150,
+                "aboveChannel": 0,
+                "relMedian": null,
+                "aboveLocal": null,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.007654320987654321,
+                    "count": 3
+                  },
+                  "comments": {
+                    "median": 0.0005263157894736842,
+                    "count": 3
+                  },
+                  "shares": {
+                    "median": 0.0010638297872340426,
+                    "count": 3
+                  },
+                  "saves": {
+                    "median": 0.0007801418439716312,
+                    "count": 3
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "durationStrata": [
+          {
+            "stratum": "Bỏ một lần, giờ ra sao",
+            "comparable": true,
+            "durations": [
+              {
+                "name": "≤60s",
+                "count": 8,
+                "weak": false,
+                "young": 0,
+                "median": 19050,
+                "q25": 16975,
+                "q75": 69000,
+                "aboveChannel": 0.375,
+                "relMedian": 0.587248322147651,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.007919642857142858,
+                    "count": 8
+                  },
+                  "comments": {
+                    "median": 0.00039230155843429117,
+                    "count": 8
+                  },
+                  "shares": {
+                    "median": 0.0006866071428571429,
+                    "count": 8
+                  },
+                  "saves": {
+                    "median": 0.0006330175493088989,
+                    "count": 8
+                  }
+                }
+              },
+              {
+                "name": ">60s",
+                "count": 19,
+                "weak": false,
+                "young": 0,
+                "median": 27700,
+                "q25": 15150,
+                "q75": 49250,
+                "aboveChannel": 0.631578947368421,
+                "relMedian": 1.032490974729242,
+                "aboveLocal": 0.5333333333333333,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.008,
+                    "count": 19
+                  },
+                  "comments": {
+                    "median": 0.0004460966542750929,
+                    "count": 19
+                  },
+                  "shares": {
+                    "median": 0.001074235807860262,
+                    "count": 19
+                  },
+                  "saves": {
+                    "median": 0.0006648451730418944,
+                    "count": 19
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "stratum": "Khác (IPO, quote, sự kiện)",
+            "comparable": false,
+            "durations": [
+              {
+                "name": "≤15s",
+                "count": 2,
+                "weak": true,
+                "young": 0,
+                "median": 5561,
+                "q25": 3887.5,
+                "q75": 7234.5,
+                "aboveChannel": 0,
+                "relMedian": 0.19084493284493287,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.008619425552136078,
+                    "count": 2
+                  },
+                  "comments": {
+                    "median": 0.0016356601599244551,
+                    "count": 2
+                  },
+                  "shares": {
+                    "median": 0.000224517287831163,
+                    "count": 2
+                  },
+                  "saves": {
+                    "median": 0.0006200591492518726,
+                    "count": 2
+                  }
+                }
+              },
+              {
+                "name": "15s–40s",
+                "count": 2,
+                "weak": true,
+                "young": 0,
+                "median": 13706,
+                "q25": 10209,
+                "q75": 17203,
+                "aboveChannel": 0,
+                "relMedian": 0.4745055615525414,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.014339491458085022,
+                    "count": 2
+                  },
+                  "comments": {
+                    "median": 0.000515365082655335,
+                    "count": 2
+                  },
+                  "shares": {
+                    "median": 0.0007589406528360769,
+                    "count": 2
+                  },
+                  "saves": {
+                    "median": 0.0016045528090146426,
+                    "count": 2
+                  }
+                }
+              },
+              {
+                "name": ">40s",
+                "count": 2,
+                "weak": true,
+                "young": 0,
+                "median": 5370.5,
+                "q25": 4502.75,
+                "q75": 6238.25,
+                "aboveChannel": 0,
+                "relMedian": 0.1836068376068376,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.0165855539480556,
+                    "count": 2
+                  },
+                  "comments": {
+                    "median": 0.0009020216946680083,
+                    "count": 2
+                  },
+                  "shares": {
+                    "median": 0.00048619238406352847,
+                    "count": 2
+                  },
+                  "saves": {
+                    "median": 0.0026293528803951636,
+                    "count": 2
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "stratum": "Tích sản định kỳ",
+            "comparable": true,
+            "durations": [
+              {
+                "name": "≤60s",
+                "count": 10,
+                "weak": false,
+                "young": 0,
+                "median": 54950,
+                "q25": 25775,
+                "q75": 116100,
+                "aboveChannel": 0.8,
+                "relMedian": 2.7669242349591636,
+                "aboveLocal": 0.7,
+                "hits": 2,
+                "hitRate": 0.2,
+                "interactions": {
+                  "likes": {
+                    "median": 0.009146135289581397,
+                    "count": 10
+                  },
+                  "comments": {
+                    "median": 0.000371829675992258,
+                    "count": 10
+                  },
+                  "shares": {
+                    "median": 0.0019865504107542944,
+                    "count": 10
+                  },
+                  "saves": {
+                    "median": 0.0006825975558930724,
+                    "count": 10
+                  }
+                }
+              },
+              {
+                "name": ">60s",
+                "count": 7,
+                "weak": false,
+                "young": 0,
+                "median": 17100,
+                "q25": 13250,
+                "q75": 32150,
+                "aboveChannel": 0.2857142857142857,
+                "relMedian": 2.3186589378035407,
+                "aboveLocal": 0.8,
+                "hits": 1,
+                "hitRate": 0.14285714285714285,
+                "interactions": {
+                  "likes": {
+                    "median": 0.009064327485380117,
+                    "count": 7
+                  },
+                  "comments": {
+                    "median": 0.0006206896551724138,
+                    "count": 7
+                  },
+                  "shares": {
+                    "median": 0.0018128654970760234,
+                    "count": 7
+                  },
+                  "saves": {
+                    "median": 0.0005288461538461538,
+                    "count": 7
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "timeline": [
+          {
+            "period": "T8/2025",
+            "key": "2025-08",
+            "count": 20,
+            "young": 0,
+            "median": 29250,
+            "hits": 3,
+            "hitRate": 0.15
+          },
+          {
+            "period": "T9/2025",
+            "key": "2025-09",
+            "count": 9,
+            "young": 0,
+            "median": 26900,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "T10/2025",
+            "key": "2025-10",
+            "count": 4,
+            "young": 0,
+            "median": 21650,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "T12/2025",
+            "key": "2025-12",
+            "count": 4,
+            "young": 0,
+            "median": 15150,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "T1/2026",
+            "key": "2026-01",
+            "count": 5,
+            "young": 0,
+            "median": 21000,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "T3/2026",
+            "key": "2026-03",
+            "count": 7,
+            "young": 0,
+            "median": 11700,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "T7/2026",
+            "key": "2026-07",
+            "count": 1,
+            "young": 0,
+            "median": 138800,
+            "hits": 0,
+            "hitRate": 0
+          }
+        ],
+        "pairs": [
+          {
+            "high": {
+              "id": "7547692216236838162",
+              "title": "Nếu bạn bỏ ra 200 triệu đồng mua vàng từ năm 2010 thì hiện tại sẽ có bao nhiêu??? 🤑😱 #xuhuong #xuhuongtiktok #vang #chungkhoan #dautu ",
+              "url": "https://www.tiktok.com/@manhinhxanhdo_official/video/7547692216236838162",
+              "views": 163500,
+              "duration": 62,
+              "date": "2025-09-08",
+              "category": "Bỏ một lần, giờ ra sao"
+            },
+            "low": {
+              "id": "7539161542026071303",
+              "title": "Nếu quay lại 2020, bạn có chọn MB Bank không? Các bạn muốn mình làm tiếp mã nào thì comment bên dưới nhé. #chungkhoanvietnam #chungkhoan #dautu #xuhuong #xuhuongtiktok #dautuchungkhoan",
+              "url": "https://www.tiktok.com/@manhinhxanhdo_official/video/7539161542026071303",
+              "views": 2745,
+              "duration": 60,
+              "date": "2025-08-16",
+              "category": "Bỏ một lần, giờ ra sao"
+            },
+            "ratio": 59.56284153005465,
+            "daysApart": 22.988113425925928
+          },
+          {
+            "high": {
+              "id": "7541243778741406983",
+              "title": "Trả lời @zvinh31 Nếu bạn đầu tư 5 triệu đồng mỗi tháng vào cổ phiếu Vinamilk từ năm 2010!! #xuhuong #learnontiktok #chungkhoan #chungkhoanvietnam #dautu ",
+              "url": "https://www.tiktok.com/@manhinhxanhdo_official/video/7541243778741406983",
+              "views": 1500000,
+              "duration": 60,
+              "date": "2025-08-22",
+              "category": "Tích sản định kỳ"
+            },
+            "low": {
+              "id": "7539775975198919954",
+              "title": "Nếu bạn đầu tư 2 triệu đồng mỗi tháng vào cổ phiếu Vingroup từ năm 2010 thì bây giờ sẽ có bao nhiêu ?? Bạn nghĩ kết quả này có ấn tượng không? Hãy comment cho mình biết nhé! #xuhuong #xuhuongtiktok #dautu #chungkhoan #chungkhoanvietnam ",
+              "url": "https://www.tiktok.com/@manhinhxanhdo_official/video/7539775975198919954",
+              "views": 28700,
+              "duration": 60,
+              "date": "2025-08-18",
+              "category": "Tích sản định kỳ"
+            },
+            "ratio": 52.26480836236934,
+            "daysApart": 3.9554282407407406
+          },
+          {
+            "high": {
+              "id": "7617157061071162644",
+              "title": "Nếu mỗi ngày bạn không uống trà sữa và dành ra 50k mua cổ phiếu Vingroup trong vòng 1 năm thì sẽ có bao nhiêu ??? #xuhuong #xuhuongtiktok #chungkhoan #chungkhoanvietnam #dautu ",
+              "url": "https://www.tiktok.com/@manhinhxanhdo_official/video/7617157061071162644",
+              "views": 43500,
+              "duration": 62,
+              "date": "2026-03-14",
+              "category": "Tích sản định kỳ"
+            },
+            "low": {
+              "id": "7617528487024315669",
+              "title": "Trả lời @Cá Diếc Nếu anh em nhin uống cà phê mỗi sáng để mua cổ phiếu vingroup trong 1 năm thì sẽ có bao nhiêu ??? #xuhuong #xuhuongtiktok #chungkhoan #chungkhoanvietnam #dautu ",
+              "url": "https://www.tiktok.com/@manhinhxanhdo_official/video/7617528487024315669",
+              "views": 2591,
+              "duration": 62,
+              "date": "2026-03-16",
+              "category": "Tích sản định kỳ"
+            },
+            "ratio": 16.78888460054033,
+            "daysApart": 1.000949074074074
+          },
+          {
+            "high": {
+              "id": "7544550690488634642",
+              "title": "Trả lời @teacherhpodcast  Nếu bạn đầu tư 200 triệu mua cổ phiếu của SSI so với gửi tiết kiệm vào năm 2010! #xuhuong #xuhuongtiktok #chungkhoan #chungkhoanvietnam #dautu ",
+              "url": "https://www.tiktok.com/@manhinhxanhdo_official/video/7544550690488634642",
+              "views": 114500,
+              "duration": 62,
+              "date": "2025-08-31",
+              "category": "Bỏ một lần, giờ ra sao"
+            },
+            "low": {
+              "id": "7545805325119769874",
+              "title": "Nếu bạn đầu tư 200 triệu đồng vào cổ phiếu Phát Đạt từ năm 2015 so với gửi tiết kiệm thì hiện tại sẽ có bao nhiêu ??? #xuhuong #xuhuongtiktok #chungkhoan #chungkhoanvietnam #dautu ",
+              "url": "https://www.tiktok.com/@manhinhxanhdo_official/video/7545805325119769874",
+              "views": 7226,
+              "duration": 62,
+              "date": "2025-09-03",
+              "category": "Bỏ một lần, giờ ra sao"
+            },
+            "ratio": 15.84555770827567,
+            "daysApart": 3.3809722222222223
+          },
+          {
+            "high": {
+              "id": "7540341333290962194",
+              "title": "IPO TCBS - Thương vụ IPO lớn nhất 2025 chính thức mở bán. Liên hệ trực tiếp hoặc để lại comment để được hướng dẫn đăng ký nhanh nhất! #xuhuong #xuhuongtiktok #TCBS #chungkhoan #chungkhoanvietnam ",
+              "url": "https://www.tiktok.com/@manhinhxanhdo_official/video/7540341333290962194",
+              "views": 8908,
+              "duration": 15,
+              "date": "2025-08-19",
+              "category": "Khác (IPO, quote, sự kiện)"
+            },
+            "low": {
+              "id": "7538848387332885778",
+              "title": "Anh em có ai bán sớm như tôi không? Ae nào chốt được giá 34 cho tôi xin cánh tay 🙌 #chungkhoan #chungkhoanvietnam  #dautu #xuhuong #xuhuongtiktok ",
+              "url": "https://www.tiktok.com/@manhinhxanhdo_official/video/7538848387332885778",
+              "views": 2214,
+              "duration": 10,
+              "date": "2025-08-15",
+              "category": "Khác (IPO, quote, sự kiện)"
+            },
+            "ratio": 4.023486901535682,
+            "daysApart": 4.023217592592593
+          }
+        ]
+      },
+      "era": null,
+      "scope": {
+        "count": 50,
+        "medianViews": 21750,
+        "categories": [
+          {
+            "name": "Tích sản định kỳ",
+            "count": 17,
+            "median": 28700,
+            "mean": 152386.35294117648,
+            "q25": 14800,
+            "q75": 95400,
+            "relMedian": 2.742907703367804,
+            "relQ25": 1.0007073872272758,
+            "relQ75": 4.942268616657763
+          },
+          {
+            "name": "Bỏ một lần, giờ ra sao",
+            "count": 27,
+            "median": 26900,
+            "mean": 43502.62962962963,
+            "q25": 16100,
+            "q75": 59000,
+            "relMedian": 0.838545484775429,
+            "relQ25": 0.5204180284923031,
+            "relQ75": 1.9035826544068501
+          },
+          {
+            "name": "Khác (IPO, quote, sự kiện)",
+            "count": 6,
+            "median": 6909,
+            "mean": 8212.5,
+            "q25": 4404.25,
+            "q75": 8457.5,
+            "relMedian": 0.23408753513451502,
+            "relQ25": 0.14951385303734296,
+            "relQ75": 0.2891452991452992
+          }
+        ],
+        "note": "timeBuckets, weekdays, durations, tags and scope.categories only cover the current format when era is set"
+      },
+      "timeBuckets": [
+        {
+          "name": "Sáng (5–11h)",
+          "count": 8,
+          "median": 50150,
+          "mean": 256412.5,
+          "q25": 27500,
+          "q75": 152825,
+          "relMedian": 2.5976102713981404,
+          "relQ25": 0.8001037365760237,
+          "relQ75": 8.098168761673985
+        },
+        {
+          "name": "Trưa (11–14h)",
+          "count": 8,
+          "median": 54950,
+          "mean": 62462.5,
+          "q25": 26675,
+          "q75": 99000,
+          "relMedian": 1.9146341463414633,
+          "relQ25": 0.9192561628190485,
+          "relQ75": 4.4016007811575335
+        },
+        {
+          "name": "Chiều (14–18h)",
+          "count": 1,
+          "median": 7226,
+          "mean": 7226,
+          "q25": 7226,
+          "q75": 7226,
+          "relMedian": 0.26086642599277976,
+          "relQ25": 0.26086642599277976,
+          "relQ75": 0.26086642599277976
+        },
+        {
+          "name": "Tối (18–23h)",
+          "count": 8,
+          "median": 46650,
+          "mean": 92830.625,
+          "q25": 12975,
+          "q75": 144975,
+          "relMedian": 2.2879507966940853,
+          "relQ25": 0.831854420460482,
+          "relQ75": 7.877809037278901
+        },
+        {
+          "name": "Đêm (23–5h)",
+          "count": 25,
+          "median": 17100,
+          "mean": 20541.72,
+          "q25": 7106,
+          "q75": 22500,
+          "relMedian": 0.5664019388516033,
+          "relQ25": 0.2583418803418803,
+          "relQ75": 1.5659519251769725
+        }
+      ],
+      "categories": [
+        {
+          "name": "Tích sản định kỳ",
+          "count": 17,
+          "median": 28700,
+          "mean": 152386.35294117648,
+          "q25": 14800,
+          "q75": 95400,
+          "relMedian": 2.742907703367804,
+          "relQ25": 1.0007073872272758,
+          "relQ75": 4.942268616657763
+        },
+        {
+          "name": "Bỏ một lần, giờ ra sao",
+          "count": 27,
+          "median": 26900,
+          "mean": 43502.62962962963,
+          "q25": 16100,
+          "q75": 59000,
+          "relMedian": 0.838545484775429,
+          "relQ25": 0.5204180284923031,
+          "relQ75": 1.9035826544068501
+        },
+        {
+          "name": "Khác (IPO, quote, sự kiện)",
+          "count": 6,
+          "median": 6909,
+          "mean": 8212.5,
+          "q25": 4404.25,
+          "q75": 8457.5,
+          "relMedian": 0.23408753513451502,
+          "relQ25": 0.14951385303734296,
+          "relQ75": 0.2891452991452992
+        }
+      ],
+      "months": [
+        {
+          "name": "2025-08",
+          "count": 20,
+          "median": 29250,
+          "mean": 139461,
+          "q25": 8457.5,
+          "q75": 100175,
+          "relMedian": 1.0007073872272758,
+          "relQ25": 0.2891452991452992,
+          "relQ75": 4.160703468120552
+        },
+        {
+          "name": "2025-09",
+          "count": 9,
+          "median": 26900,
+          "mean": 45802.88888888889,
+          "q25": 13400,
+          "q75": 29800,
+          "relMedian": 0.7237762237762237,
+          "relQ25": 0.49814126394052044,
+          "relQ75": 1.0912778904665315
+        },
+        {
+          "name": "2025-10",
+          "count": 4,
+          "median": 21650,
+          "mean": 28350,
+          "q25": 20750,
+          "q75": 29250,
+          "relMedian": 0.8893280632411067,
+          "relQ25": 0.838545484775429,
+          "relQ75": 1.587851098595149
+        },
+        {
+          "name": "2025-12",
+          "count": 4,
+          "median": 15150,
+          "mean": 14700,
+          "q25": 13425,
+          "q75": 16425,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "2026-01",
+          "count": 5,
+          "median": 21000,
+          "mean": 38660,
+          "q25": 17300,
+          "q75": 68500,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "2026-03",
+          "count": 7,
+          "median": 11700,
+          "mean": 15524,
+          "q25": 5638.5,
+          "q75": 19800,
+          "relMedian": 1.8329938900203666,
+          "relQ25": 0.45745702306079666,
+          "relQ75": 2.5307833205856722
+        },
+        {
+          "name": "2026-07",
+          "count": 1,
+          "median": 138800,
+          "mean": 138800,
+          "q25": 138800,
+          "q75": 138800,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        }
+      ],
+      "weekdays": [
+        {
+          "name": "T2",
+          "count": 7,
+          "median": 28100,
+          "mean": 41427.28571428572,
+          "q25": 19250,
+          "q75": 28650,
+          "relMedian": 0.9262076557816272,
+          "relQ25": 0.5565905407904511,
+          "relQ75": 1.0151400431274684
+        },
+        {
+          "name": "T3",
+          "count": 9,
+          "median": 13400,
+          "mean": 32400.88888888889,
+          "q25": 8908,
+          "q75": 24800,
+          "relMedian": 0.7237762237762237,
+          "relQ25": 0.36935849056603776,
+          "relQ75": 1.9568527918781726
+        },
+        {
+          "name": "T4",
+          "count": 7,
+          "median": 16200,
+          "mean": 22744.14285714286,
+          "q25": 9313,
+          "q75": 18950,
+          "relMedian": 0.5455555555555556,
+          "relQ25": 0.40321099077416767,
+          "relQ75": 1.668248161053039
+        },
+        {
+          "name": "T5",
+          "count": 8,
+          "median": 48100,
+          "mean": 77212.5,
+          "q25": 16675,
+          "q75": 87575,
+          "relMedian": 1.5108523115413641,
+          "relQ25": 0.6348017464768734,
+          "relQ75": 4.0963885695498385
+        },
+        {
+          "name": "T6",
+          "count": 6,
+          "median": 22200,
+          "mean": 268369,
+          "q25": 14950,
+          "q75": 43850,
+          "relMedian": 1.0912778904665315,
+          "relQ25": 0.587248322147651,
+          "relQ75": 2.2863741339491916
+        },
+        {
+          "name": "T7",
+          "count": 6,
+          "median": 25400,
+          "mean": 24946.666666666668,
+          "q25": 7976.25,
+          "q75": 40075,
+          "relMedian": 1.038327526132404,
+          "relQ25": 0.12427350427350427,
+          "relQ75": 1.7437722419928825
+        },
+        {
+          "name": "CN",
+          "count": 7,
+          "median": 95400,
+          "mean": 99430.28571428571,
+          "q25": 25200,
+          "q75": 112150,
+          "relMedian": 4.103942652329749,
+          "relQ25": 0.6948915541649767,
+          "relQ75": 4.843417009433001
+        }
+      ],
+      "durations": [
+        {
+          "name": "≤30s",
+          "count": 5,
+          "median": 8908,
+          "mean": 36286.8,
+          "q25": 6712,
+          "q75": 24800,
+          "relMedian": 0.2648909539379338,
+          "relQ25": 0.18821188878235856,
+          "relQ75": 0.9141371822522075
+        },
+        {
+          "name": "31–45s",
+          "count": 3,
+          "median": 20700,
+          "mean": 31861,
+          "q25": 13541.5,
+          "q75": 44600,
+          "relMedian": 0.6346658896658897,
+          "relQ25": 0.5901107226107226,
+          "relQ75": 0.6792210567210567
+        },
+        {
+          "name": "46–60s",
+          "count": 15,
+          "median": 28700,
+          "mean": 152096.33333333334,
+          "q25": 16650,
+          "q75": 87750,
+          "relMedian": 1.0007073872272758,
+          "relQ25": 0.5327758642522477,
+          "relQ75": 4.516586596798404
+        },
+        {
+          "name": "61–90s",
+          "count": 26,
+          "median": 24700,
+          "mean": 48166.03846153846,
+          "q25": 14275,
+          "q75": 47625,
+          "relMedian": 1.417525066229707,
+          "relQ25": 0.5760504675002817,
+          "relQ75": 2.764979866435093
+        },
+        {
+          "name": ">90s",
+          "count": 1,
+          "median": 3635,
+          "mean": 3635,
+          "q25": 3635,
+          "q75": 3635,
+          "relMedian": 0.12427350427350427,
+          "relQ25": 0.12427350427350427,
+          "relQ75": 0.12427350427350427
+        }
+      ],
+      "tags": [
+        {
+          "name": "#chungkhoan",
+          "count": 50,
+          "median": 21750,
+          "mean": 76288.28,
+          "q25": 12575,
+          "q75": 63750,
+          "relMedian": 0.9630872483221476,
+          "relQ25": 0.4378739816884147,
+          "relQ75": 2.7669242349591636
+        },
+        {
+          "name": "#xuhuong",
+          "count": 50,
+          "median": 21750,
+          "mean": 76288.28,
+          "q25": 12575,
+          "q75": 63750,
+          "relMedian": 0.9630872483221476,
+          "relQ25": 0.4378739816884147,
+          "relQ75": 2.7669242349591636
+        },
+        {
+          "name": "#xuhuongtiktok",
+          "count": 49,
+          "median": 21000,
+          "mean": 47232.93877551021,
+          "q25": 12300,
+          "q75": 49500,
+          "relMedian": 0.9262076557816272,
+          "relQ25": 0.43397195587917237,
+          "relQ75": 2.6368455119767384
+        },
+        {
+          "name": "#chungkhoanvietnam",
+          "count": 47,
+          "median": 22500,
+          "mean": 77087.40425531915,
+          "q25": 12850,
+          "q75": 59000,
+          "relMedian": 0.9977891115256947,
+          "relQ25": 0.441776007497657,
+          "relQ75": 2.7549159691634837
+        },
+        {
+          "name": "#dautu",
+          "count": 46,
+          "median": 23650,
+          "mean": 79106.52173913043,
+          "q25": 13575,
+          "q75": 63750,
+          "relMedian": 1.035409250430823,
+          "relQ25": 0.48502545628211513,
+          "relQ75": 3.119191237995329
+        },
+        {
+          "name": "#tcbs",
+          "count": 2,
+          "median": 8007,
+          "mean": 8007,
+          "q25": 7556.5,
+          "q75": 8457.5,
+          "relMedian": 0.27374358974358975,
+          "relQ25": 0.2583418803418803,
+          "relQ75": 0.2891452991452992
+        },
+        {
+          "name": "#learnontiktok",
+          "count": 2,
+          "median": 760350,
+          "mean": 760350,
+          "q25": 390525,
+          "q75": 1130175,
+          "relMedian": 27.052279570962842,
+          "relQ25": 13.888027897369533,
+          "relQ75": 40.21653124455615
+        },
+        {
+          "name": "#dautuchungkhoan",
+          "count": 1,
+          "median": 2745,
+          "mean": 2745,
+          "q25": 2745,
+          "q75": 2745,
+          "relMedian": 0.09384615384615384,
+          "relQ25": 0.09384615384615384,
+          "relQ75": 0.09384615384615384
+        },
+        {
+          "name": "#ipo",
+          "count": 1,
+          "median": 7106,
+          "mean": 7106,
+          "q25": 7106,
+          "q75": 7106,
+          "relMedian": 0.24294017094017095,
+          "relQ25": 0.24294017094017095,
+          "relQ75": 0.24294017094017095
+        },
+        {
+          "name": "#vietnam",
+          "count": 1,
+          "median": 20700,
+          "mean": 20700,
+          "q25": 20700,
+          "q75": 20700,
+          "relMedian": 0.7237762237762237,
+          "relQ25": 0.7237762237762237,
+          "relQ75": 0.7237762237762237
+        },
+        {
+          "name": "#vang",
+          "count": 1,
+          "median": 163500,
+          "mean": 163500,
+          "q25": 163500,
+          "q75": 163500,
+          "relMedian": 9.589442815249267,
+          "relQ25": 9.589442815249267,
+          "relQ75": 9.589442815249267
+        },
+        {
+          "name": "#pnj",
+          "count": 1,
+          "median": 138800,
+          "mean": 138800,
+          "q25": 138800,
+          "q75": 138800,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        }
+      ],
+      "styles": [
+        {
+          "id": "7541243778741406983",
+          "duration": 60.07,
+          "language": "en",
+          "wpm": 105.90094836670178,
+          "speechCoverage": 0.6319294156817047,
+          "hook": "I need to know",
+          "changes": 0,
+          "secPerChange": 60.07,
+          "cuts": 0,
+          "changesFirst3s": 0,
+          "firstChangeAt": null,
+          "lufs": -17.1,
+          "motion": {
+            "beats": 7,
+            "beatsPerMin": 6.99,
+            "medianBeat": 5.67,
+            "beatsFirst3s": 0,
+            "entrances": {
+              "cut": 2,
+              "slide-left": 2,
+              "drop": 1,
+              "slide-right": 1,
+              "slide-up": 1
+            },
+            "caption": null,
+            "firstBeats": [
+              {
+                "t": 0,
+                "at": "I",
+                "fx": "cut"
+              },
+              {
+                "t": 24.87,
+                "at": null,
+                "fx": "slide-left"
+              },
+              {
+                "t": 29.93,
+                "at": "Could",
+                "fx": "drop"
+              },
+              {
+                "t": 43.6,
+                "at": "lose",
+                "fx": "cut"
+              },
+              {
+                "t": 49,
+                "at": "Could",
+                "fx": "slide-right"
+              },
+              {
+                "t": 50.33,
+                "at": "be",
+                "fx": "slide-left"
+              },
+              {
+                "t": 56.27,
+                "at": "be",
+                "fx": "slide-up"
+              }
+            ]
+          },
+          "title": "Trả lời @zvinh31 Nếu bạn đầu tư 5 triệu đồng mỗi tháng vào cổ phiếu Vinamilk từ năm 2010!! #xuhuong #learnontiktok #chungkhoan #chungkhoanvietnam #dautu ",
+          "views": 1500000,
+          "folder": "tiktok/manhinhxanhdo_official/style/7541243778741406983"
+        },
+        {
+          "id": "7542161826541243656",
+          "duration": 62.066667,
+          "language": "pt",
+          "wpm": 59.340656080183706,
+          "speechCoverage": 0.09774436574788206,
+          "hook": "Música",
+          "changes": 0,
+          "secPerChange": 62.066667,
+          "cuts": 0,
+          "changesFirst3s": 0,
+          "firstChangeAt": null,
+          "lufs": -20.5,
+          "motion": {
+            "beats": 4,
+            "beatsPerMin": 3.87,
+            "medianBeat": 15.8,
+            "beatsFirst3s": 0,
+            "entrances": {
+              "cut": 1,
+              "draw-right": 1,
+              "drop": 1,
+              "slide-left": 1
+            },
+            "caption": null,
+            "firstBeats": [
+              {
+                "t": 0,
+                "at": "Música",
+                "fx": "cut"
+              },
+              {
+                "t": 41.6,
+                "at": null,
+                "fx": "draw-right"
+              },
+              {
+                "t": 57.4,
+                "at": null,
+                "fx": "drop"
+              },
+              {
+                "t": 59.27,
+                "at": null,
+                "fx": "slide-left"
+              }
+            ]
+          },
+          "title": "Trả lời @tlrmme111  Nếu bạn đầu tư 2 triệu đồng mỗi tháng vào ngân hàng Techcombank từ lúc niêm yết trên sàn chứng khoán!! #xuhuong #xuhuongtiktok #chungkhoan #chungkhoanvietnam #dautu ",
+          "views": 319200,
+          "folder": "tiktok/manhinhxanhdo_official/style/7542161826541243656"
+        },
+        {
+          "id": "7540861204533759250",
+          "duration": 60.07,
+          "language": "en",
+          "wpm": 75.4845290717443,
+          "speechCoverage": 0.9791909438987848,
+          "hook": "I have no excuse I just want",
+          "changes": 1,
+          "secPerChange": 30.035,
+          "cuts": 1,
+          "changesFirst3s": 0,
+          "firstChangeAt": 22.366667,
+          "lufs": -16.1,
+          "motion": {
+            "beats": 6,
+            "beatsPerMin": 5.99,
+            "medianBeat": 4.13,
+            "beatsFirst3s": 0,
+            "entrances": {
+              "cut": 2,
+              "slide-left": 1,
+              "drop": 2,
+              "pop": 1
+            },
+            "caption": null,
+            "firstBeats": [
+              {
+                "t": 0,
+                "at": "I",
+                "fx": "cut"
+              },
+              {
+                "t": 18.07,
+                "at": "Dirty",
+                "fx": "slide-left"
+              },
+              {
+                "t": 22.2,
+                "at": "oh",
+                "fx": "cut"
+              },
+              {
+                "t": 54.73,
+                "at": null,
+                "fx": "drop"
+              },
+              {
+                "t": 55.93,
+                "at": null,
+                "fx": "drop"
+              },
+              {
+                "t": 56.73,
+                "at": null,
+                "fx": "pop"
+              }
+            ]
+          },
+          "title": "Trả lời @topcomentdao  Nếu bạn đầu tư 2 triệu đồng mỗi tháng vào cổ phiếu FPT từ 2010! Bạn nào muốn mình làm về mã nào thì hãy comment phía bên dưới nhá. #xuhuong #xuhuongtiktok #chungkhoanvietnam #chungkhoan #dautu ",
+          "views": 267800,
+          "folder": "tiktok/manhinhxanhdo_official/style/7540861204533759250"
+        },
+        {
+          "id": "7547692216236838162",
+          "duration": 62.066667,
+          "language": "vi",
+          "wpm": 43.529664426431296,
+          "speechCoverage": 0.9993555316898198,
+          "hook": "Hãy subscribe",
+          "changes": 1,
+          "secPerChange": 31.0333335,
+          "cuts": 0,
+          "changesFirst3s": 0,
+          "firstChangeAt": 60.1,
+          "lufs": -16.9,
+          "motion": {
+            "beats": 5,
+            "beatsPerMin": 4.83,
+            "medianBeat": 15.27,
+            "beatsFirst3s": 0,
+            "entrances": {
+              "cut": 3,
+              "slide-right": 1,
+              "slide-left": 1
+            },
+            "caption": null,
+            "firstBeats": [
+              {
+                "t": 0,
+                "at": "Hãy",
+                "fx": "cut"
+              },
+              {
+                "t": 22.07,
+                "at": null,
+                "fx": "cut"
+              },
+              {
+                "t": 30.53,
+                "at": null,
+                "fx": "slide-right"
+              },
+              {
+                "t": 57.13,
+                "at": null,
+                "fx": "slide-left"
+              },
+              {
+                "t": 60.1,
+                "at": "Hãy",
+                "fx": "cut"
+              }
+            ]
+          },
+          "title": "Nếu bạn bỏ ra 200 triệu đồng mua vàng từ năm 2010 thì hiện tại sẽ có bao nhiêu??? 🤑😱 #xuhuong #xuhuongtiktok #vang #chungkhoan #dautu ",
+          "views": 163500,
+          "folder": "tiktok/manhinhxanhdo_official/style/7547692216236838162"
+        },
+        {
+          "id": "7665753171674926356",
+          "duration": 22.010998,
+          "language": "vi",
+          "wpm": 171.50890346766636,
+          "speechCoverage": 0.969515330472521,
+          "hook": "Tôi đã thưởng thành từ trong đau khổ Tôi đứng",
+          "changes": 0,
+          "secPerChange": 22.010998,
+          "cuts": 0,
+          "changesFirst3s": 0,
+          "firstChangeAt": null,
+          "lufs": -17.8,
+          "motion": {
+            "beats": 4,
+            "beatsPerMin": 10.91,
+            "medianBeat": 4.2,
+            "beatsFirst3s": 0,
+            "entrances": {
+              "cut": 2,
+              "draw-right": 1,
+              "slide-right": 1
+            },
+            "caption": null,
+            "firstBeats": [
+              {
+                "t": 0,
+                "at": "Tôi",
+                "fx": "cut"
+              },
+              {
+                "t": 14,
+                "at": "nay",
+                "fx": "draw-right"
+              },
+              {
+                "t": 15.87,
+                "at": "thêm",
+                "fx": "slide-right"
+              },
+              {
+                "t": 20.07,
+                "at": "lung",
+                "fx": "cut"
+              }
+            ]
+          },
+          "title": "Nếu bạn đầu tư 100 triệu vào cổ phiếu PNJ cách đây 3 tháng thì hiện tại sẽ có bao nhiêu ? 🥶#xuhuong #xuhuongtiktok #chungkhoan #chungkhoanvietnam #pnj ",
+          "views": 138800,
+          "folder": "tiktok/manhinhxanhdo_official/style/7665753171674926356"
+        }
+      ],
+      "top": [
+        {
+          "id": "7541243778741406983",
+          "title": "Trả lời @zvinh31 Nếu bạn đầu tư 5 triệu đồng mỗi tháng vào cổ phiếu Vinamilk từ năm 2010!! #xuhuong #learnontiktok #chungkhoan #chungkhoanvietnam #dautu ",
+          "url": "https://www.tiktok.com/@manhinhxanhdo_official/video/7541243778741406983",
+          "views": 1500000,
+          "er": 0.024088,
+          "duration": 60,
+          "date": "2025-08-22",
+          "time": "10:17",
+          "category": "Tích sản định kỳ",
+          "ratio": 68.96551724137932
+        },
+        {
+          "id": "7542161826541243656",
+          "title": "Trả lời @tlrmme111  Nếu bạn đầu tư 2 triệu đồng mỗi tháng vào ngân hàng Techcombank từ lúc niêm yết trên sàn chứng khoán!! #xuhuong #xuhuongtiktok #chungkhoan #chungkhoanvietnam #dautu ",
+          "url": "https://www.tiktok.com/@manhinhxanhdo_official/video/7542161826541243656",
+          "views": 319200,
+          "er": 0.01400375939849624,
+          "duration": 62,
+          "date": "2025-08-24",
+          "time": "21:39",
+          "category": "Tích sản định kỳ",
+          "ratio": 14.675862068965516
+        },
+        {
+          "id": "7540861204533759250",
+          "title": "Trả lời @topcomentdao  Nếu bạn đầu tư 2 triệu đồng mỗi tháng vào cổ phiếu FPT từ 2010! Bạn nào muốn mình làm về mã nào thì hãy comment phía bên dưới nhá. #xuhuong #xuhuongtiktok #chungkhoanvietnam #chungkhoan #dautu ",
+          "url": "https://www.tiktok.com/@manhinhxanhdo_official/video/7540861204533759250",
+          "views": 267800,
+          "er": 0.013155339805825242,
+          "duration": 60,
+          "date": "2025-08-21",
+          "time": "09:32",
+          "category": "Tích sản định kỳ",
+          "ratio": 12.312643678160919
+        },
+        {
+          "id": "7547692216236838162",
+          "title": "Nếu bạn bỏ ra 200 triệu đồng mua vàng từ năm 2010 thì hiện tại sẽ có bao nhiêu??? 🤑😱 #xuhuong #xuhuongtiktok #vang #chungkhoan #dautu ",
+          "url": "https://www.tiktok.com/@manhinhxanhdo_official/video/7547692216236838162",
+          "views": 163500,
+          "er": 0.010660550458715596,
+          "duration": 62,
+          "date": "2025-09-08",
+          "time": "19:20",
+          "category": "Bỏ một lần, giờ ra sao",
+          "ratio": 7.517241379310345
+        },
+        {
+          "id": "7665753171674926356",
+          "title": "Nếu bạn đầu tư 100 triệu vào cổ phiếu PNJ cách đây 3 tháng thì hiện tại sẽ có bao nhiêu ? 🥶#xuhuong #xuhuongtiktok #chungkhoan #chungkhoanvietnam #pnj ",
+          "url": "https://www.tiktok.com/@manhinhxanhdo_official/video/7665753171674926356",
+          "views": 138800,
+          "er": 0.0239985590778098,
+          "duration": 22,
+          "date": "2026-07-23",
+          "time": "22:57",
+          "category": "Bỏ một lần, giờ ra sao",
+          "ratio": 6.381609195402299
+        },
+        {
+          "id": "7540161432093003026",
+          "title": "So sánh nếu bạn đầu tư 2 triệu đồng mỗi tháng giữa vàng và chỉ số VNINDEX.  Kết quả sẽ ra sao??  #xuhuong #xuhuongtiktok #chungkhoanvietnam #chungkhoan #dautu ",
+          "url": "https://www.tiktok.com/@manhinhxanhdo_official/video/7540161432093003026",
+          "views": 123000,
+          "er": 0.01576422764227642,
+          "duration": 60,
+          "date": "2025-08-19",
+          "time": "12:17",
+          "category": "Tích sản định kỳ",
+          "ratio": 5.655172413793103
+        },
+        {
+          "id": "7544550690488634642",
+          "title": "Trả lời @teacherhpodcast  Nếu bạn đầu tư 200 triệu mua cổ phiếu của SSI so với gửi tiết kiệm vào năm 2010! #xuhuong #xuhuongtiktok #chungkhoan #chungkhoanvietnam #dautu ",
+          "url": "https://www.tiktok.com/@manhinhxanhdo_official/video/7544550690488634642",
+          "views": 114500,
+          "er": 0.008864628820960698,
+          "duration": 62,
+          "date": "2025-08-31",
+          "time": "08:09",
+          "category": "Bỏ một lần, giờ ra sao",
+          "ratio": 5.264367816091954
+        },
+        {
+          "id": "7549817923750071570",
+          "title": "Nếu bạn đầu tư 200 triệu vào cổ phiếu Hoa Sen từ 2010 thì hiện tại kết quả sẽ có bao nhiêu ?? 🥰 #xuhuong #xuhuongtiktok #chungkhoan #chungkhoanvietnam #dautu ",
+          "url": "https://www.tiktok.com/@manhinhxanhdo_official/video/7549817923750071570",
+          "views": 109800,
+          "er": 0.017295081967213115,
+          "duration": 62,
+          "date": "2025-09-14",
+          "time": "12:49",
+          "category": "Bỏ một lần, giờ ra sao",
+          "ratio": 5.048275862068966
+        },
+        {
+          "id": "7539420333485329672",
+          "title": "Nếu bạn đầu tư 2 triệu mỗi tháng vào Hoà Phát từ 2010 thì giờ sẽ thế nào?  Bạn nghĩ kết quả này ấn tượng không?  #xuhuong #xuhuongtiktok #dautu #chungkhoan #chungkhoanvietnam ",
+          "url": "https://www.tiktok.com/@manhinhxanhdo_official/video/7539420333485329672",
+          "views": 95400,
+          "er": 0.01668763102725367,
+          "duration": 60,
+          "date": "2025-08-17",
+          "time": "12:21",
+          "category": "Tích sản định kỳ",
+          "ratio": 4.386206896551724
+        },
+        {
+          "id": "7540529342263119112",
+          "title": "Trả lời @_nguyenhoangminhnhat  Nếu 10 năm trước bỏ ra 2 triệu đồng mỗi tháng mua Bitcoin thì hiện tại sẽ có bao nhiêu 🤑 Nếu được quay về 10 năm trước liệu bạn có mua?  #xuhuong #xuhuongtiktok #chungkhoan #chungkhoanvietnam #dautu ",
+          "url": "https://www.tiktok.com/@manhinhxanhdo_official/video/7540529342263119112",
+          "views": 80100,
+          "er": 0.01770287141073658,
+          "duration": 60,
+          "date": "2025-08-20",
+          "time": "12:05",
+          "category": "Tích sản định kỳ",
+          "ratio": 3.682758620689655
+        }
+      ]
+    }
+  ]
+}

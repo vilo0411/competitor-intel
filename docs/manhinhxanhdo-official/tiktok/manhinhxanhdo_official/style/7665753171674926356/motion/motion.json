@@ -1,0 +1,157 @@
+{
+  "source": "video.mp4",
+  "width": 1080,
+  "height": 1920,
+  "duration": 22.01,
+  "analysisFps": 15,
+  "analysisSize": [
+    180,
+    320
+  ],
+  "boxUnits": "fraction of frame [x, y, w, h]",
+  "captionTrack": null,
+  "shots": [
+    {
+      "index": 1,
+      "start": 0,
+      "end": 22,
+      "startWord": "Tôi",
+      "fps": 15,
+      "layer": null,
+      "static": [
+        {
+          "box": [
+            0.178,
+            0.425,
+            0.067,
+            0.088
+          ],
+          "shape": "block",
+          "colour": "#d6d6d6"
+        },
+        {
+          "box": [
+            0.178,
+            0.563,
+            0.067,
+            0.125
+          ],
+          "shape": "block",
+          "colour": "#d6d6d6"
+        }
+      ],
+      "events": [
+        {
+          "t0": 14,
+          "t1": 18.47,
+          "box": [
+            0.267,
+            0.313,
+            0.511,
+            0.425
+          ],
+          "area": 0.019,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": "right",
+          "slide": null,
+          "scale": null,
+          "colour": "#afb2b4",
+          "word": "nay"
+        },
+        {
+          "t0": 15.87,
+          "t1": 20.07,
+          "box": [
+            0.089,
+            0.313,
+            0.733,
+            0.425
+          ],
+          "area": 0.099,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#bbc0c0",
+          "word": "thêm"
+        },
+        {
+          "t0": 20.07,
+          "t1": 20.13,
+          "box": [
+            0.378,
+            0.75,
+            0.267,
+            0.05
+          ],
+          "area": 0.011,
+          "kind": "change",
+          "easing": "instant",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#727272",
+          "word": "lung"
+        }
+      ],
+      "sequences": []
+    }
+  ],
+  "stickerBeats": {
+    "beats": [
+      {
+        "t": 0,
+        "at": "Tôi",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 1
+      },
+      {
+        "t": 14,
+        "at": "nay",
+        "fx": "draw-right",
+        "boxes": [
+          [
+            0.267,
+            0.313,
+            0.511,
+            0.425
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 15.87,
+        "at": "thêm",
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0.089,
+            0.313,
+            0.733,
+            0.425
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 20.07,
+        "at": "lung",
+        "fx": "cut",
+        "boxes": [
+          [
+            0.378,
+            0.75,
+            0.267,
+            0.05
+          ]
+        ],
+        "shot": 1
+      }
+    ],
+    "medianInterval": 4.2,
+    "perMinute": 10.91
+  }
+}

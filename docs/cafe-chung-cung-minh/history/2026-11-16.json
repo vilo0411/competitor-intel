@@ -1,0 +1,1922 @@
+{
+  "name": "Cafe Chung Cung Minh",
+  "updated": "2026-11-16",
+  "tiktok": [
+    {
+      "handle": "cafechungcungminh",
+      "profile": {
+        "followers": 4788,
+        "hearts": 35000,
+        "videoCount": 18,
+        "nickname": "Cafe Chứng | ☕",
+        "bio": "Chúng tôi đọc và phân tích thông tin, hỗ trợ bạn đầu tư tài chính 1 cách tương đối dễ hiểu và hiệu quả."
+      },
+      "stats": {
+        "n": 18,
+        "first": "2026-10-18",
+        "last": "2026-11-11",
+        "daysSinceLast": 4,
+        "totalViews": 1393848,
+        "meanViews": 77436,
+        "medianViews": 4528.5,
+        "maxViews": 783600,
+        "minViews": 1431,
+        "medianER": 0.023531419251896585,
+        "postsPerWeek": 5.220050664182207,
+        "medianGapDays": 1.8841898148148148,
+        "postsLast30": 18,
+        "medianDuration": 77,
+        "originalSoundShare": 0.7777777777777778,
+        "viralCount": 4
+      },
+      "takeaways": {
+        "category": "Chưa đủ mẫu để so sánh loại nội dung",
+        "share": "Thị trường & vĩ mô chiếm 22,2% số video nhưng chỉ mang về 0,6% tổng view",
+        "viral": "3/18 video đạt từ 45k view (10× trung vị kênh) và mang về 92,5% tổng view; top 3 chiếm 92,5%",
+        "hits": "Số hit (từ 45k view) theo tháng gần nhất: 3/12 → 0/6 (kỳ cuối có 1 bài dưới 7 ngày tuổi, còn tích view)",
+        "cadence": "Đăng 5,2 video/tuần; tháng dày nhất T10/26 có 12 video; 30 ngày qua: 18 video",
+        "time": "Không khung giờ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 4,1k–9,9k)",
+        "weekday": "Không thứ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 2,1k–8,1k)",
+        "duration": "Không mức độ dài nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 4,3k–4,7k)",
+        "tags": "Hashtag đi kèm view cao hơn hẳn trung vị: #cổphiếu; không chứng minh hashtag làm tăng view"
+      },
+      "evidence": {
+        "channelMedian": 4528.5,
+        "hitThreshold": 45285,
+        "periodUnit": "tháng",
+        "labeledCount": 18,
+        "totalCount": 18,
+        "youngCount": 1,
+        "categories": [
+          {
+            "name": "Kiến thức / mẹo đầu tư",
+            "count": 3,
+            "weak": true,
+            "young": 0,
+            "median": 13000,
+            "q25": 8652,
+            "q75": 43400,
+            "aboveChannel": 0.6666666666666666,
+            "relMedian": 2.094578264722468,
+            "aboveLocal": 0.6666666666666666,
+            "hits": 1,
+            "hitRate": 0.3333333333333333,
+            "interactions": {
+              "likes": {
+                "median": 0.05061538461538462,
+                "count": 3
+              },
+              "comments": {
+                "median": 0.00023234200743494423,
+                "count": 3
+              },
+              "shares": {
+                "median": 0.006273234200743495,
+                "count": 3
+              },
+              "saves": {
+                "median": 0.01123076923076923,
+                "count": 3
+              }
+            }
+          },
+          {
+            "name": "Phân tích một mã cổ phiếu",
+            "count": 11,
+            "weak": false,
+            "young": 1,
+            "median": 8109,
+            "q25": 4123.5,
+            "q75": 21900,
+            "aboveChannel": 0.6363636363636364,
+            "relMedian": 1.1067285382830627,
+            "aboveLocal": 0.5454545454545454,
+            "hits": 2,
+            "hitRate": 0.18181818181818182,
+            "interactions": {
+              "likes": {
+                "median": 0.016771488469601678,
+                "count": 11
+              },
+              "comments": {
+                "median": 0.0006393861892583121,
+                "count": 11
+              },
+              "shares": {
+                "median": 0.0012709710218607015,
+                "count": 11
+              },
+              "saves": {
+                "median": 0.001507936507936508,
+                "count": 11
+              }
+            }
+          },
+          {
+            "name": "Thị trường & vĩ mô",
+            "count": 4,
+            "weak": true,
+            "young": 0,
+            "median": 1857,
+            "q25": 1707,
+            "q75": 2169.5,
+            "aboveChannel": 0,
+            "relMedian": 0.41207539791997094,
+            "aboveLocal": 0,
+            "hits": 0,
+            "hitRate": 0,
+            "interactions": {
+              "likes": {
+                "median": 0.01631079305258881,
+                "count": 4
+              },
+              "comments": {
+                "median": 0.0005390287902910958,
+                "count": 4
+              },
+              "shares": {
+                "median": 0.0018820145829910166,
+                "count": 4
+              },
+              "saves": {
+                "median": 0.0024204675440772164,
+                "count": 4
+              }
+            }
+          }
+        ],
+        "sensitivity": [
+          {
+            "remove": 0,
+            "excluded": [],
+            "categories": [
+              {
+                "name": "Kiến thức / mẹo đầu tư",
+                "count": 3,
+                "weak": true,
+                "young": 0,
+                "median": 13000,
+                "q25": 8652,
+                "q75": 43400,
+                "aboveChannel": 0.6666666666666666,
+                "relMedian": 2.094578264722468,
+                "aboveLocal": 0.6666666666666666,
+                "hits": 1,
+                "hitRate": 0.3333333333333333,
+                "interactions": {
+                  "likes": {
+                    "median": 0.05061538461538462,
+                    "count": 3
+                  },
+                  "comments": {
+                    "median": 0.00023234200743494423,
+                    "count": 3
+                  },
+                  "shares": {
+                    "median": 0.006273234200743495,
+                    "count": 3
+                  },
+                  "saves": {
+                    "median": 0.01123076923076923,
+                    "count": 3
+                  }
+                }
+              },
+              {
+                "name": "Phân tích một mã cổ phiếu",
+                "count": 11,
+                "weak": false,
+                "young": 1,
+                "median": 8109,
+                "q25": 4123.5,
+                "q75": 21900,
+                "aboveChannel": 0.6363636363636364,
+                "relMedian": 1.1067285382830627,
+                "aboveLocal": 0.5454545454545454,
+                "hits": 2,
+                "hitRate": 0.18181818181818182,
+                "interactions": {
+                  "likes": {
+                    "median": 0.016771488469601678,
+                    "count": 11
+                  },
+                  "comments": {
+                    "median": 0.0006393861892583121,
+                    "count": 11
+                  },
+                  "shares": {
+                    "median": 0.0012709710218607015,
+                    "count": 11
+                  },
+                  "saves": {
+                    "median": 0.001507936507936508,
+                    "count": 11
+                  }
+                }
+              },
+              {
+                "name": "Thị trường & vĩ mô",
+                "count": 4,
+                "weak": true,
+                "young": 0,
+                "median": 1857,
+                "q25": 1707,
+                "q75": 2169.5,
+                "aboveChannel": 0,
+                "relMedian": 0.41207539791997094,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.01631079305258881,
+                    "count": 4
+                  },
+                  "comments": {
+                    "median": 0.0005390287902910958,
+                    "count": 4
+                  },
+                  "shares": {
+                    "median": 0.0018820145829910166,
+                    "count": 4
+                  },
+                  "saves": {
+                    "median": 0.0024204675440772164,
+                    "count": 4
+                  }
+                }
+              }
+            ],
+            "leaders": [
+              "Phân tích một mã cổ phiếu"
+            ]
+          },
+          {
+            "remove": 1,
+            "excluded": [
+              "7700155703234678017"
+            ],
+            "categories": [
+              {
+                "name": "Kiến thức / mẹo đầu tư",
+                "count": 3,
+                "weak": true,
+                "young": 0,
+                "median": 13000,
+                "q25": 8652,
+                "q75": 43400,
+                "aboveChannel": 0.6666666666666666,
+                "relMedian": 2.094578264722468,
+                "aboveLocal": 0.6666666666666666,
+                "hits": 1,
+                "hitRate": 0.3333333333333333,
+                "interactions": {
+                  "likes": {
+                    "median": 0.05061538461538462,
+                    "count": 3
+                  },
+                  "comments": {
+                    "median": 0.00023234200743494423,
+                    "count": 3
+                  },
+                  "shares": {
+                    "median": 0.006273234200743495,
+                    "count": 3
+                  },
+                  "saves": {
+                    "median": 0.01123076923076923,
+                    "count": 3
+                  }
+                }
+              },
+              {
+                "name": "Phân tích một mã cổ phiếu",
+                "count": 10,
+                "weak": false,
+                "young": 1,
+                "median": 6426.5,
+                "q25": 4028.75,
+                "q75": 11927.5,
+                "aboveChannel": 0.6,
+                "relMedian": 0.9877244325510488,
+                "aboveLocal": 0.5,
+                "hits": 1,
+                "hitRate": 0.1,
+                "interactions": {
+                  "likes": {
+                    "median": 0.016616673982076516,
+                    "count": 10
+                  },
+                  "comments": {
+                    "median": 0.0007737798756584194,
+                    "count": 10
+                  },
+                  "shares": {
+                    "median": 0.0013732595412844822,
+                    "count": 10
+                  },
+                  "saves": {
+                    "median": 0.001516550867084675,
+                    "count": 10
+                  }
+                }
+              },
+              {
+                "name": "Thị trường & vĩ mô",
+                "count": 4,
+                "weak": true,
+                "young": 0,
+                "median": 1857,
+                "q25": 1707,
+                "q75": 2169.5,
+                "aboveChannel": 0,
+                "relMedian": 0.41207539791997094,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.01631079305258881,
+                    "count": 4
+                  },
+                  "comments": {
+                    "median": 0.0005390287902910958,
+                    "count": 4
+                  },
+                  "shares": {
+                    "median": 0.0018820145829910166,
+                    "count": 4
+                  },
+                  "saves": {
+                    "median": 0.0024204675440772164,
+                    "count": 4
+                  }
+                }
+              }
+            ],
+            "leaders": [
+              "Phân tích một mã cổ phiếu"
+            ]
+          },
+          {
+            "remove": 3,
+            "excluded": [
+              "7700155703234678017",
+              "7702380012628020500",
+              "7701680816157445396"
+            ],
+            "categories": [
+              {
+                "name": "Kiến thức / mẹo đầu tư",
+                "count": 2,
+                "weak": true,
+                "young": 0,
+                "median": 8652,
+                "q25": 6478,
+                "q75": 10826,
+                "aboveChannel": 0.5,
+                "relMedian": 1.2128275938996957,
+                "aboveLocal": 0.5,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.0415716328281384,
+                    "count": 2
+                  },
+                  "comments": {
+                    "median": 0.0002315556191020875,
+                    "count": 2
+                  },
+                  "shares": {
+                    "median": 0.004982770946525593,
+                    "count": 2
+                  },
+                  "saves": {
+                    "median": 0.009100514726908778,
+                    "count": 2
+                  }
+                }
+              },
+              {
+                "name": "Phân tích một mã cổ phiếu",
+                "count": 9,
+                "weak": false,
+                "young": 1,
+                "median": 4744,
+                "q25": 3934,
+                "q75": 9910,
+                "aboveChannel": 0.5555555555555556,
+                "relMedian": 0.868720326819035,
+                "aboveLocal": 0.4444444444444444,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.016461859494551357,
+                    "count": 9
+                  },
+                  "comments": {
+                    "median": 0.0009081735620585267,
+                    "count": 9
+                  },
+                  "shares": {
+                    "median": 0.0012709710218607015,
+                    "count": 9
+                  },
+                  "saves": {
+                    "median": 0.001507936507936508,
+                    "count": 9
+                  }
+                }
+              },
+              {
+                "name": "Thị trường & vĩ mô",
+                "count": 4,
+                "weak": true,
+                "young": 0,
+                "median": 1857,
+                "q25": 1707,
+                "q75": 2169.5,
+                "aboveChannel": 0,
+                "relMedian": 0.41207539791997094,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.01631079305258881,
+                    "count": 4
+                  },
+                  "comments": {
+                    "median": 0.0005390287902910958,
+                    "count": 4
+                  },
+                  "shares": {
+                    "median": 0.0018820145829910166,
+                    "count": 4
+                  },
+                  "saves": {
+                    "median": 0.0024204675440772164,
+                    "count": 4
+                  }
+                }
+              }
+            ],
+            "leaders": [
+              "Phân tích một mã cổ phiếu"
+            ]
+          }
+        ],
+        "periods": [
+          {
+            "period": "T10/2026",
+            "key": "2026-10",
+            "categories": [
+              {
+                "name": "Kiến thức / mẹo đầu tư",
+                "count": 1,
+                "weak": true,
+                "young": 0,
+                "median": 73800,
+                "q25": 73800,
+                "q75": 73800,
+                "aboveChannel": 1,
+                "relMedian": 11.483700303431105,
+                "aboveLocal": 1,
+                "hits": 1,
+                "hitRate": 1,
+                "interactions": {
+                  "likes": {
+                    "median": 0.058509485094850947,
+                    "count": 1
+                  },
+                  "comments": {
+                    "median": 0.0005962059620596206,
+                    "count": 1
+                  },
+                  "shares": {
+                    "median": 0.006802168021680217,
+                    "count": 1
+                  },
+                  "saves": {
+                    "median": 0.02378048780487805,
+                    "count": 1
+                  }
+                }
+              },
+              {
+                "name": "Phân tích một mã cổ phiếu",
+                "count": 9,
+                "weak": false,
+                "young": 0,
+                "median": 8109,
+                "q25": 4313,
+                "q75": 12600,
+                "aboveChannel": 0.6666666666666666,
+                "relMedian": 1.1067285382830627,
+                "aboveLocal": 0.5555555555555556,
+                "hits": 2,
+                "hitRate": 0.2222222222222222,
+                "interactions": {
+                  "likes": {
+                    "median": 0.016461859494551357,
+                    "count": 9
+                  },
+                  "comments": {
+                    "median": 0.00042302357836338417,
+                    "count": 9
+                  },
+                  "shares": {
+                    "median": 0.0012633996937212863,
+                    "count": 9
+                  },
+                  "saves": {
+                    "median": 0.0014798372179060304,
+                    "count": 9
+                  }
+                }
+              },
+              {
+                "name": "Thị trường & vĩ mô",
+                "count": 2,
+                "weak": true,
+                "young": 0,
+                "median": 2366,
+                "q25": 2082.5,
+                "q75": 2649.5,
+                "aboveChannel": 0,
+                "relMedian": 0.4987352445193929,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.014045193497846192,
+                    "count": 2
+                  },
+                  "comments": {
+                    "median": 0.0009598278545094662,
+                    "count": 2
+                  },
+                  "shares": {
+                    "median": 0.0010042704711315355,
+                    "count": 2
+                  },
+                  "saves": {
+                    "median": 0.0013007756894907142,
+                    "count": 2
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "period": "T11/2026",
+            "key": "2026-11",
+            "categories": [
+              {
+                "name": "Phân tích một mã cổ phiếu",
+                "count": 2,
+                "weak": true,
+                "young": 1,
+                "median": 16646,
+                "q25": 9369,
+                "q75": 23923,
+                "aboveChannel": 0.5,
+                "relMedian": 2.5939554561285,
+                "aboveLocal": 0.5,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.02754599328332598,
+                    "count": 2
+                  },
+                  "comments": {
+                    "median": 0.0012138120802078736,
+                    "count": 2
+                  },
+                  "shares": {
+                    "median": 0.002331470314261901,
+                    "count": 2
+                  },
+                  "saves": {
+                    "median": 0.0026373363729960287,
+                    "count": 2
+                  }
+                }
+              },
+              {
+                "name": "Kiến thức / mẹo đầu tư",
+                "count": 2,
+                "weak": true,
+                "young": 0,
+                "median": 8652,
+                "q25": 6478,
+                "q75": 10826,
+                "aboveChannel": 0.5,
+                "relMedian": 1.2128275938996957,
+                "aboveLocal": 0.5,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.0415716328281384,
+                    "count": 2
+                  },
+                  "comments": {
+                    "median": 0.0002315556191020875,
+                    "count": 2
+                  },
+                  "shares": {
+                    "median": 0.004982770946525593,
+                    "count": 2
+                  },
+                  "saves": {
+                    "median": 0.009100514726908778,
+                    "count": 2
+                  }
+                }
+              },
+              {
+                "name": "Thị trường & vĩ mô",
+                "count": 2,
+                "weak": true,
+                "young": 0,
+                "median": 1673,
+                "q25": 1552,
+                "q75": 1794,
+                "aboveChannel": 0,
+                "relMedian": 0.27750593365742066,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.028666801685176976,
+                    "count": 2
+                  },
+                  "comments": {
+                    "median": 0.0002610966057441253,
+                    "count": 2
+                  },
+                  "shares": {
+                    "median": 0.0026147976638148567,
+                    "count": 2
+                  },
+                  "saves": {
+                    "median": 0.003747493490830601,
+                    "count": 2
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "durationStrata": [
+          {
+            "stratum": "Kiến thức / mẹo đầu tư",
+            "comparable": false,
+            "durations": [
+              {
+                "name": "≤75s",
+                "count": 1,
+                "weak": true,
+                "young": 0,
+                "median": 13000,
+                "q25": 13000,
+                "q75": 13000,
+                "aboveChannel": 1,
+                "relMedian": 2.094578264722468,
+                "aboveLocal": 1,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.05061538461538462,
+                    "count": 1
+                  },
+                  "comments": {
+                    "median": 0.00023076923076923076,
+                    "count": 1
+                  },
+                  "shares": {
+                    "median": 0.0036923076923076922,
+                    "count": 1
+                  },
+                  "saves": {
+                    "median": 0.01123076923076923,
+                    "count": 1
+                  }
+                }
+              },
+              {
+                "name": "75s–1:30",
+                "count": 1,
+                "weak": true,
+                "young": 0,
+                "median": 73800,
+                "q25": 73800,
+                "q75": 73800,
+                "aboveChannel": 1,
+                "relMedian": 11.483700303431105,
+                "aboveLocal": 1,
+                "hits": 1,
+                "hitRate": 1,
+                "interactions": {
+                  "likes": {
+                    "median": 0.058509485094850947,
+                    "count": 1
+                  },
+                  "comments": {
+                    "median": 0.0005962059620596206,
+                    "count": 1
+                  },
+                  "shares": {
+                    "median": 0.006802168021680217,
+                    "count": 1
+                  },
+                  "saves": {
+                    "median": 0.02378048780487805,
+                    "count": 1
+                  }
+                }
+              },
+              {
+                "name": ">1:30",
+                "count": 1,
+                "weak": true,
+                "young": 0,
+                "median": 4304,
+                "q25": 4304,
+                "q75": 4304,
+                "aboveChannel": 0,
+                "relMedian": 0.3310769230769231,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.032527881040892194,
+                    "count": 1
+                  },
+                  "comments": {
+                    "median": 0.00023234200743494423,
+                    "count": 1
+                  },
+                  "shares": {
+                    "median": 0.006273234200743495,
+                    "count": 1
+                  },
+                  "saves": {
+                    "median": 0.006970260223048327,
+                    "count": 1
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "stratum": "Phân tích một mã cổ phiếu",
+            "comparable": false,
+            "durations": [
+              {
+                "name": "≤75s",
+                "count": 4,
+                "weak": true,
+                "young": 1,
+                "median": 5100.5,
+                "q25": 1960,
+                "q75": 201981.75,
+                "aboveChannel": 0.5,
+                "relMedian": 0.7260483808783096,
+                "aboveLocal": 0.5,
+                "hits": 1,
+                "hitRate": 0.25,
+                "interactions": {
+                  "likes": {
+                    "median": 0.02206441418095821,
+                    "count": 4
+                  },
+                  "comments": {
+                    "median": 0.0008129721672644995,
+                    "count": 4
+                  },
+                  "shares": {
+                    "median": 0.0013716184558136583,
+                    "count": 4
+                  },
+                  "saves": {
+                    "median": 0.0019349472896413517,
+                    "count": 4
+                  }
+                }
+              },
+              {
+                "name": "75s–80s",
+                "count": 3,
+                "weak": true,
+                "young": 0,
+                "median": 4744,
+                "q25": 4528.5,
+                "q75": 7327,
+                "aboveChannel": 0.6666666666666666,
+                "relMedian": 0.763806150378361,
+                "aboveLocal": 0.3333333333333333,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.016145307769929364,
+                    "count": 3
+                  },
+                  "comments": {
+                    "median": 0.00023185717597959656,
+                    "count": 3
+                  },
+                  "shares": {
+                    "median": 0.0009274287039183863,
+                    "count": 3
+                  },
+                  "saves": {
+                    "median": 0.001159285879897983,
+                    "count": 3
+                  }
+                }
+              },
+              {
+                "name": ">80s",
+                "count": 4,
+                "weak": true,
+                "young": 0,
+                "median": 21900,
+                "q25": 10433.5,
+                "q75": 131550,
+                "aboveChannel": 0.75,
+                "relMedian": 4.041322218867398,
+                "aboveLocal": 0.75,
+                "hits": 1,
+                "hitRate": 0.25,
+                "interactions": {
+                  "likes": {
+                    "median": 0.021192017259978425,
+                    "count": 4
+                  },
+                  "comments": {
+                    "median": 0.000708306660976564,
+                    "count": 4
+                  },
+                  "shares": {
+                    "median": 0.0015329214083662482,
+                    "count": 4
+                  },
+                  "saves": {
+                    "median": 0.0022048903054241132,
+                    "count": 4
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "stratum": "Thị trường & vĩ mô",
+            "comparable": false,
+            "durations": [
+              {
+                "name": "≤70s",
+                "count": 1,
+                "weak": true,
+                "young": 0,
+                "median": 1799,
+                "q25": 1799,
+                "q75": 1799,
+                "aboveChannel": 0,
+                "relMedian": 0.3792158516020236,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.014452473596442469,
+                    "count": 1
+                  },
+                  "comments": {
+                    "median": 0.0005558643690939411,
+                    "count": 1
+                  },
+                  "shares": {
+                    "median": 0.0016675931072818232,
+                    "count": 1
+                  },
+                  "saves": {
+                    "median": 0.0005558643690939411,
+                    "count": 1
+                  }
+                }
+              },
+              {
+                "name": "70s–85s",
+                "count": 2,
+                "weak": true,
+                "young": 0,
+                "median": 2182,
+                "q25": 1806.5,
+                "q75": 2557.5,
+                "aboveChannel": 0,
+                "relMedian": 0.36416578025684265,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.015903512953992532,
+                    "count": 2
+                  },
+                  "comments": {
+                    "median": 0.0006818956699624957,
+                    "count": 2
+                  },
+                  "shares": {
+                    "median": 0.0012186919468407287,
+                    "count": 2
+                  },
+                  "saves": {
+                    "median": 0.0024204675440772164,
+                    "count": 2
+                  }
+                }
+              },
+              {
+                "name": ">85s",
+                "count": 1,
+                "weak": true,
+                "young": 0,
+                "median": 1915,
+                "q25": 1915,
+                "q75": 1915,
+                "aboveChannel": 0,
+                "relMedian": 0.44493494423791824,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.0391644908616188,
+                    "count": 1
+                  },
+                  "comments": {
+                    "median": 0.0005221932114882506,
+                    "count": 1
+                  },
+                  "shares": {
+                    "median": 0.003133159268929504,
+                    "count": 1
+                  },
+                  "saves": {
+                    "median": 0.004699738903394256,
+                    "count": 1
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "timeline": [
+          {
+            "period": "T10/2026",
+            "key": "2026-10",
+            "count": 12,
+            "young": 0,
+            "median": 6426.5,
+            "hits": 3,
+            "hitRate": 0.25
+          },
+          {
+            "period": "T11/2026",
+            "key": "2026-11",
+            "count": 6,
+            "young": 1,
+            "median": 3198,
+            "hits": 0,
+            "hitRate": 0
+          }
+        ],
+        "pairs": [
+          {
+            "high": {
+              "id": "7703123815131368724",
+              "title": "Liệu còn chuyến tàu thứ 2 cho VSC? #creatorsearchinsights #cổphiếu #cafechung ",
+              "url": "https://www.tiktok.com/@cafechungcungminh/video/7703123815131368724",
+              "views": 31200,
+              "duration": 96,
+              "date": "2026-11-01",
+              "category": "Phân tích một mã cổ phiếu"
+            },
+            "low": {
+              "id": "7698293889710542086",
+              "title": "#creatorsearchinsights #cổphiếu #cafechung #fpt ",
+              "url": "https://www.tiktok.com/@cafechungcungminh/video/7698293889710542086",
+              "views": 3934,
+              "duration": 100,
+              "date": "2026-10-19",
+              "category": "Phân tích một mã cổ phiếu"
+            },
+            "ratio": 7.930859176410777,
+            "daysApart": 13.015648148148149
+          },
+          {
+            "high": {
+              "id": "7701680816157445396",
+              "title": "Các bạn đánh giá sao về mẹo này #creatorsearchinsights #cổphiếu #cafechung ",
+              "url": "https://www.tiktok.com/@cafechungcungminh/video/7701680816157445396",
+              "views": 73800,
+              "duration": 77,
+              "date": "2026-10-28",
+              "category": "Kiến thức / mẹo đầu tư"
+            },
+            "low": {
+              "id": "7706090045530246452",
+              "title": "Kiếm tiền từ cổ phiếu như thế nào? #creatorsearchinsights #cổphiếu #cafechung ",
+              "url": "https://www.tiktok.com/@cafechungcungminh/video/7706090045530246452",
+              "views": 13000,
+              "duration": 72,
+              "date": "2026-11-09",
+              "category": "Kiến thức / mẹo đầu tư"
+            },
+            "ratio": 5.676923076923077,
+            "daysApart": 11.882037037037037
+          },
+          {
+            "high": {
+              "id": "7700928215514205441",
+              "title": "Gánh cả Vn-index có khác #creatorsearchinsights #cổphiếu #cafechung ",
+              "url": "https://www.tiktok.com/@cafechungcungminh/video/7700928215514205441",
+              "views": 8109,
+              "duration": 74,
+              "date": "2026-10-26",
+              "category": "Phân tích một mã cổ phiếu"
+            },
+            "low": {
+              "id": "7697877464361536789",
+              "title": "Ai bắt đáy PNJ chắc khóc thét #pnj #cafechung #chungkhoan ",
+              "url": "https://www.tiktok.com/@cafechungcungminh/video/7697877464361536789",
+              "views": 1564,
+              "duration": 65,
+              "date": "2026-10-18",
+              "category": "Phân tích một mã cổ phiếu"
+            },
+            "ratio": 5.184782608695652,
+            "daysApart": 8.221145833333333
+          }
+        ]
+      },
+      "era": null,
+      "scope": {
+        "count": 18,
+        "medianViews": 4528.5,
+        "categories": [
+          {
+            "name": "Kiến thức / mẹo đầu tư",
+            "count": 3,
+            "median": 13000,
+            "mean": 30368,
+            "q25": 8652,
+            "q75": 43400,
+            "relMedian": 2.094578264722468,
+            "relQ25": 1.2128275938996957,
+            "relQ75": 6.789139284076787
+          },
+          {
+            "name": "Phân tích một mã cổ phiếu",
+            "count": 11,
+            "median": 8109,
+            "mean": 117696.90909090909,
+            "q25": 4123.5,
+            "q75": 21900,
+            "relMedian": 1.1067285382830627,
+            "relQ25": 0.7174667568199282,
+            "relQ75": 4.041322218867398
+          },
+          {
+            "name": "Thị trường & vĩ mô",
+            "count": 4,
+            "median": 1857,
+            "mean": 2019.5,
+            "q25": 1707,
+            "q75": 2169.5,
+            "relMedian": 0.41207539791997094,
+            "relQ25": 0.3119311194707485,
+            "relQ75": 0.4882648675376292
+          }
+        ],
+        "note": "timeBuckets, weekdays, durations, tags and scope.categories only cover the current format when era is set"
+      },
+      "timeBuckets": [
+        {
+          "name": "Sáng (5–11h)",
+          "count": 0,
+          "median": 0,
+          "mean": 0,
+          "q25": 0,
+          "q75": 0,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "Trưa (11–14h)",
+          "count": 1,
+          "median": 1564,
+          "mean": 1564,
+          "q25": 1564,
+          "q75": 1564,
+          "relMedian": 0.3453682234735564,
+          "relQ25": 0.3453682234735564,
+          "relQ75": 0.3453682234735564
+        },
+        {
+          "name": "Chiều (14–18h)",
+          "count": 12,
+          "median": 4119,
+          "mean": 107243.08333333333,
+          "q25": 2047.75,
+          "q75": 17550,
+          "relMedian": 0.7434874821278986,
+          "relQ25": 0.3671811194707485,
+          "relQ75": 2.827680657375332
+        },
+        {
+          "name": "Tối (18–23h)",
+          "count": 5,
+          "median": 9910,
+          "mean": 21073.4,
+          "q25": 4744,
+          "q75": 12600,
+          "relMedian": 2.297704613957802,
+          "relQ25": 0.763806150378361,
+          "relQ75": 3.055656602400873
+        },
+        {
+          "name": "Đêm (23–5h)",
+          "count": 0,
+          "median": 0,
+          "mean": 0,
+          "q25": 0,
+          "q75": 0,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        }
+      ],
+      "categories": [
+        {
+          "name": "Kiến thức / mẹo đầu tư",
+          "count": 3,
+          "median": 13000,
+          "mean": 30368,
+          "q25": 8652,
+          "q75": 43400,
+          "relMedian": 2.094578264722468,
+          "relQ25": 1.2128275938996957,
+          "relQ75": 6.789139284076787
+        },
+        {
+          "name": "Phân tích một mã cổ phiếu",
+          "count": 11,
+          "median": 8109,
+          "mean": 117696.90909090909,
+          "q25": 4123.5,
+          "q75": 21900,
+          "relMedian": 1.1067285382830627,
+          "relQ25": 0.7174667568199282,
+          "relQ75": 4.041322218867398
+        },
+        {
+          "name": "Thị trường & vĩ mô",
+          "count": 4,
+          "median": 1857,
+          "mean": 2019.5,
+          "q25": 1707,
+          "q75": 2169.5,
+          "relMedian": 0.41207539791997094,
+          "relQ25": 0.3119311194707485,
+          "relQ75": 0.4882648675376292
+        }
+      ],
+      "months": [
+        {
+          "name": "2026-10",
+          "count": 12,
+          "median": 6426.5,
+          "mean": 111658.83333333333,
+          "q25": 3683.75,
+          "q75": 27900,
+          "relMedian": 0.9877244325510488,
+          "relQ25": 0.6579091818053121,
+          "relQ75": 5.1626675276584315
+        },
+        {
+          "name": "2026-11",
+          "count": 6,
+          "median": 3198,
+          "mean": 8990.333333333334,
+          "q25": 1959.25,
+          "q75": 10826,
+          "relMedian": 0.38800593365742064,
+          "relQ25": 0.20346153846153847,
+          "relQ75": 1.6821674346013307
+        }
+      ],
+      "weekdays": [
+        {
+          "name": "T2",
+          "count": 5,
+          "median": 8109,
+          "mean": 7851.4,
+          "q25": 4304,
+          "q75": 9910,
+          "relMedian": 1.1067285382830627,
+          "relQ25": 0.868720326819035,
+          "relQ75": 2.094578264722468
+        },
+        {
+          "name": "T3",
+          "count": 1,
+          "median": 2933,
+          "mean": 2933,
+          "q25": 2933,
+          "q75": 2933,
+          "relMedian": 0.6182546374367622,
+          "relQ25": 0.6182546374367622,
+          "relQ75": 0.6182546374367622
+        },
+        {
+          "name": "T4",
+          "count": 5,
+          "median": 2092,
+          "mean": 16773.2,
+          "q25": 1799,
+          "q75": 4744,
+          "relMedian": 0.3792158516020236,
+          "relQ25": 0.16092307692307692,
+          "relQ75": 0.763806150378361
+        },
+        {
+          "name": "T5",
+          "count": 1,
+          "median": 4313,
+          "mean": 4313,
+          "q25": 4313,
+          "q75": 4313,
+          "relMedian": 0.6711273632614954,
+          "relQ25": 0.6711273632614954,
+          "relQ75": 0.6711273632614954
+        },
+        {
+          "name": "T6",
+          "count": 2,
+          "median": 217257.5,
+          "mean": 217257.5,
+          "q25": 109586.25,
+          "q75": 324928.75,
+          "relMedian": 11.227580804943504,
+          "relQ25": 5.836257874590711,
+          "relQ75": 16.618903735296296
+        },
+        {
+          "name": "T7",
+          "count": 1,
+          "median": 783600,
+          "mean": 783600,
+          "q25": 783600,
+          "q75": 783600,
+          "relMedian": 165.177065767285,
+          "relQ25": 165.177065767285,
+          "relQ75": 165.177065767285
+        },
+        {
+          "name": "CN",
+          "count": 3,
+          "median": 12600,
+          "mean": 15121.333333333334,
+          "q25": 7082,
+          "q75": 21900,
+          "relMedian": 3.055656602400873,
+          "relQ25": 1.700512412937215,
+          "relQ75": 4.041322218867398
+        }
+      ],
+      "durations": [
+        {
+          "name": "46–60s",
+          "count": 2,
+          "median": 392846,
+          "mean": 392846,
+          "q25": 197469,
+          "q75": 588223,
+          "relMedian": 82.66899442210405,
+          "relQ25": 41.41495874951356,
+          "relQ75": 123.92303009469454
+        },
+        {
+          "name": "61–90s",
+          "count": 11,
+          "median": 4744,
+          "mean": 12200.272727272728,
+          "q25": 2366,
+          "q75": 11255,
+          "relMedian": 0.763806150378361,
+          "relQ25": 0.4987352445193929,
+          "relQ75": 2.196141439340135
+        },
+        {
+          "name": ">90s",
+          "count": 5,
+          "median": 4304,
+          "mean": 94790.6,
+          "q25": 3934,
+          "q75": 31200,
+          "relMedian": 0.868720326819035,
+          "relQ25": 0.44493494423791824,
+          "relQ75": 5.026987835333924
+        }
+      ],
+      "tags": [
+        {
+          "name": "#cafechung",
+          "count": 18,
+          "median": 4528.5,
+          "mean": 77436,
+          "q25": 2302.25,
+          "q75": 12900,
+          "relMedian": 0.816263238598698,
+          "relQ25": 0.39564562476099724,
+          "relQ75": 2.866168605290105
+        },
+        {
+          "name": "#creatorsearchinsights",
+          "count": 17,
+          "median": 4744,
+          "mean": 81899.05882352941,
+          "q25": 2933,
+          "q75": 13000,
+          "relMedian": 0.868720326819035,
+          "relQ25": 0.44493494423791824,
+          "relQ75": 3.055656602400873
+        },
+        {
+          "name": "#cổphiếu",
+          "count": 16,
+          "median": 6211,
+          "mean": 86721.25,
+          "q25": 2722.75,
+          "q75": 17550,
+          "relMedian": 0.9877244325510488,
+          "relQ25": 0.4285051710789446,
+          "relQ75": 3.5484894106341356
+        },
+        {
+          "name": "#vin",
+          "count": 2,
+          "median": 8456.5,
+          "mean": 8456.5,
+          "q25": 6384.75,
+          "q75": 10528.25,
+          "relMedian": 1.8633919828311842,
+          "relQ25": 1.2672596730463397,
+          "relQ75": 2.459524292616029
+        },
+        {
+          "name": "#vhm",
+          "count": 2,
+          "median": 7327,
+          "mean": 7327,
+          "q25": 6035.5,
+          "q75": 8618.5,
+          "relMedian": 1.5307553821680813,
+          "relQ25": 1.1472807662732212,
+          "relQ75": 1.9142299980629418
+        },
+        {
+          "name": "#pnj",
+          "count": 1,
+          "median": 1564,
+          "mean": 1564,
+          "q25": 1564,
+          "q75": 1564,
+          "relMedian": 0.3453682234735564,
+          "relQ25": 0.3453682234735564,
+          "relQ75": 0.3453682234735564
+        },
+        {
+          "name": "#chungkhoan",
+          "count": 1,
+          "median": 1564,
+          "mean": 1564,
+          "q25": 1564,
+          "q75": 1564,
+          "relMedian": 0.3453682234735564,
+          "relQ25": 0.3453682234735564,
+          "relQ75": 0.3453682234735564
+        },
+        {
+          "name": "#fpt",
+          "count": 1,
+          "median": 3934,
+          "mean": 3934,
+          "q25": 3934,
+          "q75": 3934,
+          "relMedian": 0.868720326819035,
+          "relQ25": 0.868720326819035,
+          "relQ75": 0.868720326819035
+        },
+        {
+          "name": "#cổphiếuchứngkhoán",
+          "count": 1,
+          "median": 4744,
+          "mean": 4744,
+          "q25": 4744,
+          "q75": 4744,
+          "relMedian": 0.763806150378361,
+          "relQ25": 0.763806150378361,
+          "relQ75": 0.763806150378361
+        }
+      ],
+      "styles": [
+        {
+          "id": "7700155703234678017",
+          "duration": 51.478005,
+          "language": "vi",
+          "wpm": 235.6687898089172,
+          "speechCoverage": 0.9149538720469063,
+          "hook": "5 năm trước, bạn bỏ 100 triệu vào Vinamil, cổ phiếu",
+          "changes": 1,
+          "secPerChange": 25.7390025,
+          "cuts": 0,
+          "changesFirst3s": 0,
+          "firstChangeAt": 45.5,
+          "lufs": -16.1,
+          "motion": {
+            "beats": 11,
+            "beatsPerMin": 12.82,
+            "medianBeat": 0.79,
+            "beatsFirst3s": 0,
+            "entrances": {
+              "cut": 4,
+              "slide-right": 1,
+              "draw-down": 2,
+              "draw-right": 2,
+              "draw-up": 1,
+              "fade": 1
+            },
+            "caption": null,
+            "firstBeats": [
+              {
+                "t": 0,
+                "at": "5",
+                "fx": "cut"
+              },
+              {
+                "t": 43.87,
+                "at": "họa,",
+                "fx": "slide-right"
+              },
+              {
+                "t": 44.27,
+                "at": "liệu",
+                "fx": "cut"
+              },
+              {
+                "t": 45.07,
+                "at": "phải",
+                "fx": "draw-down"
+              },
+              {
+                "t": 45.5,
+                "at": "khuyến",
+                "fx": "cut"
+              },
+              {
+                "t": 46.27,
+                "at": "tư.",
+                "fx": "draw-right"
+              },
+              {
+                "t": 48.4,
+                "at": "biến",
+                "fx": "draw-up"
+              },
+              {
+                "t": 49.53,
+                "at": "năng",
+                "fx": "fade"
+              }
+            ]
+          },
+          "title": "Giải thích về VNM trong 1 phút #creatorsearchinsights #cổphiếu #cafechung ",
+          "views": 783600,
+          "folder": "tiktok/cafechungcungminh/style/7700155703234678017"
+        },
+        {
+          "id": "7702380012628020500",
+          "duration": 122.229002,
+          "language": "vi",
+          "wpm": 219.77276581312532,
+          "speechCoverage": 0.9649101119225371,
+          "hook": "Có người từng khuyên tôi mua FPT ở giá 145.000",
+          "changes": 1,
+          "secPerChange": 61.114501,
+          "cuts": 0,
+          "changesFirst3s": 0,
+          "firstChangeAt": 33.125,
+          "lufs": -16.1,
+          "motion": {
+            "beats": 14,
+            "beatsPerMin": 6.87,
+            "medianBeat": 0.6,
+            "beatsFirst3s": 0,
+            "entrances": {
+              "cut": 4,
+              "slide-left": 2,
+              "pop": 3,
+              "slide-right": 3,
+              "draw-down": 1,
+              "drop": 1
+            },
+            "caption": null,
+            "firstBeats": [
+              {
+                "t": 0,
+                "at": "Có",
+                "fx": "cut"
+              },
+              {
+                "t": 10.32,
+                "at": "trường",
+                "fx": "slide-left"
+              },
+              {
+                "t": 31.17,
+                "at": "em",
+                "fx": "cut"
+              },
+              {
+                "t": 31.44,
+                "at": "mua",
+                "fx": "pop"
+              },
+              {
+                "t": 31.92,
+                "at": "chắc",
+                "fx": "slide-left"
+              },
+              {
+                "t": 32.53,
+                "at": "Tôi",
+                "fx": "slide-right"
+              },
+              {
+                "t": 33.13,
+                "at": "cãi",
+                "fx": "cut"
+              },
+              {
+                "t": 33.48,
+                "at": "về",
+                "fx": "draw-down"
+              }
+            ]
+          },
+          "title": "Phượng hoàng tái sinh FPT #creatorsearchinsights #cổphiếu #cafechung ",
+          "views": 432600,
+          "folder": "tiktok/cafechungcungminh/style/7702380012628020500"
+        },
+        {
+          "id": "7701680816157445396",
+          "duration": 77.09,
+          "language": "vi",
+          "wpm": 251.39220365950683,
+          "speechCoverage": 0.97833700869114,
+          "hook": "Mẹo nhìn động thái của Ngân hàng Nhà nước để dự đoán hướng đi của thị trường chứng",
+          "changes": 1,
+          "secPerChange": 38.545,
+          "cuts": 0,
+          "changesFirst3s": 0,
+          "firstChangeAt": 50.916667,
+          "lufs": -16.1,
+          "motion": {
+            "beats": 11,
+            "beatsPerMin": 8.56,
+            "medianBeat": 0.44,
+            "beatsFirst3s": 0,
+            "entrances": {
+              "cut": 4,
+              "slide-left": 4,
+              "slide-right": 2,
+              "fade": 1
+            },
+            "caption": null,
+            "firstBeats": [
+              {
+                "t": 0,
+                "at": "Mẹo",
+                "fx": "cut"
+              },
+              {
+                "t": 46.73,
+                "at": "nước",
+                "fx": "slide-left"
+              },
+              {
+                "t": 48.73,
+                "at": "tỷ",
+                "fx": "slide-left"
+              },
+              {
+                "t": 49.2,
+                "at": "phiên",
+                "fx": "cut"
+              },
+              {
+                "t": 49.53,
+                "at": "phiên",
+                "fx": "slide-right"
+              },
+              {
+                "t": 49.87,
+                "at": "trường",
+                "fx": "fade"
+              },
+              {
+                "t": 50.27,
+                "at": "chứng",
+                "fx": "cut"
+              },
+              {
+                "t": 50.6,
+                "at": "khoán",
+                "fx": "slide-left"
+              }
+            ]
+          },
+          "title": "Các bạn đánh giá sao về mẹo này #creatorsearchinsights #cổphiếu #cafechung ",
+          "views": 73800,
+          "folder": "tiktok/cafechungcungminh/style/7701680816157445396"
+        },
+        {
+          "id": "7703123815131368724",
+          "duration": 96.431995,
+          "language": "vi",
+          "wpm": 257.25,
+          "speechCoverage": 0.8296001757507973,
+          "hook": "Có một cổ phiếu từng khiến rất nhiều người tiếc nuối vì không mua,",
+          "changes": 1,
+          "secPerChange": 48.2159975,
+          "cuts": 0,
+          "changesFirst3s": 1,
+          "firstChangeAt": 0.541667,
+          "lufs": -15.2,
+          "motion": {
+            "beats": 9,
+            "beatsPerMin": 5.6,
+            "medianBeat": 0.5,
+            "beatsFirst3s": 2,
+            "entrances": {
+              "cut": 3,
+              "slide-right": 4,
+              "slide-left": 1,
+              "draw-up": 1
+            },
+            "caption": null,
+            "firstBeats": [
+              {
+                "t": 0,
+                "at": "Có",
+                "fx": "cut"
+              },
+              {
+                "t": 0.27,
+                "at": "cổ",
+                "fx": "cut"
+              },
+              {
+                "t": 0.54,
+                "at": "từng",
+                "fx": "cut"
+              },
+              {
+                "t": 92.4,
+                "at": "mình",
+                "fx": "slide-right"
+              },
+              {
+                "t": 93.07,
+                "at": "bạn",
+                "fx": "slide-right"
+              },
+              {
+                "t": 93.33,
+                "at": "đang",
+                "fx": "slide-right"
+              },
+              {
+                "t": 94.27,
+                "at": "đang",
+                "fx": "slide-right"
+              },
+              {
+                "t": 94.6,
+                "at": "mua",
+                "fx": "slide-left"
+              }
+            ]
+          },
+          "title": "Liệu còn chuyến tàu thứ 2 cho VSC? #creatorsearchinsights #cổphiếu #cafechung ",
+          "views": 31200,
+          "folder": "tiktok/cafechungcungminh/style/7703123815131368724"
+        },
+        {
+          "id": "7706090045530246452",
+          "duration": 72.887007,
+          "language": "vi",
+          "wpm": 246.34420697412824,
+          "speechCoverage": 0.9757568999917915,
+          "hook": "Bạn nghĩ rằng đầu tư chứng khoán chỉ đơn giản là mua cổ phiếu khi giá",
+          "changes": 0,
+          "secPerChange": 72.887007,
+          "cuts": 0,
+          "changesFirst3s": 0,
+          "firstChangeAt": null,
+          "lufs": -15.3,
+          "motion": {
+            "beats": 5,
+            "beatsPerMin": 4.13,
+            "medianBeat": 3.86,
+            "beatsFirst3s": 0,
+            "entrances": {
+              "cut": 1,
+              "slide-left": 1,
+              "draw-right": 1,
+              "slide-right": 1,
+              "draw-up": 1
+            },
+            "caption": null,
+            "firstBeats": [
+              {
+                "t": 0,
+                "at": "Bạn",
+                "fx": "cut"
+              },
+              {
+                "t": 3.53,
+                "at": "chờ",
+                "fx": "slide-left"
+              },
+              {
+                "t": 66.4,
+                "at": "chỉ",
+                "fx": "draw-right"
+              },
+              {
+                "t": 70.6,
+                "at": "gặp",
+                "fx": "slide-right"
+              },
+              {
+                "t": 72.13,
+                "at": "tư.",
+                "fx": "draw-up"
+              }
+            ]
+          },
+          "title": "Kiếm tiền từ cổ phiếu như thế nào? #creatorsearchinsights #cổphiếu #cafechung ",
+          "views": 13000,
+          "folder": "tiktok/cafechungcungminh/style/7706090045530246452"
+        }
+      ],
+      "top": [
+        {
+          "id": "7700155703234678017",
+          "title": "Giải thích về VNM trong 1 phút #creatorsearchinsights #cổphiếu #cafechung ",
+          "url": "https://www.tiktok.com/@cafechungcungminh/video/7700155703234678017",
+          "views": 783600,
+          "er": 0.024002041858090864,
+          "duration": 51,
+          "date": "2026-10-24",
+          "time": "15:56",
+          "category": "Phân tích một mã cổ phiếu",
+          "ratio": 173.03742961245445
+        },
+        {
+          "id": "7702380012628020500",
+          "title": "Phượng hoàng tái sinh FPT #creatorsearchinsights #cổphiếu #cafechung ",
+          "url": "https://www.tiktok.com/@cafechungcungminh/video/7702380012628020500",
+          "views": 432600,
+          "er": 0.032905686546463246,
+          "duration": 122,
+          "date": "2026-10-30",
+          "time": "15:48",
+          "category": "Phân tích một mã cổ phiếu",
+          "ratio": 95.52832063597218
+        },
+        {
+          "id": "7701680816157445396",
+          "title": "Các bạn đánh giá sao về mẹo này #creatorsearchinsights #cổphiếu #cafechung ",
+          "url": "https://www.tiktok.com/@cafechungcungminh/video/7701680816157445396",
+          "views": 73800,
+          "er": 0.08968834688346883,
+          "duration": 77,
+          "date": "2026-10-28",
+          "time": "18:35",
+          "category": "Kiến thức / mẹo đầu tư",
+          "ratio": 16.296787015568068
+        },
+        {
+          "id": "7703123815131368724",
+          "title": "Liệu còn chuyến tàu thứ 2 cho VSC? #creatorsearchinsights #cổphiếu #cafechung ",
+          "url": "https://www.tiktok.com/@cafechungcungminh/video/7703123815131368724",
+          "views": 31200,
+          "er": 0.03782051282051282,
+          "duration": 96,
+          "date": "2026-11-01",
+          "time": "15:54",
+          "category": "Phân tích một mã cổ phiếu",
+          "ratio": 6.889698575687314
+        },
+        {
+          "id": "7706090045530246452",
+          "title": "Kiếm tiền từ cổ phiếu như thế nào? #creatorsearchinsights #cổphiếu #cafechung ",
+          "url": "https://www.tiktok.com/@cafechungcungminh/video/7706090045530246452",
+          "views": 13000,
+          "er": 0.06576923076923077,
+          "duration": 72,
+          "date": "2026-11-09",
+          "time": "15:45",
+          "category": "Kiến thức / mẹo đầu tư",
+          "ratio": 2.870707739869714
+        },
+        {
+          "id": "7697987952848145685",
+          "title": "#creatorsearchinsights #cổphiếu #cafechung #vin ",
+          "url": "https://www.tiktok.com/@cafechungcungminh/video/7697987952848145685",
+          "views": 12600,
+          "er": 0.01984126984126984,
+          "duration": 82,
+          "date": "2026-10-18",
+          "time": "19:44",
+          "category": "Phân tích một mã cổ phiếu",
+          "ratio": 2.782378270950646
+        },
+        {
+          "id": "7698344579770240262",
+          "title": "Lãi suất tăng cứ tăng, VHM vẫn bán được nhà #creatorsearchinsights #cổphiếu #cafechung #VHM ",
+          "url": "https://www.tiktok.com/@cafechungcungminh/video/7698344579770240262",
+          "views": 9910,
+          "er": 0.01917255297679112,
+          "duration": 77,
+          "date": "2026-10-19",
+          "time": "18:48",
+          "category": "Phân tích một mã cổ phiếu",
+          "ratio": 2.188362592469913
+        },
+        {
+          "id": "7700928215514205441",
+          "title": "Gánh cả Vn-index có khác #creatorsearchinsights #cổphiếu #cafechung ",
+          "url": "https://www.tiktok.com/@cafechungcungminh/video/7700928215514205441",
+          "views": 8109,
+          "er": 0.020717721050684423,
+          "duration": 74,
+          "date": "2026-10-26",
+          "time": "17:54",
+          "category": "Phân tích một mã cổ phiếu",
+          "ratio": 1.7906591586618086
+        },
+        {
+          "id": "7699090033105521941",
+          "title": "#creatorsearchinsights #cổphiếuchứngkhoán #cafechung #VHM ",
+          "url": "https://www.tiktok.com/@cafechungcungminh/video/7699090033105521941",
+          "views": 4744,
+          "er": 0.01812816188870152,
+          "duration": 77,
+          "date": "2026-10-21",
+          "time": "19:01",
+          "category": "Phân tích một mã cổ phiếu",
+          "ratio": 1.047587501380148
+        },
+        {
+          "id": "7699451700351995156",
+          "title": "Vin thì cứ vài cây trần là đẹp #creatorsearchinsights #cổphiếu #cafechung #vin ",
+          "url": "https://www.tiktok.com/@cafechungcungminh/video/7699451700351995156",
+          "views": 4313,
+          "er": 0.01878043125434732,
+          "duration": 76,
+          "date": "2026-10-22",
+          "time": "18:24",
+          "category": "Phân tích một mã cổ phiếu",
+          "ratio": 0.952412498619852
+        }
+      ]
+    }
+  ]
+}

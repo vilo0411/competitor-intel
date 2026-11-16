@@ -1,0 +1,222 @@
+{
+  "source": "video.mp4",
+  "width": 1080,
+  "height": 1920,
+  "duration": 72.89,
+  "analysisFps": 15,
+  "analysisSize": [
+    180,
+    320
+  ],
+  "boxUnits": "fraction of frame [x, y, w, h]",
+  "captionTrack": null,
+  "shots": [
+    {
+      "index": 1,
+      "start": 0,
+      "end": 72.6,
+      "startWord": "Bạn",
+      "fps": 15,
+      "layer": null,
+      "static": [],
+      "events": [
+        {
+          "t0": 0.07,
+          "t1": 72.27,
+          "box": [
+            0.089,
+            0.838,
+            0.8,
+            0.1
+          ],
+          "area": 0.03,
+          "kind": "temporary",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#5a596d",
+          "word": "Bạn"
+        },
+        {
+          "t0": 0.13,
+          "t1": 0.4,
+          "box": [
+            0.8,
+            0.038,
+            0.133,
+            0.025
+          ],
+          "area": 0.003,
+          "kind": "appear",
+          "easing": "linear",
+          "sweep": null,
+          "slide": null,
+          "scale": null,
+          "colour": "#c1cabe",
+          "word": "nghĩ"
+        },
+        {
+          "t0": 3.53,
+          "t1": 58.93,
+          "box": [
+            0.111,
+            0.85,
+            0.844,
+            0.113
+          ],
+          "area": 0.033,
+          "kind": "change",
+          "easing": "ease_out",
+          "sweep": null,
+          "slide": "left",
+          "scale": null,
+          "colour": "#161429",
+          "word": "chờ"
+        },
+        {
+          "t0": 66.4,
+          "t1": 67.4,
+          "box": [
+            0.067,
+            0.038,
+            0.711,
+            0.363
+          ],
+          "area": 0.006,
+          "kind": "change",
+          "easing": "ease_in_out",
+          "sweep": "right",
+          "slide": null,
+          "scale": null,
+          "colour": "#1c1821",
+          "word": "chỉ"
+        },
+        {
+          "t0": 70.6,
+          "t1": 72.27,
+          "box": [
+            0,
+            0.613,
+            1,
+            0.138
+          ],
+          "area": 0.063,
+          "kind": "appear",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#514c50",
+          "word": "gặp"
+        },
+        {
+          "t0": 71.93,
+          "t1": 72.27,
+          "box": [
+            0,
+            0.8,
+            1,
+            0.013
+          ],
+          "area": 0.013,
+          "kind": "disappear",
+          "easing": "ease_in_out",
+          "sweep": null,
+          "slide": "right",
+          "scale": null,
+          "colour": "#0a091e",
+          "word": "tư."
+        },
+        {
+          "t0": 72.13,
+          "t1": 72.6,
+          "box": [
+            0,
+            0.625,
+            1,
+            0.138
+          ],
+          "area": 0.049,
+          "kind": "change",
+          "easing": "linear",
+          "sweep": "up",
+          "slide": null,
+          "scale": null,
+          "colour": "#3c3846",
+          "word": "tư."
+        }
+      ],
+      "sequences": []
+    }
+  ],
+  "stickerBeats": {
+    "beats": [
+      {
+        "t": 0,
+        "at": "Bạn",
+        "fx": "cut",
+        "boxes": [],
+        "shot": 1
+      },
+      {
+        "t": 3.53,
+        "at": "chờ",
+        "fx": "slide-left",
+        "boxes": [
+          [
+            0.111,
+            0.85,
+            0.844,
+            0.113
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 66.4,
+        "at": "chỉ",
+        "fx": "draw-right",
+        "boxes": [
+          [
+            0.067,
+            0.038,
+            0.711,
+            0.363
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 70.6,
+        "at": "gặp",
+        "fx": "slide-right",
+        "boxes": [
+          [
+            0,
+            0.613,
+            1,
+            0.138
+          ]
+        ],
+        "shot": 1
+      },
+      {
+        "t": 72.13,
+        "at": "tư.",
+        "fx": "draw-up",
+        "boxes": [
+          [
+            0,
+            0.625,
+            1,
+            0.138
+          ]
+        ],
+        "shot": 1
+      }
+    ],
+    "medianInterval": 3.86,
+    "perMinute": 4.13
+  }
+}

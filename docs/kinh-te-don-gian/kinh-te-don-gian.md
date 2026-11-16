@@ -1,6 +1,6 @@
 # Kinh Tế Đơn Giản — phân tích đối thủ
 
-Cập nhật 2026-11-12 · TikTok: @kinhtedongian.official. Biểu đồ xem trong `kinh-te-don-gian.html`.
+Cập nhật 2026-11-16 · TikTok: @kinhtedongian.official. Biểu đồ xem trong `kinh-te-don-gian.html`.
 
 ## Nhận định
 
@@ -41,34 +41,34 @@ Cập nhật 2026-11-12 · TikTok: @kinhtedongian.official. Biểu đồ xem tro
 
 ### @kinhtedongian.official
 
-- 262k follower · 300 video phân tích (2026-05-23 → 2026-11-11) · tổng 5,6 tr view
-- View trung vị 1,2k, trung bình 19k, cao nhất 1,2 tr · tương tác trung vị 3,2%
-- 12,2 video/tuần · 86 video trong 30 ngày qua · độ dài trung vị 58.5s · 80,7% dùng âm thanh gốc
+- 272k follower · 300 video phân tích (2026-05-27 → 2026-11-16) · tổng 6,5 tr view
+- View trung vị 1,4k, trung bình 22k, cao nhất 1,3 tr · tương tác trung vị 3,3%
+- 12,2 video/tuần · 97 video trong 30 ngày qua · độ dài trung vị 60s · 82,3% dùng âm thanh gốc
 
 **Điểm chính**
 
-- Không loại nội dung nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 2,2k–5,4k)
-- **31/300 video** đạt từ 12k view (10× trung vị kênh) và mang về **91,6%** tổng view; top 3 chiếm 42,6%
-- Kênh **đổi format từ 07/10/2026** (độ dài trung vị 43s → 3:59): view trung vị 893 trước đó → 2,5k sau đó; chưa so ở cùng tuổi bài
-- Số hit (từ 12k view) theo tuần gần nhất: **12/26 → 4/24 → 0/15 → 1/8** (kỳ cuối có 8 bài dưới 7 ngày tuổi, còn tích view)
-- Đăng 12,2 video/tuần; tháng dày nhất T6/26 có 129 video; 30 ngày qua: 86 video
-- Không khung giờ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 2k–5,3k)
-- Không thứ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 1,3k–9,5k)
-- **>6 phút** nổi trội: gấp 3,3× các bài đăng cùng thời, nhóm kế tiếp (4–6 phút) 1,6×
-- Không hashtag đủ mẫu nào đi kèm view cao hơn hẳn trung vị; không chứng minh hashtag làm tăng view
+- Không loại nội dung nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 2,3k–6,1k)
+- **32/300 video** đạt từ 14k view (10× trung vị kênh) và mang về **92,3%** tổng view; top 3 chiếm 40,9%
+- Kênh **đổi format từ 07/10/2026** (độ dài trung vị 42s → 4:04): view trung vị 903 trước đó → 2,5k sau đó; chưa so ở cùng tuổi bài
+- Số hit (từ 14k view) theo tuần gần nhất: **4/24 → 0/15 → 3/23 → 0/3** (kỳ cuối có 3 bài dưới 7 ngày tuổi, còn tích view)
+- Đăng 12,2 video/tuần; tháng dày nhất T6/26 có 129 video; 30 ngày qua: 97 video
+- Không khung giờ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 1,6k–4,3k)
+- Không thứ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 1,7k–5,4k)
+- Không mức độ dài nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 1,9k–4,4k)
+- Hashtag đi kèm view cao hơn hẳn trung vị: **#tintuc**; không chứng minh hashtag làm tăng view
 
 | # | Video | View | Tương tác | Giây | Ngày | Loại |
 |---|---|---|---|---|---|---|
-| 1 | [ĐẶC VỤ NON SON #nonson #kinhtedongian #kinhtegithe #tintuc](https://www.tiktok.com/@kinhtedongian.official/video/7697093977106926868) | 1,2 tr | 11,1% | 462 | 2026-10-16 | Giải mã mô hình kinh doanh |
-| 2 | [TIỆM KÍNH VẮNG KHÁCH VẪN SỐNG KHỎE  #kinhtedongian #kinhtegi](https://www.tiktok.com/@kinhtedongian.official/video/7697963191405432084) | 713k | 6,6% | 355 | 2026-10-18 | Giải mã mô hình kinh doanh |
-| 3 | [NẾU MỘT NGÀY BẠN CÓ 1000 TỶ TIỀN MẶT TRÊN TRỜI RƠI XUỐNG ? #](https://www.tiktok.com/@kinhtedongian.official/video/7698381666473315604) | 469k | 8,7% | 586 | 2026-10-19 | Tội phạm & mặt tối tài chính |
-| 4 | [CƠN SÓNG LÀM GIÀU TIẾP THEO MỌI NGƯỜI NGHỈ LÀ GÌ AD ĐI LÀM T](https://www.tiktok.com/@kinhtedongian.official/video/7699120393377828116) | 388k | 8,5% | 339 | 2026-10-21 | Khái niệm tài chính |
-| 5 | [Tại sao các Giám đốc mua xe sang 5 tỷ luôn đứng tên Công ty ](https://www.tiktok.com/@kinhtedongian.official/video/7702123229443280148) | 331k | 4,5% | 245 | 2026-10-29 | Khái niệm tài chính |
-| 6 | [Chuỗi nhà thuốc quá quen với mọi gia đình #kinhtedongian #ki](https://www.tiktok.com/@kinhtedongian.official/video/7697594989961809172) | 213k | 5,4% | 278 | 2026-10-17 | Giải mã mô hình kinh doanh |
-| 7 | [tại sao nhiều quán vắng khai doanh thu 10 tỷ ? #kinhtedongia](https://www.tiktok.com/@kinhtedongian.official/video/7702387339212999937) | 183k | 3,8% | 184 | 2026-10-30 | Tội phạm & mặt tối tài chính |
-| 8 | [Tiền bẩn từ cb được rửa như thế nào ? #kinhtedongian #kinhte](https://www.tiktok.com/@kinhtedongian.official/video/7698328391631654165) | 153k | 7,2% | 544 | 2026-10-19 | Tội phạm & mặt tối tài chính |
-| 9 | [BUÔN VE CHAI ĐỒNG NÁT VUA CỦA MỌI NGHỀ #kinhtedongian #kinht](https://www.tiktok.com/@kinhtedongian.official/video/7699863674399247636) | 152k | 8,2% | 267 | 2026-10-23 | Giải mã mô hình kinh doanh |
-| 10 | [Đại tá Phạm Thanh Tùng - Phó Giám đốc Công an tỉnh Vĩnh Long](https://www.tiktok.com/@kinhtedongian.official/video/7654930194410523924) | 130k | 0,7% | 59 | 2026-06-24 | Tin thời sự / chính trị |
+| 1 | [ĐẶC VỤ NON SON #nonson #kinhtedongian #kinhtegithe #tintuc](https://www.tiktok.com/@kinhtedongian.official/video/7697093977106926868) | 1,3 tr | 11,1% | 462 | 2026-10-16 | Giải mã mô hình kinh doanh |
+| 2 | [TIỆM KÍNH VẮNG KHÁCH VẪN SỐNG KHỎE  #kinhtedongian #kinhtegi](https://www.tiktok.com/@kinhtedongian.official/video/7697963191405432084) | 886k | 6,3% | 355 | 2026-10-18 | Giải mã mô hình kinh doanh |
+| 3 | [NẾU MỘT NGÀY BẠN CÓ 1000 TỶ TIỀN MẶT TRÊN TRỜI RƠI XUỐNG ? #](https://www.tiktok.com/@kinhtedongian.official/video/7698381666473315604) | 477k | 8,6% | 586 | 2026-10-19 | Tội phạm & mặt tối tài chính |
+| 4 | [CƠN SÓNG LÀM GIÀU TIẾP THEO MỌI NGƯỜI NGHỈ LÀ GÌ AD ĐI LÀM T](https://www.tiktok.com/@kinhtedongian.official/video/7699120393377828116) | 448k | 8,6% | 339 | 2026-10-21 | Khái niệm tài chính |
+| 5 | [Tại sao các Giám đốc mua xe sang 5 tỷ luôn đứng tên Công ty ](https://www.tiktok.com/@kinhtedongian.official/video/7702123229443280148) | 416k | 4,5% | 245 | 2026-10-29 | Khái niệm tài chính |
+| 6 | [GIẢI PHẪU TOÀN BỘ HỆ THỐNG THUẾ VIỆT NAM A -Z #kinhtedongian](https://www.tiktok.com/@kinhtedongian.official/video/7707125134754303253) | 346k | 13,3% | 1736 | 2026-11-12 | Chưa phân loại |
+| 7 | [Chuỗi nhà thuốc quá quen với mọi gia đình #kinhtedongian #ki](https://www.tiktok.com/@kinhtedongian.official/video/7697594989961809172) | 227k | 5,5% | 278 | 2026-10-17 | Giải mã mô hình kinh doanh |
+| 8 | [tại sao nhiều quán vắng khai doanh thu 10 tỷ ? #kinhtedongia](https://www.tiktok.com/@kinhtedongian.official/video/7702387339212999937) | 199k | 3,9% | 184 | 2026-10-30 | Tội phạm & mặt tối tài chính |
+| 9 | [BUÔN VE CHAI ĐỒNG NÁT VUA CỦA MỌI NGHỀ #kinhtedongian #kinht](https://www.tiktok.com/@kinhtedongian.official/video/7699863674399247636) | 162k | 8,3% | 267 | 2026-10-23 | Giải mã mô hình kinh doanh |
+| 10 | [Tiền bẩn từ cb được rửa như thế nào ? #kinhtedongian #kinhte](https://www.tiktok.com/@kinhtedongian.official/video/7698328391631654165) | 157k | 7,2% | 544 | 2026-10-19 | Tội phạm & mặt tối tài chính |
 
 **Phong cách dựng (video top)**
 
@@ -110,147 +110,148 @@ Cập nhật 2026-11-12 · TikTok: @kinhtedongian.official. Biểu đồ xem tro
 
 | Video | View | Đổi hình | 3s đầu | Phụ đề | Âm tiết/phút | 3 giây đầu nói |
 |---|---|---|---|---|---|---|
-| [ĐẶC VỤ NON SON #nonson #kinhtedongian #k](https://www.tiktok.com/@kinhtedongian.official/video/7697093977106926868) | 1,2 tr | 2,8s/beat | 1 | 30,0s/cụm | 233 | Có một truyền thuyết đô thị mà bất kỳ ai sống ở Việt Nam cũng |
-| [TIỆM KÍNH VẮNG KHÁCH VẪN SỐNG KHỎE  #kin](https://www.tiktok.com/@kinhtedongian.official/video/7697963191405432084) | 713k | 3,6s/beat | 1 | 10,1s/cụm | 233 | Giải mã bíẩn các cửa hàng mắt kính ở vị trí đắc địa, |
-| [NẾU MỘT NGÀY BẠN CÓ 1000 TỶ TIỀN MẶT TRÊ](https://www.tiktok.com/@kinhtedongian.official/video/7698381666473315604) | 469k | 3,6s/beat | 2 | 17,3s/cụm | 230 | Giả sử sáng mai thức dậy, mở cửa phòng trọ ra, |
-| [CƠN SÓNG LÀM GIÀU TIẾP THEO MỌI NGƯỜI NG](https://www.tiktok.com/@kinhtedongian.official/video/7699120393377828116) | 388k | 2,7s/beat | 3 | 84,1s/cụm | 216 | Quy luật chu kỳ làm giàu của các thế hệ 7x giàu nhờ |
-| [Tại sao các Giám đốc mua xe sang 5 tỷ lu](https://www.tiktok.com/@kinhtedongian.official/video/7702123229443280148) | 331k | 1,6s/beat | 4 | 4,4s/cụm | 245 | Tại sao các giám đốc mua xe sang 5 tỷ luôn đứng tên công |
+| [ĐẶC VỤ NON SON #nonson #kinhtedongian #k](https://www.tiktok.com/@kinhtedongian.official/video/7697093977106926868) | 1,3 tr | 2,8s/beat | 1 | 30,0s/cụm | 233 | Có một truyền thuyết đô thị mà bất kỳ ai sống ở Việt Nam cũng |
+| [TIỆM KÍNH VẮNG KHÁCH VẪN SỐNG KHỎE  #kin](https://www.tiktok.com/@kinhtedongian.official/video/7697963191405432084) | 886k | 3,6s/beat | 1 | 10,1s/cụm | 233 | Giải mã bíẩn các cửa hàng mắt kính ở vị trí đắc địa, |
+| [NẾU MỘT NGÀY BẠN CÓ 1000 TỶ TIỀN MẶT TRÊ](https://www.tiktok.com/@kinhtedongian.official/video/7698381666473315604) | 477k | 3,6s/beat | 2 | 17,3s/cụm | 230 | Giả sử sáng mai thức dậy, mở cửa phòng trọ ra, |
+| [CƠN SÓNG LÀM GIÀU TIẾP THEO MỌI NGƯỜI NG](https://www.tiktok.com/@kinhtedongian.official/video/7699120393377828116) | 448k | 2,7s/beat | 3 | 84,1s/cụm | 216 | Quy luật chu kỳ làm giàu của các thế hệ 7x giàu nhờ |
+| [Tại sao các Giám đốc mua xe sang 5 tỷ lu](https://www.tiktok.com/@kinhtedongian.official/video/7702123229443280148) | 416k | 1,6s/beat | 4 | 4,4s/cụm | 245 | Tại sao các giám đốc mua xe sang 5 tỷ luôn đứng tên công |
 
 #### Kiểm tra bằng chứng
 
 View là số tích lũy trong cache, không phải view ở cùng tuổi bài; bài dưới 7 ngày tuổi lúc thu thập còn đang tích view và được đếm riêng. "So với bài cùng thời" = view chia cho trung vị các bài khác đăng trong ±7 ngày (nới tới ±30 ngày nếu thiếu mẫu); cách này giảm nhiễu giai đoạn nhưng không chứng minh nhân quả. Hit = bài đạt từ 10× trung vị kênh. Nhóm dưới 5 bài là ít mẫu; không chọn làm nhóm dẫn đầu. Tỷ lệ vượt chuẩn dùng dấu >. Thiếu số đo hiển thị —; cache cũ có thể đã thay dữ liệu tương tác thiếu bằng 0. Không suy ra giữ chân, người xem quay lại hoặc cơ hội thị trường từ dữ liệu này.
 
-Đã gắn nhãn 300/300 video. P25–P75 là khoảng phân vị, không phải khoảng tin cậy.
+Đã gắn nhãn 282/300 video. P25–P75 là khoảng phân vị, không phải khoảng tin cậy.
 
 **Độ ổn định theo loại nội dung**
 
-| Loại | n | Trung vị | P25–P75 | Hit (≥12k) | So với bài cùng thời | Vượt bài cùng thời |
+| Loại | n | Trung vị | P25–P75 | Hit (≥14k) | So với bài cùng thời | Vượt bài cùng thời |
 |---|---|---|---|---|---|---|
-| Khái niệm tài chính | 18 · 4 bài <7 ngày | 4,9k | 2k–23k | 7/18 | 2,1× | 66,7% |
-| Giải mã mô hình kinh doanh | 46 · 8 bài <7 ngày | 2,3k | 1,5k–8,7k | 11/46 | 0,8× | 39,1% |
-| Tội phạm & mặt tối tài chính | 17 · 2 bài <7 ngày | 2,2k | 1,9k–9,5k | 4/17 | 1,3× | 64,7% |
-| Tin thời sự / chính trị | 219 · 1 bài <7 ngày | 910 | 606–1,6k | 9/219 | 1,0× | 50,7% |
+| Khái niệm tài chính | 18 · 2 bài <7 ngày | 6,1k | 2,2k–50k | 8/18 | 2,1× | 72,2% |
+| Giải mã mô hình kinh doanh | 46 · 2 bài <7 ngày | 2,4k | 1,6k–9,2k | 11/46 | 0,8× | 34,8% |
+| Tội phạm & mặt tối tài chính | 17 · 1 bài <7 ngày | 2,3k | 2,1k–9,7k | 4/17 | 1,2× | 64,7% |
+| Tin thời sự / chính trị | 201 | 953 | 632–1,6k | 8/201 | 1,0× | 50,2% |
 
 **Tỷ lệ hit theo tuần (mọi bài)**
 
-| Kỳ | n | Trung vị | Hit (≥12k) |
+| Kỳ | n | Trung vị | Hit (≥14k) |
 |---|---|---|---|
-| Tuần từ 18/05/2026 | 6 | 561 | 1/6 |
-| Tuần từ 25/05/2026 | 36 | 744 | 1/36 |
+| Tuần từ 25/05/2026 | 24 | 690 | 1/24 |
 | Tuần từ 01/06/2026 | 35 | 863 | 1/35 |
-| Tuần từ 08/06/2026 | 37 | 883 | 2/37 |
+| Tuần từ 08/06/2026 | 37 | 884 | 2/37 |
 | Tuần từ 15/06/2026 | 38 | 857 | 0/38 |
 | Tuần từ 22/06/2026 | 19 | 1,1k | 2/19 |
-| Tuần từ 06/07/2026 | 6 | 609 | 0/6 |
+| Tuần từ 06/07/2026 | 6 | 613 | 0/6 |
 | Tuần từ 13/07/2026 | 2 | 2,6k | 0/2 |
-| Tuần từ 20/07/2026 | 2 | 802 | 0/2 |
-| Tuần từ 27/07/2026 | 7 | 782 | 0/7 |
+| Tuần từ 20/07/2026 | 2 | 803 | 0/2 |
+| Tuần từ 27/07/2026 | 7 | 783 | 0/7 |
 | Tuần từ 03/08/2026 | 10 | 1,2k | 0/10 |
-| Tuần từ 10/08/2026 | 5 | 1,5k | 0/5 |
+| Tuần từ 10/08/2026 | 5 | 1,6k | 0/5 |
 | Tuần từ 17/08/2026 | 6 | 1,5k | 0/6 |
 | Tuần từ 14/09/2026 | 1 | 12k | 0/1 |
 | Tuần từ 21/09/2026 | 1 | 1,4k | 0/1 |
 | Tuần từ 28/09/2026 | 1 | 3,2k | 0/1 |
-| Tuần từ 05/10/2026 | 2 | 5,8k | 0/2 |
+| Tuần từ 05/10/2026 | 2 | 5,9k | 0/2 |
 | Tuần từ 12/10/2026 | 13 | 42k | 7/13 |
-| Tuần từ 19/10/2026 | 26 | 8,6k | 12/26 |
-| Tuần từ 26/10/2026 | 24 | 1,8k | 4/24 |
-| Tuần từ 02/11/2026 | 15 · 7 bài <7 ngày | 1,5k | 0/15 |
-| Tuần từ 09/11/2026 | 8 · 8 bài <7 ngày | 1,1k | 1/8 |
+| Tuần từ 19/10/2026 | 26 | 9k | 12/26 |
+| Tuần từ 26/10/2026 | 24 | 1,9k | 4/24 |
+| Tuần từ 02/11/2026 | 15 | 1,8k | 0/15 |
+| Tuần từ 09/11/2026 | 23 · 20 bài <7 ngày | 1,9k | 3/23 |
+| Tuần từ 16/11/2026 | 3 · 3 bài <7 ngày | 747 | 0/3 |
 
 **Kiểm tra khi bỏ video nhiều view nhất toàn kênh**
 
 | Bỏ top | Loại | n còn lại | Trung vị | Dẫn đầu đủ mẫu |
 |---|---|---|---|---|
-| 0 | Khái niệm tài chính | 18 · 4 bài <7 ngày | 4,9k | Có (có thể đồng hạng) |
-| 0 | Giải mã mô hình kinh doanh | 46 · 8 bài <7 ngày | 2,3k | — |
-| 0 | Tội phạm & mặt tối tài chính | 17 · 2 bài <7 ngày | 2,2k | — |
-| 0 | Tin thời sự / chính trị | 219 · 1 bài <7 ngày | 910 | — |
-| 1 | Khái niệm tài chính | 18 · 4 bài <7 ngày | 4,9k | Có (có thể đồng hạng) |
-| 1 | Giải mã mô hình kinh doanh | 45 · 8 bài <7 ngày | 2,2k | — |
-| 1 | Tội phạm & mặt tối tài chính | 17 · 2 bài <7 ngày | 2,2k | — |
-| 1 | Tin thời sự / chính trị | 219 · 1 bài <7 ngày | 910 | — |
-| 3 | Khái niệm tài chính | 18 · 4 bài <7 ngày | 4,9k | Có (có thể đồng hạng) |
-| 3 | Giải mã mô hình kinh doanh | 44 · 8 bài <7 ngày | 2,1k | — |
-| 3 | Tội phạm & mặt tối tài chính | 16 · 2 bài <7 ngày | 2,1k | — |
-| 3 | Tin thời sự / chính trị | 219 · 1 bài <7 ngày | 910 | — |
+| 0 | Khái niệm tài chính | 18 · 2 bài <7 ngày | 6,1k | Có (có thể đồng hạng) |
+| 0 | Giải mã mô hình kinh doanh | 46 · 2 bài <7 ngày | 2,4k | — |
+| 0 | Tội phạm & mặt tối tài chính | 17 · 1 bài <7 ngày | 2,3k | — |
+| 0 | Tin thời sự / chính trị | 201 | 953 | — |
+| 1 | Khái niệm tài chính | 18 · 2 bài <7 ngày | 6,1k | Có (có thể đồng hạng) |
+| 1 | Tội phạm & mặt tối tài chính | 17 · 1 bài <7 ngày | 2,3k | — |
+| 1 | Giải mã mô hình kinh doanh | 45 · 2 bài <7 ngày | 2,2k | — |
+| 1 | Tin thời sự / chính trị | 201 | 953 | — |
+| 3 | Khái niệm tài chính | 18 · 2 bài <7 ngày | 6,1k | Có (có thể đồng hạng) |
+| 3 | Tội phạm & mặt tối tài chính | 16 · 1 bài <7 ngày | 2,3k | — |
+| 3 | Giải mã mô hình kinh doanh | 44 · 2 bài <7 ngày | 2,2k | — |
+| 3 | Tin thời sự / chính trị | 201 | 953 | — |
 
 **So chủ đề trong cùng tuần (chỉ kỳ có từ 2 loại)**
 
 | Kỳ | Loại | n | Trung vị | Hit |
 |---|---|---|---|---|
-| Tuần từ 12/10/2026 | Giải mã mô hình kinh doanh | 12 | 48k | 7/12 |
+| Tuần từ 12/10/2026 | Giải mã mô hình kinh doanh | 12 | 52k | 7/12 |
 | Tuần từ 12/10/2026 | Khái niệm tài chính | 1 · ít mẫu | 2k | 0/1 |
-| Tuần từ 19/10/2026 | Tin thời sự / chính trị | 3 · ít mẫu | 56k | 2/3 |
-| Tuần từ 19/10/2026 | Tội phạm & mặt tối tài chính | 6 | 51k | 3/6 |
+| Tuần từ 19/10/2026 | Tội phạm & mặt tối tài chính | 6 | 58k | 3/6 |
+| Tuần từ 19/10/2026 | Tin thời sự / chính trị | 3 · ít mẫu | 58k | 2/3 |
 | Tuần từ 19/10/2026 | Khái niệm tài chính | 6 | 16k | 4/6 |
-| Tuần từ 19/10/2026 | Giải mã mô hình kinh doanh | 11 | 4k | 3/11 |
-| Tuần từ 26/10/2026 | Khái niệm tài chính | 6 | 4,1k | 2/6 |
-| Tuần từ 26/10/2026 | Tội phạm & mặt tối tài chính | 5 | 2,2k | 1/5 |
-| Tuần từ 26/10/2026 | Giải mã mô hình kinh doanh | 12 | 1,6k | 1/12 |
-| Tuần từ 26/10/2026 | Tin thời sự / chính trị | 1 · ít mẫu | 1,3k | 0/1 |
-| Tuần từ 02/11/2026 | Tội phạm & mặt tối tài chính | 5 · 1 bài <7 ngày | 2,1k | 0/5 |
-| Tuần từ 02/11/2026 | Tin thời sự / chính trị | 1 · ít mẫu · 1 bài <7 ngày | 1,7k | 0/1 |
-| Tuần từ 02/11/2026 | Khái niệm tài chính | 1 · ít mẫu | 1,3k | 0/1 |
-| Tuần từ 02/11/2026 | Giải mã mô hình kinh doanh | 8 · 5 bài <7 ngày | 1,3k | 0/8 |
-| Tuần từ 09/11/2026 | Khái niệm tài chính | 4 · ít mẫu · 4 bài <7 ngày | 3,1k | 1/4 |
-| Tuần từ 09/11/2026 | Giải mã mô hình kinh doanh | 3 · ít mẫu · 3 bài <7 ngày | 883 | 0/3 |
-| Tuần từ 09/11/2026 | Tội phạm & mặt tối tài chính | 1 · ít mẫu · 1 bài <7 ngày | 366 | 0/1 |
+| Tuần từ 19/10/2026 | Giải mã mô hình kinh doanh | 11 | 4,1k | 3/11 |
+| Tuần từ 26/10/2026 | Khái niệm tài chính | 6 | 4,3k | 2/6 |
+| Tuần từ 26/10/2026 | Tội phạm & mặt tối tài chính | 5 | 2,3k | 1/5 |
+| Tuần từ 26/10/2026 | Giải mã mô hình kinh doanh | 12 | 1,8k | 1/12 |
+| Tuần từ 26/10/2026 | Tin thời sự / chính trị | 1 · ít mẫu | 1,4k | 0/1 |
+| Tuần từ 02/11/2026 | Tội phạm & mặt tối tài chính | 5 | 2,3k | 0/5 |
+| Tuần từ 02/11/2026 | Tin thời sự / chính trị | 1 · ít mẫu | 1,8k | 0/1 |
+| Tuần từ 02/11/2026 | Khái niệm tài chính | 1 · ít mẫu | 1,4k | 0/1 |
+| Tuần từ 02/11/2026 | Giải mã mô hình kinh doanh | 8 | 1,4k | 0/8 |
+| Tuần từ 09/11/2026 | Khái niệm tài chính | 4 · ít mẫu · 2 bài <7 ngày | 17k | 2/4 |
+| Tuần từ 09/11/2026 | Tội phạm & mặt tối tài chính | 1 · ít mẫu · 1 bài <7 ngày | 1,7k | 0/1 |
+| Tuần từ 09/11/2026 | Giải mã mô hình kinh doanh | 3 · ít mẫu · 2 bài <7 ngày | 1,3k | 0/3 |
 
 **Độ dài trong cùng chủ đề (mốc chia theo phân vị của từng loại)**
 
 | Loại | Độ dài | n | Trung vị | So với bài cùng thời | Hit | Đủ hai nhóm ≥5 bài |
 |---|---|---|---|---|---|---|
-| Giải mã mô hình kinh doanh | ≤3:15 | 14 · 2 bài <7 ngày | 2k | 0,6× | 2/14 | Có; vẫn là tương quan |
-| Giải mã mô hình kinh doanh | 3:15–4:00 | 12 · 4 bài <7 ngày | 1,6k | 0,9× | 0/12 | Có; vẫn là tương quan |
-| Giải mã mô hình kinh doanh | >4:00 | 20 · 2 bài <7 ngày | 3,5k | 1,3× | 9/20 | Có; vẫn là tương quan |
-| Khái niệm tài chính | ≤3:30 | 6 · 1 bài <7 ngày | 2,3k | 1,0× | 1/6 | Có; vẫn là tương quan |
-| Khái niệm tài chính | 3:30–6:30 | 6 · 1 bài <7 ngày | 8,6k | 2,3× | 3/6 | Có; vẫn là tương quan |
-| Khái niệm tài chính | >6:30 | 6 · 2 bài <7 ngày | 11k | 3,9× | 3/6 | Có; vẫn là tương quan |
-| Tin thời sự / chính trị | ≤30s | 65 | 1,1k | 1,0× | 3/65 | Có; vẫn là tương quan |
-| Tin thời sự / chính trị | 30s–60s | 100 | 871 | 1,0× | 3/100 | Có; vẫn là tương quan |
-| Tin thời sự / chính trị | >60s | 54 · 1 bài <7 ngày | 915 | 1,1× | 3/54 | Có; vẫn là tương quan |
-| Tội phạm & mặt tối tài chính | ≤3:45 | 7 · 1 bài <7 ngày | 2k | 1,3× | 1/7 | Có; vẫn là tương quan |
-| Tội phạm & mặt tối tài chính | 3:45–4:30 | 4 · ít mẫu | 2,2k | 1,1× | 0/4 | Có; vẫn là tương quan |
-| Tội phạm & mặt tối tài chính | >4:30 | 6 · 1 bài <7 ngày | 51k | 10× | 3/6 | Có; vẫn là tương quan |
+| Giải mã mô hình kinh doanh | ≤3:15 | 14 | 2,1k | 0,6× | 2/14 | Có; vẫn là tương quan |
+| Giải mã mô hình kinh doanh | 3:15–4:00 | 12 · 2 bài <7 ngày | 1,8k | 0,9× | 0/12 | Có; vẫn là tương quan |
+| Giải mã mô hình kinh doanh | >4:00 | 20 | 3,8k | 1,2× | 9/20 | Có; vẫn là tương quan |
+| Khái niệm tài chính | ≤3:30 | 6 | 2,4k | 1,0× | 1/6 | Có; vẫn là tương quan |
+| Khái niệm tài chính | 3:30–6:30 | 6 · 1 bài <7 ngày | 9k | 2,4× | 3/6 | Có; vẫn là tương quan |
+| Khái niệm tài chính | >6:30 | 6 · 1 bài <7 ngày | 25k | 7,5× | 4/6 | Có; vẫn là tương quan |
+| Tin thời sự / chính trị | ≤30s | 62 | 1,1k | 1,0× | 2/62 | Có; vẫn là tương quan |
+| Tin thời sự / chính trị | 30s–55s | 66 | 734 | 0,8× | 1/66 | Có; vẫn là tương quan |
+| Tin thời sự / chính trị | >55s | 73 | 1,1k | 1,2× | 5/73 | Có; vẫn là tương quan |
+| Tội phạm & mặt tối tài chính | ≤3:45 | 7 | 2,2k | 1,2× | 1/7 | Có; vẫn là tương quan |
+| Tội phạm & mặt tối tài chính | 3:45–4:30 | 4 · ít mẫu | 2,3k | 1,1× | 0/4 | Có; vẫn là tương quan |
+| Tội phạm & mặt tối tài chính | >4:30 | 6 · 1 bài <7 ngày | 58k | 10× | 3/6 | Có; vẫn là tương quan |
 
 **Tương tác theo từng loại (trung vị tỷ lệ trên view)**
 
 | Loại | Like/view | Bình luận/view | Chia sẻ/view | Lưu/view |
 |---|---|---|---|---|
-| Khái niệm tài chính | 3,5% (n=18) | 0,0% (n=18) | 0,5% (n=18) | 0,5% (n=18) |
+| Khái niệm tài chính | 3,4% (n=18) | 0,0% (n=18) | 0,5% (n=18) | 0,5% (n=18) |
 | Giải mã mô hình kinh doanh | 3,1% (n=46) | 0,0% (n=46) | 0,4% (n=46) | 0,4% (n=46) |
-| Tội phạm & mặt tối tài chính | 3,2% (n=17) | 0,1% (n=17) | 0,3% (n=17) | 0,4% (n=17) |
-| Tin thời sự / chính trị | 2,4% (n=219) | 0,0% (n=219) | 0,0% (n=219) | 0,1% (n=219) |
+| Tội phạm & mặt tối tài chính | 3,2% (n=17) | 0,0% (n=17) | 0,4% (n=17) | 0,5% (n=17) |
+| Tin thời sự / chính trị | 2,3% (n=201) | 0,0% (n=201) | 0,0% (n=201) | 0,1% (n=201) |
 
 **Cặp video để xem đối chứng thủ công**
 
 | Loại | Video cao / ID | Video thấp / ID | Tỷ lệ view | Cách ngày |
 |---|---|---|---|---|
-| Tin thời sự / chính trị | Đại tá Phạm Thanh Tùng - Phó Giám đốc Công an tỉnh Vĩnh Long, được Bộ trưởng Bộ Công an điều động giữ chức Phó Giám đốc Công an tỉnh Tây Ninh. #congan #tiktoknews #xuhuong #Kinhtedongian  [7654930194410523924] | TỔNG BÍ THƯ, CHỦ TỊCH NƯỚC TÔ LÂM " Ở ĐẦU NGƯỜI DÂN CÒN BỨC XÚC, THẮC MẮC CHÍNH QUYỀN NƠI ĐÓ PHẢI CHỊU TRÁCH NHIỆM #tongbithuchutichnuoctolam #tiktoknews #xuhuong #Kinhtedongian  [7646391451265305876] | 612.2× | 22.9 |
-| Tin thời sự / chính trị | Chỉ hơn 1 tháng nữa, Vingroup của tỷ phú Phạm Nhật Vượng sẽ khởi công siêu công trình hầm – cầu vượt biển đầu tiên trong lịch sử, tích hợp 2 đảo nhân tạo 3,4 tỷ USD tại thành phố giàu nhất Việt Nam #vingroup #tiktoknews #xuhuong #Kinhtedongian  [7643423773223456020] | Tổng Bí thư, Chủ tịch nước TÔ LÂM: Xã, phường không được đánh đố dân #tongbithuchutichnuoctolam #Kinhtedongian #xuhuong #tiktoknews  [7643065105739025685] | 520.5× | 1.0 |
-| Khái niệm tài chính | Tại sao các Giám đốc mua xe sang 5 tỷ luôn đứng tên Công ty chứ không bao giờ đứng tên cá nhân? #kinhtedongian #kinhtegithe #tintuc [7702123229443280148] | TUỔI 35 BỊ AI THẾ CHỖ ? @hungtttoffical @kinhtegithe #kinhtedongian #kinhtegithe #hung001 [7704174173219786005] | 248.1× | 5.5 |
-| Giải mã mô hình kinh doanh | TIỆM KÍNH VẮNG KHÁCH VẪN SỐNG KHỎE  #kinhtedongian #kinhtegithe #tintuc #matkinh [7697963191405432084] | THỊ TRƯỜNG BIA VIỆT NAM #kinhtedongian #kinhtegithe [7697931089712614657] | 242.5× | 0.2 |
-| Giải mã mô hình kinh doanh | Chuỗi nhà thuốc quá quen với mọi gia đình #kinhtedongian #kinhtegithe #tintuc  [7697594989961809172] | BẾP TỪ CHÂU ÂU 1 VỐN 10 LỜI ? @hungtttoffical@kinhtegithe #kinhtedongian #kinhtegithe #hung001 [7703623058455612692] | 166.7× | 16.2 |
-| Khái niệm tài chính | CƠN SÓNG LÀM GIÀU TIẾP THEO MỌI NGƯỜI NGHỈ LÀ GÌ AD ĐI LÀM TÔ MÌ TÔM CÁI #kinhtedongian #kinhtegithe #tintuc #coin #chungkhoan #batdongsan [7699120393377828116] | DÂN HÀN QUỐC SINH RA LÀM CHO SAMSUNG #kinhtedongian #kinhtegithe #tintuc #samsung [7700129351999786261] | 151.9× | 2.7 |
-| Tội phạm & mặt tối tài chính | tại sao nhiều quán vắng khai doanh thu 10 tỷ ? #kinhtedongian #kinhtegithe #tintuc [7702387339212999937] | TH-ẬN 300TR CÒ BÁN 1 TỶ 5 ? #kinhtedongian #kinhtegithe #tintuc [7701003865696554260] | 106.8× | 3.7 |
-| Tội phạm & mặt tối tài chính | TRÀ SỮA NHƯỢNG QUYỀN NHƯỢNG LUÔN CUỘC ĐỜI #kinhtedongian #kinhtegithe #tintuc #fnbvietnam #kinhdoanhfnb [7699137917037464853] | BẪY TRÁI PHIẾU LÃI SUẤT CAO #kinhtedongian #kinhtegithe #tintuc #traiphieudoanhnghiep #batdongsan [7700846206351576340] | 95.8× | 4.6 |
+| Tin thời sự / chính trị | Đại tá Phạm Thanh Tùng - Phó Giám đốc Công an tỉnh Vĩnh Long, được Bộ trưởng Bộ Công an điều động giữ chức Phó Giám đốc Công an tỉnh Tây Ninh. #congan #tiktoknews #xuhuong #Kinhtedongian  [7654930194410523924] | TỔNG BÍ THƯ, CHỦ TỊCH NƯỚC TÔ LÂM " Ở ĐẦU NGƯỜI DÂN CÒN BỨC XÚC, THẮC MẮC CHÍNH QUYỀN NƠI ĐÓ PHẢI CHỊU TRÁCH NHIỆM #tongbithuchutichnuoctolam #tiktoknews #xuhuong #Kinhtedongian  [7646391451265305876] | 609.3× | 22.9 |
+| Tin thời sự / chính trị | TỔNG BÍ THƯ, CHỦ TICH NƯỚC TÔ LÂM NÂNG CAO CHẤT LƯƠNG CÁN BỘ CƠ SỞ THEO HƯỚNG “ĐÚNG NGƯỜI, ĐÚNG VIỆC” #tongbithuchutichnuoctolam #tiktoknews #xuhuong #Kinhtedongian  [7650467705329290517] | GIA ĐÌNH VIỆT CÓ THỂ YÊN TÂM DU LỊCH SUỐT 3 MÙA HÈ TỚI MÀ GẦN NHƯ KHÔNG TỐN TIỀN SẠC XE [7649352645827644692] | 478.6× | 3.0 |
+| Giải mã mô hình kinh doanh | TIỆM KÍNH VẮNG KHÁCH VẪN SỐNG KHỎE  #kinhtedongian #kinhtegithe #tintuc #matkinh [7697963191405432084] | THỊ TRƯỜNG BIA VIỆT NAM #kinhtedongian #kinhtegithe [7697931089712614657] | 297.2× | 0.2 |
+| Khái niệm tài chính | Tại sao các Giám đốc mua xe sang 5 tỷ luôn đứng tên Công ty chứ không bao giờ đứng tên cá nhân? #kinhtedongian #kinhtegithe #tintuc [7702123229443280148] | TUỔI 35 BỊ AI THẾ CHỖ ? @hungtttoffical @kinhtegithe #kinhtedongian #kinhtegithe #hung001 [7704174173219786005] | 288.7× | 5.5 |
+| Giải mã mô hình kinh doanh | Chuỗi nhà thuốc quá quen với mọi gia đình #kinhtedongian #kinhtegithe #tintuc  [7697594989961809172] | BUÔN GIẺ LAU THU TIỀN TỶ BẠN ĐÃ BIẾT ? #kinhtedongian #kinhtegithe #hung001 [7705382329543429377] | 173.5× | 21.0 |
+| Khái niệm tài chính | CƠN SÓNG LÀM GIÀU TIẾP THEO MỌI NGƯỜI NGHỈ LÀ GÌ AD ĐI LÀM TÔ MÌ TÔM CÁI #kinhtedongian #kinhtegithe #tintuc #coin #chungkhoan #batdongsan [7699120393377828116] | DÂN HÀN QUỐC SINH RA LÀM CHO SAMSUNG #kinhtedongian #kinhtegithe #tintuc #samsung [7700129351999786261] | 171.8× | 2.7 |
+| Tội phạm & mặt tối tài chính | tại sao nhiều quán vắng khai doanh thu 10 tỷ ? #kinhtedongian #kinhtegithe #tintuc [7702387339212999937] | BẪY VAY 0% LƯỚT SÓNG ĐẤT  #kinhtedongian #kinhtegithe #tintuc #batdongsan [7700484591999585556] | 112.1× | 5.1 |
+| Tội phạm & mặt tối tài chính | TRÀ SỮA NHƯỢNG QUYỀN NHƯỢNG LUÔN CUỘC ĐỜI #kinhtedongian #kinhtegithe #tintuc #fnbvietnam #kinhdoanhfnb [7699137917037464853] | BẪY TRÁI PHIẾU LÃI SUẤT CAO #kinhtedongian #kinhtegithe #tintuc #traiphieudoanhnghiep #batdongsan [7700846206351576340] | 104.5× | 4.6 |
 
 Cặp đối chứng: cùng loại, cách tối đa 30 ngày, độ dài chênh tối đa 15% (ít nhất 10 giây), view chênh ít nhất 2 lần, cả hai bài đã đủ 7 ngày tuổi; mỗi loại tối đa 2 cặp, không lặp video, ưu tiên chênh view lớn. Chỉ dùng để xem thủ công, chưa chứng minh nguyên nhân.
 
 | Loại hình | Số video | View trung vị |
 |---|---|---|
-| Khái niệm tài chính | 18 | 4,9k |
-| Giải mã mô hình kinh doanh | 46 | 2,3k |
-| Tội phạm & mặt tối tài chính | 17 | 2,2k |
-| Tin thời sự / chính trị | 219 | 910 |
+| Khái niệm tài chính | 18 | 6,1k |
+| Giải mã mô hình kinh doanh | 46 | 2,4k |
+| Tội phạm & mặt tối tài chính | 17 | 2,3k |
+| Chưa phân loại | 18 | 1,9k |
+| Tin thời sự / chính trị | 201 | 953 |
 
 | Tháng | Số video | View trung vị |
 |---|---|---|
-| 2026-05 | 42 | 715 |
+| 2026-05 | 24 | 690 |
 | 2026-06 | 129 | 880 |
-| 2026-07 | 17 | 782 |
+| 2026-07 | 17 | 783 |
 | 2026-08 | 21 | 1,3k |
-| 2026-09 | 2 | 6,8k |
-| 2026-10 | 64 | 3,7k |
-| 2026-11 | 25 | 1,5k |
+| 2026-09 | 2 | 6,9k |
+| 2026-10 | 64 | 3,8k |
+| 2026-11 | 43 | 1,8k |

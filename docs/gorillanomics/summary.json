@@ -1,6 +1,6 @@
 {
   "name": "Gorillanomics",
-  "updated": "2026-11-12",
+  "updated": "2026-11-16",
   "tiktok": [
     {
       "handle": "gorillanomics",
@@ -15,13 +15,13 @@
         "n": 61,
         "first": "2025-05-19",
         "last": "2026-05-29",
-        "daysSinceLast": 166,
-        "totalViews": 25745600,
-        "meanViews": 422059.01639344264,
+        "daysSinceLast": 171,
+        "totalViews": 25763900,
+        "meanViews": 422359.01639344264,
         "medianViews": 153400,
         "maxViews": 6500000,
         "minViews": 15200,
-        "medianER": 0.08825833774483854,
+        "medianER": 0.08821693121693122,
         "postsPerWeek": 1.1379051833276261,
         "medianGapDays": 1.8469849537037037,
         "postsLast30": 0,
@@ -30,9 +30,9 @@
         "viralCount": 12
       },
       "takeaways": {
-        "category": "Không loại nội dung nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 56k–300k)",
+        "category": "Không loại nội dung nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 56k–301k)",
         "share": "Tin thời sự / chính trị chiếm 31,1% số video nhưng chỉ mang về 12,0% tổng view",
-        "viral": "3/61 video đạt từ 1,5 tr view (10× trung vị kênh) và mang về 45,1% tổng view; top 3 chiếm 45,1%",
+        "viral": "3/61 video đạt từ 1,5 tr view (10× trung vị kênh) và mang về 45,0% tổng view; top 3 chiếm 45,0%",
         "trend": "View tích lũy trung vị giảm: 289k ở 3 tháng có bài đầu → 56k ở 3 tháng có bài cuối; chưa so ở cùng tuổi bài",
         "cadence": "Đăng 1,1 video/tuần; tháng dày nhất T6/25 có 13 video; 30 ngày qua: 0 video",
         "time": "Không khung giờ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 128k–232k)",
@@ -53,29 +53,29 @@
             "count": 11,
             "weak": false,
             "young": 0,
-            "median": 299500,
+            "median": 300500,
             "q25": 132100,
-            "q75": 604850,
+            "q75": 608850,
             "aboveChannel": 0.6363636363636364,
-            "relMedian": 2.1047083626141956,
+            "relMedian": 2.111735769501054,
             "aboveLocal": 0.6363636363636364,
             "hits": 2,
             "hitRate": 0.18181818181818182,
             "interactions": {
               "likes": {
-                "median": 0.0936834634492548,
+                "median": 0.09365023057821922,
                 "count": 11
               },
               "comments": {
-                "median": 0.00034056761268781303,
+                "median": 0.0003427620632279534,
                 "count": 11
               },
               "shares": {
-                "median": 0.003425304047921583,
+                "median": 0.0034156378600823044,
                 "count": 11
               },
               "saves": {
-                "median": 0.0105,
+                "median": 0.010489913544668588,
                 "count": 11
               }
             }
@@ -85,21 +85,21 @@
             "count": 31,
             "weak": false,
             "young": 0,
-            "median": 188900,
-            "q25": 89450,
-            "q75": 388100,
+            "median": 189000,
+            "q25": 89500,
+            "q75": 388600,
             "aboveChannel": 0.5806451612903226,
-            "relMedian": 0.6775548296780215,
+            "relMedian": 0.6773967809657103,
             "aboveLocal": 0.41379310344827586,
             "hits": 1,
             "hitRate": 0.03225806451612903,
             "interactions": {
               "likes": {
-                "median": 0.08046585494970884,
+                "median": 0.08042328042328042,
                 "count": 31
               },
               "comments": {
-                "median": 0.0003463203463203463,
+                "median": 0.0003645147123407993,
                 "count": 31
               },
               "shares": {
@@ -119,15 +119,15 @@
             "young": 0,
             "median": 56000,
             "q25": 29000,
-            "q75": 196800,
+            "q75": 196900,
             "aboveChannel": 0.2631578947368421,
-            "relMedian": 0.8923986759244308,
+            "relMedian": 0.8869174679806886,
             "aboveLocal": 0.4444444444444444,
             "hits": 0,
             "hitRate": 0,
             "interactions": {
               "likes": {
-                "median": 0.05343163538873995,
+                "median": 0.05344950848972297,
                 "count": 19
               },
               "comments": {
@@ -155,29 +155,29 @@
                 "count": 11,
                 "weak": false,
                 "young": 0,
-                "median": 299500,
+                "median": 300500,
                 "q25": 132100,
-                "q75": 604850,
+                "q75": 608850,
                 "aboveChannel": 0.6363636363636364,
-                "relMedian": 2.1047083626141956,
+                "relMedian": 2.111735769501054,
                 "aboveLocal": 0.6363636363636364,
                 "hits": 2,
                 "hitRate": 0.18181818181818182,
                 "interactions": {
                   "likes": {
-                    "median": 0.0936834634492548,
+                    "median": 0.09365023057821922,
                     "count": 11
                   },
                   "comments": {
-                    "median": 0.00034056761268781303,
+                    "median": 0.0003427620632279534,
                     "count": 11
                   },
                   "shares": {
-                    "median": 0.003425304047921583,
+                    "median": 0.0034156378600823044,
                     "count": 11
                   },
                   "saves": {
-                    "median": 0.0105,
+                    "median": 0.010489913544668588,
                     "count": 11
                   }
                 }
@@ -187,21 +187,21 @@
                 "count": 31,
                 "weak": false,
                 "young": 0,
-                "median": 188900,
-                "q25": 89450,
-                "q75": 388100,
+                "median": 189000,
+                "q25": 89500,
+                "q75": 388600,
                 "aboveChannel": 0.5806451612903226,
-                "relMedian": 0.6775548296780215,
+                "relMedian": 0.6773967809657103,
                 "aboveLocal": 0.41379310344827586,
                 "hits": 1,
                 "hitRate": 0.03225806451612903,
                 "interactions": {
                   "likes": {
-                    "median": 0.08046585494970884,
+                    "median": 0.08042328042328042,
                     "count": 31
                   },
                   "comments": {
-                    "median": 0.0003463203463203463,
+                    "median": 0.0003645147123407993,
                     "count": 31
                   },
                   "shares": {
@@ -221,15 +221,15 @@
                 "young": 0,
                 "median": 56000,
                 "q25": 29000,
-                "q75": 196800,
+                "q75": 196900,
                 "aboveChannel": 0.2631578947368421,
-                "relMedian": 0.8923986759244308,
+                "relMedian": 0.8869174679806886,
                 "aboveLocal": 0.4444444444444444,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.05343163538873995,
+                    "median": 0.05344950848972297,
                     "count": 19
                   },
                   "comments": {
@@ -262,29 +262,29 @@
                 "count": 10,
                 "weak": false,
                 "young": 0,
-                "median": 290650,
+                "median": 291200,
                 "q25": 127000,
-                "q75": 528250,
+                "q75": 534300,
                 "aboveChannel": 0.6,
-                "relMedian": 2.0425158116654956,
+                "relMedian": 2.0463808854532677,
                 "aboveLocal": 0.6,
                 "hits": 1,
                 "hitRate": 0.1,
                 "interactions": {
                   "likes": {
-                    "median": 0.09374519256251446,
+                    "median": 0.09372857612699667,
                     "count": 10
                   },
                   "comments": {
-                    "median": 0.0003466578834562937,
+                    "median": 0.0003477551087263639,
                     "count": 10
                   },
                   "shares": {
-                    "median": 0.003121305870114638,
+                    "median": 0.0031151196024715075,
                     "count": 10
                   },
                   "saves": {
-                    "median": 0.010416666666666668,
+                    "median": 0.01041162343900096,
                     "count": 10
                   }
                 }
@@ -294,21 +294,21 @@
                 "count": 31,
                 "weak": false,
                 "young": 0,
-                "median": 188900,
-                "q25": 89450,
-                "q75": 388100,
+                "median": 189000,
+                "q25": 89500,
+                "q75": 388600,
                 "aboveChannel": 0.5806451612903226,
-                "relMedian": 0.6775548296780215,
+                "relMedian": 0.6773967809657103,
                 "aboveLocal": 0.41379310344827586,
                 "hits": 1,
                 "hitRate": 0.03225806451612903,
                 "interactions": {
                   "likes": {
-                    "median": 0.08046585494970884,
+                    "median": 0.08042328042328042,
                     "count": 31
                   },
                   "comments": {
-                    "median": 0.0003463203463203463,
+                    "median": 0.0003645147123407993,
                     "count": 31
                   },
                   "shares": {
@@ -328,15 +328,15 @@
                 "young": 0,
                 "median": 56000,
                 "q25": 29000,
-                "q75": 196800,
+                "q75": 196900,
                 "aboveChannel": 0.2631578947368421,
-                "relMedian": 0.8923986759244308,
+                "relMedian": 0.8869174679806886,
                 "aboveLocal": 0.4444444444444444,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.05343163538873995,
+                    "median": 0.05344950848972297,
                     "count": 19
                   },
                   "comments": {
@@ -371,17 +371,17 @@
                 "count": 9,
                 "weak": false,
                 "young": 0,
-                "median": 281800,
+                "median": 281900,
                 "q25": 121900,
-                "q75": 460300,
+                "q75": 460500,
                 "aboveChannel": 0.5555555555555556,
-                "relMedian": 1.9803232607167955,
+                "relMedian": 1.9810260014054815,
                 "aboveLocal": 0.5555555555555556,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.0936834634492548,
+                    "median": 0.09365023057821922,
                     "count": 9
                   },
                   "comments": {
@@ -389,7 +389,7 @@
                     "count": 9
                   },
                   "shares": {
-                    "median": 0.0028173076923076923,
+                    "median": 0.0028146013448607106,
                     "count": 9
                   },
                   "saves": {
@@ -403,21 +403,21 @@
                 "count": 30,
                 "weak": false,
                 "young": 0,
-                "median": 180350,
-                "q25": 84875,
-                "q75": 356050,
+                "median": 180450,
+                "q25": 84900,
+                "q75": 356075,
                 "aboveChannel": 0.5666666666666667,
-                "relMedian": 0.6732789724714094,
+                "relMedian": 0.6733946521650982,
                 "aboveLocal": 0.39285714285714285,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.08017406684840919,
+                    "median": 0.08014438506241785,
                     "count": 30
                   },
                   "comments": {
-                    "median": 0.0003374229936729937,
+                    "median": 0.00035467114927384793,
                     "count": 30
                   },
                   "shares": {
@@ -425,7 +425,7 @@
                     "count": 30
                   },
                   "saves": {
-                    "median": 0.00936733131773538,
+                    "median": 0.009366178181909999,
                     "count": 30
                   }
                 }
@@ -437,15 +437,15 @@
                 "young": 0,
                 "median": 56000,
                 "q25": 29000,
-                "q75": 196800,
+                "q75": 196900,
                 "aboveChannel": 0.2631578947368421,
-                "relMedian": 0.8923986759244308,
+                "relMedian": 0.8869174679806886,
                 "aboveLocal": 0.4444444444444444,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.05343163538873995,
+                    "median": 0.05344950848972297,
                     "count": 19
                   },
                   "comments": {
@@ -482,7 +482,7 @@
                 "q25": 121900,
                 "q75": 1900000,
                 "aboveChannel": 0.6,
-                "relMedian": 2.541176470588235,
+                "relMedian": 2.540686463555727,
                 "aboveLocal": 0.6,
                 "hits": 2,
                 "hitRate": 0.4,
@@ -492,15 +492,15 @@
                     "count": 5
                   },
                   "comments": {
-                    "median": 0.000278,
+                    "median": 0.00029892307692307694,
                     "count": 5
                   },
                   "shares": {
-                    "median": 0.0028173076923076923,
+                    "median": 0.0028146013448607106,
                     "count": 5
                   },
                   "saves": {
-                    "median": 0.0105,
+                    "median": 0.010489913544668588,
                     "count": 5
                   }
                 }
@@ -510,11 +510,11 @@
                 "count": 17,
                 "weak": false,
                 "young": 0,
-                "median": 290800,
-                "q25": 192000,
+                "median": 290900,
+                "q25": 192100,
                 "q75": 558500,
                 "aboveChannel": 0.8235294117647058,
-                "relMedian": 0.7235452103849597,
+                "relMedian": 0.7237242614145031,
                 "aboveLocal": 0.4117647058823529,
                 "hits": 1,
                 "hitRate": 0.058823529411764705,
@@ -524,7 +524,7 @@
                     "count": 17
                   },
                   "comments": {
-                    "median": 0.00030303030303030303,
+                    "median": 0.00031233732431025507,
                     "count": 17
                   },
                   "shares": {
@@ -532,7 +532,7 @@
                     "count": 17
                   },
                   "saves": {
-                    "median": 0.008772819472616633,
+                    "median": 0.008774062816616008,
                     "count": 17
                   }
                 }
@@ -580,29 +580,29 @@
                 "count": 4,
                 "weak": true,
                 "young": 0,
-                "median": 290650,
-                "q25": 246925,
-                "q75": 339700,
+                "median": 291200,
+                "q25": 247000,
+                "q75": 340500,
                 "aboveChannel": 0.75,
-                "relMedian": 2.0425158116654956,
+                "relMedian": 2.0463808854532677,
                 "aboveLocal": 0.75,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.1062595027435281,
+                    "median": 0.10621708054426704,
                     "count": 4
                   },
                   "comments": {
-                    "median": 0.00039516082672338645,
+                    "median": 0.00039625805199345666,
                     "count": 4
                   },
                   "shares": {
-                    "median": 0.005403749181878847,
+                    "median": 0.005403766873215966,
                     "count": 4
                   },
                   "saves": {
-                    "median": 0.01418240989609058,
+                    "median": 0.0141845682354193,
                     "count": 4
                   }
                 }
@@ -616,7 +616,7 @@
                 "q25": 153400,
                 "q75": 153400,
                 "aboveChannel": 0,
-                "relMedian": 0.5443577004968062,
+                "relMedian": 0.5441645973749557,
                 "aboveLocal": 0,
                 "hits": 0,
                 "hitRate": 0,
@@ -626,7 +626,7 @@
                     "count": 1
                   },
                   "comments": {
-                    "median": 0.0004498044328552803,
+                    "median": 0.00044328552803129075,
                     "count": 1
                   },
                   "shares": {
@@ -644,29 +644,29 @@
                 "count": 5,
                 "weak": false,
                 "young": 0,
-                "median": 132800,
+                "median": 132900,
                 "q25": 124800,
-                "q75": 171800,
+                "q75": 171900,
                 "aboveChannel": 0.4,
-                "relMedian": 0.5484508899143046,
+                "relMedian": 0.5473684210526316,
                 "aboveLocal": 0.2,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.08731082654249127,
+                    "median": 0.08726003490401396,
                     "count": 5
                   },
                   "comments": {
-                    "median": 0.0004889406286379511,
+                    "median": 0.0004886561954624782,
                     "count": 5
                   },
                   "shares": {
-                    "median": 0.0023573923166472642,
+                    "median": 0.002356020942408377,
                     "count": 5
                   },
                   "saves": {
-                    "median": 0.009743975903614458,
+                    "median": 0.009751693002257337,
                     "count": 5
                   }
                 }
@@ -682,29 +682,29 @@
                 "count": 2,
                 "weak": true,
                 "young": 0,
-                "median": 296450,
-                "q25": 169225,
-                "q75": 423675,
+                "median": 300450,
+                "q25": 171225,
+                "q75": 429675,
                 "aboveChannel": 0.5,
-                "relMedian": 6.739797160243408,
+                "relMedian": 6.802481745104696,
                 "aboveLocal": 0.5,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.06670294064258486,
+                    "median": 0.06667754262198707,
                     "count": 2
                   },
                   "comments": {
-                    "median": 0.00027216070672233313,
+                    "median": 0.00027278071722516167,
                     "count": 2
                   },
                   "shares": {
-                    "median": 0.00264122345253222,
+                    "median": 0.0026363903586125808,
                     "count": 2
                   },
                   "saves": {
-                    "median": 0.008583802262963635,
+                    "median": 0.008588566827697262,
                     "count": 2
                   }
                 }
@@ -714,11 +714,11 @@
                 "count": 3,
                 "weak": true,
                 "young": 0,
-                "median": 81200,
-                "q25": 56300,
-                "q75": 207300,
+                "median": 81400,
+                "q25": 56400,
+                "q75": 207450,
                 "aboveChannel": 0.3333333333333333,
-                "relMedian": 1.9105882352941177,
+                "relMedian": 1.9063231850117095,
                 "aboveLocal": 0.6666666666666666,
                 "hits": 0,
                 "hitRate": 0,
@@ -728,15 +728,15 @@
                     "count": 3
                   },
                   "comments": {
-                    "median": 0.0005878824235152969,
+                    "median": 0.0005937031484257871,
                     "count": 3
                   },
                   "shares": {
-                    "median": 0.0021798029556650248,
+                    "median": 0.0021744471744471745,
                     "count": 3
                   },
                   "saves": {
-                    "median": 0.0075246305418719215,
+                    "median": 0.007518427518427518,
                     "count": 3
                   }
                 }
@@ -746,29 +746,29 @@
                 "count": 1,
                 "weak": true,
                 "young": 0,
-                "median": 42500,
-                "q25": 42500,
-                "q75": 42500,
+                "median": 42700,
+                "q25": 42700,
+                "q75": 42700,
                 "aboveChannel": 0,
-                "relMedian": 0.5233990147783252,
+                "relMedian": 0.5245700245700246,
                 "aboveLocal": 0,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.06374117647058823,
+                    "median": 0.0635831381733021,
                     "count": 1
                   },
                   "comments": {
-                    "median": 0.0004235294117647059,
+                    "median": 0.0004215456674473068,
                     "count": 1
                   },
                   "shares": {
-                    "median": 0.001176470588235294,
+                    "median": 0.00117096018735363,
                     "count": 1
                   },
                   "saves": {
-                    "median": 0.006776470588235294,
+                    "median": 0.006768149882903981,
                     "count": 1
                   }
                 }
@@ -784,29 +784,29 @@
                 "count": 4,
                 "weak": true,
                 "young": 0,
-                "median": 142500,
-                "q25": 115925,
-                "q75": 215025,
+                "median": 143800,
+                "q25": 116275,
+                "q75": 216925,
                 "aboveChannel": 0.5,
-                "relMedian": 1.215527950310559,
+                "relMedian": 1.2238932645301466,
                 "aboveLocal": 0.75,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.08051351416208871,
+                    "median": 0.08055124194013788,
                     "count": 4
                   },
                   "comments": {
-                    "median": 0.00025494032660857856,
+                    "median": 0.00025596129620439627,
                     "count": 4
                   },
                   "shares": {
-                    "median": 0.0035737867086193744,
+                    "median": 0.003578076024084706,
                     "count": 4
                   },
                   "saves": {
-                    "median": 0.02226468985102202,
+                    "median": 0.02229101579980477,
                     "count": 4
                   }
                 }
@@ -818,15 +818,15 @@
                 "young": 0,
                 "median": 45900,
                 "q25": 23750,
-                "q75": 208125,
+                "q75": 208275,
                 "aboveChannel": 0.3,
-                "relMedian": 0.5450523756079311,
+                "relMedian": 0.5436835575336184,
                 "aboveLocal": 0.4,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.050397867532196494,
+                    "median": 0.05030041306360156,
                     "count": 10
                   },
                   "comments": {
@@ -856,15 +856,15 @@
                 "young": 0,
                 "median": 43250,
                 "q25": 27300,
-                "q75": 78300,
+                "q75": 78325,
                 "aboveChannel": 0,
-                "relMedian": 0.9893428063943162,
+                "relMedian": 0.9806338028169014,
                 "aboveLocal": 0.3333333333333333,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.048673322052601636,
+                    "median": 0.04867859502366351,
                     "count": 4
                   },
                   "comments": {
@@ -872,11 +872,11 @@
                     "count": 4
                   },
                   "shares": {
-                    "median": 0.002168075529291194,
+                    "median": 0.0021673170959336093,
                     "count": 4
                   },
                   "saves": {
-                    "median": 0.005825104727707959,
+                    "median": 0.005834081388390186,
                     "count": 4
                   }
                 }
@@ -886,29 +886,29 @@
                 "count": 4,
                 "weak": true,
                 "young": 0,
-                "median": 39700,
-                "q25": 22750,
-                "q75": 58525,
+                "median": 40000,
+                "q25": 22875,
+                "q75": 58950,
                 "aboveChannel": 0,
-                "relMedian": 1.4920285598457834,
+                "relMedian": 1.4933925219087905,
                 "aboveLocal": 0.5,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.061503774278363635,
+                    "median": 0.06130587323530644,
                     "count": 4
                   },
                   "comments": {
-                    "median": 0.00041163614933167447,
+                    "median": 0.0004079442407871889,
                     "count": 4
                   },
                   "shares": {
-                    "median": 0.0031546323259167112,
+                    "median": 0.0031644045075614764,
                     "count": 4
                   },
                   "saves": {
-                    "median": 0.010071917329981847,
+                    "median": 0.01009171783971028,
                     "count": 4
                   }
                 }
@@ -926,21 +926,21 @@
                 "count": 10,
                 "weak": false,
                 "young": 0,
-                "median": 439900,
-                "q25": 289300,
+                "median": 440000,
+                "q25": 289400,
                 "q75": 674450,
                 "aboveChannel": 1,
-                "relMedian": 0.9999898757631491,
+                "relMedian": 1.0000399537913243,
                 "aboveLocal": 0.5,
                 "hits": 1,
                 "hitRate": 0.1,
                 "interactions": {
                   "likes": {
-                    "median": 0.08490008906851935,
+                    "median": 0.0848677510478599,
                     "count": 10
                   },
                   "comments": {
-                    "median": 0.0002574182216889038,
+                    "median": 0.0002598327065601017,
                     "count": 10
                   },
                   "shares": {
@@ -948,7 +948,7 @@
                     "count": 10
                   },
                   "saves": {
-                    "median": 0.00936733131773538,
+                    "median": 0.009366178181909999,
                     "count": 10
                   }
                 }
@@ -959,20 +959,20 @@
                 "weak": false,
                 "young": 0,
                 "median": 145200,
-                "q25": 98600,
-                "q75": 192000,
+                "q25": 98700,
+                "q75": 192100,
                 "aboveChannel": 0.4444444444444444,
-                "relMedian": 0.6690031152647975,
+                "relMedian": 0.669392523364486,
                 "aboveLocal": 0.3333333333333333,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.08731082654249127,
+                    "median": 0.08726003490401396,
                     "count": 9
                   },
                   "comments": {
-                    "median": 0.0003125,
+                    "median": 0.0003650137741046832,
                     "count": 9
                   },
                   "shares": {
@@ -980,7 +980,7 @@
                     "count": 9
                   },
                   "saves": {
-                    "median": 0.008772819472616633,
+                    "median": 0.008774062816616008,
                     "count": 9
                   }
                 }
@@ -990,29 +990,29 @@
                 "count": 12,
                 "weak": false,
                 "young": 0,
-                "median": 95000,
-                "q25": 41075,
-                "q75": 173425,
+                "median": 95100,
+                "q25": 41225,
+                "q75": 175075,
                 "aboveChannel": 0.3333333333333333,
-                "relMedian": 0.5359249523463149,
+                "relMedian": 0.5359692228113281,
                 "aboveLocal": 0.4,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.07533741202627273,
+                    "median": 0.07541855681830781,
                     "count": 12
                   },
                   "comments": {
-                    "median": 0.00039391804985606664,
+                    "median": 0.00039211996114618745,
                     "count": 12
                   },
                   "shares": {
-                    "median": 0.003005551480394772,
+                    "median": 0.003009116141470549,
                     "count": 12
                   },
                   "saves": {
-                    "median": 0.010701481039364833,
+                    "median": 0.010743426409804469,
                     "count": 12
                   }
                 }
@@ -1032,7 +1032,7 @@
                 "q25": 17050,
                 "q75": 20750,
                 "aboveChannel": 0,
-                "relMedian": 0.16490872309844035,
+                "relMedian": 0.16470681837436046,
                 "aboveLocal": 0,
                 "hits": 0,
                 "hitRate": 0,
@@ -1060,17 +1060,17 @@
                 "count": 17,
                 "weak": false,
                 "young": 0,
-                "median": 81200,
+                "median": 81400,
                 "q25": 31400,
-                "q75": 240200,
+                "q75": 240400,
                 "aboveChannel": 0.29411764705882354,
-                "relMedian": 1.3789689238583152,
+                "relMedian": 1.3746144220696077,
                 "aboveLocal": 0.5,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.05996753246753247,
+                    "median": 0.060032467532467534,
                     "count": 17
                   },
                   "comments": {
@@ -1078,7 +1078,7 @@
                     "count": 17
                   },
                   "shares": {
-                    "median": 0.002217659137577002,
+                    "median": 0.002216142270861833,
                     "count": 17
                   },
                   "saves": {
@@ -1102,7 +1102,7 @@
                 "q25": 390350,
                 "q75": 1279400,
                 "aboveChannel": 0.6666666666666666,
-                "relMedian": 2.541176470588235,
+                "relMedian": 2.540686463555727,
                 "aboveLocal": 0.6666666666666666,
                 "hits": 1,
                 "hitRate": 0.3333333333333333,
@@ -1112,7 +1112,7 @@
                     "count": 3
                   },
                   "comments": {
-                    "median": 0.00025315789473684213,
+                    "median": 0.00026157894736842107,
                     "count": 3
                   },
                   "shares": {
@@ -1130,29 +1130,29 @@
                 "count": 8,
                 "weak": false,
                 "young": 0,
-                "median": 290650,
-                "q25": 132725,
-                "q75": 482950,
+                "median": 291200,
+                "q25": 132750,
+                "q75": 485100,
                 "aboveChannel": 0.625,
-                "relMedian": 2.0425158116654956,
+                "relMedian": 2.0463808854532677,
                 "aboveLocal": 0.625,
                 "hits": 1,
                 "hitRate": 0.125,
                 "interactions": {
                   "likes": {
-                    "median": 0.09174991202512822,
+                    "median": 0.09172511528910962,
                     "count": 8
                   },
                   "comments": {
-                    "median": 0.000360759996820097,
+                    "median": 0.00036185722209016715,
                     "count": 8
                   },
                   "shares": {
-                    "median": 0.004171917720245823,
+                    "median": 0.004167102317663302,
                     "count": 8
                   },
                   "saves": {
-                    "median": 0.010565384615384615,
+                    "median": 0.01056034138771891,
                     "count": 8
                   }
                 }
@@ -1166,7 +1166,7 @@
             "key": "2025-Q2",
             "count": 23,
             "young": 0,
-            "median": 290800,
+            "median": 290900,
             "hits": 3,
             "hitRate": 0.13043478260869565
           },
@@ -1175,7 +1175,7 @@
             "key": "2025-Q3",
             "count": 10,
             "young": 0,
-            "median": 162600,
+            "median": 162650,
             "hits": 0,
             "hitRate": 0
           },
@@ -1184,7 +1184,7 @@
             "key": "2025-Q4",
             "count": 6,
             "young": 0,
-            "median": 61850,
+            "median": 62050,
             "hits": 0,
             "hitRate": 0
           },
@@ -1193,7 +1193,7 @@
             "key": "2026-Q1",
             "count": 14,
             "young": 0,
-            "median": 91150,
+            "median": 91250,
             "hits": 0,
             "hitRate": 0
           },
@@ -1222,12 +1222,12 @@
               "id": "7516786739202149646",
               "title": "Gorillas explain Bail #economic #finance #fyp ",
               "url": "https://www.tiktok.com/@gorillanomics/video/7516786739202149646",
-              "views": 104000,
+              "views": 104100,
               "duration": 61,
               "date": "2025-06-17",
               "category": "Tội phạm & mặt tối tài chính"
             },
-            "ratio": 62.5,
+            "ratio": 62.43996157540826,
             "daysApart": 6.918240740740741
           },
           {
@@ -1257,7 +1257,7 @@
               "id": "7610258706768432397",
               "title": "Mexican Cartel Riots explained by Gorillas #mexico #cartel #currentevents #politics #news ",
               "url": "https://www.tiktok.com/@gorillanomics/video/7610258706768432397",
-              "views": 358700,
+              "views": 360300,
               "duration": 61,
               "date": "2026-02-24",
               "category": "Tin thời sự / chính trị"
@@ -1271,7 +1271,7 @@
               "date": "2026-02-27",
               "category": "Tin thời sự / chính trị"
             },
-            "ratio": 23.598684210526315,
+            "ratio": 23.70394736842105,
             "daysApart": 2.7250462962962962
           },
           {
@@ -1332,12 +1332,12 @@
               "id": "7523408709033250061",
               "title": "Gorillas explain Trust Funds #finance #economic #fyp ",
               "url": "https://www.tiktok.com/@gorillanomics/video/7523408709033250061",
-              "views": 171800,
+              "views": 171900,
               "duration": 60,
               "date": "2025-07-05",
               "category": "Khái niệm tài chính"
             },
-            "ratio": 8.731082654249127,
+            "ratio": 8.726003490401396,
             "daysApart": 29.80929398148148
           }
         ]
@@ -1350,35 +1350,35 @@
           {
             "name": "Tội phạm & mặt tối tài chính",
             "count": 11,
-            "median": 299500,
-            "mean": 1005590.9090909091,
+            "median": 300500,
+            "mean": 1006445.4545454546,
             "q25": 132100,
-            "q75": 604850,
-            "relMedian": 2.1047083626141956,
-            "relQ25": 0.5111047208829935,
-            "relQ75": 4.884207763786332
+            "q75": 608850,
+            "relMedian": 2.111735769501054,
+            "relQ25": 0.5103797241079966,
+            "relQ75": 4.883787489669664
           },
           {
             "name": "Khái niệm tài chính",
             "count": 31,
-            "median": 188900,
-            "mean": 373903.22580645164,
-            "q25": 89450,
-            "q75": 388100,
-            "relMedian": 0.6775548296780215,
-            "relQ25": 0.5,
+            "median": 189000,
+            "mean": 374119.3548387097,
+            "q25": 89500,
+            "q75": 388600,
+            "relMedian": 0.6773967809657103,
+            "relQ25": 0.5002646903123346,
             "relQ75": 1.276812891674127
           },
           {
             "name": "Tin thời sự / chính trị",
             "count": 19,
             "median": 56000,
-            "mean": 162794.73684210525,
+            "mean": 162910.52631578947,
             "q25": 29000,
-            "q75": 196800,
-            "relMedian": 0.8923986759244308,
-            "relQ25": 0.3176625311682783,
-            "relQ75": 1.9763077731092438
+            "q75": 196900,
+            "relMedian": 0.8869174679806886,
+            "relQ25": 0.31706183287941714,
+            "relQ75": 1.9752415105386416
           }
         ],
         "note": "timeBuckets, weekdays, durations, tags and scope.categories only cover the current format when era is set"
@@ -1387,35 +1387,35 @@
         {
           "name": "Sáng (5–11h)",
           "count": 11,
-          "median": 192000,
-          "mean": 237972.72727272726,
-          "q25": 97950,
-          "q75": 368250,
-          "relMedian": 0.5443577004968062,
-          "relQ25": 0.4474524535357671,
-          "relQ75": 1.257977164924505
+          "median": 192100,
+          "mean": 238890.9090909091,
+          "q25": 98050,
+          "q75": 369050,
+          "relMedian": 0.5441645973749557,
+          "relQ25": 0.447109737872046,
+          "relQ75": 1.2578039403245418
         },
         {
           "name": "Trưa (11–14h)",
           "count": 26,
-          "median": 127950,
-          "mean": 227253.84615384616,
-          "q25": 68975,
-          "q75": 282925,
-          "relMedian": 0.644432239308214,
-          "relQ25": 0.4684678225142218,
-          "relQ75": 1.984796016966168
+          "median": 128150,
+          "mean": 227415.38461538462,
+          "q25": 69125,
+          "q75": 283550,
+          "relMedian": 0.644394060932624,
+          "relQ25": 0.46869829615145253,
+          "relQ75": 1.9853230724826825
         },
         {
           "name": "Chiều (14–18h)",
           "count": 11,
           "median": 232000,
-          "mean": 1050554.5454545454,
-          "q25": 75800,
-          "q75": 481300,
+          "mean": 1050609.0909090908,
+          "q25": 76000,
+          "q75": 481350,
           "relMedian": 0.7832001121862291,
-          "relQ25": 0.5111047208829935,
-          "relQ75": 1.5838655462184874
+          "relQ25": 0.5103797241079966,
+          "relQ75": 1.5835187353629976
         },
         {
           "name": "Tối (18–23h)",
@@ -1424,186 +1424,186 @@
           "mean": 22600,
           "q25": 22600,
           "q75": 22600,
-          "relMedian": 0.24794295117937465,
-          "relQ25": 0.24794295117937465,
-          "relQ75": 0.24794295117937465
+          "relMedian": 0.24767123287671233,
+          "relQ25": 0.24767123287671233,
+          "relQ75": 0.24767123287671233
         },
         {
           "name": "Đêm (23–5h)",
           "count": 12,
-          "median": 205350,
-          "mean": 470050,
+          "median": 206450,
+          "mean": 470333.3333333333,
           "q25": 48575,
           "q75": 720450,
-          "relMedian": 2.541176470588235,
-          "relQ25": 1.0816279249362886,
-          "relQ75": 3.943798146144229
+          "relMedian": 2.540686463555727,
+          "relQ25": 1.0838530230814545,
+          "relQ75": 3.9435330344210735
         }
       ],
       "categories": [
         {
           "name": "Tội phạm & mặt tối tài chính",
           "count": 11,
-          "median": 299500,
-          "mean": 1005590.9090909091,
+          "median": 300500,
+          "mean": 1006445.4545454546,
           "q25": 132100,
-          "q75": 604850,
-          "relMedian": 2.1047083626141956,
-          "relQ25": 0.5111047208829935,
-          "relQ75": 4.884207763786332
+          "q75": 608850,
+          "relMedian": 2.111735769501054,
+          "relQ25": 0.5103797241079966,
+          "relQ75": 4.883787489669664
         },
         {
           "name": "Khái niệm tài chính",
           "count": 31,
-          "median": 188900,
-          "mean": 373903.22580645164,
-          "q25": 89450,
-          "q75": 388100,
-          "relMedian": 0.6775548296780215,
-          "relQ25": 0.5,
+          "median": 189000,
+          "mean": 374119.3548387097,
+          "q25": 89500,
+          "q75": 388600,
+          "relMedian": 0.6773967809657103,
+          "relQ25": 0.5002646903123346,
           "relQ75": 1.276812891674127
         },
         {
           "name": "Tin thời sự / chính trị",
           "count": 19,
           "median": 56000,
-          "mean": 162794.73684210525,
+          "mean": 162910.52631578947,
           "q25": 29000,
-          "q75": 196800,
-          "relMedian": 0.8923986759244308,
-          "relQ25": 0.3176625311682783,
-          "relQ75": 1.9763077731092438
+          "q75": 196900,
+          "relMedian": 0.8869174679806886,
+          "relQ25": 0.31706183287941714,
+          "relQ75": 1.9752415105386416
         }
       ],
       "months": [
         {
           "name": "2025-05",
           "count": 10,
-          "median": 334300,
-          "mean": 519160,
-          "q25": 189675,
-          "q75": 613025,
-          "relMedian": 0.9140446441392378,
-          "relQ25": 0.502051349920593,
-          "relQ75": 2.2306760255684113
+          "median": 334350,
+          "mean": 519200,
+          "q25": 189775,
+          "q75": 613050,
+          "relMedian": 0.9141355681479786,
+          "relQ25": 0.5023160402329274,
+          "relQ75": 2.230196868979961
         },
         {
           "name": "2025-06",
           "count": 13,
-          "median": 288800,
-          "mean": 1094523.076923077,
+          "median": 288900,
+          "mean": 1094553.8461538462,
           "q25": 227700,
           "q75": 713100,
           "relMedian": 0.7832001121862291,
-          "relQ25": 0.4601026598226785,
+          "relQ25": 0.46046186144156753,
           "relQ75": 1.7685950413223142
         },
         {
           "name": "2025-07",
           "count": 2,
-          "median": 227550,
-          "mean": 227550,
-          "q25": 199675,
-          "q75": 255425,
-          "relMedian": 1.2579044259505214,
-          "relQ25": 0.9634537706076594,
-          "relQ75": 1.5523550812933833
+          "median": 228000,
+          "mean": 228000,
+          "q25": 199950,
+          "q75": 256050,
+          "relMedian": 1.2607066919299612,
+          "relQ25": 0.9650496076472237,
+          "relQ75": 1.556363776212699
         },
         {
           "name": "2025-08",
           "count": 5,
           "median": 153400,
-          "mean": 234160,
-          "q25": 132800,
-          "q75": 299500,
-          "relMedian": 0.5484508899143046,
-          "relQ25": 0.5443577004968062,
-          "relQ75": 2.1047083626141956
+          "mean": 234420,
+          "q25": 132900,
+          "q75": 300500,
+          "relMedian": 0.5473684210526316,
+          "relQ25": 0.5441645973749557,
+          "relQ75": 2.111735769501054
         },
         {
           "name": "2025-09",
           "count": 3,
           "median": 142300,
-          "mean": 153633.33333333334,
+          "mean": 153666.66666666666,
           "q25": 89550,
-          "q75": 212050,
-          "relMedian": 0.5049680624556423,
-          "relQ25": 0.31777856635911994,
-          "relQ75": 1.242645661586219
+          "q75": 212100,
+          "relMedian": 0.5047889322454772,
+          "relQ25": 0.31766583894998224,
+          "relQ75": 1.2429074668254794
         },
         {
           "name": "2025-10",
           "count": 1,
-          "median": 550900,
-          "mean": 550900,
-          "q25": 550900,
-          "q75": 550900,
-          "relMedian": 12.962352941176471,
-          "relQ25": 12.962352941176471,
-          "relQ75": 12.962352941176471
+          "median": 558900,
+          "mean": 558900,
+          "q25": 558900,
+          "q75": 558900,
+          "relMedian": 13.088992974238876,
+          "relQ25": 13.088992974238876,
+          "relQ75": 13.088992974238876
         },
         {
           "name": "2025-11",
           "count": 5,
-          "median": 42500,
-          "mean": 106100,
+          "median": 42700,
+          "mean": 106200,
           "q25": 42000,
-          "q75": 81200,
-          "relMedian": 0.5233990147783252,
-          "relQ25": 0.5172413793103449,
-          "relQ75": 1.9105882352941177
+          "q75": 81400,
+          "relMedian": 0.5245700245700246,
+          "relQ25": 0.515970515970516,
+          "relQ75": 1.9063231850117095
         },
         {
           "name": "2026-01",
           "count": 5,
-          "median": 70400,
-          "mean": 272180,
+          "median": 70600,
+          "mean": 272220,
           "q25": 56000,
           "q75": 111900,
-          "relMedian": 1.2571428571428571,
-          "relQ25": 0.7954545454545454,
+          "relMedian": 1.2607142857142857,
+          "relQ25": 0.7932011331444759,
           "relQ75": 1.9982142857142857
         },
         {
           "name": "2026-02",
           "count": 4,
-          "median": 197250,
-          "mean": 202025,
+          "median": 198050,
+          "mean": 202675,
           "q25": 30650,
-          "q75": 368625,
-          "relMedian": 2.5343832215145707,
-          "relQ25": 0.24145627807536418,
-          "relQ75": 6.085475446107293
+          "q75": 370075,
+          "relMedian": 2.5344111439799097,
+          "relQ25": 0.24106008741007284,
+          "relQ75": 6.097053682041761
         },
         {
           "name": "2026-03",
           "count": 5,
-          "median": 131100,
-          "mean": 114460,
+          "median": 131500,
+          "mean": 115020,
           "q25": 27200,
-          "q75": 153900,
-          "relMedian": 0.5457951706910907,
-          "relQ25": 0.17673814165042234,
-          "relQ75": 1.173913043478261
+          "q75": 156100,
+          "relMedian": 0.5470049916805324,
+          "relQ25": 0.17424727738629084,
+          "relQ75": 1.1870722433460077
         },
         {
           "name": "2026-04",
           "count": 4,
-          "median": 56000,
-          "mean": 69950,
-          "q25": 47200,
-          "q75": 78750,
-          "relMedian": 1.7919064262386328,
-          "relQ25": 0.8394038731978916,
-          "relQ75": 2.601597597398837
+          "median": 56250,
+          "mean": 70150,
+          "q25": 47250,
+          "q75": 79150,
+          "relMedian": 1.7871205543764872,
+          "relQ25": 0.833769786583053,
+          "relQ75": 2.601399375322791
         },
         {
           "name": "2026-05",
           "count": 4,
-          "median": 26950,
-          "mean": 33975,
-          "q25": 21525,
-          "q75": 39400,
+          "median": 27000,
+          "mean": 34050,
+          "q25": 21600,
+          "q75": 39450,
           "relMedian": 0.5454545454545454,
           "relQ25": 0.5454545454545454,
           "relQ75": 0.5454545454545454
@@ -1613,79 +1613,79 @@
         {
           "name": "T2",
           "count": 8,
-          "median": 136600,
-          "mean": 561887.5,
+          "median": 136750,
+          "mean": 561950,
           "q25": 50725,
-          "q75": 344850,
-          "relMedian": 1.4107659874839622,
-          "relQ25": 0.4778289266090694,
-          "relQ75": 2.068235294117647
+          "q75": 345000,
+          "relMedian": 1.4043853424730894,
+          "relQ25": 0.4777899139333761,
+          "relQ75": 2.064914004647714
         },
         {
           "name": "T3",
           "count": 11,
-          "median": 281800,
-          "mean": 803190.9090909091,
-          "q25": 92150,
-          "q75": 381400,
+          "median": 281900,
+          "mean": 803436.3636363636,
+          "q25": 92200,
+          "q75": 382250,
           "relMedian": 1.7685950413223142,
-          "relQ25": 0.5642755141243757,
-          "relQ75": 2.914592718052016
+          "relQ25": 0.5636809284350268,
+          "relQ75": 2.9148640886672634
         },
         {
           "name": "T4",
           "count": 8,
-          "median": 127350,
-          "mean": 234650,
-          "q25": 89350,
-          "q75": 331400,
-          "relMedian": 0.8811170923973073,
-          "relQ25": 0.45083892596070657,
-          "relQ75": 1.4193111029146566
+          "median": 127400,
+          "mean": 234800,
+          "q25": 89400,
+          "q75": 332025,
+          "relMedian": 0.8811671704254824,
+          "relQ25": 0.4518772652614377,
+          "relQ75": 1.4206148838794546
         },
         {
           "name": "T5",
           "count": 6,
-          "median": 122450,
-          "mean": 348933.3333333333,
+          "median": 122500,
+          "mean": 348983.3333333333,
           "q25": 41600,
-          "q75": 263825,
-          "relMedian": 0.7954545454545454,
-          "relQ25": 0.5,
-          "relQ75": 1.2448275862068965
+          "q75": 263925,
+          "relMedian": 0.7932011331444759,
+          "relQ25": 0.5002646903123346,
+          "relQ75": 1.2452586206896552
         },
         {
           "name": "T6",
           "count": 10,
           "median": 139100,
-          "mean": 202900,
-          "q25": 66500,
-          "q75": 324925,
-          "relMedian": 1.020171484664543,
-          "relQ25": 0.54742759255993,
-          "relQ75": 1.5005581085352544
+          "mean": 203050,
+          "q25": 66700,
+          "q75": 325250,
+          "relMedian": 1.0219571989502574,
+          "relQ25": 0.5465674651332126,
+          "relQ75": 1.5019800063147617
         },
         {
           "name": "T7",
           "count": 7,
-          "median": 398400,
-          "mean": 623685.7142857143,
-          "q25": 158950,
-          "q75": 825450,
-          "relMedian": 4.774116237267825,
-          "relQ25": 1.6459916833056485,
-          "relQ75": 9.748026539364027
+          "median": 399400,
+          "mean": 625014.2857142857,
+          "q25": 159050,
+          "q75": 829450,
+          "relMedian": 4.774656306037059,
+          "relQ25": 1.6470840534237152,
+          "relQ75": 9.810223541089874
         },
         {
           "name": "CN",
           "count": 11,
           "median": 142300,
-          "mean": 186345.45454545456,
-          "q25": 34850,
-          "q75": 190800,
-          "relMedian": 0.5049680624556423,
-          "relQ25": 0.2288018040881736,
-          "relQ75": 0.6116750001845561
+          "mean": 186600,
+          "q25": 34950,
+          "q75": 191900,
+          "relMedian": 0.5047889322454772,
+          "relQ25": 0.22866594493684245,
+          "relQ75": 0.6122008863231214
         }
       ],
       "durations": [
@@ -1693,201 +1693,201 @@
           "name": "≤30s",
           "count": 11,
           "median": 558500,
-          "mean": 833618.1818181818,
-          "q25": 289800,
+          "mean": 833645.4545454546,
+          "q25": 289900,
           "q75": 809250,
-          "relMedian": 1.2448275862068965,
-          "relQ25": 0.6674274296616831,
-          "relQ75": 2.827328262804434
+          "relMedian": 1.2452586206896552,
+          "relQ25": 0.6675578011570203,
+          "relQ75": 2.826548113180407
         },
         {
           "name": "31–45s",
           "count": 8,
-          "median": 167050,
-          "mean": 210050,
-          "q25": 116075,
-          "q75": 238450,
-          "relMedian": 0.5041026998411858,
-          "relQ25": 0.42574136755096864,
-          "relQ75": 0.8123610320935334
+          "median": 167100,
+          "mean": 210100,
+          "q25": 116100,
+          "q75": 238525,
+          "relMedian": 0.5043673901535204,
+          "relQ25": 0.42601076876513544,
+          "relQ75": 0.8122675345733876
         },
         {
           "name": "46–60s",
           "count": 5,
-          "median": 131100,
-          "mean": 377700,
-          "q25": 70400,
-          "q75": 171800,
-          "relMedian": 0.6690031152647975,
-          "relQ25": 0.5457951706910907,
-          "relQ75": 1.2571428571428571
+          "median": 131500,
+          "mean": 377840,
+          "q25": 70600,
+          "q75": 171900,
+          "relMedian": 0.669392523364486,
+          "relQ25": 0.5470049916805324,
+          "relQ75": 1.2607142857142857
         },
         {
           "name": "61–90s",
           "count": 37,
           "median": 124800,
-          "mean": 351537.8378378378,
+          "mean": 351994.5945945946,
           "q25": 42000,
-          "q75": 281800,
-          "relMedian": 1.0816279249362886,
-          "relQ25": 0.47968417317246276,
-          "relQ75": 2.472029625215761
+          "q75": 281900,
+          "relMedian": 1.0838530230814545,
+          "relQ25": 0.47978006385242994,
+          "relQ75": 2.473139421827318
         }
       ],
       "tags": [
         {
           "name": "#finance",
           "count": 50,
-          "median": 180350,
-          "mean": 489014,
-          "q25": 80525,
-          "q75": 402675,
-          "relMedian": 1.173913043478261,
-          "relQ25": 0.5127233894963583,
-          "relQ75": 2.567823258335592
+          "median": 180450,
+          "mean": 489340,
+          "q25": 80575,
+          "q75": 403000,
+          "relMedian": 1.1870722433460077,
+          "relQ25": 0.5122203029826111,
+          "relQ75": 2.5671468847459
         },
         {
           "name": "#fyp",
           "count": 28,
-          "median": 270050,
-          "mean": 718892.8571428572,
+          "median": 270450,
+          "mean": 718989.2857142857,
           "q25": 151350,
           "q75": 583575,
-          "relMedian": 0.7533726612855944,
-          "relQ25": 0.44696881491499674,
-          "relQ75": 2.2138253896077056
+          "relMedian": 0.7534621868003661,
+          "relQ25": 0.4471094881475053,
+          "relQ75": 2.2189734430147223
         },
         {
           "name": "#economics",
           "count": 27,
-          "median": 70400,
-          "mean": 170074.07407407407,
+          "median": 70600,
+          "mean": 170614.8148148148,
           "q25": 36300,
-          "q75": 153650,
-          "relMedian": 0.9846837944664032,
-          "relQ25": 0.48532780288491306,
-          "relQ75": 2.601597597398837
+          "q75": 154750,
+          "relMedian": 0.9901366882452418,
+          "relQ25": 0.48527232144826404,
+          "relQ75": 2.601399375322791
         },
         {
           "name": "#economic",
           "count": 24,
-          "median": 289800,
-          "mean": 824037.5,
-          "q25": 191225,
+          "median": 289900,
+          "mean": 824104.1666666666,
+          "q25": 191325,
           "q75": 672375,
-          "relMedian": 0.9999898757631491,
-          "relQ25": 0.5061540497617787,
-          "relQ75": 2.0203984201242426
+          "relMedian": 1.0000399537913243,
+          "relQ25": 0.5064187400741134,
+          "relQ75": 2.024187261260509
         },
         {
           "name": "#news",
           "count": 11,
           "median": 56000,
-          "mean": 98909.09090909091,
+          "mean": 99100,
           "q25": 23550,
-          "q75": 129000,
-          "relMedian": 0.7954545454545454,
-          "relQ25": 0.17673814165042234,
+          "q75": 129050,
+          "relMedian": 0.7932011331444759,
+          "relQ25": 0.17424727738629084,
           "relQ75": 1.9982142857142857
         },
         {
           "name": "#currentevents",
           "count": 9,
           "median": 56000,
-          "mean": 217977.77777777778,
+          "mean": 218177.77777777778,
           "q25": 27200,
-          "q75": 240200,
-          "relMedian": 0.7954545454545454,
-          "relQ25": 0.2946502057613169,
+          "q75": 240400,
+          "relMedian": 0.7932011331444759,
+          "relQ25": 0.2941659819227609,
           "relQ75": 1.9982142857142857
         },
         {
           "name": "#politics",
           "count": 9,
           "median": 35800,
-          "mean": 207755.55555555556,
+          "mean": 207955.55555555556,
           "q25": 19900,
-          "q75": 240200,
+          "q75": 240400,
           "relMedian": 0.5454545454545454,
-          "relQ25": 0.17673814165042234,
-          "relQ75": 1.832189168573608
+          "relQ25": 0.17424727738629084,
+          "relQ75": 1.8281368821292776
         },
         {
           "name": "#financialliteracy",
           "count": 7,
-          "median": 131100,
-          "mean": 197271.42857142858,
-          "q25": 63350,
-          "q75": 276150,
-          "relMedian": 1.2571428571428571,
-          "relQ25": 0.8598541070846759,
-          "relQ75": 3.6842931416753872
+          "median": 131500,
+          "mean": 199028.57142857142,
+          "q25": 63700,
+          "q75": 277750,
+          "relMedian": 1.2607142857142857,
+          "relQ25": 0.86703861751327,
+          "relQ75": 3.684131805986566
         },
         {
           "name": "#tiktoklearningcampaign",
           "count": 4,
-          "median": 61850,
-          "mean": 124775,
-          "q25": 42375,
-          "q75": 144250,
-          "relMedian": 1.2169936250362214,
-          "relQ25": 0.5218596059113301,
-          "relQ75": 3.3941176470588235
+          "median": 62050,
+          "mean": 124900,
+          "q25": 42525,
+          "q75": 144425,
+          "relMedian": 1.2154466047908672,
+          "relQ25": 0.5224201474201474,
+          "relQ75": 3.38231850117096
         },
         {
           "name": "#personalfinance",
           "count": 4,
-          "median": 61850,
-          "mean": 124775,
-          "q25": 42375,
-          "q75": 144250,
-          "relMedian": 1.2169936250362214,
-          "relQ25": 0.5218596059113301,
-          "relQ75": 3.3941176470588235
+          "median": 62050,
+          "mean": 124900,
+          "q25": 42525,
+          "q75": 144425,
+          "relMedian": 1.2154466047908672,
+          "relQ25": 0.5224201474201474,
+          "relQ75": 3.38231850117096
         },
         {
           "name": "#war",
           "count": 2,
-          "median": 133700,
-          "mean": 133700,
-          "q25": 80450,
-          "q75": 186950,
-          "relMedian": 1.0044636551120152,
-          "relQ25": 0.5906008983812188,
-          "relQ75": 1.4183264118428116
+          "median": 133800,
+          "mean": 133800,
+          "q25": 80500,
+          "q75": 187100,
+          "relMedian": 1.0011920797577842,
+          "relQ25": 0.5877196785720376,
+          "relQ75": 1.414664480943531
         },
         {
           "name": "#iran",
           "count": 2,
-          "median": 133700,
-          "mean": 133700,
-          "q25": 80450,
-          "q75": 186950,
-          "relMedian": 1.0044636551120152,
-          "relQ25": 0.5906008983812188,
-          "relQ75": 1.4183264118428116
+          "median": 133800,
+          "mean": 133800,
+          "q25": 80500,
+          "q75": 187100,
+          "relMedian": 1.0011920797577842,
+          "relQ25": 0.5877196785720376,
+          "relQ75": 1.414664480943531
         },
         {
           "name": "#recessionindicators",
           "count": 1,
-          "median": 290800,
-          "mean": 290800,
-          "q25": 290800,
-          "q75": 290800,
-          "relMedian": 0.6113096489384066,
-          "relQ25": 0.6113096489384066,
-          "relQ75": 0.6113096489384066
+          "median": 290900,
+          "mean": 290900,
+          "q25": 290900,
+          "q75": 290900,
+          "relMedian": 0.6113913408995376,
+          "relQ25": 0.6113913408995376,
+          "relQ75": 0.6113913408995376
         },
         {
           "name": "#recession",
           "count": 1,
-          "median": 290800,
-          "mean": 290800,
-          "q25": 290800,
-          "q75": 290800,
-          "relMedian": 0.6113096489384066,
-          "relQ25": 0.6113096489384066,
-          "relQ75": 0.6113096489384066
+          "median": 290900,
+          "mean": 290900,
+          "q25": 290900,
+          "q75": 290900,
+          "relMedian": 0.6113913408995376,
+          "relQ25": 0.6113913408995376,
+          "relQ75": 0.6113913408995376
         },
         {
           "name": "#invincible",
@@ -2150,6 +2150,173 @@
           "title": "Gorillas explain Money Laundering #economic #finance #fyp ",
           "views": 1900000,
           "folder": "tiktok/gorillanomics/style/7507727025692495146"
+        },
+        {
+          "id": "7512346700695129390",
+          "duration": 60.522653,
+          "language": "en",
+          "wpm": 220.0925313945803,
+          "speechCoverage": 0.9999561651733939,
+          "hook": "what is a mortgage gorilla want buy new house but gorilla too",
+          "changes": 57,
+          "secPerChange": 1.0434940172413794,
+          "cuts": 0,
+          "changesFirst3s": 5,
+          "firstChangeAt": 0.333333,
+          "lufs": -19.3,
+          "motion": {
+            "beats": 92,
+            "beatsPerMin": 91.19,
+            "medianBeat": 0.58,
+            "beatsFirst3s": 6,
+            "entrances": {
+              "cut": 78,
+              "slide-right": 4,
+              "slide-up": 2,
+              "pop": 2,
+              "slide-left": 3,
+              "fade": 2,
+              "draw-right": 1
+            },
+            "caption": {
+              "swaps": 35,
+              "medianInterval": 1.13,
+              "box": [
+                0.244,
+                0.588,
+                0.533,
+                0.1
+              ]
+            },
+            "firstBeats": [
+              {
+                "t": 0,
+                "at": "what",
+                "fx": "cut"
+              },
+              {
+                "t": 0.33,
+                "at": "a",
+                "fx": "cut"
+              },
+              {
+                "t": 0.87,
+                "at": "gorilla",
+                "fx": "cut"
+              },
+              {
+                "t": 1.53,
+                "at": "buy",
+                "fx": "cut"
+              },
+              {
+                "t": 2.07,
+                "at": "house",
+                "fx": "slide-right"
+              },
+              {
+                "t": 2.45,
+                "at": "gorilla",
+                "fx": "cut"
+              },
+              {
+                "t": 2.93,
+                "at": "too",
+                "fx": "cut"
+              },
+              {
+                "t": 3.48,
+                "at": "so",
+                "fx": "cut"
+              }
+            ]
+          },
+          "title": "Gorillas explain Mortgage #economic #finance #fyp ",
+          "views": 1500000,
+          "folder": "tiktok/gorillanomics/style/7512346700695129390"
+        },
+        {
+          "id": "7598652375418686734",
+          "duration": 60.97,
+          "language": "en",
+          "wpm": 186.51315789473685,
+          "speechCoverage": 0.9972117434804002,
+          "hook": "what is ice explained by gorillas in 2025 president",
+          "changes": 94,
+          "secPerChange": 0.6417894736842105,
+          "cuts": 25,
+          "changesFirst3s": 5,
+          "firstChangeAt": 0.783333,
+          "lufs": -18.8,
+          "motion": {
+            "beats": 96,
+            "beatsPerMin": 94.53,
+            "medianBeat": 0.53,
+            "beatsFirst3s": 4,
+            "entrances": {
+              "cut": 85,
+              "slide-right": 1,
+              "drop": 2,
+              "fade": 6,
+              "draw-right": 1,
+              "slide-left": 1
+            },
+            "caption": {
+              "swaps": 50,
+              "medianInterval": 1,
+              "box": [
+                0.2,
+                0.113,
+                0.6,
+                0.075
+              ]
+            },
+            "firstBeats": [
+              {
+                "t": 0,
+                "at": "what",
+                "fx": "cut"
+              },
+              {
+                "t": 0.4,
+                "at": "ice",
+                "fx": "slide-right"
+              },
+              {
+                "t": 0.78,
+                "at": "explained",
+                "fx": "cut"
+              },
+              {
+                "t": 1.87,
+                "at": "in",
+                "fx": "cut"
+              },
+              {
+                "t": 2.13,
+                "at": "2025",
+                "fx": "cut"
+              },
+              {
+                "t": 3,
+                "at": "president",
+                "fx": "cut"
+              },
+              {
+                "t": 3.27,
+                "at": "president",
+                "fx": "drop"
+              },
+              {
+                "t": 3.73,
+                "at": "take",
+                "fx": "fade"
+              }
+            ]
+          },
+          "title": "ICE explained by Gorills #finance #economics #politics #ice #currentevents ",
+          "views": 1100000,
+          "folder": "tiktok/gorillanomics/style/7598652375418686734"
         }
       ],
       "top": [
@@ -2158,7 +2325,7 @@
           "title": "Gorillas explain Tax Evasion #economic #finance #fyp ",
           "url": "https://www.tiktok.com/@gorillanomics/video/7514219246356942122",
           "views": 6500000,
-          "er": 0.10570876923076923,
+          "er": 0.1057296923076923,
           "duration": 61,
           "date": "2025-06-10",
           "time": "14:30",
@@ -2170,7 +2337,7 @@
           "title": "Gorillas explain Insurance #economic #finance #fyp ",
           "url": "https://www.tiktok.com/@gorillanomics/video/7511246760254180650",
           "views": 3200000,
-          "er": 0.13070625,
+          "er": 0.13071,
           "duration": 29,
           "date": "2025-06-02",
           "time": "14:15",
@@ -2182,7 +2349,7 @@
           "title": "Gorillas explain Money Laundering #economic #finance #fyp ",
           "url": "https://www.tiktok.com/@gorillanomics/video/7507727025692495146",
           "views": 1900000,
-          "er": 0.13909526315789475,
+          "er": 0.13910368421052632,
           "duration": 28,
           "date": "2025-05-24",
           "time": "02:35",
@@ -2194,7 +2361,7 @@
           "title": "Gorillas explain Mortgage #economic #finance #fyp ",
           "url": "https://www.tiktok.com/@gorillanomics/video/7512346700695129390",
           "views": 1500000,
-          "er": 0.1415,
+          "er": 0.14149666666666666,
           "duration": 60,
           "date": "2025-06-05",
           "time": "13:23",
@@ -2206,7 +2373,7 @@
           "title": "ICE explained by Gorills #finance #economics #politics #ice #currentevents ",
           "url": "https://www.tiktok.com/@gorillanomics/video/7598652375418686734",
           "views": 1100000,
-          "er": 0.05665,
+          "er": 0.05675090909090909,
           "duration": 61,
           "date": "2026-01-24",
           "time": "03:12",
@@ -2230,7 +2397,7 @@
           "title": "Gorillas explain Capitalism #economic #finance #fyp ",
           "url": "https://www.tiktok.com/@gorillanomics/video/7511981862139514158",
           "views": 713100,
-          "er": 0.1127653905483102,
+          "er": 0.11277801149908849,
           "duration": 27,
           "date": "2025-06-04",
           "time": "13:47",
@@ -2242,7 +2409,7 @@
           "title": "Gorillas explain Fake Money #economic #finance #fyp ",
           "url": "https://www.tiktok.com/@gorillanomics/video/7508459051450191146",
           "views": 658800,
-          "er": 0.10460078931390407,
+          "er": 0.104605343047966,
           "duration": 28,
           "date": "2025-05-26",
           "time": "01:56",
@@ -2250,28 +2417,28 @@
           "ratio": 4.294654498044329
         },
         {
+          "id": "7564943939237580087",
+          "title": "Pyramid Schemes explain by Gorillas #finance #economics #financialliteracy ",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7564943939237580087",
+          "views": 558900,
+          "er": 0.06392198962247271,
+          "duration": 61,
+          "date": "2025-10-25",
+          "time": "07:06",
+          "category": "Tội phạm & mặt tối tài chính",
+          "ratio": 3.6434159061277707
+        },
+        {
           "id": "7512737228787830058",
           "title": "Gorillas explain Vacation Time #economic #finance #fyp ",
           "url": "https://www.tiktok.com/@gorillanomics/video/7512737228787830058",
           "views": 558500,
-          "er": 0.11694359892569382,
+          "er": 0.11694538943598926,
           "duration": 24,
           "date": "2025-06-06",
           "time": "14:38",
           "category": "Khái niệm tài chính",
           "ratio": 3.6408083441981747
-        },
-        {
-          "id": "7564943939237580087",
-          "title": "Pyramid Schemes explain by Gorillas #finance #economics #financialliteracy ",
-          "url": "https://www.tiktok.com/@gorillanomics/video/7564943939237580087",
-          "views": 550900,
-          "er": 0.06397168270103468,
-          "duration": 61,
-          "date": "2025-10-25",
-          "time": "07:06",
-          "category": "Tội phạm & mặt tối tài chính",
-          "ratio": 3.591264667535854
         }
       ]
     }

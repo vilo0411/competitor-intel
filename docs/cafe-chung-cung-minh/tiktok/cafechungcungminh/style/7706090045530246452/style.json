@@ -1,0 +1,68 @@
+{
+  "id": "7706090045530246452",
+  "duration": 72.887007,
+  "language": "vi",
+  "wpm": 246.34420697412824,
+  "speechCoverage": 0.9757568999917915,
+  "hook": "Bạn nghĩ rằng đầu tư chứng khoán chỉ đơn giản là mua cổ phiếu khi giá",
+  "transcript": "Bạn nghĩ rằng đầu tư chứng khoán chỉ đơn giản là mua cổ phiếu khi giá thấp, chờ giá tăng rồi bán ra để kiếm lời? Thực tế, trên thị trường chứng khoán, có nhiều cách khác nhau để tạo ra lợi nhuận từ khoản đầu tư của mình. Cách thứ nhất là kiếm lời từ tranh lệch giá. Ví dụ, bạn mua 100 cổ phiếu với giá 20.000 đồng, tổng vốn là 2 triệu đồng. Sau đó, giá tăng lên 25.000 đồng và bạn bán ra. Bạn thu về 2,5 triệu đồng, tức lãi 500.000 đồng, chưa tính thuế và phí giao dịch. Đây chính là lợi nhuận đến từ sự tranh lệch giữa giá mua và giá bán. Cách thứ 2 là nhận cổ tức. Khi doanh nghiệp kinh doanh có lợi nhuận và quyết định phân phối một phần lợi nhuận cho cổ đông, cổ tức thường được chi trả dưới 2 hình thức, tiền mặt hoặc cổ phiếu. Điều này có nghĩa là, ngay cả khi bạn chưa bán cổ phiếu, khoản đầu tư vẫn có thể mang lại thu nhập thông qua hoạt động kinh doanh của doanh nghiệp. Như vậy, khi đầu tư cổ phiếu, bạn có thể tạo ra lợi nhuận từ 2 nguồn chính, tranh lệch giá và cổ tức. Tuy nhiên, cần nhớ rằng đây không phải những khoản thu nhập được đảm bảo. Giá cổ phiếu hoàn toàn có thể giảm, khiến bạn thua lỗ. Doanh nghiệp có thể kinh doanh kém hiệu quả hoặc không chia cổ tức trong một năm nhất định. Vì vậy, đừng chỉ quan tâm mình có thể kiếm được bao nhiêu tiền. Hãy hiểu cả những rủi ro có thể gặp phải trước khi đầu tư.",
+  "changes": 0,
+  "secPerChange": 72.887007,
+  "cuts": 0,
+  "changesFirst3s": 0,
+  "firstChangeAt": null,
+  "lufs": -15.3,
+  "grids": [
+    "grid_001.jpg",
+    "grid_002.jpg",
+    "grid_003.jpg",
+    "grid_004.jpg",
+    "grid_005.jpg",
+    "grid_006.jpg",
+    "grid_007.jpg",
+    "grid_008.jpg",
+    "grid_009.jpg",
+    "grid_010.jpg"
+  ],
+  "motion": {
+    "beats": 5,
+    "beatsPerMin": 4.13,
+    "medianBeat": 3.86,
+    "beatsFirst3s": 0,
+    "entrances": {
+      "cut": 1,
+      "slide-left": 1,
+      "draw-right": 1,
+      "slide-right": 1,
+      "draw-up": 1
+    },
+    "caption": null,
+    "firstBeats": [
+      {
+        "t": 0,
+        "at": "Bạn",
+        "fx": "cut"
+      },
+      {
+        "t": 3.53,
+        "at": "chờ",
+        "fx": "slide-left"
+      },
+      {
+        "t": 66.4,
+        "at": "chỉ",
+        "fx": "draw-right"
+      },
+      {
+        "t": 70.6,
+        "at": "gặp",
+        "fx": "slide-right"
+      },
+      {
+        "t": 72.13,
+        "at": "tư.",
+        "fx": "draw-up"
+      }
+    ]
+  }
+}

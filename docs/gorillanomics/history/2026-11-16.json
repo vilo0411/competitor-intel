@@ -1,0 +1,2446 @@
+{
+  "name": "Gorillanomics",
+  "updated": "2026-11-16",
+  "tiktok": [
+    {
+      "handle": "gorillanomics",
+      "profile": {
+        "followers": 166000,
+        "hearts": 2700000,
+        "videoCount": 61,
+        "nickname": "Gorillanomics",
+        "bio": "📚smart made simple\ntappedinbiz@gmail.com 📩"
+      },
+      "stats": {
+        "n": 61,
+        "first": "2025-05-19",
+        "last": "2026-05-29",
+        "daysSinceLast": 171,
+        "totalViews": 25763900,
+        "meanViews": 422359.01639344264,
+        "medianViews": 153400,
+        "maxViews": 6500000,
+        "minViews": 15200,
+        "medianER": 0.08821693121693122,
+        "postsPerWeek": 1.1379051833276261,
+        "medianGapDays": 1.8469849537037037,
+        "postsLast30": 0,
+        "medianDuration": 61,
+        "originalSoundShare": 1,
+        "viralCount": 12
+      },
+      "takeaways": {
+        "category": "Không loại nội dung nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 56k–301k)",
+        "share": "Tin thời sự / chính trị chiếm 31,1% số video nhưng chỉ mang về 12,0% tổng view",
+        "viral": "3/61 video đạt từ 1,5 tr view (10× trung vị kênh) và mang về 45,0% tổng view; top 3 chiếm 45,0%",
+        "trend": "View tích lũy trung vị giảm: 289k ở 3 tháng có bài đầu → 56k ở 3 tháng có bài cuối; chưa so ở cùng tuổi bài",
+        "cadence": "Đăng 1,1 video/tuần; tháng dày nhất T6/25 có 13 video; 30 ngày qua: 0 video",
+        "time": "Không khung giờ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 128k–232k)",
+        "weekday": "T7 nổi trội: gấp 4,8× các bài đăng cùng thời, nhóm kế tiếp (T3) 1,8×",
+        "duration": "Không mức độ dài nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 125k–559k)",
+        "tags": "Hashtag đi kèm view cao hơn hẳn trung vị: #economic, #fyp; không chứng minh hashtag làm tăng view"
+      },
+      "evidence": {
+        "channelMedian": 153400,
+        "hitThreshold": 1534000,
+        "periodUnit": "quý",
+        "labeledCount": 61,
+        "totalCount": 61,
+        "youngCount": 0,
+        "categories": [
+          {
+            "name": "Tội phạm & mặt tối tài chính",
+            "count": 11,
+            "weak": false,
+            "young": 0,
+            "median": 300500,
+            "q25": 132100,
+            "q75": 608850,
+            "aboveChannel": 0.6363636363636364,
+            "relMedian": 2.111735769501054,
+            "aboveLocal": 0.6363636363636364,
+            "hits": 2,
+            "hitRate": 0.18181818181818182,
+            "interactions": {
+              "likes": {
+                "median": 0.09365023057821922,
+                "count": 11
+              },
+              "comments": {
+                "median": 0.0003427620632279534,
+                "count": 11
+              },
+              "shares": {
+                "median": 0.0034156378600823044,
+                "count": 11
+              },
+              "saves": {
+                "median": 0.010489913544668588,
+                "count": 11
+              }
+            }
+          },
+          {
+            "name": "Khái niệm tài chính",
+            "count": 31,
+            "weak": false,
+            "young": 0,
+            "median": 189000,
+            "q25": 89500,
+            "q75": 388600,
+            "aboveChannel": 0.5806451612903226,
+            "relMedian": 0.6773967809657103,
+            "aboveLocal": 0.41379310344827586,
+            "hits": 1,
+            "hitRate": 0.03225806451612903,
+            "interactions": {
+              "likes": {
+                "median": 0.08042328042328042,
+                "count": 31
+              },
+              "comments": {
+                "median": 0.0003645147123407993,
+                "count": 31
+              },
+              "shares": {
+                "median": 0.002976338729763387,
+                "count": 31
+              },
+              "saves": {
+                "median": 0.009412712623097582,
+                "count": 31
+              }
+            }
+          },
+          {
+            "name": "Tin thời sự / chính trị",
+            "count": 19,
+            "weak": false,
+            "young": 0,
+            "median": 56000,
+            "q25": 29000,
+            "q75": 196900,
+            "aboveChannel": 0.2631578947368421,
+            "relMedian": 0.8869174679806886,
+            "aboveLocal": 0.4444444444444444,
+            "hits": 0,
+            "hitRate": 0,
+            "interactions": {
+              "likes": {
+                "median": 0.05344950848972297,
+                "count": 19
+              },
+              "comments": {
+                "median": 0.0006424581005586592,
+                "count": 19
+              },
+              "shares": {
+                "median": 0.0022123893805309734,
+                "count": 19
+              },
+              "saves": {
+                "median": 0.006266233766233766,
+                "count": 19
+              }
+            }
+          }
+        ],
+        "sensitivity": [
+          {
+            "remove": 0,
+            "excluded": [],
+            "categories": [
+              {
+                "name": "Tội phạm & mặt tối tài chính",
+                "count": 11,
+                "weak": false,
+                "young": 0,
+                "median": 300500,
+                "q25": 132100,
+                "q75": 608850,
+                "aboveChannel": 0.6363636363636364,
+                "relMedian": 2.111735769501054,
+                "aboveLocal": 0.6363636363636364,
+                "hits": 2,
+                "hitRate": 0.18181818181818182,
+                "interactions": {
+                  "likes": {
+                    "median": 0.09365023057821922,
+                    "count": 11
+                  },
+                  "comments": {
+                    "median": 0.0003427620632279534,
+                    "count": 11
+                  },
+                  "shares": {
+                    "median": 0.0034156378600823044,
+                    "count": 11
+                  },
+                  "saves": {
+                    "median": 0.010489913544668588,
+                    "count": 11
+                  }
+                }
+              },
+              {
+                "name": "Khái niệm tài chính",
+                "count": 31,
+                "weak": false,
+                "young": 0,
+                "median": 189000,
+                "q25": 89500,
+                "q75": 388600,
+                "aboveChannel": 0.5806451612903226,
+                "relMedian": 0.6773967809657103,
+                "aboveLocal": 0.41379310344827586,
+                "hits": 1,
+                "hitRate": 0.03225806451612903,
+                "interactions": {
+                  "likes": {
+                    "median": 0.08042328042328042,
+                    "count": 31
+                  },
+                  "comments": {
+                    "median": 0.0003645147123407993,
+                    "count": 31
+                  },
+                  "shares": {
+                    "median": 0.002976338729763387,
+                    "count": 31
+                  },
+                  "saves": {
+                    "median": 0.009412712623097582,
+                    "count": 31
+                  }
+                }
+              },
+              {
+                "name": "Tin thời sự / chính trị",
+                "count": 19,
+                "weak": false,
+                "young": 0,
+                "median": 56000,
+                "q25": 29000,
+                "q75": 196900,
+                "aboveChannel": 0.2631578947368421,
+                "relMedian": 0.8869174679806886,
+                "aboveLocal": 0.4444444444444444,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.05344950848972297,
+                    "count": 19
+                  },
+                  "comments": {
+                    "median": 0.0006424581005586592,
+                    "count": 19
+                  },
+                  "shares": {
+                    "median": 0.0022123893805309734,
+                    "count": 19
+                  },
+                  "saves": {
+                    "median": 0.006266233766233766,
+                    "count": 19
+                  }
+                }
+              }
+            ],
+            "leaders": [
+              "Tội phạm & mặt tối tài chính"
+            ]
+          },
+          {
+            "remove": 1,
+            "excluded": [
+              "7514219246356942122"
+            ],
+            "categories": [
+              {
+                "name": "Tội phạm & mặt tối tài chính",
+                "count": 10,
+                "weak": false,
+                "young": 0,
+                "median": 291200,
+                "q25": 127000,
+                "q75": 534300,
+                "aboveChannel": 0.6,
+                "relMedian": 2.0463808854532677,
+                "aboveLocal": 0.6,
+                "hits": 1,
+                "hitRate": 0.1,
+                "interactions": {
+                  "likes": {
+                    "median": 0.09372857612699667,
+                    "count": 10
+                  },
+                  "comments": {
+                    "median": 0.0003477551087263639,
+                    "count": 10
+                  },
+                  "shares": {
+                    "median": 0.0031151196024715075,
+                    "count": 10
+                  },
+                  "saves": {
+                    "median": 0.01041162343900096,
+                    "count": 10
+                  }
+                }
+              },
+              {
+                "name": "Khái niệm tài chính",
+                "count": 31,
+                "weak": false,
+                "young": 0,
+                "median": 189000,
+                "q25": 89500,
+                "q75": 388600,
+                "aboveChannel": 0.5806451612903226,
+                "relMedian": 0.6773967809657103,
+                "aboveLocal": 0.41379310344827586,
+                "hits": 1,
+                "hitRate": 0.03225806451612903,
+                "interactions": {
+                  "likes": {
+                    "median": 0.08042328042328042,
+                    "count": 31
+                  },
+                  "comments": {
+                    "median": 0.0003645147123407993,
+                    "count": 31
+                  },
+                  "shares": {
+                    "median": 0.002976338729763387,
+                    "count": 31
+                  },
+                  "saves": {
+                    "median": 0.009412712623097582,
+                    "count": 31
+                  }
+                }
+              },
+              {
+                "name": "Tin thời sự / chính trị",
+                "count": 19,
+                "weak": false,
+                "young": 0,
+                "median": 56000,
+                "q25": 29000,
+                "q75": 196900,
+                "aboveChannel": 0.2631578947368421,
+                "relMedian": 0.8869174679806886,
+                "aboveLocal": 0.4444444444444444,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.05344950848972297,
+                    "count": 19
+                  },
+                  "comments": {
+                    "median": 0.0006424581005586592,
+                    "count": 19
+                  },
+                  "shares": {
+                    "median": 0.0022123893805309734,
+                    "count": 19
+                  },
+                  "saves": {
+                    "median": 0.006266233766233766,
+                    "count": 19
+                  }
+                }
+              }
+            ],
+            "leaders": [
+              "Tội phạm & mặt tối tài chính"
+            ]
+          },
+          {
+            "remove": 3,
+            "excluded": [
+              "7514219246356942122",
+              "7511246760254180650",
+              "7507727025692495146"
+            ],
+            "categories": [
+              {
+                "name": "Tội phạm & mặt tối tài chính",
+                "count": 9,
+                "weak": false,
+                "young": 0,
+                "median": 281900,
+                "q25": 121900,
+                "q75": 460500,
+                "aboveChannel": 0.5555555555555556,
+                "relMedian": 1.9810260014054815,
+                "aboveLocal": 0.5555555555555556,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.09365023057821922,
+                    "count": 9
+                  },
+                  "comments": {
+                    "median": 0.0003527481542247744,
+                    "count": 9
+                  },
+                  "shares": {
+                    "median": 0.0028146013448607106,
+                    "count": 9
+                  },
+                  "saves": {
+                    "median": 0.010333333333333333,
+                    "count": 9
+                  }
+                }
+              },
+              {
+                "name": "Khái niệm tài chính",
+                "count": 30,
+                "weak": false,
+                "young": 0,
+                "median": 180450,
+                "q25": 84900,
+                "q75": 356075,
+                "aboveChannel": 0.5666666666666667,
+                "relMedian": 0.6733946521650982,
+                "aboveLocal": 0.39285714285714285,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.08014438506241785,
+                    "count": 30
+                  },
+                  "comments": {
+                    "median": 0.00035467114927384793,
+                    "count": 30
+                  },
+                  "shares": {
+                    "median": 0.002952806786546868,
+                    "count": 30
+                  },
+                  "saves": {
+                    "median": 0.009366178181909999,
+                    "count": 30
+                  }
+                }
+              },
+              {
+                "name": "Tin thời sự / chính trị",
+                "count": 19,
+                "weak": false,
+                "young": 0,
+                "median": 56000,
+                "q25": 29000,
+                "q75": 196900,
+                "aboveChannel": 0.2631578947368421,
+                "relMedian": 0.8869174679806886,
+                "aboveLocal": 0.4444444444444444,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.05344950848972297,
+                    "count": 19
+                  },
+                  "comments": {
+                    "median": 0.0006424581005586592,
+                    "count": 19
+                  },
+                  "shares": {
+                    "median": 0.0022123893805309734,
+                    "count": 19
+                  },
+                  "saves": {
+                    "median": 0.006266233766233766,
+                    "count": 19
+                  }
+                }
+              }
+            ],
+            "leaders": [
+              "Tội phạm & mặt tối tài chính"
+            ]
+          }
+        ],
+        "periods": [
+          {
+            "period": "2025-Q2",
+            "key": "2025-Q2",
+            "categories": [
+              {
+                "name": "Tội phạm & mặt tối tài chính",
+                "count": 5,
+                "weak": false,
+                "young": 0,
+                "median": 658800,
+                "q25": 121900,
+                "q75": 1900000,
+                "aboveChannel": 0.6,
+                "relMedian": 2.540686463555727,
+                "aboveLocal": 0.6,
+                "hits": 2,
+                "hitRate": 0.4,
+                "interactions": {
+                  "likes": {
+                    "median": 0.09380692167577413,
+                    "count": 5
+                  },
+                  "comments": {
+                    "median": 0.00029892307692307694,
+                    "count": 5
+                  },
+                  "shares": {
+                    "median": 0.0028146013448607106,
+                    "count": 5
+                  },
+                  "saves": {
+                    "median": 0.010489913544668588,
+                    "count": 5
+                  }
+                }
+              },
+              {
+                "name": "Khái niệm tài chính",
+                "count": 17,
+                "weak": false,
+                "young": 0,
+                "median": 290900,
+                "q25": 192100,
+                "q75": 558500,
+                "aboveChannel": 0.8235294117647058,
+                "relMedian": 0.7237242614145031,
+                "aboveLocal": 0.4117647058823529,
+                "hits": 1,
+                "hitRate": 0.058823529411764705,
+                "interactions": {
+                  "likes": {
+                    "median": 0.08953168044077135,
+                    "count": 17
+                  },
+                  "comments": {
+                    "median": 0.00031233732431025507,
+                    "count": 17
+                  },
+                  "shares": {
+                    "median": 0.0035674931129476583,
+                    "count": 17
+                  },
+                  "saves": {
+                    "median": 0.008774062816616008,
+                    "count": 17
+                  }
+                }
+              },
+              {
+                "name": "Tin thời sự / chính trị",
+                "count": 1,
+                "weak": true,
+                "young": 0,
+                "median": 256800,
+                "q25": 256800,
+                "q75": 256800,
+                "aboveChannel": 1,
+                "relMedian": 1.7685950413223142,
+                "aboveLocal": 1,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.09890965732087227,
+                    "count": 1
+                  },
+                  "comments": {
+                    "median": 0.0006931464174454829,
+                    "count": 1
+                  },
+                  "shares": {
+                    "median": 0.004735202492211838,
+                    "count": 1
+                  },
+                  "saves": {
+                    "median": 0.009443146417445482,
+                    "count": 1
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "period": "2025-Q3",
+            "key": "2025-Q3",
+            "categories": [
+              {
+                "name": "Tội phạm & mặt tối tài chính",
+                "count": 4,
+                "weak": true,
+                "young": 0,
+                "median": 291200,
+                "q25": 247000,
+                "q75": 340500,
+                "aboveChannel": 0.75,
+                "relMedian": 2.0463808854532677,
+                "aboveLocal": 0.75,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.10621708054426704,
+                    "count": 4
+                  },
+                  "comments": {
+                    "median": 0.00039625805199345666,
+                    "count": 4
+                  },
+                  "shares": {
+                    "median": 0.005403766873215966,
+                    "count": 4
+                  },
+                  "saves": {
+                    "median": 0.0141845682354193,
+                    "count": 4
+                  }
+                }
+              },
+              {
+                "name": "Tin thời sự / chính trị",
+                "count": 1,
+                "weak": true,
+                "young": 0,
+                "median": 153400,
+                "q25": 153400,
+                "q75": 153400,
+                "aboveChannel": 0,
+                "relMedian": 0.5441645973749557,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.08148631029986962,
+                    "count": 1
+                  },
+                  "comments": {
+                    "median": 0.00044328552803129075,
+                    "count": 1
+                  },
+                  "shares": {
+                    "median": 0.0022033898305084745,
+                    "count": 1
+                  },
+                  "saves": {
+                    "median": 0.009009126466753585,
+                    "count": 1
+                  }
+                }
+              },
+              {
+                "name": "Khái niệm tài chính",
+                "count": 5,
+                "weak": false,
+                "young": 0,
+                "median": 132900,
+                "q25": 124800,
+                "q75": 171900,
+                "aboveChannel": 0.4,
+                "relMedian": 0.5473684210526316,
+                "aboveLocal": 0.2,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.08726003490401396,
+                    "count": 5
+                  },
+                  "comments": {
+                    "median": 0.0004886561954624782,
+                    "count": 5
+                  },
+                  "shares": {
+                    "median": 0.002356020942408377,
+                    "count": 5
+                  },
+                  "saves": {
+                    "median": 0.009751693002257337,
+                    "count": 5
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "period": "2025-Q4",
+            "key": "2025-Q4",
+            "categories": [
+              {
+                "name": "Tội phạm & mặt tối tài chính",
+                "count": 2,
+                "weak": true,
+                "young": 0,
+                "median": 300450,
+                "q25": 171225,
+                "q75": 429675,
+                "aboveChannel": 0.5,
+                "relMedian": 6.802481745104696,
+                "aboveLocal": 0.5,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.06667754262198707,
+                    "count": 2
+                  },
+                  "comments": {
+                    "median": 0.00027278071722516167,
+                    "count": 2
+                  },
+                  "shares": {
+                    "median": 0.0026363903586125808,
+                    "count": 2
+                  },
+                  "saves": {
+                    "median": 0.008588566827697262,
+                    "count": 2
+                  }
+                }
+              },
+              {
+                "name": "Tin thời sự / chính trị",
+                "count": 3,
+                "weak": true,
+                "young": 0,
+                "median": 81400,
+                "q25": 56400,
+                "q75": 207450,
+                "aboveChannel": 0.3333333333333333,
+                "relMedian": 1.9063231850117095,
+                "aboveLocal": 0.6666666666666666,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.06570063694267515,
+                    "count": 3
+                  },
+                  "comments": {
+                    "median": 0.0005937031484257871,
+                    "count": 3
+                  },
+                  "shares": {
+                    "median": 0.0021744471744471745,
+                    "count": 3
+                  },
+                  "saves": {
+                    "median": 0.007518427518427518,
+                    "count": 3
+                  }
+                }
+              },
+              {
+                "name": "Khái niệm tài chính",
+                "count": 1,
+                "weak": true,
+                "young": 0,
+                "median": 42700,
+                "q25": 42700,
+                "q75": 42700,
+                "aboveChannel": 0,
+                "relMedian": 0.5245700245700246,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.0635831381733021,
+                    "count": 1
+                  },
+                  "comments": {
+                    "median": 0.0004215456674473068,
+                    "count": 1
+                  },
+                  "shares": {
+                    "median": 0.00117096018735363,
+                    "count": 1
+                  },
+                  "saves": {
+                    "median": 0.006768149882903981,
+                    "count": 1
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "period": "2026-Q1",
+            "key": "2026-Q1",
+            "categories": [
+              {
+                "name": "Khái niệm tài chính",
+                "count": 4,
+                "weak": true,
+                "young": 0,
+                "median": 143800,
+                "q25": 116275,
+                "q75": 216925,
+                "aboveChannel": 0.5,
+                "relMedian": 1.2238932645301466,
+                "aboveLocal": 0.75,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.08055124194013788,
+                    "count": 4
+                  },
+                  "comments": {
+                    "median": 0.00025596129620439627,
+                    "count": 4
+                  },
+                  "shares": {
+                    "median": 0.003578076024084706,
+                    "count": 4
+                  },
+                  "saves": {
+                    "median": 0.02229101579980477,
+                    "count": 4
+                  }
+                }
+              },
+              {
+                "name": "Tin thời sự / chính trị",
+                "count": 10,
+                "weak": false,
+                "young": 0,
+                "median": 45900,
+                "q25": 23750,
+                "q75": 208275,
+                "aboveChannel": 0.3,
+                "relMedian": 0.5436835575336184,
+                "aboveLocal": 0.4,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.05030041306360156,
+                    "count": 10
+                  },
+                  "comments": {
+                    "median": 0.0008750554241797222,
+                    "count": 10
+                  },
+                  "shares": {
+                    "median": 0.0022669089759797725,
+                    "count": 10
+                  },
+                  "saves": {
+                    "median": 0.006272446792787467,
+                    "count": 10
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "period": "2026-Q2",
+            "key": "2026-Q2",
+            "categories": [
+              {
+                "name": "Tin thời sự / chính trị",
+                "count": 4,
+                "weak": true,
+                "young": 0,
+                "median": 43250,
+                "q25": 27300,
+                "q75": 78325,
+                "aboveChannel": 0,
+                "relMedian": 0.9806338028169014,
+                "aboveLocal": 0.3333333333333333,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.04867859502366351,
+                    "count": 4
+                  },
+                  "comments": {
+                    "median": 0.00064770881422587,
+                    "count": 4
+                  },
+                  "shares": {
+                    "median": 0.0021673170959336093,
+                    "count": 4
+                  },
+                  "saves": {
+                    "median": 0.005834081388390186,
+                    "count": 4
+                  }
+                }
+              },
+              {
+                "name": "Khái niệm tài chính",
+                "count": 4,
+                "weak": true,
+                "young": 0,
+                "median": 40000,
+                "q25": 22875,
+                "q75": 58950,
+                "aboveChannel": 0,
+                "relMedian": 1.4933925219087905,
+                "aboveLocal": 0.5,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.06130587323530644,
+                    "count": 4
+                  },
+                  "comments": {
+                    "median": 0.0004079442407871889,
+                    "count": 4
+                  },
+                  "shares": {
+                    "median": 0.0031644045075614764,
+                    "count": 4
+                  },
+                  "saves": {
+                    "median": 0.01009171783971028,
+                    "count": 4
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "durationStrata": [
+          {
+            "stratum": "Khái niệm tài chính",
+            "comparable": true,
+            "durations": [
+              {
+                "name": "≤35s",
+                "count": 10,
+                "weak": false,
+                "young": 0,
+                "median": 440000,
+                "q25": 289400,
+                "q75": 674450,
+                "aboveChannel": 1,
+                "relMedian": 1.0000399537913243,
+                "aboveLocal": 0.5,
+                "hits": 1,
+                "hitRate": 0.1,
+                "interactions": {
+                  "likes": {
+                    "median": 0.0848677510478599,
+                    "count": 10
+                  },
+                  "comments": {
+                    "median": 0.0002598327065601017,
+                    "count": 10
+                  },
+                  "shares": {
+                    "median": 0.0032872109833691713,
+                    "count": 10
+                  },
+                  "saves": {
+                    "median": 0.009366178181909999,
+                    "count": 10
+                  }
+                }
+              },
+              {
+                "name": "35s–60s",
+                "count": 9,
+                "weak": false,
+                "young": 0,
+                "median": 145200,
+                "q25": 98700,
+                "q75": 192100,
+                "aboveChannel": 0.4444444444444444,
+                "relMedian": 0.669392523364486,
+                "aboveLocal": 0.3333333333333333,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.08726003490401396,
+                    "count": 9
+                  },
+                  "comments": {
+                    "median": 0.0003650137741046832,
+                    "count": 9
+                  },
+                  "shares": {
+                    "median": 0.002976338729763387,
+                    "count": 9
+                  },
+                  "saves": {
+                    "median": 0.008774062816616008,
+                    "count": 9
+                  }
+                }
+              },
+              {
+                "name": ">60s",
+                "count": 12,
+                "weak": false,
+                "young": 0,
+                "median": 95100,
+                "q25": 41225,
+                "q75": 175075,
+                "aboveChannel": 0.3333333333333333,
+                "relMedian": 0.5359692228113281,
+                "aboveLocal": 0.4,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.07541855681830781,
+                    "count": 12
+                  },
+                  "comments": {
+                    "median": 0.00039211996114618745,
+                    "count": 12
+                  },
+                  "shares": {
+                    "median": 0.003009116141470549,
+                    "count": 12
+                  },
+                  "saves": {
+                    "median": 0.010743426409804469,
+                    "count": 12
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "stratum": "Tin thời sự / chính trị",
+            "comparable": false,
+            "durations": [
+              {
+                "name": "≤60s",
+                "count": 2,
+                "weak": true,
+                "young": 0,
+                "median": 18900,
+                "q25": 17050,
+                "q75": 20750,
+                "aboveChannel": 0,
+                "relMedian": 0.16470681837436046,
+                "aboveLocal": 0,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.04254803213786679,
+                    "count": 2
+                  },
+                  "comments": {
+                    "median": 0.0011195854680950165,
+                    "count": 2
+                  },
+                  "shares": {
+                    "median": 0.0017640894271075919,
+                    "count": 2
+                  },
+                  "saves": {
+                    "median": 0.003723218444340941,
+                    "count": 2
+                  }
+                }
+              },
+              {
+                "name": ">60s",
+                "count": 17,
+                "weak": false,
+                "young": 0,
+                "median": 81400,
+                "q25": 31400,
+                "q75": 240400,
+                "aboveChannel": 0.29411764705882354,
+                "relMedian": 1.3746144220696077,
+                "aboveLocal": 0.5,
+                "hits": 0,
+                "hitRate": 0,
+                "interactions": {
+                  "likes": {
+                    "median": 0.060032467532467534,
+                    "count": 17
+                  },
+                  "comments": {
+                    "median": 0.0006424581005586592,
+                    "count": 17
+                  },
+                  "shares": {
+                    "median": 0.002216142270861833,
+                    "count": 17
+                  },
+                  "saves": {
+                    "median": 0.006331658291457287,
+                    "count": 17
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "stratum": "Tội phạm & mặt tối tài chính",
+            "comparable": false,
+            "durations": [
+              {
+                "name": "≤60s",
+                "count": 3,
+                "weak": true,
+                "young": 0,
+                "median": 658800,
+                "q25": 390350,
+                "q75": 1279400,
+                "aboveChannel": 0.6666666666666666,
+                "relMedian": 2.540686463555727,
+                "aboveLocal": 0.6666666666666666,
+                "hits": 1,
+                "hitRate": 0.3333333333333333,
+                "interactions": {
+                  "likes": {
+                    "median": 0.09380692167577413,
+                    "count": 3
+                  },
+                  "comments": {
+                    "median": 0.00026157894736842107,
+                    "count": 3
+                  },
+                  "shares": {
+                    "median": 0.0025910746812386155,
+                    "count": 3
+                  },
+                  "saves": {
+                    "median": 0.00800850030358227,
+                    "count": 3
+                  }
+                }
+              },
+              {
+                "name": ">60s",
+                "count": 8,
+                "weak": false,
+                "young": 0,
+                "median": 291200,
+                "q25": 132750,
+                "q75": 485100,
+                "aboveChannel": 0.625,
+                "relMedian": 2.0463808854532677,
+                "aboveLocal": 0.625,
+                "hits": 1,
+                "hitRate": 0.125,
+                "interactions": {
+                  "likes": {
+                    "median": 0.09172511528910962,
+                    "count": 8
+                  },
+                  "comments": {
+                    "median": 0.00036185722209016715,
+                    "count": 8
+                  },
+                  "shares": {
+                    "median": 0.004167102317663302,
+                    "count": 8
+                  },
+                  "saves": {
+                    "median": 0.01056034138771891,
+                    "count": 8
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "timeline": [
+          {
+            "period": "2025-Q2",
+            "key": "2025-Q2",
+            "count": 23,
+            "young": 0,
+            "median": 290900,
+            "hits": 3,
+            "hitRate": 0.13043478260869565
+          },
+          {
+            "period": "2025-Q3",
+            "key": "2025-Q3",
+            "count": 10,
+            "young": 0,
+            "median": 162650,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "2025-Q4",
+            "key": "2025-Q4",
+            "count": 6,
+            "young": 0,
+            "median": 62050,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "2026-Q1",
+            "key": "2026-Q1",
+            "count": 14,
+            "young": 0,
+            "median": 91250,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "2026-Q2",
+            "key": "2026-Q2",
+            "count": 8,
+            "young": 0,
+            "median": 43250,
+            "hits": 0,
+            "hitRate": 0
+          }
+        ],
+        "pairs": [
+          {
+            "high": {
+              "id": "7514219246356942122",
+              "title": "Gorillas explain Tax Evasion #economic #finance #fyp ",
+              "url": "https://www.tiktok.com/@gorillanomics/video/7514219246356942122",
+              "views": 6500000,
+              "duration": 61,
+              "date": "2025-06-10",
+              "category": "Tội phạm & mặt tối tài chính"
+            },
+            "low": {
+              "id": "7516786739202149646",
+              "title": "Gorillas explain Bail #economic #finance #fyp ",
+              "url": "https://www.tiktok.com/@gorillanomics/video/7516786739202149646",
+              "views": 104100,
+              "duration": 61,
+              "date": "2025-06-17",
+              "category": "Tội phạm & mặt tối tài chính"
+            },
+            "ratio": 62.43996157540826,
+            "daysApart": 6.918240740740741
+          },
+          {
+            "high": {
+              "id": "7598652375418686734",
+              "title": "ICE explained by Gorills #finance #economics #politics #ice #currentevents ",
+              "url": "https://www.tiktok.com/@gorillanomics/video/7598652375418686734",
+              "views": 1100000,
+              "duration": 61,
+              "date": "2026-01-24",
+              "category": "Tin thời sự / chính trị"
+            },
+            "low": {
+              "id": "7602088491501047071",
+              "title": "Greenland and Trump explained by Gorillas #currentevents #fyp #politics #economics ",
+              "url": "https://www.tiktok.com/@gorillanomics/video/7602088491501047071",
+              "views": 35800,
+              "duration": 61,
+              "date": "2026-02-02",
+              "category": "Tin thời sự / chính trị"
+            },
+            "ratio": 30.726256983240223,
+            "daysApart": 9.259247685185185
+          },
+          {
+            "high": {
+              "id": "7610258706768432397",
+              "title": "Mexican Cartel Riots explained by Gorillas #mexico #cartel #currentevents #politics #news ",
+              "url": "https://www.tiktok.com/@gorillanomics/video/7610258706768432397",
+              "views": 360300,
+              "duration": 61,
+              "date": "2026-02-24",
+              "category": "Tin thời sự / chính trị"
+            },
+            "low": {
+              "id": "7611269976183409933",
+              "title": "TikTok Acquisition explained by Gorillas #currentevents #news #politics #economics ",
+              "url": "https://www.tiktok.com/@gorillanomics/video/7611269976183409933",
+              "views": 15200,
+              "duration": 60,
+              "date": "2026-02-27",
+              "category": "Tin thời sự / chính trị"
+            },
+            "ratio": 23.70394736842105,
+            "daysApart": 2.7250462962962962
+          },
+          {
+            "high": {
+              "id": "7511246760254180650",
+              "title": "Gorillas explain Insurance #economic #finance #fyp ",
+              "url": "https://www.tiktok.com/@gorillanomics/video/7511246760254180650",
+              "views": 3200000,
+              "duration": 29,
+              "date": "2025-06-02",
+              "category": "Khái niệm tài chính"
+            },
+            "low": {
+              "id": "7521232219076119863",
+              "title": "Gorillas explain Buy Now Pay Later #finance #economic #fyp ",
+              "url": "https://www.tiktok.com/@gorillanomics/video/7521232219076119863",
+              "views": 145200,
+              "duration": 36,
+              "date": "2025-06-29",
+              "category": "Khái niệm tài chính"
+            },
+            "ratio": 22.038567493112946,
+            "daysApart": 26.907916666666665
+          },
+          {
+            "high": {
+              "id": "7507727025692495146",
+              "title": "Gorillas explain Money Laundering #economic #finance #fyp ",
+              "url": "https://www.tiktok.com/@gorillanomics/video/7507727025692495146",
+              "views": 1900000,
+              "duration": 28,
+              "date": "2025-05-24",
+              "category": "Tội phạm & mặt tối tài chính"
+            },
+            "low": {
+              "id": "7506778499185823022",
+              "title": "Gorillanomics explains Phishing Scams #economic #finance #fyp ",
+              "url": "https://www.tiktok.com/@gorillanomics/video/7506778499185823022",
+              "views": 121900,
+              "duration": 37,
+              "date": "2025-05-21",
+              "category": "Tội phạm & mặt tối tài chính"
+            },
+            "ratio": 15.586546349466776,
+            "daysApart": 2.5563194444444446
+          },
+          {
+            "high": {
+              "id": "7512346700695129390",
+              "title": "Gorillas explain Mortgage #economic #finance #fyp ",
+              "url": "https://www.tiktok.com/@gorillanomics/video/7512346700695129390",
+              "views": 1500000,
+              "duration": 60,
+              "date": "2025-06-05",
+              "category": "Khái niệm tài chính"
+            },
+            "low": {
+              "id": "7523408709033250061",
+              "title": "Gorillas explain Trust Funds #finance #economic #fyp ",
+              "url": "https://www.tiktok.com/@gorillanomics/video/7523408709033250061",
+              "views": 171900,
+              "duration": 60,
+              "date": "2025-07-05",
+              "category": "Khái niệm tài chính"
+            },
+            "ratio": 8.726003490401396,
+            "daysApart": 29.80929398148148
+          }
+        ]
+      },
+      "era": null,
+      "scope": {
+        "count": 61,
+        "medianViews": 153400,
+        "categories": [
+          {
+            "name": "Tội phạm & mặt tối tài chính",
+            "count": 11,
+            "median": 300500,
+            "mean": 1006445.4545454546,
+            "q25": 132100,
+            "q75": 608850,
+            "relMedian": 2.111735769501054,
+            "relQ25": 0.5103797241079966,
+            "relQ75": 4.883787489669664
+          },
+          {
+            "name": "Khái niệm tài chính",
+            "count": 31,
+            "median": 189000,
+            "mean": 374119.3548387097,
+            "q25": 89500,
+            "q75": 388600,
+            "relMedian": 0.6773967809657103,
+            "relQ25": 0.5002646903123346,
+            "relQ75": 1.276812891674127
+          },
+          {
+            "name": "Tin thời sự / chính trị",
+            "count": 19,
+            "median": 56000,
+            "mean": 162910.52631578947,
+            "q25": 29000,
+            "q75": 196900,
+            "relMedian": 0.8869174679806886,
+            "relQ25": 0.31706183287941714,
+            "relQ75": 1.9752415105386416
+          }
+        ],
+        "note": "timeBuckets, weekdays, durations, tags and scope.categories only cover the current format when era is set"
+      },
+      "timeBuckets": [
+        {
+          "name": "Sáng (5–11h)",
+          "count": 11,
+          "median": 192100,
+          "mean": 238890.9090909091,
+          "q25": 98050,
+          "q75": 369050,
+          "relMedian": 0.5441645973749557,
+          "relQ25": 0.447109737872046,
+          "relQ75": 1.2578039403245418
+        },
+        {
+          "name": "Trưa (11–14h)",
+          "count": 26,
+          "median": 128150,
+          "mean": 227415.38461538462,
+          "q25": 69125,
+          "q75": 283550,
+          "relMedian": 0.644394060932624,
+          "relQ25": 0.46869829615145253,
+          "relQ75": 1.9853230724826825
+        },
+        {
+          "name": "Chiều (14–18h)",
+          "count": 11,
+          "median": 232000,
+          "mean": 1050609.0909090908,
+          "q25": 76000,
+          "q75": 481350,
+          "relMedian": 0.7832001121862291,
+          "relQ25": 0.5103797241079966,
+          "relQ75": 1.5835187353629976
+        },
+        {
+          "name": "Tối (18–23h)",
+          "count": 1,
+          "median": 22600,
+          "mean": 22600,
+          "q25": 22600,
+          "q75": 22600,
+          "relMedian": 0.24767123287671233,
+          "relQ25": 0.24767123287671233,
+          "relQ75": 0.24767123287671233
+        },
+        {
+          "name": "Đêm (23–5h)",
+          "count": 12,
+          "median": 206450,
+          "mean": 470333.3333333333,
+          "q25": 48575,
+          "q75": 720450,
+          "relMedian": 2.540686463555727,
+          "relQ25": 1.0838530230814545,
+          "relQ75": 3.9435330344210735
+        }
+      ],
+      "categories": [
+        {
+          "name": "Tội phạm & mặt tối tài chính",
+          "count": 11,
+          "median": 300500,
+          "mean": 1006445.4545454546,
+          "q25": 132100,
+          "q75": 608850,
+          "relMedian": 2.111735769501054,
+          "relQ25": 0.5103797241079966,
+          "relQ75": 4.883787489669664
+        },
+        {
+          "name": "Khái niệm tài chính",
+          "count": 31,
+          "median": 189000,
+          "mean": 374119.3548387097,
+          "q25": 89500,
+          "q75": 388600,
+          "relMedian": 0.6773967809657103,
+          "relQ25": 0.5002646903123346,
+          "relQ75": 1.276812891674127
+        },
+        {
+          "name": "Tin thời sự / chính trị",
+          "count": 19,
+          "median": 56000,
+          "mean": 162910.52631578947,
+          "q25": 29000,
+          "q75": 196900,
+          "relMedian": 0.8869174679806886,
+          "relQ25": 0.31706183287941714,
+          "relQ75": 1.9752415105386416
+        }
+      ],
+      "months": [
+        {
+          "name": "2025-05",
+          "count": 10,
+          "median": 334350,
+          "mean": 519200,
+          "q25": 189775,
+          "q75": 613050,
+          "relMedian": 0.9141355681479786,
+          "relQ25": 0.5023160402329274,
+          "relQ75": 2.230196868979961
+        },
+        {
+          "name": "2025-06",
+          "count": 13,
+          "median": 288900,
+          "mean": 1094553.8461538462,
+          "q25": 227700,
+          "q75": 713100,
+          "relMedian": 0.7832001121862291,
+          "relQ25": 0.46046186144156753,
+          "relQ75": 1.7685950413223142
+        },
+        {
+          "name": "2025-07",
+          "count": 2,
+          "median": 228000,
+          "mean": 228000,
+          "q25": 199950,
+          "q75": 256050,
+          "relMedian": 1.2607066919299612,
+          "relQ25": 0.9650496076472237,
+          "relQ75": 1.556363776212699
+        },
+        {
+          "name": "2025-08",
+          "count": 5,
+          "median": 153400,
+          "mean": 234420,
+          "q25": 132900,
+          "q75": 300500,
+          "relMedian": 0.5473684210526316,
+          "relQ25": 0.5441645973749557,
+          "relQ75": 2.111735769501054
+        },
+        {
+          "name": "2025-09",
+          "count": 3,
+          "median": 142300,
+          "mean": 153666.66666666666,
+          "q25": 89550,
+          "q75": 212100,
+          "relMedian": 0.5047889322454772,
+          "relQ25": 0.31766583894998224,
+          "relQ75": 1.2429074668254794
+        },
+        {
+          "name": "2025-10",
+          "count": 1,
+          "median": 558900,
+          "mean": 558900,
+          "q25": 558900,
+          "q75": 558900,
+          "relMedian": 13.088992974238876,
+          "relQ25": 13.088992974238876,
+          "relQ75": 13.088992974238876
+        },
+        {
+          "name": "2025-11",
+          "count": 5,
+          "median": 42700,
+          "mean": 106200,
+          "q25": 42000,
+          "q75": 81400,
+          "relMedian": 0.5245700245700246,
+          "relQ25": 0.515970515970516,
+          "relQ75": 1.9063231850117095
+        },
+        {
+          "name": "2026-01",
+          "count": 5,
+          "median": 70600,
+          "mean": 272220,
+          "q25": 56000,
+          "q75": 111900,
+          "relMedian": 1.2607142857142857,
+          "relQ25": 0.7932011331444759,
+          "relQ75": 1.9982142857142857
+        },
+        {
+          "name": "2026-02",
+          "count": 4,
+          "median": 198050,
+          "mean": 202675,
+          "q25": 30650,
+          "q75": 370075,
+          "relMedian": 2.5344111439799097,
+          "relQ25": 0.24106008741007284,
+          "relQ75": 6.097053682041761
+        },
+        {
+          "name": "2026-03",
+          "count": 5,
+          "median": 131500,
+          "mean": 115020,
+          "q25": 27200,
+          "q75": 156100,
+          "relMedian": 0.5470049916805324,
+          "relQ25": 0.17424727738629084,
+          "relQ75": 1.1870722433460077
+        },
+        {
+          "name": "2026-04",
+          "count": 4,
+          "median": 56250,
+          "mean": 70150,
+          "q25": 47250,
+          "q75": 79150,
+          "relMedian": 1.7871205543764872,
+          "relQ25": 0.833769786583053,
+          "relQ75": 2.601399375322791
+        },
+        {
+          "name": "2026-05",
+          "count": 4,
+          "median": 27000,
+          "mean": 34050,
+          "q25": 21600,
+          "q75": 39450,
+          "relMedian": 0.5454545454545454,
+          "relQ25": 0.5454545454545454,
+          "relQ75": 0.5454545454545454
+        }
+      ],
+      "weekdays": [
+        {
+          "name": "T2",
+          "count": 8,
+          "median": 136750,
+          "mean": 561950,
+          "q25": 50725,
+          "q75": 345000,
+          "relMedian": 1.4043853424730894,
+          "relQ25": 0.4777899139333761,
+          "relQ75": 2.064914004647714
+        },
+        {
+          "name": "T3",
+          "count": 11,
+          "median": 281900,
+          "mean": 803436.3636363636,
+          "q25": 92200,
+          "q75": 382250,
+          "relMedian": 1.7685950413223142,
+          "relQ25": 0.5636809284350268,
+          "relQ75": 2.9148640886672634
+        },
+        {
+          "name": "T4",
+          "count": 8,
+          "median": 127400,
+          "mean": 234800,
+          "q25": 89400,
+          "q75": 332025,
+          "relMedian": 0.8811671704254824,
+          "relQ25": 0.4518772652614377,
+          "relQ75": 1.4206148838794546
+        },
+        {
+          "name": "T5",
+          "count": 6,
+          "median": 122500,
+          "mean": 348983.3333333333,
+          "q25": 41600,
+          "q75": 263925,
+          "relMedian": 0.7932011331444759,
+          "relQ25": 0.5002646903123346,
+          "relQ75": 1.2452586206896552
+        },
+        {
+          "name": "T6",
+          "count": 10,
+          "median": 139100,
+          "mean": 203050,
+          "q25": 66700,
+          "q75": 325250,
+          "relMedian": 1.0219571989502574,
+          "relQ25": 0.5465674651332126,
+          "relQ75": 1.5019800063147617
+        },
+        {
+          "name": "T7",
+          "count": 7,
+          "median": 399400,
+          "mean": 625014.2857142857,
+          "q25": 159050,
+          "q75": 829450,
+          "relMedian": 4.774656306037059,
+          "relQ25": 1.6470840534237152,
+          "relQ75": 9.810223541089874
+        },
+        {
+          "name": "CN",
+          "count": 11,
+          "median": 142300,
+          "mean": 186600,
+          "q25": 34950,
+          "q75": 191900,
+          "relMedian": 0.5047889322454772,
+          "relQ25": 0.22866594493684245,
+          "relQ75": 0.6122008863231214
+        }
+      ],
+      "durations": [
+        {
+          "name": "≤30s",
+          "count": 11,
+          "median": 558500,
+          "mean": 833645.4545454546,
+          "q25": 289900,
+          "q75": 809250,
+          "relMedian": 1.2452586206896552,
+          "relQ25": 0.6675578011570203,
+          "relQ75": 2.826548113180407
+        },
+        {
+          "name": "31–45s",
+          "count": 8,
+          "median": 167100,
+          "mean": 210100,
+          "q25": 116100,
+          "q75": 238525,
+          "relMedian": 0.5043673901535204,
+          "relQ25": 0.42601076876513544,
+          "relQ75": 0.8122675345733876
+        },
+        {
+          "name": "46–60s",
+          "count": 5,
+          "median": 131500,
+          "mean": 377840,
+          "q25": 70600,
+          "q75": 171900,
+          "relMedian": 0.669392523364486,
+          "relQ25": 0.5470049916805324,
+          "relQ75": 1.2607142857142857
+        },
+        {
+          "name": "61–90s",
+          "count": 37,
+          "median": 124800,
+          "mean": 351994.5945945946,
+          "q25": 42000,
+          "q75": 281900,
+          "relMedian": 1.0838530230814545,
+          "relQ25": 0.47978006385242994,
+          "relQ75": 2.473139421827318
+        }
+      ],
+      "tags": [
+        {
+          "name": "#finance",
+          "count": 50,
+          "median": 180450,
+          "mean": 489340,
+          "q25": 80575,
+          "q75": 403000,
+          "relMedian": 1.1870722433460077,
+          "relQ25": 0.5122203029826111,
+          "relQ75": 2.5671468847459
+        },
+        {
+          "name": "#fyp",
+          "count": 28,
+          "median": 270450,
+          "mean": 718989.2857142857,
+          "q25": 151350,
+          "q75": 583575,
+          "relMedian": 0.7534621868003661,
+          "relQ25": 0.4471094881475053,
+          "relQ75": 2.2189734430147223
+        },
+        {
+          "name": "#economics",
+          "count": 27,
+          "median": 70600,
+          "mean": 170614.8148148148,
+          "q25": 36300,
+          "q75": 154750,
+          "relMedian": 0.9901366882452418,
+          "relQ25": 0.48527232144826404,
+          "relQ75": 2.601399375322791
+        },
+        {
+          "name": "#economic",
+          "count": 24,
+          "median": 289900,
+          "mean": 824104.1666666666,
+          "q25": 191325,
+          "q75": 672375,
+          "relMedian": 1.0000399537913243,
+          "relQ25": 0.5064187400741134,
+          "relQ75": 2.024187261260509
+        },
+        {
+          "name": "#news",
+          "count": 11,
+          "median": 56000,
+          "mean": 99100,
+          "q25": 23550,
+          "q75": 129050,
+          "relMedian": 0.7932011331444759,
+          "relQ25": 0.17424727738629084,
+          "relQ75": 1.9982142857142857
+        },
+        {
+          "name": "#currentevents",
+          "count": 9,
+          "median": 56000,
+          "mean": 218177.77777777778,
+          "q25": 27200,
+          "q75": 240400,
+          "relMedian": 0.7932011331444759,
+          "relQ25": 0.2941659819227609,
+          "relQ75": 1.9982142857142857
+        },
+        {
+          "name": "#politics",
+          "count": 9,
+          "median": 35800,
+          "mean": 207955.55555555556,
+          "q25": 19900,
+          "q75": 240400,
+          "relMedian": 0.5454545454545454,
+          "relQ25": 0.17424727738629084,
+          "relQ75": 1.8281368821292776
+        },
+        {
+          "name": "#financialliteracy",
+          "count": 7,
+          "median": 131500,
+          "mean": 199028.57142857142,
+          "q25": 63700,
+          "q75": 277750,
+          "relMedian": 1.2607142857142857,
+          "relQ25": 0.86703861751327,
+          "relQ75": 3.684131805986566
+        },
+        {
+          "name": "#tiktoklearningcampaign",
+          "count": 4,
+          "median": 62050,
+          "mean": 124900,
+          "q25": 42525,
+          "q75": 144425,
+          "relMedian": 1.2154466047908672,
+          "relQ25": 0.5224201474201474,
+          "relQ75": 3.38231850117096
+        },
+        {
+          "name": "#personalfinance",
+          "count": 4,
+          "median": 62050,
+          "mean": 124900,
+          "q25": 42525,
+          "q75": 144425,
+          "relMedian": 1.2154466047908672,
+          "relQ25": 0.5224201474201474,
+          "relQ75": 3.38231850117096
+        },
+        {
+          "name": "#war",
+          "count": 2,
+          "median": 133800,
+          "mean": 133800,
+          "q25": 80500,
+          "q75": 187100,
+          "relMedian": 1.0011920797577842,
+          "relQ25": 0.5877196785720376,
+          "relQ75": 1.414664480943531
+        },
+        {
+          "name": "#iran",
+          "count": 2,
+          "median": 133800,
+          "mean": 133800,
+          "q25": 80500,
+          "q75": 187100,
+          "relMedian": 1.0011920797577842,
+          "relQ25": 0.5877196785720376,
+          "relQ75": 1.414664480943531
+        },
+        {
+          "name": "#recessionindicators",
+          "count": 1,
+          "median": 290900,
+          "mean": 290900,
+          "q25": 290900,
+          "q75": 290900,
+          "relMedian": 0.6113913408995376,
+          "relQ25": 0.6113913408995376,
+          "relQ75": 0.6113913408995376
+        },
+        {
+          "name": "#recession",
+          "count": 1,
+          "median": 290900,
+          "mean": 290900,
+          "q25": 290900,
+          "q75": 290900,
+          "relMedian": 0.6113913408995376,
+          "relQ25": 0.6113913408995376,
+          "relQ75": 0.6113913408995376
+        },
+        {
+          "name": "#invincible",
+          "count": 1,
+          "median": 232000,
+          "mean": 232000,
+          "q25": 232000,
+          "q75": 232000,
+          "relMedian": 0.20966065699697256,
+          "relQ25": 0.20966065699697256,
+          "relQ75": 0.20966065699697256
+        }
+      ],
+      "styles": [
+        {
+          "id": "7514219246356942122",
+          "duration": 61.12,
+          "language": "en",
+          "changes": 67,
+          "secPerChange": 0.8988235294117647,
+          "cuts": 1,
+          "changesFirst3s": 5,
+          "firstChangeAt": 0.4,
+          "wpm": 191.86618563463432,
+          "speechCoverage": 0.9977094240837696,
+          "lufs": -18.7,
+          "hook": "What is tax evasion? Gorilla work 9 to 5.",
+          "motion": {
+            "beats": 88,
+            "beatsPerMin": 86.37,
+            "medianBeat": 0.6,
+            "beatsFirst3s": 4,
+            "entrances": {
+              "cut": 76,
+              "drop": 2,
+              "fade": 3,
+              "draw-right": 1,
+              "draw-up": 1,
+              "slide-left": 1,
+              "slide-right": 2,
+              "draw-down": 1,
+              "slide-up": 1
+            },
+            "caption": {
+              "swaps": 34,
+              "medianInterval": 1.2,
+              "box": [
+                0.222,
+                0.6,
+                0.556,
+                0.063
+              ]
+            },
+            "firstBeats": [
+              {
+                "t": 0,
+                "at": "What",
+                "fx": "cut"
+              },
+              {
+                "t": 0.33,
+                "at": "is",
+                "fx": "cut"
+              },
+              {
+                "t": 1.47,
+                "at": "Gorilla",
+                "fx": "drop"
+              },
+              {
+                "t": 2.07,
+                "at": "9",
+                "fx": "cut"
+              },
+              {
+                "t": 2.57,
+                "at": "5.",
+                "fx": "cut"
+              },
+              {
+                "t": 3.1,
+                "at": "Big",
+                "fx": "cut"
+              },
+              {
+                "t": 3.57,
+                "at": "gorilla",
+                "fx": "cut"
+              },
+              {
+                "t": 5,
+                "at": "hard",
+                "fx": "cut"
+              }
+            ]
+          },
+          "title": "Gorillas explain Tax Evasion #economic #finance #fyp ",
+          "views": 6500000,
+          "folder": "tiktok/gorillanomics/style/7514219246356942122"
+        },
+        {
+          "id": "7511246760254180650",
+          "duration": 29.888005,
+          "language": "en",
+          "changes": 39,
+          "secPerChange": 0.747200125,
+          "cuts": 0,
+          "changesFirst3s": 4,
+          "firstChangeAt": 0.216667,
+          "wpm": 214.859437751004,
+          "speechCoverage": 0.9997321668006948,
+          "lufs": -18.8,
+          "hook": "What is insurance? Gorilla get new car. Gorilla very happy,",
+          "motion": {
+            "beats": 55,
+            "beatsPerMin": 111.56,
+            "medianBeat": 0.5,
+            "beatsFirst3s": 5,
+            "entrances": {
+              "cut": 51,
+              "drop": 1,
+              "draw-up": 1,
+              "draw-down": 2
+            },
+            "caption": {
+              "swaps": 25,
+              "medianInterval": 0.9,
+              "box": [
+                0.289,
+                0.575,
+                0.489,
+                0.088
+              ]
+            },
+            "firstBeats": [
+              {
+                "t": 0.22,
+                "at": "is",
+                "fx": "cut"
+              },
+              {
+                "t": 0.73,
+                "at": null,
+                "fx": "drop"
+              },
+              {
+                "t": 1.38,
+                "at": "get",
+                "fx": "cut"
+              },
+              {
+                "t": 1.9,
+                "at": "Gorilla",
+                "fx": "cut"
+              },
+              {
+                "t": 2.42,
+                "at": "very",
+                "fx": "cut"
+              },
+              {
+                "t": 3.2,
+                "at": "but",
+                "fx": "cut"
+              },
+              {
+                "t": 4.08,
+                "at": "What",
+                "fx": "cut"
+              },
+              {
+                "t": 5.2,
+                "at": "What",
+                "fx": "cut"
+              }
+            ]
+          },
+          "title": "Gorillas explain Insurance #economic #finance #fyp ",
+          "views": 3200000,
+          "folder": "tiktok/gorillanomics/style/7511246760254180650"
+        },
+        {
+          "id": "7507727025692495146",
+          "duration": 28.466667,
+          "language": "en",
+          "changes": 29,
+          "secPerChange": 0.9488889,
+          "cuts": 2,
+          "changesFirst3s": 3,
+          "firstChangeAt": 0.333333,
+          "wpm": 193.91100475514045,
+          "speechCoverage": 1,
+          "lufs": -18.9,
+          "hook": "what is money laundering big boss run guerrilla gang guerrilla",
+          "motion": {
+            "beats": 42,
+            "beatsPerMin": 88.73,
+            "medianBeat": 0.6,
+            "beatsFirst3s": 5,
+            "entrances": {
+              "cut": 37,
+              "drop": 2,
+              "draw-up": 1,
+              "fade": 1,
+              "draw-right": 1
+            },
+            "caption": {
+              "swaps": 21,
+              "medianInterval": 0.8,
+              "box": [
+                0.2,
+                0.6,
+                0.622,
+                0.063
+              ]
+            },
+            "firstBeats": [
+              {
+                "t": 0,
+                "at": "what",
+                "fx": "cut"
+              },
+              {
+                "t": 0.33,
+                "at": "money",
+                "fx": "cut"
+              },
+              {
+                "t": 1.13,
+                "at": "big",
+                "fx": "drop"
+              },
+              {
+                "t": 1.87,
+                "at": "run",
+                "fx": "draw-up"
+              },
+              {
+                "t": 2.3,
+                "at": "guerrilla",
+                "fx": "cut"
+              },
+              {
+                "t": 2.97,
+                "at": "guerrilla",
+                "fx": "cut"
+              },
+              {
+                "t": 3.83,
+                "at": "steal",
+                "fx": "cut"
+              },
+              {
+                "t": 4.3,
+                "at": "smuggle",
+                "fx": "cut"
+              }
+            ]
+          },
+          "title": "Gorillas explain Money Laundering #economic #finance #fyp ",
+          "views": 1900000,
+          "folder": "tiktok/gorillanomics/style/7507727025692495146"
+        },
+        {
+          "id": "7512346700695129390",
+          "duration": 60.522653,
+          "language": "en",
+          "wpm": 220.0925313945803,
+          "speechCoverage": 0.9999561651733939,
+          "hook": "what is a mortgage gorilla want buy new house but gorilla too",
+          "changes": 57,
+          "secPerChange": 1.0434940172413794,
+          "cuts": 0,
+          "changesFirst3s": 5,
+          "firstChangeAt": 0.333333,
+          "lufs": -19.3,
+          "motion": {
+            "beats": 92,
+            "beatsPerMin": 91.19,
+            "medianBeat": 0.58,
+            "beatsFirst3s": 6,
+            "entrances": {
+              "cut": 78,
+              "slide-right": 4,
+              "slide-up": 2,
+              "pop": 2,
+              "slide-left": 3,
+              "fade": 2,
+              "draw-right": 1
+            },
+            "caption": {
+              "swaps": 35,
+              "medianInterval": 1.13,
+              "box": [
+                0.244,
+                0.588,
+                0.533,
+                0.1
+              ]
+            },
+            "firstBeats": [
+              {
+                "t": 0,
+                "at": "what",
+                "fx": "cut"
+              },
+              {
+                "t": 0.33,
+                "at": "a",
+                "fx": "cut"
+              },
+              {
+                "t": 0.87,
+                "at": "gorilla",
+                "fx": "cut"
+              },
+              {
+                "t": 1.53,
+                "at": "buy",
+                "fx": "cut"
+              },
+              {
+                "t": 2.07,
+                "at": "house",
+                "fx": "slide-right"
+              },
+              {
+                "t": 2.45,
+                "at": "gorilla",
+                "fx": "cut"
+              },
+              {
+                "t": 2.93,
+                "at": "too",
+                "fx": "cut"
+              },
+              {
+                "t": 3.48,
+                "at": "so",
+                "fx": "cut"
+              }
+            ]
+          },
+          "title": "Gorillas explain Mortgage #economic #finance #fyp ",
+          "views": 1500000,
+          "folder": "tiktok/gorillanomics/style/7512346700695129390"
+        },
+        {
+          "id": "7598652375418686734",
+          "duration": 60.97,
+          "language": "en",
+          "wpm": 186.51315789473685,
+          "speechCoverage": 0.9972117434804002,
+          "hook": "what is ice explained by gorillas in 2025 president",
+          "changes": 94,
+          "secPerChange": 0.6417894736842105,
+          "cuts": 25,
+          "changesFirst3s": 5,
+          "firstChangeAt": 0.783333,
+          "lufs": -18.8,
+          "motion": {
+            "beats": 96,
+            "beatsPerMin": 94.53,
+            "medianBeat": 0.53,
+            "beatsFirst3s": 4,
+            "entrances": {
+              "cut": 85,
+              "slide-right": 1,
+              "drop": 2,
+              "fade": 6,
+              "draw-right": 1,
+              "slide-left": 1
+            },
+            "caption": {
+              "swaps": 50,
+              "medianInterval": 1,
+              "box": [
+                0.2,
+                0.113,
+                0.6,
+                0.075
+              ]
+            },
+            "firstBeats": [
+              {
+                "t": 0,
+                "at": "what",
+                "fx": "cut"
+              },
+              {
+                "t": 0.4,
+                "at": "ice",
+                "fx": "slide-right"
+              },
+              {
+                "t": 0.78,
+                "at": "explained",
+                "fx": "cut"
+              },
+              {
+                "t": 1.87,
+                "at": "in",
+                "fx": "cut"
+              },
+              {
+                "t": 2.13,
+                "at": "2025",
+                "fx": "cut"
+              },
+              {
+                "t": 3,
+                "at": "president",
+                "fx": "cut"
+              },
+              {
+                "t": 3.27,
+                "at": "president",
+                "fx": "drop"
+              },
+              {
+                "t": 3.73,
+                "at": "take",
+                "fx": "fade"
+              }
+            ]
+          },
+          "title": "ICE explained by Gorills #finance #economics #politics #ice #currentevents ",
+          "views": 1100000,
+          "folder": "tiktok/gorillanomics/style/7598652375418686734"
+        }
+      ],
+      "top": [
+        {
+          "id": "7514219246356942122",
+          "title": "Gorillas explain Tax Evasion #economic #finance #fyp ",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7514219246356942122",
+          "views": 6500000,
+          "er": 0.1057296923076923,
+          "duration": 61,
+          "date": "2025-06-10",
+          "time": "14:30",
+          "category": "Tội phạm & mặt tối tài chính",
+          "ratio": 42.3728813559322
+        },
+        {
+          "id": "7511246760254180650",
+          "title": "Gorillas explain Insurance #economic #finance #fyp ",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7511246760254180650",
+          "views": 3200000,
+          "er": 0.13071,
+          "duration": 29,
+          "date": "2025-06-02",
+          "time": "14:15",
+          "category": "Khái niệm tài chính",
+          "ratio": 20.860495436766623
+        },
+        {
+          "id": "7507727025692495146",
+          "title": "Gorillas explain Money Laundering #economic #finance #fyp ",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7507727025692495146",
+          "views": 1900000,
+          "er": 0.13910368421052632,
+          "duration": 28,
+          "date": "2025-05-24",
+          "time": "02:35",
+          "category": "Tội phạm & mặt tối tài chính",
+          "ratio": 12.385919165580182
+        },
+        {
+          "id": "7512346700695129390",
+          "title": "Gorillas explain Mortgage #economic #finance #fyp ",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7512346700695129390",
+          "views": 1500000,
+          "er": 0.14149666666666666,
+          "duration": 60,
+          "date": "2025-06-05",
+          "time": "13:23",
+          "category": "Khái niệm tài chính",
+          "ratio": 9.778357235984355
+        },
+        {
+          "id": "7598652375418686734",
+          "title": "ICE explained by Gorills #finance #economics #politics #ice #currentevents ",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7598652375418686734",
+          "views": 1100000,
+          "er": 0.05675090909090909,
+          "duration": 61,
+          "date": "2026-01-24",
+          "time": "03:12",
+          "category": "Tin thời sự / chính trị",
+          "ratio": 7.170795306388527
+        },
+        {
+          "id": "7508066844973223214",
+          "title": "Gorillas explain Credit Score #economic #finance #fyp",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7508066844973223214",
+          "views": 905400,
+          "er": 0.11105809586922907,
+          "duration": 25,
+          "date": "2025-05-25",
+          "time": "00:34",
+          "category": "Khái niệm tài chính",
+          "ratio": 5.902216427640156
+        },
+        {
+          "id": "7511981862139514158",
+          "title": "Gorillas explain Capitalism #economic #finance #fyp ",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7511981862139514158",
+          "views": 713100,
+          "er": 0.11277801149908849,
+          "duration": 27,
+          "date": "2025-06-04",
+          "time": "13:47",
+          "category": "Khái niệm tài chính",
+          "ratio": 4.648631029986962
+        },
+        {
+          "id": "7508459051450191146",
+          "title": "Gorillas explain Fake Money #economic #finance #fyp ",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7508459051450191146",
+          "views": 658800,
+          "er": 0.104605343047966,
+          "duration": 28,
+          "date": "2025-05-26",
+          "time": "01:56",
+          "category": "Tội phạm & mặt tối tài chính",
+          "ratio": 4.294654498044329
+        },
+        {
+          "id": "7564943939237580087",
+          "title": "Pyramid Schemes explain by Gorillas #finance #economics #financialliteracy ",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7564943939237580087",
+          "views": 558900,
+          "er": 0.06392198962247271,
+          "duration": 61,
+          "date": "2025-10-25",
+          "time": "07:06",
+          "category": "Tội phạm & mặt tối tài chính",
+          "ratio": 3.6434159061277707
+        },
+        {
+          "id": "7512737228787830058",
+          "title": "Gorillas explain Vacation Time #economic #finance #fyp ",
+          "url": "https://www.tiktok.com/@gorillanomics/video/7512737228787830058",
+          "views": 558500,
+          "er": 0.11694538943598926,
+          "duration": 24,
+          "date": "2025-06-06",
+          "time": "14:38",
+          "category": "Khái niệm tài chính",
+          "ratio": 3.6408083441981747
+        }
+      ]
+    }
+  ]
+}

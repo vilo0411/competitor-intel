@@ -1,0 +1,1191 @@
+{
+  "engine": "whisper-cli",
+  "language": "en",
+  "text": "what is a mortgage gorilla want buy new house but gorilla too broke so go to bank for money banks say okay i lend banana so gorilla pay what he have right now and bank pay the rest what gorilla pay is called down payment what bank pay is a loan called mortgage but bank need make money so bank tell gorilla you pay back what you borrow plus extra banana in small monthly payments that extra banana called interest gorilla look at contract gorilla surprised have to pay lot of interest banana every month why so much two reason one bank no trust gorilla to pay back because gorilla credit score bad to improve gorilla starts to pay bills on time gorilla also pay back credit card spending too credit score go up bank trust more now but interest still high why it because gorilla makes small down payment that means that the bank provide most money for the loan of the house big loan equal big risk for bank bank charge more interest to cover risk to have cheap mortgage need good credit score and big down payment now using the money gorilla got from bank he pays for the house Every month he pays a small bit of the loan back along with extra interest, so now you know",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 5.36,
+      "text": "what is a mortgage gorilla want buy new house but gorilla too broke so go to bank for money banks say"
+    },
+    {
+      "id": 1,
+      "start": 5.36,
+      "end": 10.48,
+      "text": "okay i lend banana so gorilla pay what he have right now and bank pay the rest what gorilla pay"
+    },
+    {
+      "id": 2,
+      "start": 10.48,
+      "end": 15.52,
+      "text": "is called down payment what bank pay is a loan called mortgage but bank need make money so bank"
+    },
+    {
+      "id": 3,
+      "start": 15.52,
+      "end": 20.72,
+      "text": "tell gorilla you pay back what you borrow plus extra banana in small monthly payments that extra"
+    },
+    {
+      "id": 4,
+      "start": 20.72,
+      "end": 26.0,
+      "text": "banana called interest gorilla look at contract gorilla surprised have to pay lot of interest"
+    },
+    {
+      "id": 5,
+      "start": 26.0,
+      "end": 31.04,
+      "text": "banana every month why so much two reason one bank no trust gorilla to pay back because gorilla"
+    },
+    {
+      "id": 6,
+      "start": 31.04,
+      "end": 36.56,
+      "text": "credit score bad to improve gorilla starts to pay bills on time gorilla also pay back credit card"
+    },
+    {
+      "id": 7,
+      "start": 36.56,
+      "end": 41.6,
+      "text": "spending too credit score go up bank trust more now but interest still high why it because gorilla"
+    },
+    {
+      "id": 8,
+      "start": 41.6,
+      "end": 46.0,
+      "text": "makes small down payment that means that the bank provide most money for the loan of the house big"
+    },
+    {
+      "id": 9,
+      "start": 46.0,
+      "end": 50.96,
+      "text": "loan equal big risk for bank bank charge more interest to cover risk to have cheap mortgage need"
+    },
+    {
+      "id": 10,
+      "start": 50.96,
+      "end": 55.76,
+      "text": "good credit score and big down payment now using the money gorilla got from bank he pays for the house"
+    },
+    {
+      "id": 11,
+      "start": 55.76,
+      "end": 60.52,
+      "text": "Every month he pays a small bit of the loan back along with extra interest, so now you know"
+    }
+  ],
+  "words": [
+    {
+      "word": "what",
+      "start": 0.06,
+      "end": 0.25
+    },
+    {
+      "word": "is",
+      "start": 0.25,
+      "end": 0.37
+    },
+    {
+      "word": "a",
+      "start": 0.37,
+      "end": 0.43
+    },
+    {
+      "word": "mortgage",
+      "start": 0.43,
+      "end": 0.93
+    },
+    {
+      "word": "gorilla",
+      "start": 0.94,
+      "end": 1.36
+    },
+    {
+      "word": "want",
+      "start": 1.36,
+      "end": 1.61
+    },
+    {
+      "word": "buy",
+      "start": 1.61,
+      "end": 1.79
+    },
+    {
+      "word": "new",
+      "start": 1.79,
+      "end": 1.97
+    },
+    {
+      "word": "house",
+      "start": 1.97,
+      "end": 2.31
+    },
+    {
+      "word": "but",
+      "start": 2.31,
+      "end": 2.52
+    },
+    {
+      "word": "gorilla",
+      "start": 2.52,
+      "end": 2.92
+    },
+    {
+      "word": "too",
+      "start": 2.98,
+      "end": 3.18
+    },
+    {
+      "word": "broke",
+      "start": 3.18,
+      "end": 3.49
+    },
+    {
+      "word": "so",
+      "start": 3.61,
+      "end": 3.68
+    },
+    {
+      "word": "go",
+      "start": 3.68,
+      "end": 3.84
+    },
+    {
+      "word": "to",
+      "start": 3.84,
+      "end": 3.98
+    },
+    {
+      "word": "bank",
+      "start": 3.99,
+      "end": 4.18
+    },
+    {
+      "word": "for",
+      "start": 4.26,
+      "end": 4.42
+    },
+    {
+      "word": "money",
+      "start": 4.42,
+      "end": 4.72
+    },
+    {
+      "word": "banks",
+      "start": 4.72,
+      "end": 4.92
+    },
+    {
+      "word": "say",
+      "start": 4.98,
+      "end": 5.27
+    },
+    {
+      "word": "okay",
+      "start": 5.42,
+      "end": 5.62
+    },
+    {
+      "word": "i",
+      "start": 5.63,
+      "end": 5.7
+    },
+    {
+      "word": "lend",
+      "start": 5.7,
+      "end": 5.97
+    },
+    {
+      "word": "banana",
+      "start": 5.97,
+      "end": 6.38
+    },
+    {
+      "word": "so",
+      "start": 6.38,
+      "end": 6.51
+    },
+    {
+      "word": "gorilla",
+      "start": 6.51,
+      "end": 6.99
+    },
+    {
+      "word": "pay",
+      "start": 6.99,
+      "end": 7.19
+    },
+    {
+      "word": "what",
+      "start": 7.19,
+      "end": 7.46
+    },
+    {
+      "word": "he",
+      "start": 7.46,
+      "end": 7.59
+    },
+    {
+      "word": "have",
+      "start": 7.59,
+      "end": 7.86
+    },
+    {
+      "word": "right",
+      "start": 7.86,
+      "end": 8.2
+    },
+    {
+      "word": "now",
+      "start": 8.2,
+      "end": 8.4
+    },
+    {
+      "word": "and",
+      "start": 8.4,
+      "end": 8.6
+    },
+    {
+      "word": "bank",
+      "start": 8.6,
+      "end": 8.86
+    },
+    {
+      "word": "pay",
+      "start": 8.97,
+      "end": 9.07
+    },
+    {
+      "word": "the",
+      "start": 9.07,
+      "end": 9.27
+    },
+    {
+      "word": "rest",
+      "start": 9.27,
+      "end": 9.68
+    },
+    {
+      "word": "what",
+      "start": 9.68,
+      "end": 9.92
+    },
+    {
+      "word": "gorilla",
+      "start": 9.92,
+      "end": 10.28
+    },
+    {
+      "word": "pay",
+      "start": 10.43,
+      "end": 10.48
+    },
+    {
+      "word": "is",
+      "start": 10.54,
+      "end": 10.6
+    },
+    {
+      "word": "called",
+      "start": 10.6,
+      "end": 10.98
+    },
+    {
+      "word": "down",
+      "start": 10.98,
+      "end": 11.23
+    },
+    {
+      "word": "payment",
+      "start": 11.23,
+      "end": 11.67
+    },
+    {
+      "word": "what",
+      "start": 11.67,
+      "end": 11.92
+    },
+    {
+      "word": "bank",
+      "start": 11.92,
+      "end": 12.17
+    },
+    {
+      "word": "pay",
+      "start": 12.17,
+      "end": 12.36
+    },
+    {
+      "word": "is",
+      "start": 12.36,
+      "end": 12.48
+    },
+    {
+      "word": "a",
+      "start": 12.48,
+      "end": 12.54
+    },
+    {
+      "word": "loan",
+      "start": 12.54,
+      "end": 12.79
+    },
+    {
+      "word": "called",
+      "start": 12.79,
+      "end": 13.17
+    },
+    {
+      "word": "mortgage",
+      "start": 13.17,
+      "end": 13.68
+    },
+    {
+      "word": "but",
+      "start": 13.68,
+      "end": 13.87
+    },
+    {
+      "word": "bank",
+      "start": 13.87,
+      "end": 14.12
+    },
+    {
+      "word": "need",
+      "start": 14.12,
+      "end": 14.37
+    },
+    {
+      "word": "make",
+      "start": 14.37,
+      "end": 14.62
+    },
+    {
+      "word": "money",
+      "start": 14.62,
+      "end": 15.04
+    },
+    {
+      "word": "so",
+      "start": 15.04,
+      "end": 15.2
+    },
+    {
+      "word": "bank",
+      "start": 15.2,
+      "end": 15.4
+    },
+    {
+      "word": "tell",
+      "start": 15.58,
+      "end": 15.78
+    },
+    {
+      "word": "gorilla",
+      "start": 15.78,
+      "end": 16.23
+    },
+    {
+      "word": "you",
+      "start": 16.23,
+      "end": 16.41
+    },
+    {
+      "word": "pay",
+      "start": 16.44,
+      "end": 16.61
+    },
+    {
+      "word": "back",
+      "start": 16.61,
+      "end": 16.87
+    },
+    {
+      "word": "what",
+      "start": 16.87,
+      "end": 17.13
+    },
+    {
+      "word": "you",
+      "start": 17.13,
+      "end": 17.32
+    },
+    {
+      "word": "borrow",
+      "start": 17.32,
+      "end": 17.71
+    },
+    {
+      "word": "plus",
+      "start": 17.71,
+      "end": 17.97
+    },
+    {
+      "word": "extra",
+      "start": 17.97,
+      "end": 18.29
+    },
+    {
+      "word": "banana",
+      "start": 18.29,
+      "end": 18.68
+    },
+    {
+      "word": "in",
+      "start": 18.68,
+      "end": 18.81
+    },
+    {
+      "word": "small",
+      "start": 18.81,
+      "end": 19.01
+    },
+    {
+      "word": "monthly",
+      "start": 19.14,
+      "end": 19.58
+    },
+    {
+      "word": "payments",
+      "start": 19.58,
+      "end": 20.16
+    },
+    {
+      "word": "that",
+      "start": 20.16,
+      "end": 20.4
+    },
+    {
+      "word": "extra",
+      "start": 20.4,
+      "end": 20.72
+    },
+    {
+      "word": "banana",
+      "start": 20.78,
+      "end": 21.12
+    },
+    {
+      "word": "called",
+      "start": 21.12,
+      "end": 21.51
+    },
+    {
+      "word": "interest",
+      "start": 21.66,
+      "end": 22.05
+    },
+    {
+      "word": "gorilla",
+      "start": 22.05,
+      "end": 22.51
+    },
+    {
+      "word": "look",
+      "start": 22.51,
+      "end": 22.77
+    },
+    {
+      "word": "at",
+      "start": 22.77,
+      "end": 22.89
+    },
+    {
+      "word": "contract",
+      "start": 22.9,
+      "end": 23.43
+    },
+    {
+      "word": "gorilla",
+      "start": 23.43,
+      "end": 23.88
+    },
+    {
+      "word": "surprised",
+      "start": 23.88,
+      "end": 24.49
+    },
+    {
+      "word": "have",
+      "start": 24.49,
+      "end": 24.72
+    },
+    {
+      "word": "to",
+      "start": 24.75,
+      "end": 24.88
+    },
+    {
+      "word": "pay",
+      "start": 24.88,
+      "end": 25.08
+    },
+    {
+      "word": "lot",
+      "start": 25.08,
+      "end": 25.28
+    },
+    {
+      "word": "of",
+      "start": 25.28,
+      "end": 25.4
+    },
+    {
+      "word": "interest",
+      "start": 25.4,
+      "end": 25.98
+    },
+    {
+      "word": "banana",
+      "start": 26.06,
+      "end": 26.38
+    },
+    {
+      "word": "every",
+      "start": 26.38,
+      "end": 26.7
+    },
+    {
+      "word": "month",
+      "start": 26.7,
+      "end": 27.02
+    },
+    {
+      "word": "why",
+      "start": 27.02,
+      "end": 27.21
+    },
+    {
+      "word": "so",
+      "start": 27.21,
+      "end": 27.33
+    },
+    {
+      "word": "much",
+      "start": 27.33,
+      "end": 27.52
+    },
+    {
+      "word": "two",
+      "start": 27.58,
+      "end": 27.77
+    },
+    {
+      "word": "reason",
+      "start": 27.77,
+      "end": 28.15
+    },
+    {
+      "word": "one",
+      "start": 28.15,
+      "end": 28.33
+    },
+    {
+      "word": "bank",
+      "start": 28.33,
+      "end": 28.58
+    },
+    {
+      "word": "no",
+      "start": 28.63,
+      "end": 28.71
+    },
+    {
+      "word": "trust",
+      "start": 28.71,
+      "end": 29.03
+    },
+    {
+      "word": "gorilla",
+      "start": 29.03,
+      "end": 29.48
+    },
+    {
+      "word": "to",
+      "start": 29.48,
+      "end": 29.59
+    },
+    {
+      "word": "pay",
+      "start": 29.62,
+      "end": 29.79
+    },
+    {
+      "word": "back",
+      "start": 29.79,
+      "end": 30.04
+    },
+    {
+      "word": "because",
+      "start": 30.04,
+      "end": 30.49
+    },
+    {
+      "word": "gorilla",
+      "start": 30.49,
+      "end": 30.92
+    },
+    {
+      "word": "credit",
+      "start": 31.1,
+      "end": 31.45
+    },
+    {
+      "word": "score",
+      "start": 31.45,
+      "end": 31.79
+    },
+    {
+      "word": "bad",
+      "start": 31.79,
+      "end": 31.99
+    },
+    {
+      "word": "to",
+      "start": 31.99,
+      "end": 32.12
+    },
+    {
+      "word": "improve",
+      "start": 32.12,
+      "end": 32.56
+    },
+    {
+      "word": "gorilla",
+      "start": 32.61,
+      "end": 33.08
+    },
+    {
+      "word": "starts",
+      "start": 33.08,
+      "end": 33.49
+    },
+    {
+      "word": "to",
+      "start": 33.49,
+      "end": 33.61
+    },
+    {
+      "word": "pay",
+      "start": 33.67,
+      "end": 33.82
+    },
+    {
+      "word": "bills",
+      "start": 33.82,
+      "end": 34.16
+    },
+    {
+      "word": "on",
+      "start": 34.16,
+      "end": 34.29
+    },
+    {
+      "word": "time",
+      "start": 34.29,
+      "end": 34.54
+    },
+    {
+      "word": "gorilla",
+      "start": 34.65,
+      "end": 35.04
+    },
+    {
+      "word": "also",
+      "start": 35.04,
+      "end": 35.22
+    },
+    {
+      "word": "pay",
+      "start": 35.3,
+      "end": 35.51
+    },
+    {
+      "word": "back",
+      "start": 35.51,
+      "end": 35.76
+    },
+    {
+      "word": "credit",
+      "start": 35.77,
+      "end": 36.3
+    },
+    {
+      "word": "card",
+      "start": 36.47,
+      "end": 36.56
+    },
+    {
+      "word": "spending",
+      "start": 36.61,
+      "end": 37.05
+    },
+    {
+      "word": "too",
+      "start": 37.05,
+      "end": 37.23
+    },
+    {
+      "word": "credit",
+      "start": 37.23,
+      "end": 37.6
+    },
+    {
+      "word": "score",
+      "start": 37.6,
+      "end": 37.91
+    },
+    {
+      "word": "go",
+      "start": 37.91,
+      "end": 38.03
+    },
+    {
+      "word": "up",
+      "start": 38.03,
+      "end": 38.08
+    },
+    {
+      "word": "bank",
+      "start": 38.15,
+      "end": 38.39
+    },
+    {
+      "word": "trust",
+      "start": 38.39,
+      "end": 38.7
+    },
+    {
+      "word": "more",
+      "start": 38.7,
+      "end": 38.9
+    },
+    {
+      "word": "now",
+      "start": 38.94,
+      "end": 39.12
+    },
+    {
+      "word": "but",
+      "start": 39.12,
+      "end": 39.3
+    },
+    {
+      "word": "interest",
+      "start": 39.3,
+      "end": 39.79
+    },
+    {
+      "word": "still",
+      "start": 39.79,
+      "end": 40.05
+    },
+    {
+      "word": "high",
+      "start": 40.17,
+      "end": 40.34
+    },
+    {
+      "word": "why",
+      "start": 40.34,
+      "end": 40.52
+    },
+    {
+      "word": "it",
+      "start": 40.52,
+      "end": 40.64
+    },
+    {
+      "word": "because",
+      "start": 40.64,
+      "end": 41.07
+    },
+    {
+      "word": "gorilla",
+      "start": 41.07,
+      "end": 41.48
+    },
+    {
+      "word": "makes",
+      "start": 41.66,
+      "end": 41.86
+    },
+    {
+      "word": "small",
+      "start": 41.87,
+      "end": 42.14
+    },
+    {
+      "word": "down",
+      "start": 42.14,
+      "end": 42.35
+    },
+    {
+      "word": "payment",
+      "start": 42.35,
+      "end": 42.72
+    },
+    {
+      "word": "that",
+      "start": 42.72,
+      "end": 42.93
+    },
+    {
+      "word": "means",
+      "start": 42.93,
+      "end": 43.2
+    },
+    {
+      "word": "that",
+      "start": 43.2,
+      "end": 43.4
+    },
+    {
+      "word": "the",
+      "start": 43.41,
+      "end": 43.57
+    },
+    {
+      "word": "bank",
+      "start": 43.57,
+      "end": 43.77
+    },
+    {
+      "word": "provide",
+      "start": 43.78,
+      "end": 44.15
+    },
+    {
+      "word": "most",
+      "start": 44.15,
+      "end": 44.36
+    },
+    {
+      "word": "money",
+      "start": 44.36,
+      "end": 44.63
+    },
+    {
+      "word": "for",
+      "start": 44.63,
+      "end": 44.79
+    },
+    {
+      "word": "the",
+      "start": 44.79,
+      "end": 44.94
+    },
+    {
+      "word": "loan",
+      "start": 44.95,
+      "end": 45.09
+    },
+    {
+      "word": "of",
+      "start": 45.19,
+      "end": 45.26
+    },
+    {
+      "word": "the",
+      "start": 45.26,
+      "end": 45.42
+    },
+    {
+      "word": "house",
+      "start": 45.42,
+      "end": 45.76
+    },
+    {
+      "word": "big",
+      "start": 45.76,
+      "end": 46.0
+    },
+    {
+      "word": "loan",
+      "start": 46.06,
+      "end": 46.25
+    },
+    {
+      "word": "equal",
+      "start": 46.25,
+      "end": 46.56
+    },
+    {
+      "word": "big",
+      "start": 46.56,
+      "end": 46.74
+    },
+    {
+      "word": "risk",
+      "start": 46.74,
+      "end": 46.99
+    },
+    {
+      "word": "for",
+      "start": 46.99,
+      "end": 47.17
+    },
+    {
+      "word": "bank",
+      "start": 47.17,
+      "end": 47.42
+    },
+    {
+      "word": "bank",
+      "start": 47.42,
+      "end": 47.67
+    },
+    {
+      "word": "charge",
+      "start": 47.67,
+      "end": 48.03
+    },
+    {
+      "word": "more",
+      "start": 48.03,
+      "end": 48.29
+    },
+    {
+      "word": "interest",
+      "start": 48.29,
+      "end": 48.79
+    },
+    {
+      "word": "to",
+      "start": 48.79,
+      "end": 48.91
+    },
+    {
+      "word": "cover",
+      "start": 48.91,
+      "end": 49.22
+    },
+    {
+      "word": "risk",
+      "start": 49.22,
+      "end": 49.47
+    },
+    {
+      "word": "to",
+      "start": 49.47,
+      "end": 49.57
+    },
+    {
+      "word": "have",
+      "start": 49.62,
+      "end": 49.84
+    },
+    {
+      "word": "cheap",
+      "start": 49.84,
+      "end": 50.14
+    },
+    {
+      "word": "mortgage",
+      "start": 50.15,
+      "end": 50.72
+    },
+    {
+      "word": "need",
+      "start": 50.72,
+      "end": 50.92
+    },
+    {
+      "word": "good",
+      "start": 51.02,
+      "end": 51.18
+    },
+    {
+      "word": "credit",
+      "start": 51.18,
+      "end": 51.51
+    },
+    {
+      "word": "score",
+      "start": 51.51,
+      "end": 51.76
+    },
+    {
+      "word": "and",
+      "start": 51.83,
+      "end": 51.95
+    },
+    {
+      "word": "big",
+      "start": 51.95,
+      "end": 52.11
+    },
+    {
+      "word": "down",
+      "start": 52.11,
+      "end": 52.33
+    },
+    {
+      "word": "payment",
+      "start": 52.33,
+      "end": 52.72
+    },
+    {
+      "word": "now",
+      "start": 52.72,
+      "end": 52.88
+    },
+    {
+      "word": "using",
+      "start": 52.88,
+      "end": 53.16
+    },
+    {
+      "word": "the",
+      "start": 53.16,
+      "end": 53.31
+    },
+    {
+      "word": "money",
+      "start": 53.33,
+      "end": 53.6
+    },
+    {
+      "word": "gorilla",
+      "start": 53.6,
+      "end": 53.99
+    },
+    {
+      "word": "got",
+      "start": 53.99,
+      "end": 54.15
+    },
+    {
+      "word": "from",
+      "start": 54.15,
+      "end": 54.37
+    },
+    {
+      "word": "bank",
+      "start": 54.37,
+      "end": 54.59
+    },
+    {
+      "word": "he",
+      "start": 54.59,
+      "end": 54.7
+    },
+    {
+      "word": "pays",
+      "start": 54.7,
+      "end": 54.91
+    },
+    {
+      "word": "for",
+      "start": 54.91,
+      "end": 55.08
+    },
+    {
+      "word": "the",
+      "start": 55.08,
+      "end": 55.36
+    },
+    {
+      "word": "house",
+      "start": 55.36,
+      "end": 55.76
+    },
+    {
+      "word": "Every",
+      "start": 55.82,
+      "end": 56.07
+    },
+    {
+      "word": "month",
+      "start": 56.07,
+      "end": 56.37
+    },
+    {
+      "word": "he",
+      "start": 56.37,
+      "end": 56.5
+    },
+    {
+      "word": "pays",
+      "start": 56.5,
+      "end": 56.75
+    },
+    {
+      "word": "a",
+      "start": 56.75,
+      "end": 56.81
+    },
+    {
+      "word": "small",
+      "start": 56.81,
+      "end": 57.12
+    },
+    {
+      "word": "bit",
+      "start": 57.12,
+      "end": 57.36
+    },
+    {
+      "word": "of",
+      "start": 57.36,
+      "end": 57.46
+    },
+    {
+      "word": "the",
+      "start": 57.46,
+      "end": 57.61
+    },
+    {
+      "word": "loan",
+      "start": 57.61,
+      "end": 57.82
+    },
+    {
+      "word": "back",
+      "start": 57.82,
+      "end": 58.09
+    },
+    {
+      "word": "along",
+      "start": 58.1,
+      "end": 58.34
+    },
+    {
+      "word": "with",
+      "start": 58.39,
+      "end": 58.62
+    },
+    {
+      "word": "extra",
+      "start": 58.62,
+      "end": 58.89
+    },
+    {
+      "word": "interest,",
+      "start": 58.9,
+      "end": 59.4
+    },
+    {
+      "word": "so",
+      "start": 59.4,
+      "end": 59.68
+    },
+    {
+      "word": "now",
+      "start": 59.68,
+      "end": 60.09
+    },
+    {
+      "word": "you",
+      "start": 60.09,
+      "end": 60.49
+    },
+    {
+      "word": "know",
+      "start": 60.52,
+      "end": 60.52
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "20261116-072803-gorillanomics",
+  "request": {
+    "name": "Gorillanomics",
+    "refresh": true,
+    "id": "20261116-072803-gorillanomics"
+  },
+  "finishedAt": "2026-11-16T07:37:53.138Z",
+  "status": "ok",
+  "slug": "gorillanomics",
+  "name": "Gorillanomics",
+  "report": "gorillanomics/gorillanomics.html",
+  "seconds": 370,
+  "log": "↓ @gorillanomics: lấy danh sách video…\n  phân tích phong cách dựng video 1/5…\n  phân tích phong cách dựng video 2/5…\n  phân tích phong cách dựng video 3/5…\n  phân tích phong cách dựng video 4/5…\n  phân tích phong cách dựng video 5/5…\n✓ @gorillanomics: 61 video, view trung vị 153k, 0 video chưa gắn nhãn\n\nBáo cáo: /home/runner/work/competitor-intel/competitor-intel/docs/gorillanomics/gorillanomics.html\n         /home/runner/work/competitor-intel/competitor-intel/docs/gorillanomics/gorillanomics.md"
+}

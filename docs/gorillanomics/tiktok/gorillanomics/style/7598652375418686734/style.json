@@ -1,0 +1,92 @@
+{
+  "id": "7598652375418686734",
+  "duration": 60.97,
+  "language": "en",
+  "wpm": 186.51315789473685,
+  "speechCoverage": 0.9972117434804002,
+  "hook": "what is ice explained by gorillas in 2025 president",
+  "transcript": "what is ice explained by gorillas in 2025 president trump take office win election by saying we'll stop illegal immigration forget building wall have new idea employ ice what that ice stand for immigration and customs enforcement ice work for government place called homeland security same place as border patrol and tsa ice find gorilla with bad paper and send back home is ice police no they are federal law enforcement carry badge and banana blaster can ice tell you what to do if ice gorilla do not see something sus or have warrant gorilla can ignore ice but some americans attacked by ice now huge protests but why trump want deport gorilla illegal immigrant give over 90 billion dollar per year in taxes 25 billion dollar go to social security and medicare illegal immigrant can't even use those that money go to u.s citizen only do they steal jobs no they make up five percent of worker mainly do farming and construction but trump say rule is rule no rule equal chaos law important for prosperity need legal document like work visa or asylum w or l trump",
+  "changes": 94,
+  "secPerChange": 0.6417894736842105,
+  "cuts": 25,
+  "changesFirst3s": 5,
+  "firstChangeAt": 0.783333,
+  "lufs": -18.8,
+  "grids": [
+    "grid_001.jpg",
+    "grid_002.jpg",
+    "grid_003.jpg",
+    "grid_004.jpg",
+    "grid_005.jpg",
+    "grid_006.jpg",
+    "grid_007.jpg",
+    "grid_008.jpg",
+    "grid_009.jpg"
+  ],
+  "motion": {
+    "beats": 96,
+    "beatsPerMin": 94.53,
+    "medianBeat": 0.53,
+    "beatsFirst3s": 4,
+    "entrances": {
+      "cut": 85,
+      "slide-right": 1,
+      "drop": 2,
+      "fade": 6,
+      "draw-right": 1,
+      "slide-left": 1
+    },
+    "caption": {
+      "swaps": 50,
+      "medianInterval": 1,
+      "box": [
+        0.2,
+        0.113,
+        0.6,
+        0.075
+      ]
+    },
+    "firstBeats": [
+      {
+        "t": 0,
+        "at": "what",
+        "fx": "cut"
+      },
+      {
+        "t": 0.4,
+        "at": "ice",
+        "fx": "slide-right"
+      },
+      {
+        "t": 0.78,
+        "at": "explained",
+        "fx": "cut"
+      },
+      {
+        "t": 1.87,
+        "at": "in",
+        "fx": "cut"
+      },
+      {
+        "t": 2.13,
+        "at": "2025",
+        "fx": "cut"
+      },
+      {
+        "t": 3,
+        "at": "president",
+        "fx": "cut"
+      },
+      {
+        "t": 3.27,
+        "at": "president",
+        "fx": "drop"
+      },
+      {
+        "t": 3.73,
+        "at": "take",
+        "fx": "fade"
+      }
+    ]
+  }
+}

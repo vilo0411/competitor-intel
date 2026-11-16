@@ -1,12 +1,12 @@
 {
   "name": "Cafe Chung Cung Minh",
-  "updated": "2026-11-12",
+  "updated": "2026-11-16",
   "tiktok": [
     {
       "handle": "cafechungcungminh",
       "profile": {
-        "followers": 4398,
-        "hearts": 33300,
+        "followers": 4788,
+        "hearts": 35000,
         "videoCount": 18,
         "nickname": "Cafe Chứng | ☕",
         "bio": "Chúng tôi đọc và phân tích thông tin, hỗ trợ bạn đầu tư tài chính 1 cách tương đối dễ hiểu và hiệu quả."
@@ -15,13 +15,13 @@
         "n": 18,
         "first": "2026-10-18",
         "last": "2026-11-11",
-        "daysSinceLast": 0,
-        "totalViews": 1355894,
-        "meanViews": 75327.44444444444,
-        "medianViews": 4429.5,
-        "maxViews": 777600,
-        "minViews": 972,
-        "medianER": 0.023125846544986235,
+        "daysSinceLast": 4,
+        "totalViews": 1393848,
+        "meanViews": 77436,
+        "medianViews": 4528.5,
+        "maxViews": 783600,
+        "minViews": 1431,
+        "medianER": 0.023531419251896585,
         "postsPerWeek": 5.220050664182207,
         "medianGapDays": 1.8841898148148148,
         "postsLast30": 18,
@@ -31,51 +31,51 @@
       },
       "takeaways": {
         "category": "Chưa đủ mẫu để so sánh loại nội dung",
-        "share": "Thị trường & vĩ mô chiếm 22,2% số video nhưng chỉ mang về 0,5% tổng view",
-        "viral": "3/18 video đạt từ 44k view (10× trung vị kênh) và mang về 93,0% tổng view; top 3 chiếm 93,0%",
-        "hits": "Số hit (từ 44k view) theo tháng gần nhất: 3/12 → 0/6 (kỳ cuối có 3 bài dưới 7 ngày tuổi, còn tích view)",
+        "share": "Thị trường & vĩ mô chiếm 22,2% số video nhưng chỉ mang về 0,6% tổng view",
+        "viral": "3/18 video đạt từ 45k view (10× trung vị kênh) và mang về 92,5% tổng view; top 3 chiếm 92,5%",
+        "hits": "Số hit (từ 45k view) theo tháng gần nhất: 3/12 → 0/6 (kỳ cuối có 1 bài dưới 7 ngày tuổi, còn tích view)",
         "cadence": "Đăng 5,2 video/tuần; tháng dày nhất T10/26 có 12 video; 30 ngày qua: 18 video",
-        "time": "Không khung giờ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 3,7k–9,8k)",
-        "weekday": "Không thứ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 1,7k–7,9k)",
-        "duration": "Không mức độ dài nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 3,8k–4,6k)",
+        "time": "Không khung giờ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 4,1k–9,9k)",
+        "weekday": "Không thứ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 2,1k–8,1k)",
+        "duration": "Không mức độ dài nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 4,3k–4,7k)",
         "tags": "Hashtag đi kèm view cao hơn hẳn trung vị: #cổphiếu; không chứng minh hashtag làm tăng view"
       },
       "evidence": {
-        "channelMedian": 4429.5,
-        "hitThreshold": 44295,
+        "channelMedian": 4528.5,
+        "hitThreshold": 45285,
         "periodUnit": "tháng",
         "labeledCount": 18,
         "totalCount": 18,
-        "youngCount": 3,
+        "youngCount": 1,
         "categories": [
           {
             "name": "Kiến thức / mẹo đầu tư",
             "count": 3,
             "weak": true,
-            "young": 1,
-            "median": 8664,
-            "q25": 6160,
-            "q75": 35432,
+            "young": 0,
+            "median": 13000,
+            "q25": 8652,
+            "q75": 43400,
             "aboveChannel": 0.6666666666666666,
-            "relMedian": 1.49844344517468,
+            "relMedian": 2.094578264722468,
             "aboveLocal": 0.6666666666666666,
             "hits": 1,
             "hitRate": 0.3333333333333333,
             "interactions": {
               "likes": {
-                "median": 0.05055401662049862,
+                "median": 0.05061538461538462,
                 "count": 3
               },
               "comments": {
-                "median": 0.00034626038781163435,
+                "median": 0.00023234200743494423,
                 "count": 3
               },
               "shares": {
-                "median": 0.006564551422319475,
+                "median": 0.006273234200743495,
                 "count": 3
               },
               "saves": {
-                "median": 0.010041551246537396,
+                "median": 0.01123076923076923,
                 "count": 3
               }
             }
@@ -85,29 +85,29 @@
             "count": 11,
             "weak": false,
             "young": 1,
-            "median": 7908,
-            "q25": 4038.5,
-            "q75": 21000,
+            "median": 8109,
+            "q25": 4123.5,
+            "q75": 21900,
             "aboveChannel": 0.6363636363636364,
-            "relMedian": 1.1018531419813293,
+            "relMedian": 1.1067285382830627,
             "aboveLocal": 0.5454545454545454,
             "hits": 2,
             "hitRate": 0.18181818181818182,
             "interactions": {
               "likes": {
-                "median": 0.016439049064238747,
+                "median": 0.016771488469601678,
                 "count": 11
               },
               "comments": {
-                "median": 0.0006863417982155113,
+                "median": 0.0006393861892583121,
                 "count": 11
               },
               "shares": {
-                "median": 0.00102880658436214,
+                "median": 0.0012709710218607015,
                 "count": 11
               },
               "saves": {
-                "median": 0.00139099645928174,
+                "median": 0.001507936507936508,
                 "count": 11
               }
             }
@@ -116,30 +116,30 @@
             "name": "Thị trường & vĩ mô",
             "count": 4,
             "weak": true,
-            "young": 1,
-            "median": 1646,
-            "q25": 1475.25,
-            "q75": 2022.25,
+            "young": 0,
+            "median": 1857,
+            "q25": 1707,
+            "q75": 2169.5,
             "aboveChannel": 0,
-            "relMedian": 0.40161670956802786,
+            "relMedian": 0.41207539791997094,
             "aboveLocal": 0,
             "hits": 0,
             "hitRate": 0,
             "interactions": {
               "likes": {
-                "median": 0.015968625788232788,
+                "median": 0.01631079305258881,
                 "count": 4
               },
               "comments": {
-                "median": 0.0006096070515906819,
+                "median": 0.0005390287902910958,
                 "count": 4
               },
               "shares": {
-                "median": 0.0018288211547720454,
+                "median": 0.0018820145829910166,
                 "count": 4
               },
               "saves": {
-                "median": 0.002246892670983716,
+                "median": 0.0024204675440772164,
                 "count": 4
               }
             }
@@ -154,30 +154,30 @@
                 "name": "Kiến thức / mẹo đầu tư",
                 "count": 3,
                 "weak": true,
-                "young": 1,
-                "median": 8664,
-                "q25": 6160,
-                "q75": 35432,
+                "young": 0,
+                "median": 13000,
+                "q25": 8652,
+                "q75": 43400,
                 "aboveChannel": 0.6666666666666666,
-                "relMedian": 1.49844344517468,
+                "relMedian": 2.094578264722468,
                 "aboveLocal": 0.6666666666666666,
                 "hits": 1,
                 "hitRate": 0.3333333333333333,
                 "interactions": {
                   "likes": {
-                    "median": 0.05055401662049862,
+                    "median": 0.05061538461538462,
                     "count": 3
                   },
                   "comments": {
-                    "median": 0.00034626038781163435,
+                    "median": 0.00023234200743494423,
                     "count": 3
                   },
                   "shares": {
-                    "median": 0.006564551422319475,
+                    "median": 0.006273234200743495,
                     "count": 3
                   },
                   "saves": {
-                    "median": 0.010041551246537396,
+                    "median": 0.01123076923076923,
                     "count": 3
                   }
                 }
@@ -187,29 +187,29 @@
                 "count": 11,
                 "weak": false,
                 "young": 1,
-                "median": 7908,
-                "q25": 4038.5,
-                "q75": 21000,
+                "median": 8109,
+                "q25": 4123.5,
+                "q75": 21900,
                 "aboveChannel": 0.6363636363636364,
-                "relMedian": 1.1018531419813293,
+                "relMedian": 1.1067285382830627,
                 "aboveLocal": 0.5454545454545454,
                 "hits": 2,
                 "hitRate": 0.18181818181818182,
                 "interactions": {
                   "likes": {
-                    "median": 0.016439049064238747,
+                    "median": 0.016771488469601678,
                     "count": 11
                   },
                   "comments": {
-                    "median": 0.0006863417982155113,
+                    "median": 0.0006393861892583121,
                     "count": 11
                   },
                   "shares": {
-                    "median": 0.00102880658436214,
+                    "median": 0.0012709710218607015,
                     "count": 11
                   },
                   "saves": {
-                    "median": 0.00139099645928174,
+                    "median": 0.001507936507936508,
                     "count": 11
                   }
                 }
@@ -218,30 +218,30 @@
                 "name": "Thị trường & vĩ mô",
                 "count": 4,
                 "weak": true,
-                "young": 1,
-                "median": 1646,
-                "q25": 1475.25,
-                "q75": 2022.25,
+                "young": 0,
+                "median": 1857,
+                "q25": 1707,
+                "q75": 2169.5,
                 "aboveChannel": 0,
-                "relMedian": 0.40161670956802786,
+                "relMedian": 0.41207539791997094,
                 "aboveLocal": 0,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.015968625788232788,
+                    "median": 0.01631079305258881,
                     "count": 4
                   },
                   "comments": {
-                    "median": 0.0006096070515906819,
+                    "median": 0.0005390287902910958,
                     "count": 4
                   },
                   "shares": {
-                    "median": 0.0018288211547720454,
+                    "median": 0.0018820145829910166,
                     "count": 4
                   },
                   "saves": {
-                    "median": 0.002246892670983716,
+                    "median": 0.0024204675440772164,
                     "count": 4
                   }
                 }
@@ -261,30 +261,30 @@
                 "name": "Kiến thức / mẹo đầu tư",
                 "count": 3,
                 "weak": true,
-                "young": 1,
-                "median": 8664,
-                "q25": 6160,
-                "q75": 35432,
+                "young": 0,
+                "median": 13000,
+                "q25": 8652,
+                "q75": 43400,
                 "aboveChannel": 0.6666666666666666,
-                "relMedian": 1.49844344517468,
+                "relMedian": 2.094578264722468,
                 "aboveLocal": 0.6666666666666666,
                 "hits": 1,
                 "hitRate": 0.3333333333333333,
                 "interactions": {
                   "likes": {
-                    "median": 0.05055401662049862,
+                    "median": 0.05061538461538462,
                     "count": 3
                   },
                   "comments": {
-                    "median": 0.00034626038781163435,
+                    "median": 0.00023234200743494423,
                     "count": 3
                   },
                   "shares": {
-                    "median": 0.006564551422319475,
+                    "median": 0.006273234200743495,
                     "count": 3
                   },
                   "saves": {
-                    "median": 0.010041551246537396,
+                    "median": 0.01123076923076923,
                     "count": 3
                   }
                 }
@@ -294,29 +294,29 @@
                 "count": 10,
                 "weak": false,
                 "young": 1,
-                "median": 6250.5,
-                "q25": 3924.75,
-                "q75": 11815.25,
+                "median": 6426.5,
+                "q25": 4028.75,
+                "q75": 11927.5,
                 "aboveChannel": 0.6,
-                "relMedian": 0.9811105646694094,
+                "relMedian": 0.9877244325510488,
                 "aboveLocal": 0.5,
                 "hits": 1,
                 "hitRate": 0.1,
                 "interactions": {
                   "likes": {
-                    "median": 0.016423931470703527,
+                    "median": 0.016616673982076516,
                     "count": 10
                   },
                   "comments": {
-                    "median": 0.0008041892373927674,
+                    "median": 0.0007737798756584194,
                     "count": 10
                   },
                   "shares": {
-                    "median": 0.0010202201864653391,
+                    "median": 0.0013732595412844822,
                     "count": 10
                   },
                   "saves": {
-                    "median": 0.00145549822964087,
+                    "median": 0.001516550867084675,
                     "count": 10
                   }
                 }
@@ -325,30 +325,30 @@
                 "name": "Thị trường & vĩ mô",
                 "count": 4,
                 "weak": true,
-                "young": 1,
-                "median": 1646,
-                "q25": 1475.25,
-                "q75": 2022.25,
+                "young": 0,
+                "median": 1857,
+                "q25": 1707,
+                "q75": 2169.5,
                 "aboveChannel": 0,
-                "relMedian": 0.40161670956802786,
+                "relMedian": 0.41207539791997094,
                 "aboveLocal": 0,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.015968625788232788,
+                    "median": 0.01631079305258881,
                     "count": 4
                   },
                   "comments": {
-                    "median": 0.0006096070515906819,
+                    "median": 0.0005390287902910958,
                     "count": 4
                   },
                   "shares": {
-                    "median": 0.0018288211547720454,
+                    "median": 0.0018820145829910166,
                     "count": 4
                   },
                   "saves": {
-                    "median": 0.002246892670983716,
+                    "median": 0.0024204675440772164,
                     "count": 4
                   }
                 }
@@ -370,30 +370,30 @@
                 "name": "Kiến thức / mẹo đầu tư",
                 "count": 2,
                 "weak": true,
-                "young": 1,
-                "median": 6160,
-                "q25": 4908,
-                "q75": 7412,
+                "young": 0,
+                "median": 8652,
+                "q25": 6478,
+                "q75": 10826,
                 "aboveChannel": 0.5,
-                "relMedian": 0.9602097188938958,
+                "relMedian": 1.2128275938996957,
                 "aboveLocal": 0.5,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.04168838686604799,
+                    "median": 0.0415716328281384,
                     "count": 2
                   },
                   "comments": {
-                    "median": 0.0003098916818708062,
+                    "median": 0.0002315556191020875,
                     "count": 2
                   },
                   "shares": {
-                    "median": 0.005186707844123726,
+                    "median": 0.004982770946525593,
                     "count": 2
                   },
                   "saves": {
-                    "median": 0.008029528358498458,
+                    "median": 0.009100514726908778,
                     "count": 2
                   }
                 }
@@ -403,29 +403,29 @@
                 "count": 9,
                 "weak": false,
                 "young": 1,
-                "median": 4593,
-                "q25": 3811,
-                "q75": 9761,
+                "median": 4744,
+                "q25": 3934,
+                "q75": 9910,
                 "aboveChannel": 0.5555555555555556,
-                "relMedian": 0.8603679873574895,
+                "relMedian": 0.868720326819035,
                 "aboveLocal": 0.4444444444444444,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.016408813877168308,
+                    "median": 0.016461859494551357,
                     "count": 9
                   },
                   "comments": {
-                    "median": 0.0009220366765700235,
+                    "median": 0.0009081735620585267,
                     "count": 9
                   },
                   "shares": {
-                    "median": 0.0010116337885685382,
+                    "median": 0.0012709710218607015,
                     "count": 9
                   },
                   "saves": {
-                    "median": 0.00139099645928174,
+                    "median": 0.001507936507936508,
                     "count": 9
                   }
                 }
@@ -434,30 +434,30 @@
                 "name": "Thị trường & vĩ mô",
                 "count": 4,
                 "weak": true,
-                "young": 1,
-                "median": 1646,
-                "q25": 1475.25,
-                "q75": 2022.25,
+                "young": 0,
+                "median": 1857,
+                "q25": 1707,
+                "q75": 2169.5,
                 "aboveChannel": 0,
-                "relMedian": 0.40161670956802786,
+                "relMedian": 0.41207539791997094,
                 "aboveLocal": 0,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.015968625788232788,
+                    "median": 0.01631079305258881,
                     "count": 4
                   },
                   "comments": {
-                    "median": 0.0006096070515906819,
+                    "median": 0.0005390287902910958,
                     "count": 4
                   },
                   "shares": {
-                    "median": 0.0018288211547720454,
+                    "median": 0.0018820145829910166,
                     "count": 4
                   },
                   "saves": {
-                    "median": 0.002246892670983716,
+                    "median": 0.0024204675440772164,
                     "count": 4
                   }
                 }
@@ -478,29 +478,29 @@
                 "count": 1,
                 "weak": true,
                 "young": 0,
-                "median": 62200,
-                "q25": 62200,
-                "q75": 62200,
+                "median": 73800,
+                "q25": 73800,
+                "q75": 73800,
                 "aboveChannel": 1,
-                "relMedian": 9.951203903687706,
+                "relMedian": 11.483700303431105,
                 "aboveLocal": 1,
                 "hits": 1,
                 "hitRate": 1,
                 "interactions": {
                   "likes": {
-                    "median": 0.055369774919614145,
+                    "median": 0.058509485094850947,
                     "count": 1
                   },
                   "comments": {
-                    "median": 0.0006270096463022509,
+                    "median": 0.0005962059620596206,
                     "count": 1
                   },
                   "shares": {
-                    "median": 0.006672025723472669,
+                    "median": 0.006802168021680217,
                     "count": 1
                   },
                   "saves": {
-                    "median": 0.022090032154340834,
+                    "median": 0.02378048780487805,
                     "count": 1
                   }
                 }
@@ -510,29 +510,29 @@
                 "count": 9,
                 "weak": false,
                 "young": 0,
-                "median": 7908,
-                "q25": 4266,
-                "q75": 12500,
+                "median": 8109,
+                "q25": 4313,
+                "q75": 12600,
                 "aboveChannel": 0.6666666666666666,
-                "relMedian": 1.1018531419813293,
+                "relMedian": 1.1067285382830627,
                 "aboveLocal": 0.5555555555555556,
                 "hits": 2,
                 "hitRate": 0.2222222222222222,
                 "interactions": {
                   "likes": {
-                    "median": 0.016408813877168308,
+                    "median": 0.016461859494551357,
                     "count": 9
                   },
                   "comments": {
-                    "median": 0.0004150853889943074,
+                    "median": 0.00042302357836338417,
                     "count": 9
                   },
                   "shares": {
-                    "median": 0.0010116337885685382,
+                    "median": 0.0012633996937212863,
                     "count": 9
                   },
                   "saves": {
-                    "median": 0.00139099645928174,
+                    "median": 0.0014798372179060304,
                     "count": 9
                   }
                 }
@@ -542,29 +542,29 @@
                 "count": 2,
                 "weak": true,
                 "young": 0,
-                "median": 2302.5,
-                "q25": 2022.25,
-                "q75": 2582.75,
+                "median": 2366,
+                "q25": 2082.5,
+                "q75": 2649.5,
                 "aboveChannel": 0,
-                "relMedian": 0.5013063357282821,
+                "relMedian": 0.4987352445193929,
                 "aboveLocal": 0,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.014161339518052287,
+                    "median": 0.014045193497846192,
                     "count": 2
                   },
                   "comments": {
-                    "median": 0.0009855943421611414,
+                    "median": 0.0009598278545094662,
                     "count": 2
                   },
                   "shares": {
-                    "median": 0.0010357212032211121,
+                    "median": 0.0010042704711315355,
                     "count": 2
                   },
                   "saves": {
-                    "median": 0.0013348783100270165,
+                    "median": 0.0013007756894907142,
                     "count": 2
                   }
                 }
@@ -580,29 +580,29 @@
                 "count": 2,
                 "weak": true,
                 "young": 1,
-                "median": 15236,
-                "q25": 8104,
-                "q75": 22368,
+                "median": 16646,
+                "q25": 9369,
+                "q75": 23923,
                 "aboveChannel": 0.5,
-                "relMedian": 2.60711459098875,
+                "relMedian": 2.5939554561285,
                 "aboveLocal": 0.5,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.028667712910650765,
+                    "median": 0.02754599328332598,
                     "count": 2
                   },
                   "comments": {
-                    "median": 0.0020686336053567693,
+                    "median": 0.0012138120802078736,
                     "count": 2
                   },
                   "shares": {
-                    "median": 0.001344911766757341,
+                    "median": 0.002331470314261901,
                     "count": 2
                   },
                   "saves": {
-                    "median": 0.0018703354955709006,
+                    "median": 0.0026373363729960287,
                     "count": 2
                   }
                 }
@@ -611,30 +611,30 @@
                 "name": "Kiến thức / mẹo đầu tư",
                 "count": 2,
                 "weak": true,
-                "young": 1,
-                "median": 6160,
-                "q25": 4908,
-                "q75": 7412,
+                "young": 0,
+                "median": 8652,
+                "q25": 6478,
+                "q75": 10826,
                 "aboveChannel": 0.5,
-                "relMedian": 0.9602097188938958,
+                "relMedian": 1.2128275938996957,
                 "aboveLocal": 0.5,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.04168838686604799,
+                    "median": 0.0415716328281384,
                     "count": 2
                   },
                   "comments": {
-                    "median": 0.0003098916818708062,
+                    "median": 0.0002315556191020875,
                     "count": 2
                   },
                   "shares": {
-                    "median": 0.005186707844123726,
+                    "median": 0.004982770946525593,
                     "count": 2
                   },
                   "saves": {
-                    "median": 0.008029528358498458,
+                    "median": 0.009100514726908778,
                     "count": 2
                   }
                 }
@@ -643,30 +643,30 @@
                 "name": "Thị trường & vĩ mô",
                 "count": 2,
                 "weak": true,
-                "young": 1,
-                "median": 1400.5,
-                "q25": 1325.75,
-                "q75": 1475.25,
+                "young": 0,
+                "median": 1673,
+                "q25": 1552,
+                "q75": 1794,
                 "aboveChannel": 0,
-                "relMedian": 0.28417559720445884,
+                "relMedian": 0.27750593365742066,
                 "aboveLocal": 0,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.029438126917820582,
+                    "median": 0.028666801685176976,
                     "count": 2
                   },
                   "comments": {
-                    "median": 0.0003225806451612903,
+                    "median": 0.0002610966057441253,
                     "count": 2
                   },
                   "shares": {
-                    "median": 0.002166782702869962,
+                    "median": 0.0026147976638148567,
                     "count": 2
                   },
                   "saves": {
-                    "median": 0.0037796859286764136,
+                    "median": 0.003747493490830601,
                     "count": 2
                   }
                 }
@@ -683,30 +683,30 @@
                 "name": "≤75s",
                 "count": 1,
                 "weak": true,
-                "young": 1,
-                "median": 8664,
-                "q25": 8664,
-                "q75": 8664,
+                "young": 0,
+                "median": 13000,
+                "q25": 13000,
+                "q75": 13000,
                 "aboveChannel": 1,
-                "relMedian": 1.49844344517468,
+                "relMedian": 2.094578264722468,
                 "aboveLocal": 1,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.05055401662049862,
+                    "median": 0.05061538461538462,
                     "count": 1
                   },
                   "comments": {
-                    "median": 0.00034626038781163435,
+                    "median": 0.00023076923076923076,
                     "count": 1
                   },
                   "shares": {
-                    "median": 0.003808864265927978,
+                    "median": 0.0036923076923076922,
                     "count": 1
                   },
                   "saves": {
-                    "median": 0.010041551246537396,
+                    "median": 0.01123076923076923,
                     "count": 1
                   }
                 }
@@ -716,29 +716,29 @@
                 "count": 1,
                 "weak": true,
                 "young": 0,
-                "median": 62200,
-                "q25": 62200,
-                "q75": 62200,
+                "median": 73800,
+                "q25": 73800,
+                "q75": 73800,
                 "aboveChannel": 1,
-                "relMedian": 9.951203903687706,
+                "relMedian": 11.483700303431105,
                 "aboveLocal": 1,
                 "hits": 1,
                 "hitRate": 1,
                 "interactions": {
                   "likes": {
-                    "median": 0.055369774919614145,
+                    "median": 0.058509485094850947,
                     "count": 1
                   },
                   "comments": {
-                    "median": 0.0006270096463022509,
+                    "median": 0.0005962059620596206,
                     "count": 1
                   },
                   "shares": {
-                    "median": 0.006672025723472669,
+                    "median": 0.006802168021680217,
                     "count": 1
                   },
                   "saves": {
-                    "median": 0.022090032154340834,
+                    "median": 0.02378048780487805,
                     "count": 1
                   }
                 }
@@ -748,29 +748,29 @@
                 "count": 1,
                 "weak": true,
                 "young": 0,
-                "median": 3656,
-                "q25": 3656,
-                "q75": 3656,
+                "median": 4304,
+                "q25": 4304,
+                "q75": 4304,
                 "aboveChannel": 0,
-                "relMedian": 0.42197599261311175,
+                "relMedian": 0.3310769230769231,
                 "aboveLocal": 0,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.03282275711159737,
+                    "median": 0.032527881040892194,
                     "count": 1
                   },
                   "comments": {
-                    "median": 0.0002735229759299781,
+                    "median": 0.00023234200743494423,
                     "count": 1
                   },
                   "shares": {
-                    "median": 0.006564551422319475,
+                    "median": 0.006273234200743495,
                     "count": 1
                   },
                   "saves": {
-                    "median": 0.006017505470459519,
+                    "median": 0.006970260223048327,
                     "count": 1
                   }
                 }
@@ -786,29 +786,29 @@
                 "count": 4,
                 "weak": true,
                 "young": 1,
-                "median": 4682.5,
-                "q25": 1335.75,
-                "q75": 200331,
+                "median": 5100.5,
+                "q25": 1960,
+                "q75": 201981.75,
                 "aboveChannel": 0.5,
-                "relMedian": 0.7153920862858447,
+                "relMedian": 0.7260483808783096,
                 "aboveLocal": 0.5,
                 "hits": 1,
                 "hitRate": 0.25,
                 "interactions": {
                   "likes": {
-                    "median": 0.022890946502057613,
+                    "median": 0.02206441418095821,
                     "count": 4
                   },
                   "comments": {
-                    "median": 0.0008489877933920248,
+                    "median": 0.0008129721672644995,
                     "count": 4
                   },
                   "shares": {
-                    "median": 0.0010202201864653391,
+                    "median": 0.0013716184558136583,
                     "count": 4
                   },
                   "saves": {
-                    "median": 0.0013571494642087712,
+                    "median": 0.0019349472896413517,
                     "count": 4
                   }
                 }
@@ -818,29 +818,29 @@
                 "count": 3,
                 "weak": true,
                 "young": 0,
-                "median": 4593,
-                "q25": 4429.5,
-                "q75": 7177,
+                "median": 4744,
+                "q25": 4528.5,
+                "q75": 7327,
                 "aboveChannel": 0.6666666666666666,
-                "relMedian": 0.7545588960078856,
+                "relMedian": 0.763806150378361,
                 "aboveLocal": 0.3333333333333333,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.016084417580165968,
+                    "median": 0.016145307769929364,
                     "count": 3
                   },
                   "comments": {
-                    "median": 0.00023441162681669012,
+                    "median": 0.00023185717597959656,
                     "count": 3
                   },
                   "shares": {
-                    "median": 0.0009376465072667605,
+                    "median": 0.0009274287039183863,
                     "count": 3
                   },
                   "saves": {
-                    "median": 0.0011720581340834506,
+                    "median": 0.001159285879897983,
                     "count": 3
                   }
                 }
@@ -850,29 +850,29 @@
                 "count": 4,
                 "weak": true,
                 "young": 0,
-                "median": 21000,
-                "q25": 10327.75,
-                "q75": 127525,
+                "median": 21900,
+                "q25": 10433.5,
+                "q75": 131550,
                 "aboveChannel": 0.75,
-                "relMedian": 4.09862471669366,
+                "relMedian": 4.041322218867398,
                 "aboveLocal": 0.75,
                 "hits": 1,
                 "hitRate": 0.25,
                 "interactions": {
                   "likes": {
-                    "median": 0.02100554079696395,
+                    "median": 0.021192017259978425,
                     "count": 4
                   },
                   "comments": {
-                    "median": 0.000732966423310713,
+                    "median": 0.000708306660976564,
                     "count": 4
                   },
                   "shares": {
-                    "median": 0.0014865042762031407,
+                    "median": 0.0015329214083662482,
                     "count": 4
                   },
                   "saves": {
-                    "median": 0.002143127165342074,
+                    "median": 0.0022048903054241132,
                     "count": 4
                   }
                 }
@@ -888,29 +888,29 @@
                 "count": 1,
                 "weak": true,
                 "young": 0,
-                "median": 1742,
-                "q25": 1742,
-                "q75": 1742,
+                "median": 1799,
+                "q25": 1799,
+                "q75": 1799,
                 "aboveChannel": 0,
-                "relMedian": 0.3792728064445896,
+                "relMedian": 0.3792158516020236,
                 "aboveLocal": 0,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.014351320321469576,
+                    "median": 0.014452473596442469,
                     "count": 1
                   },
                   "comments": {
-                    "median": 0.000574052812858783,
+                    "median": 0.0005558643690939411,
                     "count": 1
                   },
                   "shares": {
-                    "median": 0.001722158438576349,
+                    "median": 0.0016675931072818232,
                     "count": 1
                   },
                   "saves": {
-                    "median": 0.000574052812858783,
+                    "median": 0.0005558643690939411,
                     "count": 1
                   }
                 }
@@ -920,29 +920,29 @@
                 "count": 2,
                 "weak": true,
                 "young": 0,
-                "median": 2057,
-                "q25": 1654,
-                "q75": 2460,
+                "median": 2182,
+                "q25": 1806.5,
+                "q75": 2557.5,
                 "aboveChannel": 0,
-                "relMedian": 0.38386522336471307,
+                "relMedian": 0.36416578025684265,
                 "aboveLocal": 0,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.0157786449848155,
+                    "median": 0.015903512953992532,
                     "count": 2
                   },
                   "comments": {
-                    "median": 0.0006985679357317499,
+                    "median": 0.0006818956699624957,
                     "count": 2
                   },
                   "shares": {
-                    "median": 0.0013736827513190285,
+                    "median": 0.0012186919468407287,
                     "count": 2
                   },
                   "saves": {
-                    "median": 0.002246892670983716,
+                    "median": 0.0024204675440772164,
                     "count": 2
                   }
                 }
@@ -951,30 +951,30 @@
                 "name": ">85s",
                 "count": 1,
                 "weak": true,
-                "young": 1,
-                "median": 1550,
-                "q25": 1550,
-                "q75": 1550,
+                "young": 0,
+                "median": 1915,
+                "q25": 1915,
+                "q75": 1915,
                 "aboveChannel": 0,
-                "relMedian": 0.42396061269146607,
+                "relMedian": 0.44493494423791824,
                 "aboveLocal": 0,
                 "hits": 0,
                 "hitRate": 0,
                 "interactions": {
                   "likes": {
-                    "median": 0.04129032258064516,
+                    "median": 0.0391644908616188,
                     "count": 1
                   },
                   "comments": {
-                    "median": 0.0006451612903225806,
+                    "median": 0.0005221932114882506,
                     "count": 1
                   },
                   "shares": {
-                    "median": 0.001935483870967742,
+                    "median": 0.003133159268929504,
                     "count": 1
                   },
                   "saves": {
-                    "median": 0.005161290322580645,
+                    "median": 0.004699738903394256,
                     "count": 1
                   }
                 }
@@ -988,7 +988,7 @@
             "key": "2026-10",
             "count": 12,
             "young": 0,
-            "median": 6250.5,
+            "median": 6426.5,
             "hits": 3,
             "hitRate": 0.25
           },
@@ -996,8 +996,8 @@
             "period": "T11/2026",
             "key": "2026-11",
             "count": 6,
-            "young": 3,
-            "median": 2603,
+            "young": 1,
+            "median": 3198,
             "hits": 0,
             "hitRate": 0
           }
@@ -1008,7 +1008,7 @@
               "id": "7703123815131368724",
               "title": "Liệu còn chuyến tàu thứ 2 cho VSC? #creatorsearchinsights #cổphiếu #cafechung ",
               "url": "https://www.tiktok.com/@cafechungcungminh/video/7703123815131368724",
-              "views": 29500,
+              "views": 31200,
               "duration": 96,
               "date": "2026-11-01",
               "category": "Phân tích một mã cổ phiếu"
@@ -1017,20 +1017,42 @@
               "id": "7698293889710542086",
               "title": "#creatorsearchinsights #cổphiếu #cafechung #fpt ",
               "url": "https://www.tiktok.com/@cafechungcungminh/video/7698293889710542086",
-              "views": 3811,
+              "views": 3934,
               "duration": 100,
               "date": "2026-10-19",
               "category": "Phân tích một mã cổ phiếu"
             },
-            "ratio": 7.740750459197061,
+            "ratio": 7.930859176410777,
             "daysApart": 13.015648148148149
+          },
+          {
+            "high": {
+              "id": "7701680816157445396",
+              "title": "Các bạn đánh giá sao về mẹo này #creatorsearchinsights #cổphiếu #cafechung ",
+              "url": "https://www.tiktok.com/@cafechungcungminh/video/7701680816157445396",
+              "views": 73800,
+              "duration": 77,
+              "date": "2026-10-28",
+              "category": "Kiến thức / mẹo đầu tư"
+            },
+            "low": {
+              "id": "7706090045530246452",
+              "title": "Kiếm tiền từ cổ phiếu như thế nào? #creatorsearchinsights #cổphiếu #cafechung ",
+              "url": "https://www.tiktok.com/@cafechungcungminh/video/7706090045530246452",
+              "views": 13000,
+              "duration": 72,
+              "date": "2026-11-09",
+              "category": "Kiến thức / mẹo đầu tư"
+            },
+            "ratio": 5.676923076923077,
+            "daysApart": 11.882037037037037
           },
           {
             "high": {
               "id": "7700928215514205441",
               "title": "Gánh cả Vn-index có khác #creatorsearchinsights #cổphiếu #cafechung ",
               "url": "https://www.tiktok.com/@cafechungcungminh/video/7700928215514205441",
-              "views": 7908,
+              "views": 8109,
               "duration": 74,
               "date": "2026-10-26",
               "category": "Phân tích một mã cổ phiếu"
@@ -1039,12 +1061,12 @@
               "id": "7697877464361536789",
               "title": "Ai bắt đáy PNJ chắc khóc thét #pnj #cafechung #chungkhoan ",
               "url": "https://www.tiktok.com/@cafechungcungminh/video/7697877464361536789",
-              "views": 1457,
+              "views": 1564,
               "duration": 65,
               "date": "2026-10-18",
               "category": "Phân tích một mã cổ phiếu"
             },
-            "ratio": 5.427590940288264,
+            "ratio": 5.184782608695652,
             "daysApart": 8.221145833333333
           }
         ]
@@ -1052,40 +1074,40 @@
       "era": null,
       "scope": {
         "count": 18,
-        "medianViews": 4429.5,
+        "medianViews": 4528.5,
         "categories": [
           {
             "name": "Kiến thức / mẹo đầu tư",
             "count": 3,
-            "median": 8664,
-            "mean": 24840,
-            "q25": 6160,
-            "q75": 35432,
-            "relMedian": 1.49844344517468,
-            "relQ25": 0.9602097188938958,
-            "relQ75": 5.724823674431193
+            "median": 13000,
+            "mean": 30368,
+            "q25": 8652,
+            "q75": 43400,
+            "relMedian": 2.094578264722468,
+            "relQ25": 1.2128275938996957,
+            "relQ75": 6.789139284076787
           },
           {
             "name": "Phân tích một mã cổ phiếu",
             "count": 11,
-            "median": 7908,
-            "mean": 115815.27272727272,
-            "q25": 4038.5,
-            "q75": 21000,
-            "relMedian": 1.1018531419813293,
-            "relQ25": 0.71853214778796,
-            "relQ75": 4.09862471669366
+            "median": 8109,
+            "mean": 117696.90909090909,
+            "q25": 4123.5,
+            "q75": 21900,
+            "relMedian": 1.1067285382830627,
+            "relQ25": 0.7174667568199282,
+            "relQ75": 4.041322218867398
           },
           {
             "name": "Thị trường & vĩ mô",
             "count": 4,
-            "median": 1646,
-            "mean": 1851.5,
-            "q25": 1475.25,
-            "q75": 2022.25,
-            "relMedian": 0.40161670956802786,
-            "relQ25": 0.3205522502628051,
-            "relQ75": 0.47380542577159324
+            "median": 1857,
+            "mean": 2019.5,
+            "q25": 1707,
+            "q75": 2169.5,
+            "relMedian": 0.41207539791997094,
+            "relQ25": 0.3119311194707485,
+            "relQ75": 0.4882648675376292
           }
         ],
         "note": "timeBuckets, weekdays, durations, tags and scope.categories only cover the current format when era is set"
@@ -1105,35 +1127,35 @@
         {
           "name": "Trưa (11–14h)",
           "count": 1,
-          "median": 1457,
-          "mean": 1457,
-          "q25": 1457,
-          "q75": 1457,
-          "relMedian": 0.3289310305903601,
-          "relQ25": 0.3289310305903601,
-          "relQ75": 0.3289310305903601
+          "median": 1564,
+          "mean": 1564,
+          "q25": 1564,
+          "q75": 1564,
+          "relMedian": 0.3453682234735564,
+          "relQ25": 0.3453682234735564,
+          "relQ75": 0.3453682234735564
         },
         {
           "name": "Chiều (14–18h)",
           "count": 12,
-          "median": 3733.5,
-          "mean": 105093.08333333333,
-          "q25": 1694,
-          "q75": 13873,
-          "relMedian": 0.7418539261847321,
-          "relQ25": 0.4113001960709812,
-          "relQ75": 2.3993427879626426
+          "median": 4119,
+          "mean": 107243.08333333333,
+          "q25": 2047.75,
+          "q75": 17550,
+          "relMedian": 0.7434874821278986,
+          "relQ25": 0.3671811194707485,
+          "relQ75": 2.827680657375332
         },
         {
           "name": "Tối (18–23h)",
           "count": 5,
-          "median": 9761,
-          "mean": 18664,
-          "q25": 4593,
-          "q75": 12500,
-          "relMedian": 2.288091889357712,
-          "relQ25": 0.7545588960078856,
-          "relQ75": 3.09520861706079
+          "median": 9910,
+          "mean": 21073.4,
+          "q25": 4744,
+          "q75": 12600,
+          "relMedian": 2.297704613957802,
+          "relQ25": 0.763806150378361,
+          "relQ75": 3.055656602400873
         },
         {
           "name": "Đêm (23–5h)",
@@ -1151,274 +1173,274 @@
         {
           "name": "Kiến thức / mẹo đầu tư",
           "count": 3,
-          "median": 8664,
-          "mean": 24840,
-          "q25": 6160,
-          "q75": 35432,
-          "relMedian": 1.49844344517468,
-          "relQ25": 0.9602097188938958,
-          "relQ75": 5.724823674431193
+          "median": 13000,
+          "mean": 30368,
+          "q25": 8652,
+          "q75": 43400,
+          "relMedian": 2.094578264722468,
+          "relQ25": 1.2128275938996957,
+          "relQ75": 6.789139284076787
         },
         {
           "name": "Phân tích một mã cổ phiếu",
           "count": 11,
-          "median": 7908,
-          "mean": 115815.27272727272,
-          "q25": 4038.5,
-          "q75": 21000,
-          "relMedian": 1.1018531419813293,
-          "relQ25": 0.71853214778796,
-          "relQ75": 4.09862471669366
+          "median": 8109,
+          "mean": 117696.90909090909,
+          "q25": 4123.5,
+          "q75": 21900,
+          "relMedian": 1.1067285382830627,
+          "relQ25": 0.7174667568199282,
+          "relQ75": 4.041322218867398
         },
         {
           "name": "Thị trường & vĩ mô",
           "count": 4,
-          "median": 1646,
-          "mean": 1851.5,
-          "q25": 1475.25,
-          "q75": 2022.25,
-          "relMedian": 0.40161670956802786,
-          "relQ25": 0.3205522502628051,
-          "relQ75": 0.47380542577159324
+          "median": 1857,
+          "mean": 2019.5,
+          "q25": 1707,
+          "q75": 2169.5,
+          "relMedian": 0.41207539791997094,
+          "relQ25": 0.3119311194707485,
+          "relQ75": 0.4882648675376292
         }
       ],
       "months": [
         {
           "name": "2026-10",
           "count": 12,
-          "median": 6250.5,
-          "mean": 109191.75,
-          "q25": 3574,
-          "q75": 24925,
-          "relMedian": 0.9811105646694094,
-          "relQ25": 0.6677140159290196,
-          "relQ75": 4.809207438717519
+          "median": 6426.5,
+          "mean": 111658.83333333333,
+          "q25": 3683.75,
+          "q75": 27900,
+          "relMedian": 0.9877244325510488,
+          "relQ25": 0.6579091818053121,
+          "relQ75": 5.1626675276584315
         },
         {
           "name": "2026-11",
           "count": 6,
-          "median": 2603,
-          "mean": 7598.833333333333,
-          "q25": 1325.75,
-          "q75": 7412,
-          "relMedian": 0.4229683026522889,
-          "relQ25": 0.2137869344413666,
-          "relQ75": 1.2298227370538766
+          "median": 3198,
+          "mean": 8990.333333333334,
+          "q25": 1959.25,
+          "q75": 10826,
+          "relMedian": 0.38800593365742064,
+          "relQ25": 0.20346153846153847,
+          "relQ75": 1.6821674346013307
         }
       ],
       "weekdays": [
         {
           "name": "T2",
           "count": 5,
-          "median": 7908,
-          "mean": 6760,
-          "q25": 3811,
-          "q75": 8664,
-          "relMedian": 1.1018531419813293,
-          "relQ25": 0.8603679873574895,
-          "relQ75": 1.49844344517468
+          "median": 8109,
+          "mean": 7851.4,
+          "q25": 4304,
+          "q75": 9910,
+          "relMedian": 1.1067285382830627,
+          "relQ25": 0.868720326819035,
+          "relQ75": 2.094578264722468
         },
         {
           "name": "T3",
           "count": 1,
-          "median": 2863,
-          "mean": 2863,
-          "q25": 2863,
-          "q75": 2863,
-          "relMedian": 0.6233398650119747,
-          "relQ25": 0.6233398650119747,
-          "relQ75": 0.6233398650119747
+          "median": 2933,
+          "mean": 2933,
+          "q25": 2933,
+          "q75": 2933,
+          "relMedian": 0.6182546374367622,
+          "relQ25": 0.6182546374367622,
+          "relQ75": 0.6182546374367622
         },
         {
           "name": "T4",
           "count": 5,
-          "median": 1742,
-          "mean": 14151.6,
-          "q25": 1251,
-          "q75": 4593,
-          "relMedian": 0.3792728064445896,
-          "relQ25": 0.14439058171745153,
-          "relQ75": 0.7545588960078856
+          "median": 2092,
+          "mean": 16773.2,
+          "q25": 1799,
+          "q75": 4744,
+          "relMedian": 0.3792158516020236,
+          "relQ25": 0.16092307692307692,
+          "relQ75": 0.763806150378361
         },
         {
           "name": "T5",
           "count": 1,
-          "median": 4266,
-          "mean": 4266,
-          "q25": 4266,
-          "q75": 4266,
-          "relMedian": 0.6825053995680346,
-          "relQ25": 0.6825053995680346,
-          "relQ75": 0.6825053995680346
+          "median": 4313,
+          "mean": 4313,
+          "q25": 4313,
+          "q75": 4313,
+          "relMedian": 0.6711273632614954,
+          "relQ25": 0.6711273632614954,
+          "relQ75": 0.6711273632614954
         },
         {
           "name": "T6",
           "count": 2,
-          "median": 211575,
-          "mean": 211575,
-          "q25": 106562.5,
-          "q75": 316587.5,
-          "relMedian": 11.4822968161832,
-          "relQ25": 5.953128714437333,
-          "relQ75": 17.011464917929068
+          "median": 217257.5,
+          "mean": 217257.5,
+          "q25": 109586.25,
+          "q75": 324928.75,
+          "relMedian": 11.227580804943504,
+          "relQ25": 5.836257874590711,
+          "relQ75": 16.618903735296296
         },
         {
           "name": "T7",
           "count": 1,
-          "median": 777600,
-          "mean": 777600,
-          "q25": 777600,
-          "q75": 777600,
-          "relMedian": 169.30111038536904,
-          "relQ25": 169.30111038536904,
-          "relQ75": 169.30111038536904
+          "median": 783600,
+          "mean": 783600,
+          "q25": 783600,
+          "q75": 783600,
+          "relMedian": 165.177065767285,
+          "relQ25": 165.177065767285,
+          "relQ75": 165.177065767285
         },
         {
           "name": "CN",
           "count": 3,
-          "median": 12500,
-          "mean": 14485.666666666666,
-          "q25": 6978.5,
-          "q75": 21000,
-          "relMedian": 3.09520861706079,
-          "relQ25": 1.7120698238255752,
-          "relQ75": 4.09862471669366
+          "median": 12600,
+          "mean": 15121.333333333334,
+          "q25": 7082,
+          "q75": 21900,
+          "relMedian": 3.055656602400873,
+          "relQ25": 1.700512412937215,
+          "relQ75": 4.041322218867398
         }
       ],
       "durations": [
         {
           "name": "46–60s",
           "count": 2,
-          "median": 389286,
-          "mean": 389286,
-          "q25": 195129,
-          "q75": 583443,
-          "relMedian": 84.70664937551,
-          "relQ25": 42.40941887058049,
-          "relQ75": 127.00387988043951
+          "median": 392846,
+          "mean": 392846,
+          "q25": 197469,
+          "q75": 588223,
+          "relMedian": 82.66899442210405,
+          "relQ25": 41.41495874951356,
+          "relQ75": 123.92303009469454
         },
         {
           "name": "61–90s",
           "count": 11,
-          "median": 4593,
-          "mean": 10655,
-          "q25": 2302.5,
-          "q75": 9212.5,
-          "relMedian": 0.7545588960078856,
-          "relQ25": 0.5013063357282821,
-          "relQ75": 1.8932676672661959
+          "median": 4744,
+          "mean": 12200.272727272728,
+          "q25": 2366,
+          "q75": 11255,
+          "relMedian": 0.763806150378361,
+          "relQ25": 0.4987352445193929,
+          "relQ75": 2.196141439340135
         },
         {
           "name": ">90s",
           "count": 5,
-          "median": 3811,
-          "mean": 92023.4,
-          "q25": 3656,
-          "q75": 29500,
-          "relMedian": 0.8603679873574895,
-          "relQ25": 0.42396061269146607,
-          "relQ75": 5.1020408163265305
+          "median": 4304,
+          "mean": 94790.6,
+          "q25": 3934,
+          "q75": 31200,
+          "relMedian": 0.868720326819035,
+          "relQ25": 0.44493494423791824,
+          "relQ75": 5.026987835333924
         }
       ],
       "tags": [
         {
           "name": "#cafechung",
           "count": 18,
-          "median": 4429.5,
-          "mean": 75327.44444444444,
-          "q25": 2022.25,
-          "q75": 11815.25,
-          "relMedian": 0.8074634416826876,
-          "relQ25": 0.42247214763270036,
-          "relQ75": 2.8934294351350207
+          "median": 4528.5,
+          "mean": 77436,
+          "q25": 2302.25,
+          "q75": 12900,
+          "relMedian": 0.816263238598698,
+          "relQ25": 0.39564562476099724,
+          "relQ75": 2.866168605290105
         },
         {
           "name": "#creatorsearchinsights",
           "count": 17,
-          "median": 4593,
-          "mean": 79672.76470588235,
-          "q25": 2863,
-          "q75": 12500,
-          "relMedian": 0.8603679873574895,
-          "relQ25": 0.42396061269146607,
-          "relQ75": 3.09520861706079
+          "median": 4744,
+          "mean": 81899.05882352941,
+          "q25": 2933,
+          "q75": 13000,
+          "relMedian": 0.868720326819035,
+          "relQ25": 0.44493494423791824,
+          "relQ75": 3.055656602400873
         },
         {
           "name": "#cổphiếu",
           "count": 16,
-          "median": 6087,
-          "mean": 84365.25,
-          "q25": 2582.75,
-          "q75": 16750,
-          "relMedian": 0.9811105646694094,
-          "relQ25": 0.42346445767187746,
-          "relQ75": 3.596916666877225
+          "median": 6211,
+          "mean": 86721.25,
+          "q25": 2722.75,
+          "q75": 17550,
+          "relMedian": 0.9877244325510488,
+          "relQ25": 0.4285051710789446,
+          "relQ75": 3.5484894106341356
         },
         {
           "name": "#vin",
           "count": 2,
-          "median": 8383,
-          "mean": 8383,
-          "q25": 6324.5,
-          "q75": 10441.5,
-          "relMedian": 1.8888570083144123,
-          "relQ25": 1.2856812039412233,
-          "relQ75": 2.4920328126876012
+          "median": 8456.5,
+          "mean": 8456.5,
+          "q25": 6384.75,
+          "q75": 10528.25,
+          "relMedian": 1.8633919828311842,
+          "relQ25": 1.2672596730463397,
+          "relQ75": 2.459524292616029
         },
         {
           "name": "#vhm",
           "count": 2,
-          "median": 7177,
-          "mean": 7177,
-          "q25": 5885,
-          "q75": 8469,
-          "relMedian": 1.5213253926827988,
-          "relQ25": 1.1379421443453421,
-          "relQ75": 1.9047086410202554
+          "median": 7327,
+          "mean": 7327,
+          "q25": 6035.5,
+          "q75": 8618.5,
+          "relMedian": 1.5307553821680813,
+          "relQ25": 1.1472807662732212,
+          "relQ75": 1.9142299980629418
         },
         {
           "name": "#pnj",
           "count": 1,
-          "median": 1457,
-          "mean": 1457,
-          "q25": 1457,
-          "q75": 1457,
-          "relMedian": 0.3289310305903601,
-          "relQ25": 0.3289310305903601,
-          "relQ75": 0.3289310305903601
+          "median": 1564,
+          "mean": 1564,
+          "q25": 1564,
+          "q75": 1564,
+          "relMedian": 0.3453682234735564,
+          "relQ25": 0.3453682234735564,
+          "relQ75": 0.3453682234735564
         },
         {
           "name": "#chungkhoan",
           "count": 1,
-          "median": 1457,
-          "mean": 1457,
-          "q25": 1457,
-          "q75": 1457,
-          "relMedian": 0.3289310305903601,
-          "relQ25": 0.3289310305903601,
-          "relQ75": 0.3289310305903601
+          "median": 1564,
+          "mean": 1564,
+          "q25": 1564,
+          "q75": 1564,
+          "relMedian": 0.3453682234735564,
+          "relQ25": 0.3453682234735564,
+          "relQ75": 0.3453682234735564
         },
         {
           "name": "#fpt",
           "count": 1,
-          "median": 3811,
-          "mean": 3811,
-          "q25": 3811,
-          "q75": 3811,
-          "relMedian": 0.8603679873574895,
-          "relQ25": 0.8603679873574895,
-          "relQ75": 0.8603679873574895
+          "median": 3934,
+          "mean": 3934,
+          "q25": 3934,
+          "q75": 3934,
+          "relMedian": 0.868720326819035,
+          "relQ25": 0.868720326819035,
+          "relQ75": 0.868720326819035
         },
         {
           "name": "#cổphiếuchứngkhoán",
           "count": 1,
-          "median": 4593,
-          "mean": 4593,
-          "q25": 4593,
-          "q75": 4593,
-          "relMedian": 0.7545588960078856,
-          "relQ25": 0.7545588960078856,
-          "relQ75": 0.7545588960078856
+          "median": 4744,
+          "mean": 4744,
+          "q25": 4744,
+          "q75": 4744,
+          "relMedian": 0.763806150378361,
+          "relQ25": 0.763806150378361,
+          "relQ75": 0.763806150378361
         }
       ],
       "styles": [
@@ -1493,7 +1515,7 @@
             ]
           },
           "title": "Giải thích về VNM trong 1 phút #creatorsearchinsights #cổphiếu #cafechung ",
-          "views": 777600,
+          "views": 783600,
           "folder": "tiktok/cafechungcungminh/style/7700155703234678017"
         },
         {
@@ -1567,7 +1589,7 @@
             ]
           },
           "title": "Phượng hoàng tái sinh FPT #creatorsearchinsights #cổphiếu #cafechung ",
-          "views": 421600,
+          "views": 432600,
           "folder": "tiktok/cafechungcungminh/style/7702380012628020500"
         },
         {
@@ -1639,7 +1661,7 @@
             ]
           },
           "title": "Các bạn đánh giá sao về mẹo này #creatorsearchinsights #cổphiếu #cafechung ",
-          "views": 62200,
+          "views": 73800,
           "folder": "tiktok/cafechungcungminh/style/7701680816157445396"
         },
         {
@@ -1711,82 +1733,66 @@
             ]
           },
           "title": "Liệu còn chuyến tàu thứ 2 cho VSC? #creatorsearchinsights #cổphiếu #cafechung ",
-          "views": 29500,
+          "views": 31200,
           "folder": "tiktok/cafechungcungminh/style/7703123815131368724"
         },
         {
-          "id": "7697987952848145685",
-          "duration": 82.477007,
+          "id": "7706090045530246452",
+          "duration": 72.887007,
           "language": "vi",
-          "wpm": 206.77966101694912,
-          "speechCoverage": 0.858421062733278,
-          "hook": "Năm 2025, VIC, VHM",
+          "wpm": 246.34420697412824,
+          "speechCoverage": 0.9757568999917915,
+          "hook": "Bạn nghĩ rằng đầu tư chứng khoán chỉ đơn giản là mua cổ phiếu khi giá",
           "changes": 0,
-          "secPerChange": 82.477007,
+          "secPerChange": 72.887007,
           "cuts": 0,
           "changesFirst3s": 0,
           "firstChangeAt": null,
-          "lufs": -17.2,
+          "lufs": -15.3,
           "motion": {
-            "beats": 9,
-            "beatsPerMin": 6.55,
-            "medianBeat": 1.73,
+            "beats": 5,
+            "beatsPerMin": 4.13,
+            "medianBeat": 3.86,
             "beatsFirst3s": 0,
             "entrances": {
-              "cut": 3,
-              "pop": 1,
+              "cut": 1,
+              "slide-left": 1,
+              "draw-right": 1,
               "slide-right": 1,
-              "drop": 1,
-              "fade": 2,
-              "slide-left": 1
+              "draw-up": 1
             },
             "caption": null,
             "firstBeats": [
               {
                 "t": 0,
-                "at": "Năm",
+                "at": "Bạn",
                 "fx": "cut"
               },
               {
-                "t": 6.53,
-                "at": "đóng",
-                "fx": "pop"
-              },
-              {
-                "t": 73.2,
-                "at": "Bạn",
-                "fx": "slide-right"
-              },
-              {
-                "t": 77.13,
-                "at": "hay",
-                "fx": "drop"
-              },
-              {
-                "t": 79.73,
-                "at": "thế",
-                "fx": "fade"
-              },
-              {
-                "t": 80.47,
-                "at": null,
-                "fx": "fade"
-              },
-              {
-                "t": 80.73,
-                "at": "Hãy",
+                "t": 3.53,
+                "at": "chờ",
                 "fx": "slide-left"
               },
               {
-                "t": 81.6,
-                "at": "nhé!",
-                "fx": "cut"
+                "t": 66.4,
+                "at": "chỉ",
+                "fx": "draw-right"
+              },
+              {
+                "t": 70.6,
+                "at": "gặp",
+                "fx": "slide-right"
+              },
+              {
+                "t": 72.13,
+                "at": "tư.",
+                "fx": "draw-up"
               }
             ]
           },
-          "title": "#creatorsearchinsights #cổphiếu #cafechung #vin ",
-          "views": 12500,
-          "folder": "tiktok/cafechungcungminh/style/7697987952848145685"
+          "title": "Kiếm tiền từ cổ phiếu như thế nào? #creatorsearchinsights #cổphiếu #cafechung ",
+          "views": 13000,
+          "folder": "tiktok/cafechungcungminh/style/7706090045530246452"
         }
       ],
       "top": [
@@ -1794,121 +1800,121 @@
           "id": "7700155703234678017",
           "title": "Giải thích về VNM trong 1 phút #creatorsearchinsights #cổphiếu #cafechung ",
           "url": "https://www.tiktok.com/@cafechungcungminh/video/7700155703234678017",
-          "views": 777600,
-          "er": 0.0238695987654321,
+          "views": 783600,
+          "er": 0.024002041858090864,
           "duration": 51,
           "date": "2026-10-24",
           "time": "15:56",
           "category": "Phân tích một mã cổ phiếu",
-          "ratio": 175.55028784287165
+          "ratio": 173.03742961245445
         },
         {
           "id": "7702380012628020500",
           "title": "Phượng hoàng tái sinh FPT #creatorsearchinsights #cổphiếu #cafechung ",
           "url": "https://www.tiktok.com/@cafechungcungminh/video/7702380012628020500",
-          "views": 421600,
-          "er": 0.03263519924098672,
+          "views": 432600,
+          "er": 0.032905686546463246,
           "duration": 122,
           "date": "2026-10-30",
           "time": "15:48",
           "category": "Phân tích một mã cổ phiếu",
-          "ratio": 95.18004289423186
+          "ratio": 95.52832063597218
         },
         {
           "id": "7701680816157445396",
           "title": "Các bạn đánh giá sao về mẹo này #creatorsearchinsights #cổphiếu #cafechung ",
           "url": "https://www.tiktok.com/@cafechungcungminh/video/7701680816157445396",
-          "views": 62200,
-          "er": 0.0847588424437299,
+          "views": 73800,
+          "er": 0.08968834688346883,
           "duration": 77,
           "date": "2026-10-28",
           "time": "18:35",
           "category": "Kiến thức / mẹo đầu tư",
-          "ratio": 14.042216954509538
+          "ratio": 16.296787015568068
         },
         {
           "id": "7703123815131368724",
           "title": "Liệu còn chuyến tàu thứ 2 cho VSC? #creatorsearchinsights #cổphiếu #cafechung ",
           "url": "https://www.tiktok.com/@cafechungcungminh/video/7703123815131368724",
-          "views": 29500,
-          "er": 0.03806779661016949,
+          "views": 31200,
+          "er": 0.03782051282051282,
           "duration": 96,
           "date": "2026-11-01",
           "time": "15:54",
           "category": "Phân tích một mã cổ phiếu",
-          "ratio": 6.659893893215939
-        },
-        {
-          "id": "7697987952848145685",
-          "title": "#creatorsearchinsights #cổphiếu #cafechung #vin ",
-          "url": "https://www.tiktok.com/@cafechungcungminh/video/7697987952848145685",
-          "views": 12500,
-          "er": 0.01976,
-          "duration": 82,
-          "date": "2026-10-18",
-          "time": "19:44",
-          "category": "Phân tích một mã cổ phiếu",
-          "ratio": 2.821988937803364
-        },
-        {
-          "id": "7698344579770240262",
-          "title": "Lãi suất tăng cứ tăng, VHM vẫn bán được nhà #creatorsearchinsights #cổphiếu #cafechung #VHM ",
-          "url": "https://www.tiktok.com/@cafechungcungminh/video/7698344579770240262",
-          "views": 9761,
-          "er": 0.01915787316873271,
-          "duration": 77,
-          "date": "2026-10-19",
-          "time": "18:48",
-          "category": "Phân tích một mã cổ phiếu",
-          "ratio": 2.203634721751891
+          "ratio": 6.889698575687314
         },
         {
           "id": "7706090045530246452",
           "title": "Kiếm tiền từ cổ phiếu như thế nào? #creatorsearchinsights #cổphiếu #cafechung ",
           "url": "https://www.tiktok.com/@cafechungcungminh/video/7706090045530246452",
-          "views": 8664,
-          "er": 0.06475069252077563,
+          "views": 13000,
+          "er": 0.06576923076923077,
           "duration": 72,
           "date": "2026-11-09",
           "time": "15:45",
           "category": "Kiến thức / mẹo đầu tư",
-          "ratio": 1.9559769725702676
+          "ratio": 2.870707739869714
+        },
+        {
+          "id": "7697987952848145685",
+          "title": "#creatorsearchinsights #cổphiếu #cafechung #vin ",
+          "url": "https://www.tiktok.com/@cafechungcungminh/video/7697987952848145685",
+          "views": 12600,
+          "er": 0.01984126984126984,
+          "duration": 82,
+          "date": "2026-10-18",
+          "time": "19:44",
+          "category": "Phân tích một mã cổ phiếu",
+          "ratio": 2.782378270950646
+        },
+        {
+          "id": "7698344579770240262",
+          "title": "Lãi suất tăng cứ tăng, VHM vẫn bán được nhà #creatorsearchinsights #cổphiếu #cafechung #VHM ",
+          "url": "https://www.tiktok.com/@cafechungcungminh/video/7698344579770240262",
+          "views": 9910,
+          "er": 0.01917255297679112,
+          "duration": 77,
+          "date": "2026-10-19",
+          "time": "18:48",
+          "category": "Phân tích một mã cổ phiếu",
+          "ratio": 2.188362592469913
         },
         {
           "id": "7700928215514205441",
           "title": "Gánh cả Vn-index có khác #creatorsearchinsights #cổphiếu #cafechung ",
           "url": "https://www.tiktok.com/@cafechungcungminh/video/7700928215514205441",
-          "views": 7908,
-          "er": 0.019853313100657563,
+          "views": 8109,
+          "er": 0.020717721050684423,
           "duration": 74,
           "date": "2026-10-26",
           "time": "17:54",
           "category": "Phân tích một mã cổ phiếu",
-          "ratio": 1.78530308161192
+          "ratio": 1.7906591586618086
         },
         {
           "id": "7699090033105521941",
           "title": "#creatorsearchinsights #cổphiếuchứngkhoán #cafechung #VHM ",
           "url": "https://www.tiktok.com/@cafechungcungminh/video/7699090033105521941",
-          "views": 4593,
-          "er": 0.018288700195950358,
+          "views": 4744,
+          "er": 0.01812816188870152,
           "duration": 77,
           "date": "2026-10-21",
           "time": "19:01",
           "category": "Phân tích một mã cổ phiếu",
-          "ratio": 1.036911615306468
+          "ratio": 1.047587501380148
         },
         {
           "id": "7699451700351995156",
           "title": "Vin thì cứ vài cây trần là đẹp #creatorsearchinsights #cổphiếu #cafechung #vin ",
           "url": "https://www.tiktok.com/@cafechungcungminh/video/7699451700351995156",
-          "views": 4266,
-          "er": 0.01875293014533521,
+          "views": 4313,
+          "er": 0.01878043125434732,
           "duration": 76,
           "date": "2026-10-22",
           "time": "18:24",
           "category": "Phân tích một mã cổ phiếu",
-          "ratio": 0.963088384693532
+          "ratio": 0.952412498619852
         }
       ]
     }

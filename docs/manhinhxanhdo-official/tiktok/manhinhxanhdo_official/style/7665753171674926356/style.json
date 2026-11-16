@@ -1,0 +1,54 @@
+{
+  "id": "7665753171674926356",
+  "duration": 22.010998,
+  "language": "vi",
+  "wpm": 171.50890346766636,
+  "speechCoverage": 0.969515330472521,
+  "hook": "Tôi đã thưởng thành từ trong đau khổ Tôi đứng",
+  "transcript": "Tôi đã thưởng thành từ trong đau khổ Tôi đứng lên từ đống trò tàn Tôi đứng lên từ một đống trò tàn nguội lạnh Như một cái bông hoa nở giữa sa mạc Và tôi có ngày hôm nay là do tôi may mắn Cộng thêm một sự kiêu hãnh kiên định Không có dễ gì lung lay tôi đâu",
+  "changes": 0,
+  "secPerChange": 22.010998,
+  "cuts": 0,
+  "changesFirst3s": 0,
+  "firstChangeAt": null,
+  "lufs": -17.8,
+  "grids": [
+    "grid_001.jpg",
+    "grid_002.jpg",
+    "grid_003.jpg"
+  ],
+  "motion": {
+    "beats": 4,
+    "beatsPerMin": 10.91,
+    "medianBeat": 4.2,
+    "beatsFirst3s": 0,
+    "entrances": {
+      "cut": 2,
+      "draw-right": 1,
+      "slide-right": 1
+    },
+    "caption": null,
+    "firstBeats": [
+      {
+        "t": 0,
+        "at": "Tôi",
+        "fx": "cut"
+      },
+      {
+        "t": 14,
+        "at": "nay",
+        "fx": "draw-right"
+      },
+      {
+        "t": 15.87,
+        "at": "thêm",
+        "fx": "slide-right"
+      },
+      {
+        "t": 20.07,
+        "at": "lung",
+        "fx": "cut"
+      }
+    ]
+  }
+}

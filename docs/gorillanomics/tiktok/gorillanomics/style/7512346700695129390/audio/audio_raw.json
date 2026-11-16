@@ -1,0 +1,3520 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 8
+	},
+	"params": {
+		"model": "/home/runner/whisper/ggml-large-v3-turbo-q5_0.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:05,360"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 5360
+			},
+			"text": " what is a mortgage gorilla want buy new house but gorilla too broke so go to bank for money banks say",
+			"tokens": [
+				{
+					"text": "[_BEG_]",
+					"timestamps": {
+						"from": "00:00:00,000",
+						"to": "00:00:00,000"
+					},
+					"offsets": {
+						"from": 0,
+						"to": 0
+					},
+					"id": 50365,
+					"p": 0.791081,
+					"t_dtw": -1
+				},
+				{
+					"text": " what",
+					"timestamps": {
+						"from": "00:00:00,060",
+						"to": "00:00:00,250"
+					},
+					"offsets": {
+						"from": 60,
+						"to": 250
+					},
+					"id": 437,
+					"p": 0.051051,
+					"t_dtw": -1
+				},
+				{
+					"text": " is",
+					"timestamps": {
+						"from": "00:00:00,250",
+						"to": "00:00:00,370"
+					},
+					"offsets": {
+						"from": 250,
+						"to": 370
+					},
+					"id": 307,
+					"p": 0.999388,
+					"t_dtw": -1
+				},
+				{
+					"text": " a",
+					"timestamps": {
+						"from": "00:00:00,370",
+						"to": "00:00:00,430"
+					},
+					"offsets": {
+						"from": 370,
+						"to": 430
+					},
+					"id": 257,
+					"p": 0.961256,
+					"t_dtw": -1
+				},
+				{
+					"text": " mortgage",
+					"timestamps": {
+						"from": "00:00:00,430",
+						"to": "00:00:00,930"
+					},
+					"offsets": {
+						"from": 430,
+						"to": 930
+					},
+					"id": 20236,
+					"p": 0.996001,
+					"t_dtw": -1
+				},
+				{
+					"text": " gorilla",
+					"timestamps": {
+						"from": "00:00:00,940",
+						"to": "00:00:01,360"
+					},
+					"offsets": {
+						"from": 940,
+						"to": 1360
+					},
+					"id": 45066,
+					"p": 0.739158,
+					"t_dtw": -1
+				},
+				{
+					"text": " want",
+					"timestamps": {
+						"from": "00:00:01,360",
+						"to": "00:00:01,610"
+					},
+					"offsets": {
+						"from": 1360,
+						"to": 1610
+					},
+					"id": 528,
+					"p": 0.878574,
+					"t_dtw": -1
+				},
+				{
+					"text": " buy",
+					"timestamps": {
+						"from": "00:00:01,610",
+						"to": "00:00:01,790"
+					},
+					"offsets": {
+						"from": 1610,
+						"to": 1790
+					},
+					"id": 2256,
+					"p": 0.899678,
+					"t_dtw": -1
+				},
+				{
+					"text": " new",
+					"timestamps": {
+						"from": "00:00:01,790",
+						"to": "00:00:01,970"
+					},
+					"offsets": {
+						"from": 1790,
+						"to": 1970
+					},
+					"id": 777,
+					"p": 0.920209,
+					"t_dtw": -1
+				},
+				{
+					"text": " house",
+					"timestamps": {
+						"from": "00:00:01,970",
+						"to": "00:00:02,310"
+					},
+					"offsets": {
+						"from": 1970,
+						"to": 2310
+					},
+					"id": 1782,
+					"p": 0.993959,
+					"t_dtw": -1
+				},
+				{
+					"text": " but",
+					"timestamps": {
+						"from": "00:00:02,310",
+						"to": "00:00:02,520"
+					},
+					"offsets": {
+						"from": 2310,
+						"to": 2520
+					},
+					"id": 457,
+					"p": 0.97316,
+					"t_dtw": -1
+				},
+				{
+					"text": " gorilla",
+					"timestamps": {
+						"from": "00:00:02,520",
+						"to": "00:00:02,920"
+					},
+					"offsets": {
+						"from": 2520,
+						"to": 2920
+					},
+					"id": 45066,
+					"p": 0.964992,
+					"t_dtw": -1
+				},
+				{
+					"text": " too",
+					"timestamps": {
+						"from": "00:00:02,980",
+						"to": "00:00:03,180"
+					},
+					"offsets": {
+						"from": 2980,
+						"to": 3180
+					},
+					"id": 886,
+					"p": 0.787045,
+					"t_dtw": -1
+				},
+				{
+					"text": " broke",
+					"timestamps": {
+						"from": "00:00:03,180",
+						"to": "00:00:03,490"
+					},
+					"offsets": {
+						"from": 3180,
+						"to": 3490
+					},
+					"id": 6902,
+					"p": 0.967297,
+					"t_dtw": -1
+				},
+				{
+					"text": " so",
+					"timestamps": {
+						"from": "00:00:03,610",
+						"to": "00:00:03,680"
+					},
+					"offsets": {
+						"from": 3610,
+						"to": 3680
+					},
+					"id": 370,
+					"p": 0.941391,
+					"t_dtw": -1
+				},
+				{
+					"text": " go",
+					"timestamps": {
+						"from": "00:00:03,680",
+						"to": "00:00:03,840"
+					},
+					"offsets": {
+						"from": 3680,
+						"to": 3840
+					},
+					"id": 352,
+					"p": 0.99401,
+					"t_dtw": -1
+				},
+				{
+					"text": " to",
+					"timestamps": {
+						"from": "00:00:03,840",
+						"to": "00:00:03,980"
+					},
+					"offsets": {
+						"from": 3840,
+						"to": 3980
+					},
+					"id": 281,
+					"p": 0.997402,
+					"t_dtw": -1
+				},
+				{
+					"text": " bank",
+					"timestamps": {
+						"from": "00:00:03,990",
+						"to": "00:00:04,180"
+					},
+					"offsets": {
+						"from": 3990,
+						"to": 4180
+					},
+					"id": 3765,
+					"p": 0.984378,
+					"t_dtw": -1
+				},
+				{
+					"text": " for",
+					"timestamps": {
+						"from": "00:00:04,260",
+						"to": "00:00:04,420"
+					},
+					"offsets": {
+						"from": 4260,
+						"to": 4420
+					},
+					"id": 337,
+					"p": 0.984159,
+					"t_dtw": -1
+				},
+				{
+					"text": " money",
+					"timestamps": {
+						"from": "00:00:04,420",
+						"to": "00:00:04,720"
+					},
+					"offsets": {
+						"from": 4420,
+						"to": 4720
+					},
+					"id": 1460,
+					"p": 0.997837,
+					"t_dtw": -1
+				},
+				{
+					"text": " banks",
+					"timestamps": {
+						"from": "00:00:04,720",
+						"to": "00:00:04,920"
+					},
+					"offsets": {
+						"from": 4720,
+						"to": 4920
+					},
+					"id": 10237,
+					"p": 0.364174,
+					"t_dtw": -1
+				},
+				{
+					"text": " say",
+					"timestamps": {
+						"from": "00:00:04,980",
+						"to": "00:00:05,270"
+					},
+					"offsets": {
+						"from": 4980,
+						"to": 5270
+					},
+					"id": 584,
+					"p": 0.883186,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_268]",
+					"timestamps": {
+						"from": "00:00:05,360",
+						"to": "00:00:05,360"
+					},
+					"offsets": {
+						"from": 5360,
+						"to": 5360
+					},
+					"id": 50633,
+					"p": 0.592537,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,360",
+				"to": "00:00:10,480"
+			},
+			"offsets": {
+				"from": 5360,
+				"to": 10480
+			},
+			"text": " okay i lend banana so gorilla pay what he have right now and bank pay the rest what gorilla pay",
+			"tokens": [
+				{
+					"text": " okay",
+					"timestamps": {
+						"from": "00:00:05,420",
+						"to": "00:00:05,620"
+					},
+					"offsets": {
+						"from": 5420,
+						"to": 5620
+					},
+					"id": 1392,
+					"p": 0.975895,
+					"t_dtw": -1
+				},
+				{
+					"text": " i",
+					"timestamps": {
+						"from": "00:00:05,630",
+						"to": "00:00:05,700"
+					},
+					"offsets": {
+						"from": 5630,
+						"to": 5700
+					},
+					"id": 741,
+					"p": 0.985778,
+					"t_dtw": -1
+				},
+				{
+					"text": " lend",
+					"timestamps": {
+						"from": "00:00:05,700",
+						"to": "00:00:05,970"
+					},
+					"offsets": {
+						"from": 5700,
+						"to": 5970
+					},
+					"id": 21774,
+					"p": 0.971197,
+					"t_dtw": -1
+				},
+				{
+					"text": " banana",
+					"timestamps": {
+						"from": "00:00:05,970",
+						"to": "00:00:06,380"
+					},
+					"offsets": {
+						"from": 5970,
+						"to": 6380
+					},
+					"id": 14194,
+					"p": 0.99338,
+					"t_dtw": -1
+				},
+				{
+					"text": " so",
+					"timestamps": {
+						"from": "00:00:06,380",
+						"to": "00:00:06,510"
+					},
+					"offsets": {
+						"from": 6380,
+						"to": 6510
+					},
+					"id": 370,
+					"p": 0.998605,
+					"t_dtw": -1
+				},
+				{
+					"text": " gorilla",
+					"timestamps": {
+						"from": "00:00:06,510",
+						"to": "00:00:06,990"
+					},
+					"offsets": {
+						"from": 6510,
+						"to": 6990
+					},
+					"id": 45066,
+					"p": 0.986365,
+					"t_dtw": -1
+				},
+				{
+					"text": " pay",
+					"timestamps": {
+						"from": "00:00:06,990",
+						"to": "00:00:07,190"
+					},
+					"offsets": {
+						"from": 6990,
+						"to": 7190
+					},
+					"id": 1689,
+					"p": 0.999211,
+					"t_dtw": -1
+				},
+				{
+					"text": " what",
+					"timestamps": {
+						"from": "00:00:07,190",
+						"to": "00:00:07,460"
+					},
+					"offsets": {
+						"from": 7190,
+						"to": 7460
+					},
+					"id": 437,
+					"p": 0.999866,
+					"t_dtw": -1
+				},
+				{
+					"text": " he",
+					"timestamps": {
+						"from": "00:00:07,460",
+						"to": "00:00:07,590"
+					},
+					"offsets": {
+						"from": 7460,
+						"to": 7590
+					},
+					"id": 415,
+					"p": 0.9985,
+					"t_dtw": -1
+				},
+				{
+					"text": " have",
+					"timestamps": {
+						"from": "00:00:07,590",
+						"to": "00:00:07,860"
+					},
+					"offsets": {
+						"from": 7590,
+						"to": 7860
+					},
+					"id": 362,
+					"p": 0.991928,
+					"t_dtw": -1
+				},
+				{
+					"text": " right",
+					"timestamps": {
+						"from": "00:00:07,860",
+						"to": "00:00:08,200"
+					},
+					"offsets": {
+						"from": 7860,
+						"to": 8200
+					},
+					"id": 558,
+					"p": 0.999817,
+					"t_dtw": -1
+				},
+				{
+					"text": " now",
+					"timestamps": {
+						"from": "00:00:08,200",
+						"to": "00:00:08,400"
+					},
+					"offsets": {
+						"from": 8200,
+						"to": 8400
+					},
+					"id": 586,
+					"p": 0.99976,
+					"t_dtw": -1
+				},
+				{
+					"text": " and",
+					"timestamps": {
+						"from": "00:00:08,400",
+						"to": "00:00:08,600"
+					},
+					"offsets": {
+						"from": 8400,
+						"to": 8600
+					},
+					"id": 293,
+					"p": 0.995666,
+					"t_dtw": -1
+				},
+				{
+					"text": " bank",
+					"timestamps": {
+						"from": "00:00:08,600",
+						"to": "00:00:08,860"
+					},
+					"offsets": {
+						"from": 8600,
+						"to": 8860
+					},
+					"id": 3765,
+					"p": 0.999531,
+					"t_dtw": -1
+				},
+				{
+					"text": " pay",
+					"timestamps": {
+						"from": "00:00:08,970",
+						"to": "00:00:09,070"
+					},
+					"offsets": {
+						"from": 8970,
+						"to": 9070
+					},
+					"id": 1689,
+					"p": 0.999287,
+					"t_dtw": -1
+				},
+				{
+					"text": " the",
+					"timestamps": {
+						"from": "00:00:09,070",
+						"to": "00:00:09,270"
+					},
+					"offsets": {
+						"from": 9070,
+						"to": 9270
+					},
+					"id": 264,
+					"p": 0.999514,
+					"t_dtw": -1
+				},
+				{
+					"text": " rest",
+					"timestamps": {
+						"from": "00:00:09,270",
+						"to": "00:00:09,680"
+					},
+					"offsets": {
+						"from": 9270,
+						"to": 9680
+					},
+					"id": 1472,
+					"p": 0.993066,
+					"t_dtw": -1
+				},
+				{
+					"text": " what",
+					"timestamps": {
+						"from": "00:00:09,680",
+						"to": "00:00:09,920"
+					},
+					"offsets": {
+						"from": 9680,
+						"to": 9920
+					},
+					"id": 437,
+					"p": 0.914125,
+					"t_dtw": -1
+				},
+				{
+					"text": " gorilla",
+					"timestamps": {
+						"from": "00:00:09,920",
+						"to": "00:00:10,280"
+					},
+					"offsets": {
+						"from": 9920,
+						"to": 10280
+					},
+					"id": 45066,
+					"p": 0.944132,
+					"t_dtw": -1
+				},
+				{
+					"text": " pay",
+					"timestamps": {
+						"from": "00:00:10,430",
+						"to": "00:00:10,480"
+					},
+					"offsets": {
+						"from": 10430,
+						"to": 10480
+					},
+					"id": 1689,
+					"p": 0.854976,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_524]",
+					"timestamps": {
+						"from": "00:00:10,480",
+						"to": "00:00:10,480"
+					},
+					"offsets": {
+						"from": 10480,
+						"to": 10480
+					},
+					"id": 50889,
+					"p": 0.857857,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,480",
+				"to": "00:00:15,520"
+			},
+			"offsets": {
+				"from": 10480,
+				"to": 15520
+			},
+			"text": " is called down payment what bank pay is a loan called mortgage but bank need make money so bank",
+			"tokens": [
+				{
+					"text": " is",
+					"timestamps": {
+						"from": "00:00:10,540",
+						"to": "00:00:10,600"
+					},
+					"offsets": {
+						"from": 10540,
+						"to": 10600
+					},
+					"id": 307,
+					"p": 0.999922,
+					"t_dtw": -1
+				},
+				{
+					"text": " called",
+					"timestamps": {
+						"from": "00:00:10,600",
+						"to": "00:00:10,980"
+					},
+					"offsets": {
+						"from": 10600,
+						"to": 10980
+					},
+					"id": 1219,
+					"p": 0.99972,
+					"t_dtw": -1
+				},
+				{
+					"text": " down",
+					"timestamps": {
+						"from": "00:00:10,980",
+						"to": "00:00:11,230"
+					},
+					"offsets": {
+						"from": 10980,
+						"to": 11230
+					},
+					"id": 760,
+					"p": 0.999512,
+					"t_dtw": -1
+				},
+				{
+					"text": " payment",
+					"timestamps": {
+						"from": "00:00:11,230",
+						"to": "00:00:11,670"
+					},
+					"offsets": {
+						"from": 11230,
+						"to": 11670
+					},
+					"id": 10224,
+					"p": 0.998327,
+					"t_dtw": -1
+				},
+				{
+					"text": " what",
+					"timestamps": {
+						"from": "00:00:11,670",
+						"to": "00:00:11,920"
+					},
+					"offsets": {
+						"from": 11670,
+						"to": 11920
+					},
+					"id": 437,
+					"p": 0.998917,
+					"t_dtw": -1
+				},
+				{
+					"text": " bank",
+					"timestamps": {
+						"from": "00:00:11,920",
+						"to": "00:00:12,170"
+					},
+					"offsets": {
+						"from": 11920,
+						"to": 12170
+					},
+					"id": 3765,
+					"p": 0.999359,
+					"t_dtw": -1
+				},
+				{
+					"text": " pay",
+					"timestamps": {
+						"from": "00:00:12,170",
+						"to": "00:00:12,360"
+					},
+					"offsets": {
+						"from": 12170,
+						"to": 12360
+					},
+					"id": 1689,
+					"p": 0.998241,
+					"t_dtw": -1
+				},
+				{
+					"text": " is",
+					"timestamps": {
+						"from": "00:00:12,360",
+						"to": "00:00:12,480"
+					},
+					"offsets": {
+						"from": 12360,
+						"to": 12480
+					},
+					"id": 307,
+					"p": 0.999847,
+					"t_dtw": -1
+				},
+				{
+					"text": " a",
+					"timestamps": {
+						"from": "00:00:12,480",
+						"to": "00:00:12,540"
+					},
+					"offsets": {
+						"from": 12480,
+						"to": 12540
+					},
+					"id": 257,
+					"p": 0.996827,
+					"t_dtw": -1
+				},
+				{
+					"text": " loan",
+					"timestamps": {
+						"from": "00:00:12,540",
+						"to": "00:00:12,790"
+					},
+					"offsets": {
+						"from": 12540,
+						"to": 12790
+					},
+					"id": 10529,
+					"p": 0.999897,
+					"t_dtw": -1
+				},
+				{
+					"text": " called",
+					"timestamps": {
+						"from": "00:00:12,790",
+						"to": "00:00:13,170"
+					},
+					"offsets": {
+						"from": 12790,
+						"to": 13170
+					},
+					"id": 1219,
+					"p": 0.999653,
+					"t_dtw": -1
+				},
+				{
+					"text": " mortgage",
+					"timestamps": {
+						"from": "00:00:13,170",
+						"to": "00:00:13,680"
+					},
+					"offsets": {
+						"from": 13170,
+						"to": 13680
+					},
+					"id": 20236,
+					"p": 0.999588,
+					"t_dtw": -1
+				},
+				{
+					"text": " but",
+					"timestamps": {
+						"from": "00:00:13,680",
+						"to": "00:00:13,870"
+					},
+					"offsets": {
+						"from": 13680,
+						"to": 13870
+					},
+					"id": 457,
+					"p": 0.999247,
+					"t_dtw": -1
+				},
+				{
+					"text": " bank",
+					"timestamps": {
+						"from": "00:00:13,870",
+						"to": "00:00:14,120"
+					},
+					"offsets": {
+						"from": 13870,
+						"to": 14120
+					},
+					"id": 3765,
+					"p": 0.998007,
+					"t_dtw": -1
+				},
+				{
+					"text": " need",
+					"timestamps": {
+						"from": "00:00:14,120",
+						"to": "00:00:14,370"
+					},
+					"offsets": {
+						"from": 14120,
+						"to": 14370
+					},
+					"id": 643,
+					"p": 0.953443,
+					"t_dtw": -1
+				},
+				{
+					"text": " make",
+					"timestamps": {
+						"from": "00:00:14,370",
+						"to": "00:00:14,620"
+					},
+					"offsets": {
+						"from": 14370,
+						"to": 14620
+					},
+					"id": 652,
+					"p": 0.989025,
+					"t_dtw": -1
+				},
+				{
+					"text": " money",
+					"timestamps": {
+						"from": "00:00:14,620",
+						"to": "00:00:15,040"
+					},
+					"offsets": {
+						"from": 14620,
+						"to": 15040
+					},
+					"id": 1460,
+					"p": 0.997094,
+					"t_dtw": -1
+				},
+				{
+					"text": " so",
+					"timestamps": {
+						"from": "00:00:15,040",
+						"to": "00:00:15,200"
+					},
+					"offsets": {
+						"from": 15040,
+						"to": 15200
+					},
+					"id": 370,
+					"p": 0.966097,
+					"t_dtw": -1
+				},
+				{
+					"text": " bank",
+					"timestamps": {
+						"from": "00:00:15,200",
+						"to": "00:00:15,400"
+					},
+					"offsets": {
+						"from": 15200,
+						"to": 15400
+					},
+					"id": 3765,
+					"p": 0.989234,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_776]",
+					"timestamps": {
+						"from": "00:00:15,520",
+						"to": "00:00:15,520"
+					},
+					"offsets": {
+						"from": 15520,
+						"to": 15520
+					},
+					"id": 51141,
+					"p": 0.598387,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,520",
+				"to": "00:00:20,720"
+			},
+			"offsets": {
+				"from": 15520,
+				"to": 20720
+			},
+			"text": " tell gorilla you pay back what you borrow plus extra banana in small monthly payments that extra",
+			"tokens": [
+				{
+					"text": " tell",
+					"timestamps": {
+						"from": "00:00:15,580",
+						"to": "00:00:15,780"
+					},
+					"offsets": {
+						"from": 15580,
+						"to": 15780
+					},
+					"id": 980,
+					"p": 0.998551,
+					"t_dtw": -1
+				},
+				{
+					"text": " gorilla",
+					"timestamps": {
+						"from": "00:00:15,780",
+						"to": "00:00:16,230"
+					},
+					"offsets": {
+						"from": 15780,
+						"to": 16230
+					},
+					"id": 45066,
+					"p": 0.995068,
+					"t_dtw": -1
+				},
+				{
+					"text": " you",
+					"timestamps": {
+						"from": "00:00:16,230",
+						"to": "00:00:16,410"
+					},
+					"offsets": {
+						"from": 16230,
+						"to": 16410
+					},
+					"id": 291,
+					"p": 0.998519,
+					"t_dtw": -1
+				},
+				{
+					"text": " pay",
+					"timestamps": {
+						"from": "00:00:16,440",
+						"to": "00:00:16,610"
+					},
+					"offsets": {
+						"from": 16440,
+						"to": 16610
+					},
+					"id": 1689,
+					"p": 0.999708,
+					"t_dtw": -1
+				},
+				{
+					"text": " back",
+					"timestamps": {
+						"from": "00:00:16,610",
+						"to": "00:00:16,870"
+					},
+					"offsets": {
+						"from": 16610,
+						"to": 16870
+					},
+					"id": 646,
+					"p": 0.998039,
+					"t_dtw": -1
+				},
+				{
+					"text": " what",
+					"timestamps": {
+						"from": "00:00:16,870",
+						"to": "00:00:17,130"
+					},
+					"offsets": {
+						"from": 16870,
+						"to": 17130
+					},
+					"id": 437,
+					"p": 0.999462,
+					"t_dtw": -1
+				},
+				{
+					"text": " you",
+					"timestamps": {
+						"from": "00:00:17,130",
+						"to": "00:00:17,320"
+					},
+					"offsets": {
+						"from": 17130,
+						"to": 17320
+					},
+					"id": 291,
+					"p": 0.99996,
+					"t_dtw": -1
+				},
+				{
+					"text": " borrow",
+					"timestamps": {
+						"from": "00:00:17,320",
+						"to": "00:00:17,710"
+					},
+					"offsets": {
+						"from": 17320,
+						"to": 17710
+					},
+					"id": 11172,
+					"p": 0.999344,
+					"t_dtw": -1
+				},
+				{
+					"text": " plus",
+					"timestamps": {
+						"from": "00:00:17,710",
+						"to": "00:00:17,970"
+					},
+					"offsets": {
+						"from": 17710,
+						"to": 17970
+					},
+					"id": 1804,
+					"p": 0.998254,
+					"t_dtw": -1
+				},
+				{
+					"text": " extra",
+					"timestamps": {
+						"from": "00:00:17,970",
+						"to": "00:00:18,290"
+					},
+					"offsets": {
+						"from": 17970,
+						"to": 18290
+					},
+					"id": 2857,
+					"p": 0.999664,
+					"t_dtw": -1
+				},
+				{
+					"text": " banana",
+					"timestamps": {
+						"from": "00:00:18,290",
+						"to": "00:00:18,680"
+					},
+					"offsets": {
+						"from": 18290,
+						"to": 18680
+					},
+					"id": 14194,
+					"p": 0.999781,
+					"t_dtw": -1
+				},
+				{
+					"text": " in",
+					"timestamps": {
+						"from": "00:00:18,680",
+						"to": "00:00:18,810"
+					},
+					"offsets": {
+						"from": 18680,
+						"to": 18810
+					},
+					"id": 294,
+					"p": 0.985887,
+					"t_dtw": -1
+				},
+				{
+					"text": " small",
+					"timestamps": {
+						"from": "00:00:18,810",
+						"to": "00:00:19,010"
+					},
+					"offsets": {
+						"from": 18810,
+						"to": 19010
+					},
+					"id": 1359,
+					"p": 0.999815,
+					"t_dtw": -1
+				},
+				{
+					"text": " monthly",
+					"timestamps": {
+						"from": "00:00:19,140",
+						"to": "00:00:19,580"
+					},
+					"offsets": {
+						"from": 19140,
+						"to": 19580
+					},
+					"id": 12878,
+					"p": 0.999832,
+					"t_dtw": -1
+				},
+				{
+					"text": " payments",
+					"timestamps": {
+						"from": "00:00:19,580",
+						"to": "00:00:20,160"
+					},
+					"offsets": {
+						"from": 19580,
+						"to": 20160
+					},
+					"id": 14348,
+					"p": 0.998464,
+					"t_dtw": -1
+				},
+				{
+					"text": " that",
+					"timestamps": {
+						"from": "00:00:20,160",
+						"to": "00:00:20,400"
+					},
+					"offsets": {
+						"from": 20160,
+						"to": 20400
+					},
+					"id": 300,
+					"p": 0.962808,
+					"t_dtw": -1
+				},
+				{
+					"text": " extra",
+					"timestamps": {
+						"from": "00:00:20,400",
+						"to": "00:00:20,720"
+					},
+					"offsets": {
+						"from": 20400,
+						"to": 20720
+					},
+					"id": 2857,
+					"p": 0.986905,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_1036]",
+					"timestamps": {
+						"from": "00:00:20,720",
+						"to": "00:00:20,720"
+					},
+					"offsets": {
+						"from": 20720,
+						"to": 20720
+					},
+					"id": 51401,
+					"p": 0.905334,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,720",
+				"to": "00:00:26,000"
+			},
+			"offsets": {
+				"from": 20720,
+				"to": 26000
+			},
+			"text": " banana called interest gorilla look at contract gorilla surprised have to pay lot of interest",
+			"tokens": [
+				{
+					"text": " banana",
+					"timestamps": {
+						"from": "00:00:20,780",
+						"to": "00:00:21,120"
+					},
+					"offsets": {
+						"from": 20780,
+						"to": 21120
+					},
+					"id": 14194,
+					"p": 0.999666,
+					"t_dtw": -1
+				},
+				{
+					"text": " called",
+					"timestamps": {
+						"from": "00:00:21,120",
+						"to": "00:00:21,510"
+					},
+					"offsets": {
+						"from": 21120,
+						"to": 21510
+					},
+					"id": 1219,
+					"p": 0.998325,
+					"t_dtw": -1
+				},
+				{
+					"text": " interest",
+					"timestamps": {
+						"from": "00:00:21,660",
+						"to": "00:00:22,050"
+					},
+					"offsets": {
+						"from": 21660,
+						"to": 22050
+					},
+					"id": 1179,
+					"p": 0.999586,
+					"t_dtw": -1
+				},
+				{
+					"text": " gorilla",
+					"timestamps": {
+						"from": "00:00:22,050",
+						"to": "00:00:22,510"
+					},
+					"offsets": {
+						"from": 22050,
+						"to": 22510
+					},
+					"id": 45066,
+					"p": 0.996417,
+					"t_dtw": -1
+				},
+				{
+					"text": " look",
+					"timestamps": {
+						"from": "00:00:22,510",
+						"to": "00:00:22,770"
+					},
+					"offsets": {
+						"from": 22510,
+						"to": 22770
+					},
+					"id": 574,
+					"p": 0.998489,
+					"t_dtw": -1
+				},
+				{
+					"text": " at",
+					"timestamps": {
+						"from": "00:00:22,770",
+						"to": "00:00:22,890"
+					},
+					"offsets": {
+						"from": 22770,
+						"to": 22890
+					},
+					"id": 412,
+					"p": 0.999357,
+					"t_dtw": -1
+				},
+				{
+					"text": " contract",
+					"timestamps": {
+						"from": "00:00:22,900",
+						"to": "00:00:23,430"
+					},
+					"offsets": {
+						"from": 22900,
+						"to": 23430
+					},
+					"id": 4364,
+					"p": 0.99875,
+					"t_dtw": -1
+				},
+				{
+					"text": " gorilla",
+					"timestamps": {
+						"from": "00:00:23,430",
+						"to": "00:00:23,880"
+					},
+					"offsets": {
+						"from": 23430,
+						"to": 23880
+					},
+					"id": 45066,
+					"p": 0.990418,
+					"t_dtw": -1
+				},
+				{
+					"text": " surprised",
+					"timestamps": {
+						"from": "00:00:23,880",
+						"to": "00:00:24,490"
+					},
+					"offsets": {
+						"from": 23880,
+						"to": 24490
+					},
+					"id": 6100,
+					"p": 0.946606,
+					"t_dtw": -1
+				},
+				{
+					"text": " have",
+					"timestamps": {
+						"from": "00:00:24,490",
+						"to": "00:00:24,720"
+					},
+					"offsets": {
+						"from": 24490,
+						"to": 24720
+					},
+					"id": 362,
+					"p": 0.997354,
+					"t_dtw": -1
+				},
+				{
+					"text": " to",
+					"timestamps": {
+						"from": "00:00:24,750",
+						"to": "00:00:24,880"
+					},
+					"offsets": {
+						"from": 24750,
+						"to": 24880
+					},
+					"id": 281,
+					"p": 0.999857,
+					"t_dtw": -1
+				},
+				{
+					"text": " pay",
+					"timestamps": {
+						"from": "00:00:24,880",
+						"to": "00:00:25,080"
+					},
+					"offsets": {
+						"from": 24880,
+						"to": 25080
+					},
+					"id": 1689,
+					"p": 0.999516,
+					"t_dtw": -1
+				},
+				{
+					"text": " lot",
+					"timestamps": {
+						"from": "00:00:25,080",
+						"to": "00:00:25,280"
+					},
+					"offsets": {
+						"from": 25080,
+						"to": 25280
+					},
+					"id": 688,
+					"p": 0.599147,
+					"t_dtw": -1
+				},
+				{
+					"text": " of",
+					"timestamps": {
+						"from": "00:00:25,280",
+						"to": "00:00:25,400"
+					},
+					"offsets": {
+						"from": 25280,
+						"to": 25400
+					},
+					"id": 295,
+					"p": 0.997558,
+					"t_dtw": -1
+				},
+				{
+					"text": " interest",
+					"timestamps": {
+						"from": "00:00:25,400",
+						"to": "00:00:25,980"
+					},
+					"offsets": {
+						"from": 25400,
+						"to": 25980
+					},
+					"id": 1179,
+					"p": 0.999438,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_1300]",
+					"timestamps": {
+						"from": "00:00:26,000",
+						"to": "00:00:26,000"
+					},
+					"offsets": {
+						"from": 26000,
+						"to": 26000
+					},
+					"id": 51665,
+					"p": 0.859372,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,000",
+				"to": "00:00:31,040"
+			},
+			"offsets": {
+				"from": 26000,
+				"to": 31040
+			},
+			"text": " banana every month why so much two reason one bank no trust gorilla to pay back because gorilla",
+			"tokens": [
+				{
+					"text": "[_BEG_]",
+					"timestamps": {
+						"from": "00:00:26,000",
+						"to": "00:00:26,000"
+					},
+					"offsets": {
+						"from": 26000,
+						"to": 26000
+					},
+					"id": 50365,
+					"p": 0.998959,
+					"t_dtw": -1
+				},
+				{
+					"text": " banana",
+					"timestamps": {
+						"from": "00:00:26,060",
+						"to": "00:00:26,380"
+					},
+					"offsets": {
+						"from": 26060,
+						"to": 26380
+					},
+					"id": 14194,
+					"p": 0.999144,
+					"t_dtw": -1
+				},
+				{
+					"text": " every",
+					"timestamps": {
+						"from": "00:00:26,380",
+						"to": "00:00:26,700"
+					},
+					"offsets": {
+						"from": 26380,
+						"to": 26700
+					},
+					"id": 633,
+					"p": 0.999384,
+					"t_dtw": -1
+				},
+				{
+					"text": " month",
+					"timestamps": {
+						"from": "00:00:26,700",
+						"to": "00:00:27,020"
+					},
+					"offsets": {
+						"from": 26700,
+						"to": 27020
+					},
+					"id": 1618,
+					"p": 0.999508,
+					"t_dtw": -1
+				},
+				{
+					"text": " why",
+					"timestamps": {
+						"from": "00:00:27,020",
+						"to": "00:00:27,210"
+					},
+					"offsets": {
+						"from": 27020,
+						"to": 27210
+					},
+					"id": 983,
+					"p": 0.998911,
+					"t_dtw": -1
+				},
+				{
+					"text": " so",
+					"timestamps": {
+						"from": "00:00:27,210",
+						"to": "00:00:27,330"
+					},
+					"offsets": {
+						"from": 27210,
+						"to": 27330
+					},
+					"id": 370,
+					"p": 0.999327,
+					"t_dtw": -1
+				},
+				{
+					"text": " much",
+					"timestamps": {
+						"from": "00:00:27,330",
+						"to": "00:00:27,520"
+					},
+					"offsets": {
+						"from": 27330,
+						"to": 27520
+					},
+					"id": 709,
+					"p": 0.999234,
+					"t_dtw": -1
+				},
+				{
+					"text": " two",
+					"timestamps": {
+						"from": "00:00:27,580",
+						"to": "00:00:27,770"
+					},
+					"offsets": {
+						"from": 27580,
+						"to": 27770
+					},
+					"id": 732,
+					"p": 0.918567,
+					"t_dtw": -1
+				},
+				{
+					"text": " reason",
+					"timestamps": {
+						"from": "00:00:27,770",
+						"to": "00:00:28,150"
+					},
+					"offsets": {
+						"from": 27770,
+						"to": 28150
+					},
+					"id": 1778,
+					"p": 0.684333,
+					"t_dtw": -1
+				},
+				{
+					"text": " one",
+					"timestamps": {
+						"from": "00:00:28,150",
+						"to": "00:00:28,330"
+					},
+					"offsets": {
+						"from": 28150,
+						"to": 28330
+					},
+					"id": 472,
+					"p": 0.993462,
+					"t_dtw": -1
+				},
+				{
+					"text": " bank",
+					"timestamps": {
+						"from": "00:00:28,330",
+						"to": "00:00:28,580"
+					},
+					"offsets": {
+						"from": 28330,
+						"to": 28580
+					},
+					"id": 3765,
+					"p": 0.998965,
+					"t_dtw": -1
+				},
+				{
+					"text": " no",
+					"timestamps": {
+						"from": "00:00:28,630",
+						"to": "00:00:28,710"
+					},
+					"offsets": {
+						"from": 28630,
+						"to": 28710
+					},
+					"id": 572,
+					"p": 0.94058,
+					"t_dtw": -1
+				},
+				{
+					"text": " trust",
+					"timestamps": {
+						"from": "00:00:28,710",
+						"to": "00:00:29,030"
+					},
+					"offsets": {
+						"from": 28710,
+						"to": 29030
+					},
+					"id": 3361,
+					"p": 0.987777,
+					"t_dtw": -1
+				},
+				{
+					"text": " gorilla",
+					"timestamps": {
+						"from": "00:00:29,030",
+						"to": "00:00:29,480"
+					},
+					"offsets": {
+						"from": 29030,
+						"to": 29480
+					},
+					"id": 45066,
+					"p": 0.986745,
+					"t_dtw": -1
+				},
+				{
+					"text": " to",
+					"timestamps": {
+						"from": "00:00:29,480",
+						"to": "00:00:29,590"
+					},
+					"offsets": {
+						"from": 29480,
+						"to": 29590
+					},
+					"id": 281,
+					"p": 0.998511,
+					"t_dtw": -1
+				},
+				{
+					"text": " pay",
+					"timestamps": {
+						"from": "00:00:29,620",
+						"to": "00:00:29,790"
+					},
+					"offsets": {
+						"from": 29620,
+						"to": 29790
+					},
+					"id": 1689,
+					"p": 0.999655,
+					"t_dtw": -1
+				},
+				{
+					"text": " back",
+					"timestamps": {
+						"from": "00:00:29,790",
+						"to": "00:00:30,040"
+					},
+					"offsets": {
+						"from": 29790,
+						"to": 30040
+					},
+					"id": 646,
+					"p": 0.938378,
+					"t_dtw": -1
+				},
+				{
+					"text": " because",
+					"timestamps": {
+						"from": "00:00:30,040",
+						"to": "00:00:30,490"
+					},
+					"offsets": {
+						"from": 30040,
+						"to": 30490
+					},
+					"id": 570,
+					"p": 0.998186,
+					"t_dtw": -1
+				},
+				{
+					"text": " gorilla",
+					"timestamps": {
+						"from": "00:00:30,490",
+						"to": "00:00:30,920"
+					},
+					"offsets": {
+						"from": 30490,
+						"to": 30920
+					},
+					"id": 45066,
+					"p": 0.969344,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_252]",
+					"timestamps": {
+						"from": "00:00:31,040",
+						"to": "00:00:31,040"
+					},
+					"offsets": {
+						"from": 31040,
+						"to": 31040
+					},
+					"id": 50617,
+					"p": 0.529192,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,040",
+				"to": "00:00:36,560"
+			},
+			"offsets": {
+				"from": 31040,
+				"to": 36560
+			},
+			"text": " credit score bad to improve gorilla starts to pay bills on time gorilla also pay back credit card",
+			"tokens": [
+				{
+					"text": " credit",
+					"timestamps": {
+						"from": "00:00:31,100",
+						"to": "00:00:31,450"
+					},
+					"offsets": {
+						"from": 31100,
+						"to": 31450
+					},
+					"id": 5397,
+					"p": 0.990554,
+					"t_dtw": -1
+				},
+				{
+					"text": " score",
+					"timestamps": {
+						"from": "00:00:31,450",
+						"to": "00:00:31,790"
+					},
+					"offsets": {
+						"from": 31450,
+						"to": 31790
+					},
+					"id": 6175,
+					"p": 0.997061,
+					"t_dtw": -1
+				},
+				{
+					"text": " bad",
+					"timestamps": {
+						"from": "00:00:31,790",
+						"to": "00:00:31,990"
+					},
+					"offsets": {
+						"from": 31790,
+						"to": 31990
+					},
+					"id": 1578,
+					"p": 0.997994,
+					"t_dtw": -1
+				},
+				{
+					"text": " to",
+					"timestamps": {
+						"from": "00:00:31,990",
+						"to": "00:00:32,120"
+					},
+					"offsets": {
+						"from": 31990,
+						"to": 32120
+					},
+					"id": 281,
+					"p": 0.997721,
+					"t_dtw": -1
+				},
+				{
+					"text": " improve",
+					"timestamps": {
+						"from": "00:00:32,120",
+						"to": "00:00:32,560"
+					},
+					"offsets": {
+						"from": 32120,
+						"to": 32560
+					},
+					"id": 3470,
+					"p": 0.998757,
+					"t_dtw": -1
+				},
+				{
+					"text": " gorilla",
+					"timestamps": {
+						"from": "00:00:32,610",
+						"to": "00:00:33,080"
+					},
+					"offsets": {
+						"from": 32610,
+						"to": 33080
+					},
+					"id": 45066,
+					"p": 0.989278,
+					"t_dtw": -1
+				},
+				{
+					"text": " starts",
+					"timestamps": {
+						"from": "00:00:33,080",
+						"to": "00:00:33,490"
+					},
+					"offsets": {
+						"from": 33080,
+						"to": 33490
+					},
+					"id": 3719,
+					"p": 0.999104,
+					"t_dtw": -1
+				},
+				{
+					"text": " to",
+					"timestamps": {
+						"from": "00:00:33,490",
+						"to": "00:00:33,610"
+					},
+					"offsets": {
+						"from": 33490,
+						"to": 33610
+					},
+					"id": 281,
+					"p": 0.999893,
+					"t_dtw": -1
+				},
+				{
+					"text": " pay",
+					"timestamps": {
+						"from": "00:00:33,670",
+						"to": "00:00:33,820"
+					},
+					"offsets": {
+						"from": 33670,
+						"to": 33820
+					},
+					"id": 1689,
+					"p": 0.999857,
+					"t_dtw": -1
+				},
+				{
+					"text": " bills",
+					"timestamps": {
+						"from": "00:00:33,820",
+						"to": "00:00:34,160"
+					},
+					"offsets": {
+						"from": 33820,
+						"to": 34160
+					},
+					"id": 12433,
+					"p": 0.999535,
+					"t_dtw": -1
+				},
+				{
+					"text": " on",
+					"timestamps": {
+						"from": "00:00:34,160",
+						"to": "00:00:34,290"
+					},
+					"offsets": {
+						"from": 34160,
+						"to": 34290
+					},
+					"id": 322,
+					"p": 0.999798,
+					"t_dtw": -1
+				},
+				{
+					"text": " time",
+					"timestamps": {
+						"from": "00:00:34,290",
+						"to": "00:00:34,540"
+					},
+					"offsets": {
+						"from": 34290,
+						"to": 34540
+					},
+					"id": 565,
+					"p": 0.999849,
+					"t_dtw": -1
+				},
+				{
+					"text": " gorilla",
+					"timestamps": {
+						"from": "00:00:34,650",
+						"to": "00:00:35,040"
+					},
+					"offsets": {
+						"from": 34650,
+						"to": 35040
+					},
+					"id": 45066,
+					"p": 0.986848,
+					"t_dtw": -1
+				},
+				{
+					"text": " also",
+					"timestamps": {
+						"from": "00:00:35,040",
+						"to": "00:00:35,220"
+					},
+					"offsets": {
+						"from": 35040,
+						"to": 35220
+					},
+					"id": 611,
+					"p": 0.999319,
+					"t_dtw": -1
+				},
+				{
+					"text": " pay",
+					"timestamps": {
+						"from": "00:00:35,300",
+						"to": "00:00:35,510"
+					},
+					"offsets": {
+						"from": 35300,
+						"to": 35510
+					},
+					"id": 1689,
+					"p": 0.982446,
+					"t_dtw": -1
+				},
+				{
+					"text": " back",
+					"timestamps": {
+						"from": "00:00:35,510",
+						"to": "00:00:35,760"
+					},
+					"offsets": {
+						"from": 35510,
+						"to": 35760
+					},
+					"id": 646,
+					"p": 0.971562,
+					"t_dtw": -1
+				},
+				{
+					"text": " credit",
+					"timestamps": {
+						"from": "00:00:35,770",
+						"to": "00:00:36,300"
+					},
+					"offsets": {
+						"from": 35770,
+						"to": 36300
+					},
+					"id": 5397,
+					"p": 0.994899,
+					"t_dtw": -1
+				},
+				{
+					"text": " card",
+					"timestamps": {
+						"from": "00:00:36,470",
+						"to": "00:00:36,560"
+					},
+					"offsets": {
+						"from": 36470,
+						"to": 36560
+					},
+					"id": 2920,
+					"p": 0.946682,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_528]",
+					"timestamps": {
+						"from": "00:00:36,560",
+						"to": "00:00:36,560"
+					},
+					"offsets": {
+						"from": 36560,
+						"to": 36560
+					},
+					"id": 50893,
+					"p": 0.663554,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,560",
+				"to": "00:00:41,600"
+			},
+			"offsets": {
+				"from": 36560,
+				"to": 41600
+			},
+			"text": " spending too credit score go up bank trust more now but interest still high why it because gorilla",
+			"tokens": [
+				{
+					"text": " spending",
+					"timestamps": {
+						"from": "00:00:36,610",
+						"to": "00:00:37,050"
+					},
+					"offsets": {
+						"from": 36610,
+						"to": 37050
+					},
+					"id": 6434,
+					"p": 0.999901,
+					"t_dtw": -1
+				},
+				{
+					"text": " too",
+					"timestamps": {
+						"from": "00:00:37,050",
+						"to": "00:00:37,230"
+					},
+					"offsets": {
+						"from": 37050,
+						"to": 37230
+					},
+					"id": 886,
+					"p": 0.764605,
+					"t_dtw": -1
+				},
+				{
+					"text": " credit",
+					"timestamps": {
+						"from": "00:00:37,230",
+						"to": "00:00:37,600"
+					},
+					"offsets": {
+						"from": 37230,
+						"to": 37600
+					},
+					"id": 5397,
+					"p": 0.998831,
+					"t_dtw": -1
+				},
+				{
+					"text": " score",
+					"timestamps": {
+						"from": "00:00:37,600",
+						"to": "00:00:37,910"
+					},
+					"offsets": {
+						"from": 37600,
+						"to": 37910
+					},
+					"id": 6175,
+					"p": 0.996265,
+					"t_dtw": -1
+				},
+				{
+					"text": " go",
+					"timestamps": {
+						"from": "00:00:37,910",
+						"to": "00:00:38,030"
+					},
+					"offsets": {
+						"from": 37910,
+						"to": 38030
+					},
+					"id": 352,
+					"p": 0.998892,
+					"t_dtw": -1
+				},
+				{
+					"text": " up",
+					"timestamps": {
+						"from": "00:00:38,030",
+						"to": "00:00:38,080"
+					},
+					"offsets": {
+						"from": 38030,
+						"to": 38080
+					},
+					"id": 493,
+					"p": 0.999611,
+					"t_dtw": -1
+				},
+				{
+					"text": " bank",
+					"timestamps": {
+						"from": "00:00:38,150",
+						"to": "00:00:38,390"
+					},
+					"offsets": {
+						"from": 38150,
+						"to": 38390
+					},
+					"id": 3765,
+					"p": 0.998045,
+					"t_dtw": -1
+				},
+				{
+					"text": " trust",
+					"timestamps": {
+						"from": "00:00:38,390",
+						"to": "00:00:38,700"
+					},
+					"offsets": {
+						"from": 38390,
+						"to": 38700
+					},
+					"id": 3361,
+					"p": 0.944712,
+					"t_dtw": -1
+				},
+				{
+					"text": " more",
+					"timestamps": {
+						"from": "00:00:38,700",
+						"to": "00:00:38,900"
+					},
+					"offsets": {
+						"from": 38700,
+						"to": 38900
+					},
+					"id": 544,
+					"p": 0.999382,
+					"t_dtw": -1
+				},
+				{
+					"text": " now",
+					"timestamps": {
+						"from": "00:00:38,940",
+						"to": "00:00:39,120"
+					},
+					"offsets": {
+						"from": 38940,
+						"to": 39120
+					},
+					"id": 586,
+					"p": 0.999712,
+					"t_dtw": -1
+				},
+				{
+					"text": " but",
+					"timestamps": {
+						"from": "00:00:39,120",
+						"to": "00:00:39,300"
+					},
+					"offsets": {
+						"from": 39120,
+						"to": 39300
+					},
+					"id": 457,
+					"p": 0.999887,
+					"t_dtw": -1
+				},
+				{
+					"text": " interest",
+					"timestamps": {
+						"from": "00:00:39,300",
+						"to": "00:00:39,790"
+					},
+					"offsets": {
+						"from": 39300,
+						"to": 39790
+					},
+					"id": 1179,
+					"p": 0.977497,
+					"t_dtw": -1
+				},
+				{
+					"text": " still",
+					"timestamps": {
+						"from": "00:00:39,790",
+						"to": "00:00:40,050"
+					},
+					"offsets": {
+						"from": 39790,
+						"to": 40050
+					},
+					"id": 920,
+					"p": 0.99314,
+					"t_dtw": -1
+				},
+				{
+					"text": " high",
+					"timestamps": {
+						"from": "00:00:40,170",
+						"to": "00:00:40,340"
+					},
+					"offsets": {
+						"from": 40170,
+						"to": 40340
+					},
+					"id": 1090,
+					"p": 0.998719,
+					"t_dtw": -1
+				},
+				{
+					"text": " why",
+					"timestamps": {
+						"from": "00:00:40,340",
+						"to": "00:00:40,520"
+					},
+					"offsets": {
+						"from": 40340,
+						"to": 40520
+					},
+					"id": 983,
+					"p": 0.996151,
+					"t_dtw": -1
+				},
+				{
+					"text": " it",
+					"timestamps": {
+						"from": "00:00:40,520",
+						"to": "00:00:40,640"
+					},
+					"offsets": {
+						"from": 40520,
+						"to": 40640
+					},
+					"id": 309,
+					"p": 0.986756,
+					"t_dtw": -1
+				},
+				{
+					"text": " because",
+					"timestamps": {
+						"from": "00:00:40,640",
+						"to": "00:00:41,070"
+					},
+					"offsets": {
+						"from": 40640,
+						"to": 41070
+					},
+					"id": 570,
+					"p": 0.974972,
+					"t_dtw": -1
+				},
+				{
+					"text": " gorilla",
+					"timestamps": {
+						"from": "00:00:41,070",
+						"to": "00:00:41,480"
+					},
+					"offsets": {
+						"from": 41070,
+						"to": 41480
+					},
+					"id": 45066,
+					"p": 0.972545,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_780]",
+					"timestamps": {
+						"from": "00:00:41,600",
+						"to": "00:00:41,600"
+					},
+					"offsets": {
+						"from": 41600,
+						"to": 41600
+					},
+					"id": 51145,
+					"p": 0.597156,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,600",
+				"to": "00:00:46,000"
+			},
+			"offsets": {
+				"from": 41600,
+				"to": 46000
+			},
+			"text": " makes small down payment that means that the bank provide most money for the loan of the house big",
+			"tokens": [
+				{
+					"text": " makes",
+					"timestamps": {
+						"from": "00:00:41,660",
+						"to": "00:00:41,860"
+					},
+					"offsets": {
+						"from": 41660,
+						"to": 41860
+					},
+					"id": 1669,
+					"p": 0.949418,
+					"t_dtw": -1
+				},
+				{
+					"text": " small",
+					"timestamps": {
+						"from": "00:00:41,870",
+						"to": "00:00:42,140"
+					},
+					"offsets": {
+						"from": 41870,
+						"to": 42140
+					},
+					"id": 1359,
+					"p": 0.999472,
+					"t_dtw": -1
+				},
+				{
+					"text": " down",
+					"timestamps": {
+						"from": "00:00:42,140",
+						"to": "00:00:42,350"
+					},
+					"offsets": {
+						"from": 42140,
+						"to": 42350
+					},
+					"id": 760,
+					"p": 0.999188,
+					"t_dtw": -1
+				},
+				{
+					"text": " payment",
+					"timestamps": {
+						"from": "00:00:42,350",
+						"to": "00:00:42,720"
+					},
+					"offsets": {
+						"from": 42350,
+						"to": 42720
+					},
+					"id": 10224,
+					"p": 0.921966,
+					"t_dtw": -1
+				},
+				{
+					"text": " that",
+					"timestamps": {
+						"from": "00:00:42,720",
+						"to": "00:00:42,930"
+					},
+					"offsets": {
+						"from": 42720,
+						"to": 42930
+					},
+					"id": 300,
+					"p": 0.999634,
+					"t_dtw": -1
+				},
+				{
+					"text": " means",
+					"timestamps": {
+						"from": "00:00:42,930",
+						"to": "00:00:43,200"
+					},
+					"offsets": {
+						"from": 42930,
+						"to": 43200
+					},
+					"id": 1355,
+					"p": 0.999703,
+					"t_dtw": -1
+				},
+				{
+					"text": " that",
+					"timestamps": {
+						"from": "00:00:43,200",
+						"to": "00:00:43,400"
+					},
+					"offsets": {
+						"from": 43200,
+						"to": 43400
+					},
+					"id": 300,
+					"p": 0.999632,
+					"t_dtw": -1
+				},
+				{
+					"text": " the",
+					"timestamps": {
+						"from": "00:00:43,410",
+						"to": "00:00:43,570"
+					},
+					"offsets": {
+						"from": 43410,
+						"to": 43570
+					},
+					"id": 264,
+					"p": 0.999758,
+					"t_dtw": -1
+				},
+				{
+					"text": " bank",
+					"timestamps": {
+						"from": "00:00:43,570",
+						"to": "00:00:43,770"
+					},
+					"offsets": {
+						"from": 43570,
+						"to": 43770
+					},
+					"id": 3765,
+					"p": 0.999662,
+					"t_dtw": -1
+				},
+				{
+					"text": " provide",
+					"timestamps": {
+						"from": "00:00:43,780",
+						"to": "00:00:44,150"
+					},
+					"offsets": {
+						"from": 43780,
+						"to": 44150
+					},
+					"id": 2893,
+					"p": 0.97682,
+					"t_dtw": -1
+				},
+				{
+					"text": " most",
+					"timestamps": {
+						"from": "00:00:44,150",
+						"to": "00:00:44,360"
+					},
+					"offsets": {
+						"from": 44150,
+						"to": 44360
+					},
+					"id": 881,
+					"p": 0.999291,
+					"t_dtw": -1
+				},
+				{
+					"text": " money",
+					"timestamps": {
+						"from": "00:00:44,360",
+						"to": "00:00:44,630"
+					},
+					"offsets": {
+						"from": 44360,
+						"to": 44630
+					},
+					"id": 1460,
+					"p": 0.999903,
+					"t_dtw": -1
+				},
+				{
+					"text": " for",
+					"timestamps": {
+						"from": "00:00:44,630",
+						"to": "00:00:44,790"
+					},
+					"offsets": {
+						"from": 44630,
+						"to": 44790
+					},
+					"id": 337,
+					"p": 0.999775,
+					"t_dtw": -1
+				},
+				{
+					"text": " the",
+					"timestamps": {
+						"from": "00:00:44,790",
+						"to": "00:00:44,940"
+					},
+					"offsets": {
+						"from": 44790,
+						"to": 44940
+					},
+					"id": 264,
+					"p": 0.999928,
+					"t_dtw": -1
+				},
+				{
+					"text": " loan",
+					"timestamps": {
+						"from": "00:00:44,950",
+						"to": "00:00:45,090"
+					},
+					"offsets": {
+						"from": 44950,
+						"to": 45090
+					},
+					"id": 10529,
+					"p": 0.999573,
+					"t_dtw": -1
+				},
+				{
+					"text": " of",
+					"timestamps": {
+						"from": "00:00:45,190",
+						"to": "00:00:45,260"
+					},
+					"offsets": {
+						"from": 45190,
+						"to": 45260
+					},
+					"id": 295,
+					"p": 0.999672,
+					"t_dtw": -1
+				},
+				{
+					"text": " the",
+					"timestamps": {
+						"from": "00:00:45,260",
+						"to": "00:00:45,420"
+					},
+					"offsets": {
+						"from": 45260,
+						"to": 45420
+					},
+					"id": 264,
+					"p": 0.99914,
+					"t_dtw": -1
+				},
+				{
+					"text": " house",
+					"timestamps": {
+						"from": "00:00:45,420",
+						"to": "00:00:45,760"
+					},
+					"offsets": {
+						"from": 45420,
+						"to": 45760
+					},
+					"id": 1782,
+					"p": 0.990335,
+					"t_dtw": -1
+				},
+				{
+					"text": " big",
+					"timestamps": {
+						"from": "00:00:45,760",
+						"to": "00:00:46,000"
+					},
+					"offsets": {
+						"from": 45760,
+						"to": 46000
+					},
+					"id": 955,
+					"p": 0.976302,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_1000]",
+					"timestamps": {
+						"from": "00:00:46,000",
+						"to": "00:00:46,000"
+					},
+					"offsets": {
+						"from": 46000,
+						"to": 46000
+					},
+					"id": 51365,
+					"p": 0.732153,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,000",
+				"to": "00:00:50,960"
+			},
+			"offsets": {
+				"from": 46000,
+				"to": 50960
+			},
+			"text": " loan equal big risk for bank bank charge more interest to cover risk to have cheap mortgage need",
+			"tokens": [
+				{
+					"text": " loan",
+					"timestamps": {
+						"from": "00:00:46,060",
+						"to": "00:00:46,250"
+					},
+					"offsets": {
+						"from": 46060,
+						"to": 46250
+					},
+					"id": 10529,
+					"p": 0.998894,
+					"t_dtw": -1
+				},
+				{
+					"text": " equal",
+					"timestamps": {
+						"from": "00:00:46,250",
+						"to": "00:00:46,560"
+					},
+					"offsets": {
+						"from": 46250,
+						"to": 46560
+					},
+					"id": 2681,
+					"p": 0.990276,
+					"t_dtw": -1
+				},
+				{
+					"text": " big",
+					"timestamps": {
+						"from": "00:00:46,560",
+						"to": "00:00:46,740"
+					},
+					"offsets": {
+						"from": 46560,
+						"to": 46740
+					},
+					"id": 955,
+					"p": 0.997075,
+					"t_dtw": -1
+				},
+				{
+					"text": " risk",
+					"timestamps": {
+						"from": "00:00:46,740",
+						"to": "00:00:46,990"
+					},
+					"offsets": {
+						"from": 46740,
+						"to": 46990
+					},
+					"id": 3148,
+					"p": 0.997994,
+					"t_dtw": -1
+				},
+				{
+					"text": " for",
+					"timestamps": {
+						"from": "00:00:46,990",
+						"to": "00:00:47,170"
+					},
+					"offsets": {
+						"from": 46990,
+						"to": 47170
+					},
+					"id": 337,
+					"p": 0.998921,
+					"t_dtw": -1
+				},
+				{
+					"text": " bank",
+					"timestamps": {
+						"from": "00:00:47,170",
+						"to": "00:00:47,420"
+					},
+					"offsets": {
+						"from": 47170,
+						"to": 47420
+					},
+					"id": 3765,
+					"p": 0.996829,
+					"t_dtw": -1
+				},
+				{
+					"text": " bank",
+					"timestamps": {
+						"from": "00:00:47,420",
+						"to": "00:00:47,670"
+					},
+					"offsets": {
+						"from": 47420,
+						"to": 47670
+					},
+					"id": 3765,
+					"p": 0.997602,
+					"t_dtw": -1
+				},
+				{
+					"text": " charge",
+					"timestamps": {
+						"from": "00:00:47,670",
+						"to": "00:00:48,030"
+					},
+					"offsets": {
+						"from": 47670,
+						"to": 48030
+					},
+					"id": 4602,
+					"p": 0.997189,
+					"t_dtw": -1
+				},
+				{
+					"text": " more",
+					"timestamps": {
+						"from": "00:00:48,030",
+						"to": "00:00:48,290"
+					},
+					"offsets": {
+						"from": 48030,
+						"to": 48290
+					},
+					"id": 544,
+					"p": 0.999926,
+					"t_dtw": -1
+				},
+				{
+					"text": " interest",
+					"timestamps": {
+						"from": "00:00:48,290",
+						"to": "00:00:48,790"
+					},
+					"offsets": {
+						"from": 48290,
+						"to": 48790
+					},
+					"id": 1179,
+					"p": 0.998068,
+					"t_dtw": -1
+				},
+				{
+					"text": " to",
+					"timestamps": {
+						"from": "00:00:48,790",
+						"to": "00:00:48,910"
+					},
+					"offsets": {
+						"from": 48790,
+						"to": 48910
+					},
+					"id": 281,
+					"p": 0.999861,
+					"t_dtw": -1
+				},
+				{
+					"text": " cover",
+					"timestamps": {
+						"from": "00:00:48,910",
+						"to": "00:00:49,220"
+					},
+					"offsets": {
+						"from": 48910,
+						"to": 49220
+					},
+					"id": 2060,
+					"p": 0.999773,
+					"t_dtw": -1
+				},
+				{
+					"text": " risk",
+					"timestamps": {
+						"from": "00:00:49,220",
+						"to": "00:00:49,470"
+					},
+					"offsets": {
+						"from": 49220,
+						"to": 49470
+					},
+					"id": 3148,
+					"p": 0.994702,
+					"t_dtw": -1
+				},
+				{
+					"text": " to",
+					"timestamps": {
+						"from": "00:00:49,470",
+						"to": "00:00:49,570"
+					},
+					"offsets": {
+						"from": 49470,
+						"to": 49570
+					},
+					"id": 281,
+					"p": 0.999584,
+					"t_dtw": -1
+				},
+				{
+					"text": " have",
+					"timestamps": {
+						"from": "00:00:49,620",
+						"to": "00:00:49,840"
+					},
+					"offsets": {
+						"from": 49620,
+						"to": 49840
+					},
+					"id": 362,
+					"p": 0.999933,
+					"t_dtw": -1
+				},
+				{
+					"text": " cheap",
+					"timestamps": {
+						"from": "00:00:49,840",
+						"to": "00:00:50,140"
+					},
+					"offsets": {
+						"from": 49840,
+						"to": 50140
+					},
+					"id": 7084,
+					"p": 0.99207,
+					"t_dtw": -1
+				},
+				{
+					"text": " mortgage",
+					"timestamps": {
+						"from": "00:00:50,150",
+						"to": "00:00:50,720"
+					},
+					"offsets": {
+						"from": 50150,
+						"to": 50720
+					},
+					"id": 20236,
+					"p": 0.99783,
+					"t_dtw": -1
+				},
+				{
+					"text": " need",
+					"timestamps": {
+						"from": "00:00:50,720",
+						"to": "00:00:50,920"
+					},
+					"offsets": {
+						"from": 50720,
+						"to": 50920
+					},
+					"id": 643,
+					"p": 0.760938,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_1248]",
+					"timestamps": {
+						"from": "00:00:50,960",
+						"to": "00:00:50,960"
+					},
+					"offsets": {
+						"from": 50960,
+						"to": 50960
+					},
+					"id": 51613,
+					"p": 0.496229,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,960",
+				"to": "00:00:55,760"
+			},
+			"offsets": {
+				"from": 50960,
+				"to": 55760
+			},
+			"text": " good credit score and big down payment now using the money gorilla got from bank he pays for the house",
+			"tokens": [
+				{
+					"text": " good",
+					"timestamps": {
+						"from": "00:00:51,020",
+						"to": "00:00:51,180"
+					},
+					"offsets": {
+						"from": 51020,
+						"to": 51180
+					},
+					"id": 665,
+					"p": 0.983012,
+					"t_dtw": -1
+				},
+				{
+					"text": " credit",
+					"timestamps": {
+						"from": "00:00:51,180",
+						"to": "00:00:51,510"
+					},
+					"offsets": {
+						"from": 51180,
+						"to": 51510
+					},
+					"id": 5397,
+					"p": 0.999552,
+					"t_dtw": -1
+				},
+				{
+					"text": " score",
+					"timestamps": {
+						"from": "00:00:51,510",
+						"to": "00:00:51,760"
+					},
+					"offsets": {
+						"from": 51510,
+						"to": 51760
+					},
+					"id": 6175,
+					"p": 0.999453,
+					"t_dtw": -1
+				},
+				{
+					"text": " and",
+					"timestamps": {
+						"from": "00:00:51,830",
+						"to": "00:00:51,950"
+					},
+					"offsets": {
+						"from": 51830,
+						"to": 51950
+					},
+					"id": 293,
+					"p": 0.999874,
+					"t_dtw": -1
+				},
+				{
+					"text": " big",
+					"timestamps": {
+						"from": "00:00:51,950",
+						"to": "00:00:52,110"
+					},
+					"offsets": {
+						"from": 51950,
+						"to": 52110
+					},
+					"id": 955,
+					"p": 0.999685,
+					"t_dtw": -1
+				},
+				{
+					"text": " down",
+					"timestamps": {
+						"from": "00:00:52,110",
+						"to": "00:00:52,330"
+					},
+					"offsets": {
+						"from": 52110,
+						"to": 52330
+					},
+					"id": 760,
+					"p": 0.99895,
+					"t_dtw": -1
+				},
+				{
+					"text": " payment",
+					"timestamps": {
+						"from": "00:00:52,330",
+						"to": "00:00:52,720"
+					},
+					"offsets": {
+						"from": 52330,
+						"to": 52720
+					},
+					"id": 10224,
+					"p": 0.994146,
+					"t_dtw": -1
+				},
+				{
+					"text": " now",
+					"timestamps": {
+						"from": "00:00:52,720",
+						"to": "00:00:52,880"
+					},
+					"offsets": {
+						"from": 52720,
+						"to": 52880
+					},
+					"id": 586,
+					"p": 0.997668,
+					"t_dtw": -1
+				},
+				{
+					"text": " using",
+					"timestamps": {
+						"from": "00:00:52,880",
+						"to": "00:00:53,160"
+					},
+					"offsets": {
+						"from": 52880,
+						"to": 53160
+					},
+					"id": 1228,
+					"p": 0.999718,
+					"t_dtw": -1
+				},
+				{
+					"text": " the",
+					"timestamps": {
+						"from": "00:00:53,160",
+						"to": "00:00:53,310"
+					},
+					"offsets": {
+						"from": 53160,
+						"to": 53310
+					},
+					"id": 264,
+					"p": 0.999794,
+					"t_dtw": -1
+				},
+				{
+					"text": " money",
+					"timestamps": {
+						"from": "00:00:53,330",
+						"to": "00:00:53,600"
+					},
+					"offsets": {
+						"from": 53330,
+						"to": 53600
+					},
+					"id": 1460,
+					"p": 0.99988,
+					"t_dtw": -1
+				},
+				{
+					"text": " gorilla",
+					"timestamps": {
+						"from": "00:00:53,600",
+						"to": "00:00:53,990"
+					},
+					"offsets": {
+						"from": 53600,
+						"to": 53990
+					},
+					"id": 45066,
+					"p": 0.984271,
+					"t_dtw": -1
+				},
+				{
+					"text": " got",
+					"timestamps": {
+						"from": "00:00:53,990",
+						"to": "00:00:54,150"
+					},
+					"offsets": {
+						"from": 53990,
+						"to": 54150
+					},
+					"id": 658,
+					"p": 0.99807,
+					"t_dtw": -1
+				},
+				{
+					"text": " from",
+					"timestamps": {
+						"from": "00:00:54,150",
+						"to": "00:00:54,370"
+					},
+					"offsets": {
+						"from": 54150,
+						"to": 54370
+					},
+					"id": 490,
+					"p": 0.999643,
+					"t_dtw": -1
+				},
+				{
+					"text": " bank",
+					"timestamps": {
+						"from": "00:00:54,370",
+						"to": "00:00:54,590"
+					},
+					"offsets": {
+						"from": 54370,
+						"to": 54590
+					},
+					"id": 3765,
+					"p": 0.998791,
+					"t_dtw": -1
+				},
+				{
+					"text": " he",
+					"timestamps": {
+						"from": "00:00:54,590",
+						"to": "00:00:54,700"
+					},
+					"offsets": {
+						"from": 54590,
+						"to": 54700
+					},
+					"id": 415,
+					"p": 0.998929,
+					"t_dtw": -1
+				},
+				{
+					"text": " pays",
+					"timestamps": {
+						"from": "00:00:54,700",
+						"to": "00:00:54,910"
+					},
+					"offsets": {
+						"from": 54700,
+						"to": 54910
+					},
+					"id": 10604,
+					"p": 0.996778,
+					"t_dtw": -1
+				},
+				{
+					"text": " for",
+					"timestamps": {
+						"from": "00:00:54,910",
+						"to": "00:00:55,080"
+					},
+					"offsets": {
+						"from": 54910,
+						"to": 55080
+					},
+					"id": 337,
+					"p": 0.999451,
+					"t_dtw": -1
+				},
+				{
+					"text": " the",
+					"timestamps": {
+						"from": "00:00:55,080",
+						"to": "00:00:55,360"
+					},
+					"offsets": {
+						"from": 55080,
+						"to": 55360
+					},
+					"id": 264,
+					"p": 0.999561,
+					"t_dtw": -1
+				},
+				{
+					"text": " house",
+					"timestamps": {
+						"from": "00:00:55,360",
+						"to": "00:00:55,760"
+					},
+					"offsets": {
+						"from": 55360,
+						"to": 55760
+					},
+					"id": 1782,
+					"p": 0.890927,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_1488]",
+					"timestamps": {
+						"from": "00:00:55,760",
+						"to": "00:00:55,760"
+					},
+					"offsets": {
+						"from": 55760,
+						"to": 55760
+					},
+					"id": 51853,
+					"p": 0.768042,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,760",
+				"to": "00:01:00,520"
+			},
+			"offsets": {
+				"from": 55760,
+				"to": 60520
+			},
+			"text": " Every month he pays a small bit of the loan back along with extra interest, so now you know",
+			"tokens": [
+				{
+					"text": "[_BEG_]",
+					"timestamps": {
+						"from": "00:00:55,760",
+						"to": "00:00:55,760"
+					},
+					"offsets": {
+						"from": 55760,
+						"to": 55760
+					},
+					"id": 50365,
+					"p": 0.936236,
+					"t_dtw": -1
+				},
+				{
+					"text": " Every",
+					"timestamps": {
+						"from": "00:00:55,820",
+						"to": "00:00:56,070"
+					},
+					"offsets": {
+						"from": 55820,
+						"to": 56070
+					},
+					"id": 2048,
+					"p": 0.803197,
+					"t_dtw": -1
+				},
+				{
+					"text": " month",
+					"timestamps": {
+						"from": "00:00:56,070",
+						"to": "00:00:56,370"
+					},
+					"offsets": {
+						"from": 56070,
+						"to": 56370
+					},
+					"id": 1618,
+					"p": 0.996639,
+					"t_dtw": -1
+				},
+				{
+					"text": " he",
+					"timestamps": {
+						"from": "00:00:56,370",
+						"to": "00:00:56,500"
+					},
+					"offsets": {
+						"from": 56370,
+						"to": 56500
+					},
+					"id": 415,
+					"p": 0.74721,
+					"t_dtw": -1
+				},
+				{
+					"text": " pays",
+					"timestamps": {
+						"from": "00:00:56,500",
+						"to": "00:00:56,750"
+					},
+					"offsets": {
+						"from": 56500,
+						"to": 56750
+					},
+					"id": 10604,
+					"p": 0.993852,
+					"t_dtw": -1
+				},
+				{
+					"text": " a",
+					"timestamps": {
+						"from": "00:00:56,750",
+						"to": "00:00:56,810"
+					},
+					"offsets": {
+						"from": 56750,
+						"to": 56810
+					},
+					"id": 257,
+					"p": 0.987351,
+					"t_dtw": -1
+				},
+				{
+					"text": " small",
+					"timestamps": {
+						"from": "00:00:56,810",
+						"to": "00:00:57,120"
+					},
+					"offsets": {
+						"from": 56810,
+						"to": 57120
+					},
+					"id": 1359,
+					"p": 0.97031,
+					"t_dtw": -1
+				},
+				{
+					"text": " bit",
+					"timestamps": {
+						"from": "00:00:57,120",
+						"to": "00:00:57,360"
+					},
+					"offsets": {
+						"from": 57120,
+						"to": 57360
+					},
+					"id": 857,
+					"p": 0.984085,
+					"t_dtw": -1
+				},
+				{
+					"text": " of",
+					"timestamps": {
+						"from": "00:00:57,360",
+						"to": "00:00:57,460"
+					},
+					"offsets": {
+						"from": 57360,
+						"to": 57460
+					},
+					"id": 295,
+					"p": 0.986323,
+					"t_dtw": -1
+				},
+				{
+					"text": " the",
+					"timestamps": {
+						"from": "00:00:57,460",
+						"to": "00:00:57,610"
+					},
+					"offsets": {
+						"from": 57460,
+						"to": 57610
+					},
+					"id": 264,
+					"p": 0.990361,
+					"t_dtw": -1
+				},
+				{
+					"text": " loan",
+					"timestamps": {
+						"from": "00:00:57,610",
+						"to": "00:00:57,820"
+					},
+					"offsets": {
+						"from": 57610,
+						"to": 57820
+					},
+					"id": 10529,
+					"p": 0.989163,
+					"t_dtw": -1
+				},
+				{
+					"text": " back",
+					"timestamps": {
+						"from": "00:00:57,820",
+						"to": "00:00:58,090"
+					},
+					"offsets": {
+						"from": 57820,
+						"to": 58090
+					},
+					"id": 646,
+					"p": 0.977189,
+					"t_dtw": -1
+				},
+				{
+					"text": " along",
+					"timestamps": {
+						"from": "00:00:58,100",
+						"to": "00:00:58,340"
+					},
+					"offsets": {
+						"from": 58100,
+						"to": 58340
+					},
+					"id": 2051,
+					"p": 0.579406,
+					"t_dtw": -1
+				},
+				{
+					"text": " with",
+					"timestamps": {
+						"from": "00:00:58,390",
+						"to": "00:00:58,620"
+					},
+					"offsets": {
+						"from": 58390,
+						"to": 58620
+					},
+					"id": 365,
+					"p": 0.993131,
+					"t_dtw": -1
+				},
+				{
+					"text": " extra",
+					"timestamps": {
+						"from": "00:00:58,620",
+						"to": "00:00:58,890"
+					},
+					"offsets": {
+						"from": 58620,
+						"to": 58890
+					},
+					"id": 2857,
+					"p": 0.989491,
+					"t_dtw": -1
+				},
+				{
+					"text": " interest",
+					"timestamps": {
+						"from": "00:00:58,900",
+						"to": "00:00:59,380"
+					},
+					"offsets": {
+						"from": 58900,
+						"to": 59380
+					},
+					"id": 1179,
+					"p": 0.997491,
+					"t_dtw": -1
+				},
+				{
+					"text": ",",
+					"timestamps": {
+						"from": "00:00:59,380",
+						"to": "00:00:59,400"
+					},
+					"offsets": {
+						"from": 59380,
+						"to": 59400
+					},
+					"id": 11,
+					"p": 0.321576,
+					"t_dtw": -1
+				},
+				{
+					"text": " so",
+					"timestamps": {
+						"from": "00:00:59,400",
+						"to": "00:00:59,680"
+					},
+					"offsets": {
+						"from": 59400,
+						"to": 59680
+					},
+					"id": 370,
+					"p": 0.670865,
+					"t_dtw": -1
+				},
+				{
+					"text": " now",
+					"timestamps": {
+						"from": "00:00:59,680",
+						"to": "00:01:00,090"
+					},
+					"offsets": {
+						"from": 59680,
+						"to": 60090
+					},
+					"id": 586,
+					"p": 0.979492,
+					"t_dtw": -1
+				},
+				{
+					"text": " you",
+					"timestamps": {
+						"from": "00:01:00,090",
+						"to": "00:01:00,490"
+					},
+					"offsets": {
+						"from": 60090,
+						"to": 60490
+					},
+					"id": 291,
+					"p": 0.98953,
+					"t_dtw": -1
+				},
+				{
+					"text": " know",
+					"timestamps": {
+						"from": "00:01:00,520",
+						"to": "00:01:00,520"
+					},
+					"offsets": {
+						"from": 60520,
+						"to": 60520
+					},
+					"id": 458,
+					"p": 0.896508,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_238]",
+					"timestamps": {
+						"from": "00:01:00,520",
+						"to": "00:01:00,520"
+					},
+					"offsets": {
+						"from": 60520,
+						"to": 60520
+					},
+					"id": 50603,
+					"p": 0.272076,
+					"t_dtw": -1
+				}
+			]
+		}
+	]
+}

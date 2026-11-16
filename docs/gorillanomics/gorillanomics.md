@@ -1,6 +1,6 @@
 # Gorillanomics — phân tích đối thủ
 
-Cập nhật 2026-11-12 · TikTok: @gorillanomics. Biểu đồ xem trong `gorillanomics.html`.
+Cập nhật 2026-11-16 · TikTok: @gorillanomics. Biểu đồ xem trong `gorillanomics.html`.
 
 ## Nhận định
 
@@ -33,15 +33,15 @@ Cập nhật 2026-11-12 · TikTok: @gorillanomics. Biểu đồ xem trong `goril
 
 ### @gorillanomics
 
-- 166k follower · 61 video phân tích (2025-05-19 → 2026-05-29) · tổng 25,7 tr view
+- 166k follower · 61 video phân tích (2025-05-19 → 2026-05-29) · tổng 25,8 tr view
 - View trung vị 153k, trung bình 422k, cao nhất 6,5 tr · tương tác trung vị 8,8%
 - 1,1 video/tuần · 0 video trong 30 ngày qua · độ dài trung vị 61s · 100,0% dùng âm thanh gốc
 
 **Điểm chính**
 
-- Không loại nội dung nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 56k–300k)
+- Không loại nội dung nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 56k–301k)
 - **Tin thời sự / chính trị** chiếm 31,1% số video nhưng chỉ mang về 12,0% tổng view
-- **3/61 video** đạt từ 1,5 tr view (10× trung vị kênh) và mang về **45,1%** tổng view; top 3 chiếm 45,1%
+- **3/61 video** đạt từ 1,5 tr view (10× trung vị kênh) và mang về **45,0%** tổng view; top 3 chiếm 45,0%
 - View tích lũy trung vị **giảm**: 289k ở 3 tháng có bài đầu → 56k ở 3 tháng có bài cuối; chưa so ở cùng tuổi bài
 - Đăng 1,1 video/tuần; tháng dày nhất T6/25 có 13 video; 30 ngày qua: 0 video
 - Không khung giờ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 128k–232k)
@@ -59,8 +59,8 @@ Cập nhật 2026-11-12 · TikTok: @gorillanomics. Biểu đồ xem trong `goril
 | 6 | [Gorillas explain Credit Score #economic #finance #fyp](https://www.tiktok.com/@gorillanomics/video/7508066844973223214) | 905k | 11,1% | 25 | 2025-05-25 | Khái niệm tài chính |
 | 7 | [Gorillas explain Capitalism #economic #finance #fyp ](https://www.tiktok.com/@gorillanomics/video/7511981862139514158) | 713k | 11,3% | 27 | 2025-06-04 | Khái niệm tài chính |
 | 8 | [Gorillas explain Fake Money #economic #finance #fyp ](https://www.tiktok.com/@gorillanomics/video/7508459051450191146) | 659k | 10,5% | 28 | 2025-05-26 | Tội phạm & mặt tối tài chính |
-| 9 | [Gorillas explain Vacation Time #economic #finance #fyp ](https://www.tiktok.com/@gorillanomics/video/7512737228787830058) | 559k | 11,7% | 24 | 2025-06-06 | Khái niệm tài chính |
-| 10 | [Pyramid Schemes explain by Gorillas #finance #economics #fin](https://www.tiktok.com/@gorillanomics/video/7564943939237580087) | 551k | 6,4% | 61 | 2025-10-25 | Tội phạm & mặt tối tài chính |
+| 9 | [Pyramid Schemes explain by Gorillas #finance #economics #fin](https://www.tiktok.com/@gorillanomics/video/7564943939237580087) | 559k | 6,4% | 61 | 2025-10-25 | Tội phạm & mặt tối tài chính |
+| 10 | [Gorillas explain Vacation Time #economic #finance #fyp ](https://www.tiktok.com/@gorillanomics/video/7512737228787830058) | 559k | 11,7% | 24 | 2025-06-06 | Khái niệm tài chính |
 
 **Phong cách dựng (video top)**
 
@@ -90,6 +90,8 @@ Cập nhật 2026-11-12 · TikTok: @gorillanomics. Biểu đồ xem trong `goril
 | [Gorillas explain Tax Evasion #economic #](https://www.tiktok.com/@gorillanomics/video/7514219246356942122) | 6,5 tr | 0,6s/beat | 4 | 1,2s/cụm | 192 | What is tax evasion? Gorilla work 9 to 5. |
 | [Gorillas explain Insurance #economic #fi](https://www.tiktok.com/@gorillanomics/video/7511246760254180650) | 3,2 tr | 0,5s/beat | 5 | 0,9s/cụm | 215 | What is insurance? Gorilla get new car. Gorilla very happy, |
 | [Gorillas explain Money Laundering #econo](https://www.tiktok.com/@gorillanomics/video/7507727025692495146) | 1,9 tr | 0,6s/beat | 5 | 0,8s/cụm | 194 | what is money laundering big boss run guerrilla gang guerrilla |
+| [Gorillas explain Mortgage #economic #fin](https://www.tiktok.com/@gorillanomics/video/7512346700695129390) | 1,5 tr | 0,6s/beat | 6 | 1,1s/cụm | 220 | what is a mortgage gorilla want buy new house but gorilla too |
+| [ICE explained by Gorills #finance #econo](https://www.tiktok.com/@gorillanomics/video/7598652375418686734) | 1,1 tr | 0,5s/beat | 4 | 1,0s/cụm | 187 | what is ice explained by gorillas in 2025 president |
 
 #### Kiểm tra bằng chứng
 
@@ -101,8 +103,8 @@ View là số tích lũy trong cache, không phải view ở cùng tuổi bài; 
 
 | Loại | n | Trung vị | P25–P75 | Hit (≥1,5 tr) | So với bài cùng thời | Vượt bài cùng thời |
 |---|---|---|---|---|---|---|
-| Tội phạm & mặt tối tài chính | 11 | 300k | 132k–605k | 2/11 | 2,1× | 63,6% |
-| Khái niệm tài chính | 31 | 189k | 89k–388k | 1/31 | 0,7× | 41,4% |
+| Tội phạm & mặt tối tài chính | 11 | 301k | 132k–609k | 2/11 | 2,1× | 63,6% |
+| Khái niệm tài chính | 31 | 189k | 90k–389k | 1/31 | 0,7× | 41,4% |
 | Tin thời sự / chính trị | 19 | 56k | 29k–197k | 0/19 | 0,9× | 44,4% |
 
 **Tỷ lệ hit theo quý (mọi bài)**
@@ -119,7 +121,7 @@ View là số tích lũy trong cache, không phải view ở cùng tuổi bài; 
 
 | Bỏ top | Loại | n còn lại | Trung vị | Dẫn đầu đủ mẫu |
 |---|---|---|---|---|
-| 0 | Tội phạm & mặt tối tài chính | 11 | 300k | Có (có thể đồng hạng) |
+| 0 | Tội phạm & mặt tối tài chính | 11 | 301k | Có (có thể đồng hạng) |
 | 0 | Khái niệm tài chính | 31 | 189k | — |
 | 0 | Tin thời sự / chính trị | 19 | 56k | — |
 | 1 | Tội phạm & mặt tối tài chính | 10 | 291k | Có (có thể đồng hạng) |
@@ -139,10 +141,10 @@ View là số tích lũy trong cache, không phải view ở cùng tuổi bài; 
 | 2025-Q3 | Tội phạm & mặt tối tài chính | 4 · ít mẫu | 291k | 0/4 |
 | 2025-Q3 | Tin thời sự / chính trị | 1 · ít mẫu | 153k | 0/1 |
 | 2025-Q3 | Khái niệm tài chính | 5 | 133k | 0/5 |
-| 2025-Q4 | Tội phạm & mặt tối tài chính | 2 · ít mẫu | 296k | 0/2 |
+| 2025-Q4 | Tội phạm & mặt tối tài chính | 2 · ít mẫu | 300k | 0/2 |
 | 2025-Q4 | Tin thời sự / chính trị | 3 · ít mẫu | 81k | 0/3 |
 | 2025-Q4 | Khái niệm tài chính | 1 · ít mẫu | 43k | 0/1 |
-| 2026-Q1 | Khái niệm tài chính | 4 · ít mẫu | 143k | 0/4 |
+| 2026-Q1 | Khái niệm tài chính | 4 · ít mẫu | 144k | 0/4 |
 | 2026-Q1 | Tin thời sự / chính trị | 10 | 46k | 0/10 |
 | 2026-Q2 | Tin thời sự / chính trị | 4 · ít mẫu | 43k | 0/4 |
 | 2026-Q2 | Khái niệm tài chính | 4 · ít mẫu | 40k | 0/4 |
@@ -163,7 +165,7 @@ View là số tích lũy trong cache, không phải view ở cùng tuổi bài; 
 
 | Loại | Like/view | Bình luận/view | Chia sẻ/view | Lưu/view |
 |---|---|---|---|---|
-| Tội phạm & mặt tối tài chính | 9,4% (n=11) | 0,0% (n=11) | 0,3% (n=11) | 1,1% (n=11) |
+| Tội phạm & mặt tối tài chính | 9,4% (n=11) | 0,0% (n=11) | 0,3% (n=11) | 1,0% (n=11) |
 | Khái niệm tài chính | 8,0% (n=31) | 0,0% (n=31) | 0,3% (n=31) | 0,9% (n=31) |
 | Tin thời sự / chính trị | 5,3% (n=19) | 0,1% (n=19) | 0,2% (n=19) | 0,6% (n=19) |
 
@@ -171,9 +173,9 @@ View là số tích lũy trong cache, không phải view ở cùng tuổi bài; 
 
 | Loại | Video cao / ID | Video thấp / ID | Tỷ lệ view | Cách ngày |
 |---|---|---|---|---|
-| Tội phạm & mặt tối tài chính | Gorillas explain Tax Evasion #economic #finance #fyp  [7514219246356942122] | Gorillas explain Bail #economic #finance #fyp  [7516786739202149646] | 62.5× | 6.9 |
+| Tội phạm & mặt tối tài chính | Gorillas explain Tax Evasion #economic #finance #fyp  [7514219246356942122] | Gorillas explain Bail #economic #finance #fyp  [7516786739202149646] | 62.4× | 6.9 |
 | Tin thời sự / chính trị | ICE explained by Gorills #finance #economics #politics #ice #currentevents  [7598652375418686734] | Greenland and Trump explained by Gorillas #currentevents #fyp #politics #economics  [7602088491501047071] | 30.7× | 9.3 |
-| Tin thời sự / chính trị | Mexican Cartel Riots explained by Gorillas #mexico #cartel #currentevents #politics #news  [7610258706768432397] | TikTok Acquisition explained by Gorillas #currentevents #news #politics #economics  [7611269976183409933] | 23.6× | 2.7 |
+| Tin thời sự / chính trị | Mexican Cartel Riots explained by Gorillas #mexico #cartel #currentevents #politics #news  [7610258706768432397] | TikTok Acquisition explained by Gorillas #currentevents #news #politics #economics  [7611269976183409933] | 23.7× | 2.7 |
 | Khái niệm tài chính | Gorillas explain Insurance #economic #finance #fyp  [7511246760254180650] | Gorillas explain Buy Now Pay Later #finance #economic #fyp  [7521232219076119863] | 22.0× | 26.9 |
 | Tội phạm & mặt tối tài chính | Gorillas explain Money Laundering #economic #finance #fyp  [7507727025692495146] | Gorillanomics explains Phishing Scams #economic #finance #fyp  [7506778499185823022] | 15.6× | 2.6 |
 | Khái niệm tài chính | Gorillas explain Mortgage #economic #finance #fyp  [7512346700695129390] | Gorillas explain Trust Funds #finance #economic #fyp  [7523408709033250061] | 8.7× | 29.8 |
@@ -182,7 +184,7 @@ Cặp đối chứng: cùng loại, cách tối đa 30 ngày, độ dài chênh 
 
 | Loại hình | Số video | View trung vị |
 |---|---|---|
-| Tội phạm & mặt tối tài chính | 11 | 300k |
+| Tội phạm & mặt tối tài chính | 11 | 301k |
 | Khái niệm tài chính | 31 | 189k |
 | Tin thời sự / chính trị | 19 | 56k |
 
@@ -193,10 +195,10 @@ Cặp đối chứng: cùng loại, cách tối đa 30 ngày, độ dài chênh 
 | 2025-07 | 2 | 228k |
 | 2025-08 | 5 | 153k |
 | 2025-09 | 3 | 142k |
-| 2025-10 | 1 | 551k |
+| 2025-10 | 1 | 559k |
 | 2025-11 | 5 | 43k |
-| 2026-01 | 5 | 70k |
-| 2026-02 | 4 | 197k |
-| 2026-03 | 5 | 131k |
+| 2026-01 | 5 | 71k |
+| 2026-02 | 4 | 198k |
+| 2026-03 | 5 | 132k |
 | 2026-04 | 4 | 56k |
 | 2026-05 | 4 | 27k |

@@ -1,0 +1,356 @@
+{
+  "engine": "whisper-cli",
+  "language": "vi",
+  "text": "Tôi đã thưởng thành từ trong đau khổ Tôi đứng lên từ đống trò tàn Tôi đứng lên từ một đống trò tàn nguội lạnh Như một cái bông hoa nở giữa sa mạc Và tôi có ngày hôm nay là do tôi may mắn Cộng thêm một sự kiêu hãnh kiên định Không có dễ gì lung lay tôi đâu",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Tôi đã thưởng thành từ trong đau khổ"
+    },
+    {
+      "id": 1,
+      "start": 2.0,
+      "end": 4.56,
+      "text": "Tôi đứng lên từ đống trò tàn"
+    },
+    {
+      "id": 2,
+      "start": 4.56,
+      "end": 9.44,
+      "text": "Tôi đứng lên từ một đống trò tàn nguội lạnh"
+    },
+    {
+      "id": 3,
+      "start": 9.44,
+      "end": 11.92,
+      "text": "Như một cái bông hoa nở giữa sa mạc"
+    },
+    {
+      "id": 4,
+      "start": 11.92,
+      "end": 15.6,
+      "text": "Và tôi có ngày hôm nay là do tôi may mắn"
+    },
+    {
+      "id": 5,
+      "start": 15.6,
+      "end": 18.66,
+      "text": "Cộng thêm một sự kiêu hãnh kiên định"
+    },
+    {
+      "id": 6,
+      "start": 18.66,
+      "end": 21.34,
+      "text": "Không có dễ gì lung lay tôi đâu"
+    }
+  ],
+  "words": [
+    {
+      "word": "Tôi",
+      "start": 0.05,
+      "end": 0.19
+    },
+    {
+      "word": "đã",
+      "start": 0.22,
+      "end": 0.38
+    },
+    {
+      "word": "thưởng",
+      "start": 0.44,
+      "end": 0.81
+    },
+    {
+      "word": "thành",
+      "start": 0.81,
+      "end": 1.1
+    },
+    {
+      "word": "từ",
+      "start": 1.1,
+      "end": 1.29
+    },
+    {
+      "word": "trong",
+      "start": 1.29,
+      "end": 1.53
+    },
+    {
+      "word": "đau",
+      "start": 1.53,
+      "end": 1.65
+    },
+    {
+      "word": "khổ",
+      "start": 1.71,
+      "end": 2.0
+    },
+    {
+      "word": "Tôi",
+      "start": 2.07,
+      "end": 2.37
+    },
+    {
+      "word": "đứng",
+      "start": 2.44,
+      "end": 3.01
+    },
+    {
+      "word": "lên",
+      "start": 3.01,
+      "end": 3.38
+    },
+    {
+      "word": "từ",
+      "start": 3.38,
+      "end": 3.78
+    },
+    {
+      "word": "đống",
+      "start": 3.78,
+      "end": 4.06
+    },
+    {
+      "word": "trò",
+      "start": 4.12,
+      "end": 4.33
+    },
+    {
+      "word": "tàn",
+      "start": 4.33,
+      "end": 4.56
+    },
+    {
+      "word": "Tôi",
+      "start": 5.0,
+      "end": 5.25
+    },
+    {
+      "word": "đứng",
+      "start": 5.29,
+      "end": 6.45
+    },
+    {
+      "word": "lên",
+      "start": 6.45,
+      "end": 7.14
+    },
+    {
+      "word": "từ",
+      "start": 7.14,
+      "end": 7.84
+    },
+    {
+      "word": "một",
+      "start": 7.84,
+      "end": 8.1
+    },
+    {
+      "word": "đống",
+      "start": 8.1,
+      "end": 8.46
+    },
+    {
+      "word": "trò",
+      "start": 8.46,
+      "end": 8.66
+    },
+    {
+      "word": "tàn",
+      "start": 8.66,
+      "end": 8.9
+    },
+    {
+      "word": "nguội",
+      "start": 8.9,
+      "end": 9.18
+    },
+    {
+      "word": "lạnh",
+      "start": 9.18,
+      "end": 9.44
+    },
+    {
+      "word": "Như",
+      "start": 9.49,
+      "end": 9.7
+    },
+    {
+      "word": "một",
+      "start": 9.88,
+      "end": 10.02
+    },
+    {
+      "word": "cái",
+      "start": 10.02,
+      "end": 10.28
+    },
+    {
+      "word": "bông",
+      "start": 10.28,
+      "end": 10.55
+    },
+    {
+      "word": "hoa",
+      "start": 10.6,
+      "end": 10.79
+    },
+    {
+      "word": "nở",
+      "start": 10.79,
+      "end": 11.04
+    },
+    {
+      "word": "giữa",
+      "start": 11.04,
+      "end": 11.43
+    },
+    {
+      "word": "sa",
+      "start": 11.43,
+      "end": 11.52
+    },
+    {
+      "word": "mạc",
+      "start": 11.53,
+      "end": 11.92
+    },
+    {
+      "word": "Và",
+      "start": 11.97,
+      "end": 12.23
+    },
+    {
+      "word": "tôi",
+      "start": 12.36,
+      "end": 12.61
+    },
+    {
+      "word": "có",
+      "start": 12.64,
+      "end": 12.95
+    },
+    {
+      "word": "ngày",
+      "start": 12.95,
+      "end": 13.46
+    },
+    {
+      "word": "hôm",
+      "start": 13.46,
+      "end": 13.87
+    },
+    {
+      "word": "nay",
+      "start": 13.87,
+      "end": 14.2
+    },
+    {
+      "word": "là",
+      "start": 14.2,
+      "end": 14.44
+    },
+    {
+      "word": "do",
+      "start": 14.44,
+      "end": 14.6
+    },
+    {
+      "word": "tôi",
+      "start": 14.6,
+      "end": 14.92
+    },
+    {
+      "word": "may",
+      "start": 15.0,
+      "end": 15.16
+    },
+    {
+      "word": "mắn",
+      "start": 15.16,
+      "end": 15.6
+    },
+    {
+      "word": "Cộng",
+      "start": 15.65,
+      "end": 16.02
+    },
+    {
+      "word": "thêm",
+      "start": 16.04,
+      "end": 16.37
+    },
+    {
+      "word": "một",
+      "start": 16.37,
+      "end": 16.71
+    },
+    {
+      "word": "sự",
+      "start": 16.76,
+      "end": 17.02
+    },
+    {
+      "word": "kiêu",
+      "start": 17.02,
+      "end": 17.37
+    },
+    {
+      "word": "hãnh",
+      "start": 17.37,
+      "end": 17.67
+    },
+    {
+      "word": "kiên",
+      "start": 17.71,
+      "end": 18.07
+    },
+    {
+      "word": "định",
+      "start": 18.07,
+      "end": 18.66
+    },
+    {
+      "word": "Không",
+      "start": 19.09,
+      "end": 19.16
+    },
+    {
+      "word": "có",
+      "start": 19.16,
+      "end": 19.41
+    },
+    {
+      "word": "dễ",
+      "start": 19.41,
+      "end": 19.74
+    },
+    {
+      "word": "gì",
+      "start": 19.74,
+      "end": 19.99
+    },
+    {
+      "word": "lung",
+      "start": 19.99,
+      "end": 20.31
+    },
+    {
+      "word": "lay",
+      "start": 20.31,
+      "end": 20.57
+    },
+    {
+      "word": "tôi",
+      "start": 20.57,
+      "end": 20.9
+    },
+    {
+      "word": "đâu",
+      "start": 20.9,
+      "end": 21.34
+    }
+  ]
+}
