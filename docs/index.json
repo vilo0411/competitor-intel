@@ -249,6 +249,14 @@
   ],
   "runs": [
     {
+      "id": "20261116-144059-kiem-tra-lai-viethoangstockvsa",
+      "status": "error",
+      "slug": "kiem-tra-lai-viethoangstockvsa",
+      "name": "Kiem tra lai viethoangstockvsa",
+      "finishedAt": "2026-11-16T14:42:34.802Z",
+      "seconds": 1
+    },
+    {
       "id": "20261116-143941-kiem-tra-lai-kimkhanhchungkhoan",
       "status": "error",
       "slug": "kiem-tra-lai-kimkhanhchungkhoan",
@@ -319,14 +327,6 @@
       "name": "Khao sat tai chinh VN - nhom 2",
       "finishedAt": "2026-11-16T14:25:45.114Z",
       "seconds": 15
-    },
-    {
-      "id": "20261116-142250-khao-sat-tai-chinh-vn-nhom-1",
-      "status": "error",
-      "slug": "khao-sat-tai-chinh-vn-nhom-1",
-      "name": "Khao sat tai chinh VN - nhom 1",
-      "finishedAt": "2026-11-16T14:24:12.358Z",
-      "seconds": 16
     }
   ]
 }
