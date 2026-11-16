@@ -1,0 +1,608 @@
+{
+  "name": "CafeF",
+  "updated": "2026-11-16",
+  "tiktok": [
+    {
+      "handle": "cafef_official",
+      "profile": {
+        "followers": 2000000,
+        "hearts": 90800000,
+        "videoCount": 5020,
+        "nickname": "CafeF",
+        "bio": "Thông tin kinh tế - tài chính - chứng khoán\nLiên hệ QC: bookingsocial@admicro.vn"
+      },
+      "stats": {
+        "n": 50,
+        "first": "2026-11-11",
+        "last": "2026-11-16",
+        "daysSinceLast": 0,
+        "totalViews": 14138557,
+        "meanViews": 282771.14,
+        "medianViews": 72500,
+        "maxViews": 3300000,
+        "minViews": 2189,
+        "medianER": 0.02389975059378567,
+        "postsPerWeek": 66.81440663548366,
+        "medianGapDays": 0.06291666666666666,
+        "postsLast30": 50,
+        "medianDuration": 85.5,
+        "originalSoundShare": 1,
+        "viralCount": 13
+      },
+      "takeaways": {
+        "category": "Chưa đủ nhóm có nhãn để so sánh",
+        "viral": "5/50 video đạt từ 725k view (10× trung vị kênh) và mang về 61,0% tổng view; top 3 chiếm 46,7%",
+        "hits": "Số hit (từ 725k view) theo tuần gần nhất: 5/39 → 0/11 (kỳ cuối có 11 bài dưới 7 ngày tuổi, còn tích view)",
+        "cadence": "Đăng 66,8 video/tuần; tháng dày nhất T11/26 có 50 video; 30 ngày qua: 50 video",
+        "time": "Không khung giờ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 46k–157k)",
+        "weekday": "Không thứ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 6,3k–245k)",
+        "duration": "Không mức độ dài nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 52k–77k)",
+        "tags": "Không hashtag đủ mẫu nào đi kèm view cao hơn hẳn trung vị; không chứng minh hashtag làm tăng view"
+      },
+      "evidence": {
+        "channelMedian": 72500,
+        "hitThreshold": 725000,
+        "periodUnit": "tuần",
+        "labeledCount": 0,
+        "totalCount": 50,
+        "youngCount": 50,
+        "categories": [],
+        "sensitivity": [
+          {
+            "remove": 0,
+            "excluded": [],
+            "categories": [],
+            "leaders": []
+          },
+          {
+            "remove": 1,
+            "excluded": [
+              "7708018152117980417"
+            ],
+            "categories": [],
+            "leaders": []
+          },
+          {
+            "remove": 3,
+            "excluded": [
+              "7708018152117980417",
+              "7707917055143693586",
+              "7708056304060845333"
+            ],
+            "categories": [],
+            "leaders": []
+          }
+        ],
+        "periods": [],
+        "durationStrata": [],
+        "timeline": [
+          {
+            "period": "Tuần từ 09/11/2026",
+            "key": "2026-11-09",
+            "count": 39,
+            "young": 39,
+            "median": 93500,
+            "hits": 5,
+            "hitRate": 0.1282051282051282
+          },
+          {
+            "period": "Tuần từ 16/11/2026",
+            "key": "2026-11-16",
+            "count": 11,
+            "young": 11,
+            "median": 6330,
+            "hits": 0,
+            "hitRate": 0
+          }
+        ],
+        "pairs": []
+      },
+      "era": null,
+      "scope": {
+        "count": 50,
+        "medianViews": 72500,
+        "categories": [
+          {
+            "name": "Chưa phân loại",
+            "count": 50,
+            "median": 72500,
+            "mean": 282771.14,
+            "q25": 22975,
+            "q75": 219200,
+            "relMedian": 1.0005480692927051,
+            "relQ25": 0.31173677069199457,
+            "relQ75": 3.0743338008415146
+          }
+        ],
+        "note": "timeBuckets, weekdays, durations, tags and scope.categories only cover the current format when era is set"
+      },
+      "timeBuckets": [
+        {
+          "name": "Sáng (5–11h)",
+          "count": 9,
+          "median": 45900,
+          "mean": 95481.11111111111,
+          "q25": 14000,
+          "q75": 184000,
+          "relMedian": 0.6227951153324288,
+          "relQ25": 0.18995929443690637,
+          "relQ75": 2.5806451612903225
+        },
+        {
+          "name": "Trưa (11–14h)",
+          "count": 8,
+          "median": 156550,
+          "mean": 525575,
+          "q25": 60700,
+          "q75": 831550,
+          "relMedian": 2.1956521739130435,
+          "relQ25": 0.8488546683895326,
+          "relQ75": 11.662692847124825
+        },
+        {
+          "name": "Chiều (14–18h)",
+          "count": 11,
+          "median": 77300,
+          "mean": 254792.63636363635,
+          "q25": 17511,
+          "q75": 164650,
+          "relMedian": 1.0841514726507715,
+          "relQ25": 0.23759837177747628,
+          "relQ75": 2.3092566619915846
+        },
+        {
+          "name": "Tối (18–23h)",
+          "count": 21,
+          "median": 69000,
+          "mean": 291324.1904761905,
+          "q25": 30600,
+          "q75": 271500,
+          "relMedian": 0.9362279511533242,
+          "relQ25": 0.4151967435549525,
+          "relQ75": 3.8078541374474053
+        },
+        {
+          "name": "Đêm (23–5h)",
+          "count": 1,
+          "median": 154100,
+          "mean": 154100,
+          "q25": 154100,
+          "q75": 154100,
+          "relMedian": 2.161290322580645,
+          "relQ25": 2.161290322580645,
+          "relQ75": 2.161290322580645
+        }
+      ],
+      "categories": [
+        {
+          "name": "Chưa phân loại",
+          "count": 50,
+          "median": 72500,
+          "mean": 282771.14,
+          "q25": 22975,
+          "q75": 219200,
+          "relMedian": 1.0005480692927051,
+          "relQ25": 0.31173677069199457,
+          "relQ75": 3.0743338008415146
+        }
+      ],
+      "months": [
+        {
+          "name": "2026-11",
+          "count": 50,
+          "median": 72500,
+          "mean": 282771.14,
+          "q25": 22975,
+          "q75": 219200,
+          "relMedian": 1.0005480692927051,
+          "relQ25": 0.31173677069199457,
+          "relQ75": 3.0743338008415146
+        }
+      ],
+      "weekdays": [
+        {
+          "name": "T2",
+          "count": 11,
+          "median": 6330,
+          "mean": 48510.27272727273,
+          "q25": 2741,
+          "q75": 15550,
+          "relMedian": 0.08588873812754409,
+          "relQ25": 0.03719131614654003,
+          "relQ75": 0.21099050203527814
+        },
+        {
+          "name": "T3",
+          "count": 0,
+          "median": 0,
+          "mean": 0,
+          "q25": 0,
+          "q75": 0,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "T4",
+          "count": 9,
+          "median": 74400,
+          "mean": 177400,
+          "q25": 52400,
+          "q75": 220100,
+          "relMedian": 1.0434782608695652,
+          "relQ25": 0.7109905020352781,
+          "relQ75": 3.0869565217391304
+        },
+        {
+          "name": "T5",
+          "count": 7,
+          "median": 93500,
+          "mean": 215514.2857142857,
+          "q25": 74000,
+          "q75": 285000,
+          "relMedian": 1.311360448807854,
+          "relQ25": 1.0217229547785744,
+          "relQ75": 3.9971949509116405
+        },
+        {
+          "name": "T6",
+          "count": 7,
+          "median": 45900,
+          "mean": 68928.57142857143,
+          "q25": 31850,
+          "q75": 93250,
+          "relMedian": 0.6227951153324288,
+          "relQ25": 0.43215739484396204,
+          "relQ75": 1.3078541374474053
+        },
+        {
+          "name": "T7",
+          "count": 8,
+          "median": 244700,
+          "mean": 812365.25,
+          "q25": 95750,
+          "q75": 995850,
+          "relMedian": 3.4319775596072932,
+          "relQ25": 1.3347761384331687,
+          "relQ75": 13.96704067321178
+        },
+        {
+          "name": "CN",
+          "count": 8,
+          "median": 109400,
+          "mean": 439790.25,
+          "q25": 45725,
+          "q75": 628450,
+          "relMedian": 1.5195868166498885,
+          "relQ25": 0.6204206241519674,
+          "relQ75": 8.814165497896212
+        }
+      ],
+      "durations": [
+        {
+          "name": "46–60s",
+          "count": 2,
+          "median": 138915,
+          "mean": 138915,
+          "q25": 72622.5,
+          "q75": 205207.5,
+          "relMedian": 1.9468714377874747,
+          "relQ25": 1.0163800879575093,
+          "relQ75": 2.87736278761744
+        },
+        {
+          "name": "61–90s",
+          "count": 27,
+          "median": 52400,
+          "mean": 359869.037037037,
+          "q25": 17350,
+          "q75": 284150,
+          "relMedian": 0.7109905020352781,
+          "relQ25": 0.23541383989145181,
+          "relQ75": 3.9852734922861153
+        },
+        {
+          "name": ">90s",
+          "count": 21,
+          "median": 77300,
+          "mean": 197345.85714285713,
+          "q25": 48100,
+          "q75": 209200,
+          "relMedian": 1.0841514726507715,
+          "relQ25": 0.6526458616010855,
+          "relQ75": 2.934081346423562
+        }
+      ],
+      "tags": [
+        {
+          "name": "#cafef",
+          "count": 50,
+          "median": 72500,
+          "mean": 282771.14,
+          "q25": 22975,
+          "q75": 219200,
+          "relMedian": 1.0005480692927051,
+          "relQ25": 0.31173677069199457,
+          "relQ75": 3.0743338008415146
+        },
+        {
+          "name": "#amm",
+          "count": 41,
+          "median": 69000,
+          "mean": 311277.2195121951,
+          "q25": 21700,
+          "q75": 282400,
+          "relMedian": 0.9362279511533242,
+          "relQ25": 0.2944369063772049,
+          "relQ75": 3.9607293127629735
+        },
+        {
+          "name": "#fchoice2026",
+          "count": 4,
+          "median": 208100,
+          "mean": 158722.25,
+          "q25": 155797.25,
+          "q75": 211025,
+          "relMedian": 2.9186535764375874,
+          "relQ25": 2.1848447279730383,
+          "relQ75": 2.9596774193548385
+        },
+        {
+          "name": "#tangtruongvuotbac",
+          "count": 4,
+          "median": 208100,
+          "mean": 158722.25,
+          "q25": 155797.25,
+          "q75": 211025,
+          "relMedian": 2.9186535764375874,
+          "relQ25": 2.1848447279730383,
+          "relQ75": 2.9596774193548385
+        },
+        {
+          "name": "#ghidautoancau",
+          "count": 4,
+          "median": 208100,
+          "mean": 158722.25,
+          "q25": 155797.25,
+          "q75": 211025,
+          "relMedian": 2.9186535764375874,
+          "relQ25": 2.1848447279730383,
+          "relQ75": 2.9596774193548385
+        },
+        {
+          "name": "#namngu",
+          "count": 1,
+          "median": 271500,
+          "mean": 271500,
+          "q25": 271500,
+          "q75": 271500,
+          "relMedian": 3.8078541374474053,
+          "relQ25": 3.8078541374474053,
+          "relQ75": 3.8078541374474053
+        },
+        {
+          "name": "#nuocmamcacomnamngu",
+          "count": 1,
+          "median": 271500,
+          "mean": 271500,
+          "q25": 271500,
+          "q75": 271500,
+          "relMedian": 3.8078541374474053,
+          "relQ25": 3.8078541374474053,
+          "relQ75": 3.8078541374474053
+        },
+        {
+          "name": "#bidv",
+          "count": 1,
+          "median": 220100,
+          "mean": 220100,
+          "q25": 220100,
+          "q75": 220100,
+          "relMedian": 3.0869565217391304,
+          "relQ25": 3.0869565217391304,
+          "relQ75": 3.0869565217391304
+        },
+        {
+          "name": "#dongchaythanhtuu",
+          "count": 1,
+          "median": 220100,
+          "mean": 220100,
+          "q25": 220100,
+          "q75": 220100,
+          "relMedian": 3.0869565217391304,
+          "relQ25": 3.0869565217391304,
+          "relQ75": 3.0869565217391304
+        },
+        {
+          "name": "#vayvonsanxuatkinhdoanh",
+          "count": 1,
+          "median": 220100,
+          "mean": 220100,
+          "q25": 220100,
+          "q75": 220100,
+          "relMedian": 3.0869565217391304,
+          "relQ25": 3.0869565217391304,
+          "relQ75": 3.0869565217391304
+        },
+        {
+          "name": "#idea",
+          "count": 1,
+          "median": 70700,
+          "mean": 70700,
+          "q25": 70700,
+          "q75": 70700,
+          "relMedian": 0.9592944369063772,
+          "relQ25": 0.9592944369063772,
+          "relQ75": 0.9592944369063772
+        },
+        {
+          "name": "#thtruemilk",
+          "count": 1,
+          "median": 172400,
+          "mean": 172400,
+          "q25": 172400,
+          "q75": 172400,
+          "relMedian": 2.4179523141654977,
+          "relQ25": 2.4179523141654977,
+          "relQ75": 2.4179523141654977
+        },
+        {
+          "name": "#hiepphuocpremia",
+          "count": 1,
+          "median": 71300,
+          "mean": 71300,
+          "q25": 71300,
+          "q75": 71300,
+          "relMedian": 0.9674355495251018,
+          "relQ25": 0.9674355495251018,
+          "relQ75": 0.9674355495251018
+        },
+        {
+          "name": "#datnencangiuoc",
+          "count": 1,
+          "median": 71300,
+          "mean": 71300,
+          "q25": 71300,
+          "q75": 71300,
+          "relMedian": 0.9674355495251018,
+          "relQ25": 0.9674355495251018,
+          "relQ75": 0.9674355495251018
+        },
+        {
+          "name": "#haithanh",
+          "count": 1,
+          "median": 71300,
+          "mean": 71300,
+          "q25": 71300,
+          "q75": 71300,
+          "relMedian": 0.9674355495251018,
+          "relQ25": 0.9674355495251018,
+          "relQ75": 0.9674355495251018
+        }
+      ],
+      "styles": [],
+      "top": [
+        {
+          "id": "7708018152117980417",
+          "title": "Các hệ thống AI tự động thực hiện giao dịch chuyển tiền trên 10 triệu đồng/lần hoặc tổng giá trị trên 20 triệu đồng/ngày đối với cá nhân, trên 50 triệu đồng/lần hoặc 100 triệu đồng/ngày đối với tổ chức sẽ bị xếp vào nhóm rủi ro cao. #CafeF #amm",
+          "url": "https://www.tiktok.com/@cafef_official/video/7708018152117980417",
+          "views": 3300000,
+          "er": 0.017922424242424243,
+          "duration": 87,
+          "date": "2026-11-14",
+          "time": "20:29",
+          "category": "Chưa phân loại",
+          "ratio": 45.51724137931034
+        },
+        {
+          "id": "7707917055143693586",
+          "title": "Hiện tại, các cơ quan chức năng đang xúc tiến thủ tục trình xét khen thưởng cho các liệt sĩ. #Cafef #AMM",
+          "url": "https://www.tiktok.com/@cafef_official/video/7707917055143693586",
+          "views": 1800000,
+          "er": 0.03947111111111111,
+          "duration": 68,
+          "date": "2026-11-14",
+          "time": "13:54",
+          "category": "Chưa phân loại",
+          "ratio": 24.82758620689655
+        },
+        {
+          "id": "7708056304060845333",
+          "title": "Nhân viên áp lực 1 thì cái máy tính phải áp lực 10 #CafeF #amm",
+          "url": "https://www.tiktok.com/@cafef_official/video/7708056304060845333",
+          "views": 1500000,
+          "er": 0.043782,
+          "duration": 83,
+          "date": "2026-11-15",
+          "time": "15:00",
+          "category": "Chưa phân loại",
+          "ratio": 20.689655172413794
+        },
+        {
+          "id": "7708275262231792916",
+          "title": "Đây là lần đầu tiên công ty SpaceX của tỷ phú Elon Musk thực hiện thành công việc thu hồi tầng trên của Starship sau một hành trình trên quỹ đạo #SpaceX #ElonMusk #CafeF #amm",
+          "url": "https://www.tiktok.com/@cafef_official/video/7708275262231792916",
+          "views": 1300000,
+          "er": 0.020546923076923077,
+          "duration": 100,
+          "date": "2026-11-15",
+          "time": "13:30",
+          "category": "Chưa phân loại",
+          "ratio": 17.93103448275862
+        },
+        {
+          "id": "7707934568602438920",
+          "title": "Điểm đáng lo nhất là, mật khẩu bị lộ thì đổi được, còn khuôn mặt và vân tay bị lộ thì gần như không thể thay thế. #Cafef #AMM",
+          "url": "https://www.tiktok.com/@cafef_official/video/7707934568602438920",
+          "views": 727800,
+          "er": 0.04669002473206925,
+          "duration": 92,
+          "date": "2026-11-14",
+          "time": "16:00",
+          "category": "Chưa phân loại",
+          "ratio": 10.038620689655172
+        },
+        {
+          "id": "7707130767247215890",
+          "title": "📷Chính thức: Điện sạc xe điện có biểu giá riêng, cao nhất 4.212 đồng/kWh từ ngày 01/11/2026. #cafef #amm",
+          "url": "https://www.tiktok.com/@cafef_official/video/7707130767247215890",
+          "views": 675400,
+          "er": 0.02550488599348534,
+          "duration": 67,
+          "date": "2026-11-12",
+          "time": "11:03",
+          "category": "Chưa phân loại",
+          "ratio": 9.315862068965517
+        },
+        {
+          "id": "7706882694340447509",
+          "title": "căn hộ giá 11 NDT tưởng như món hời dịp 11/11 nhưng thực tế có thể kéo theo những khoản chi phí dài hạn đáng kể. #Cafef #AMM",
+          "url": "https://www.tiktok.com/@cafef_official/video/7706882694340447509",
+          "views": 627100,
+          "er": 0.09211449529580609,
+          "duration": 87,
+          "date": "2026-11-11",
+          "time": "19:01",
+          "category": "Chưa phân loại",
+          "ratio": 8.649655172413793
+        },
+        {
+          "id": "7708336835662990612",
+          "title": "Trước tình hình này, người dân cần kiểm tra kỹ tiền mặt, nhất là khi nhận tờ tiền mệnh giá lớn, nếu nghi ngờ tiền giả, tuyệt đối không tiếp tục sử dụng mà cần giao nộp, trình báo công an gần nhất để được xử lý theo quy định. #CafeF #amm",
+          "url": "https://www.tiktok.com/@cafef_official/video/7708336835662990612",
+          "views": 404600,
+          "er": 0.023596144340088977,
+          "duration": 70,
+          "date": "2026-11-15",
+          "time": "19:00",
+          "category": "Chưa phân loại",
+          "ratio": 5.580689655172414
+        },
+        {
+          "id": "7707291873504791815",
+          "title": "Dẫn chứng thực tế các loại vật liệu như sắt, thép, nhôm, nhựa hiện nay đều phải nhập khẩu, đại biểu đặt câu hỏi: \"Vậy Việt Nam đã làm chủ được cái gì?\". #Cafef #amm",
+          "url": "https://www.tiktok.com/@cafef_official/video/7707291873504791815",
+          "views": 360800,
+          "er": 0.046252771618625274,
+          "duration": 116,
+          "date": "2026-11-12",
+          "time": "21:28",
+          "category": "Chưa phân loại",
+          "ratio": 4.976551724137931
+        },
+        {
+          "id": "7708703821165513992",
+          "title": "Chính thức từ hôm nay (16/11), một ngân hàng ngừng trả lãi cho khách hàng gửi tiết kiệm ở hầu hết kỳ hạn. #cafef #amm",
+          "url": "https://www.tiktok.com/@cafef_official/video/7708703821165513992",
+          "views": 285900,
+          "er": 0.012941587967820916,
+          "duration": 67,
+          "date": "2026-11-16",
+          "time": "18:35",
+          "category": "Chưa phân loại",
+          "ratio": 3.943448275862069
+        }
+      ]
+    }
+  ]
+}

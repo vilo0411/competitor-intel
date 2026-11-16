@@ -43,7 +43,7 @@ Cập nhật 2026-11-16 · TikTok: @kinhtedongian.official. Biểu đồ xem tro
 
 - 272k follower · 300 video phân tích (2026-05-27 → 2026-11-16) · tổng 6,5 tr view
 - View trung vị 1,4k, trung bình 22k, cao nhất 1,3 tr · tương tác trung vị 3,3%
-- 12,2 video/tuần · 97 video trong 30 ngày qua · độ dài trung vị 60s · 82,3% dùng âm thanh gốc
+- 12,2 video/tuần · 96 video trong 30 ngày qua · độ dài trung vị 60s · 82,3% dùng âm thanh gốc
 
 **Điểm chính**
 
@@ -51,7 +51,7 @@ Cập nhật 2026-11-16 · TikTok: @kinhtedongian.official. Biểu đồ xem tro
 - **32/300 video** đạt từ 14k view (10× trung vị kênh) và mang về **92,3%** tổng view; top 3 chiếm 40,9%
 - Kênh **đổi format từ 07/10/2026** (độ dài trung vị 42s → 4:04): view trung vị 903 trước đó → 2,5k sau đó; chưa so ở cùng tuổi bài
 - Số hit (từ 14k view) theo tuần gần nhất: **4/24 → 0/15 → 3/23 → 0/3** (kỳ cuối có 3 bài dưới 7 ngày tuổi, còn tích view)
-- Đăng 12,2 video/tuần; tháng dày nhất T6/26 có 129 video; 30 ngày qua: 97 video
+- Đăng 12,2 video/tuần; tháng dày nhất T6/26 có 129 video; 30 ngày qua: 96 video
 - Không khung giờ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 1,6k–4,3k)
 - Không thứ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 1,7k–5,4k)
 - Không mức độ dài nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 1,9k–4,4k)

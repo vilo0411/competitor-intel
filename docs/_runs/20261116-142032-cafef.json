@@ -1,0 +1,20 @@
+{
+  "id": "20261116-142032-cafef",
+  "request": {
+    "id": "20261116-142032-cafef",
+    "name": "CafeF",
+    "channels": [
+      "@cafef_official"
+    ],
+    "refresh": true,
+    "style": 0,
+    "limit": 50
+  },
+  "finishedAt": "2026-11-16T14:22:29.353Z",
+  "status": "ok",
+  "slug": "cafef",
+  "name": "CafeF",
+  "report": "cafef/cafef.html",
+  "seconds": 6,
+  "log": "↓ @cafef_official: lấy danh sách video…\n✓ @cafef_official: 50 video, view trung vị 73k, 50 video chưa gắn nhãn\n\nBáo cáo: /home/runner/work/competitor-intel/competitor-intel/docs/cafef/cafef.html\n         /home/runner/work/competitor-intel/competitor-intel/docs/cafef/cafef.md"
+}

@@ -24,6 +24,26 @@
       ]
     },
     {
+      "slug": "cafef",
+      "name": "CafeF",
+      "updated": "2026-11-16",
+      "todo": [
+        "gắn nhãn",
+        "nhận định"
+      ],
+      "report": "cafef/cafef.html",
+      "summary": "cafef/summary.json",
+      "channels": [
+        {
+          "handle": "cafef_official",
+          "followers": 2000000,
+          "medianViews": 72500,
+          "labelsTodo": "cafef/tiktok/cafef_official/labels.todo.json",
+          "styles": []
+        }
+      ]
+    },
+    {
       "slug": "gorillanomics",
       "name": "Gorillanomics",
       "updated": "2026-11-16",
@@ -121,6 +141,14 @@
     }
   ],
   "runs": [
+    {
+      "id": "20261116-142032-cafef",
+      "status": "ok",
+      "slug": "cafef",
+      "name": "CafeF",
+      "finishedAt": "2026-11-16T14:22:29.353Z",
+      "seconds": 6
+    },
     {
       "id": "20261116-072803-manhinhxanhdo-official",
       "status": "ok",
