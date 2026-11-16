@@ -1,0 +1,8 @@
+{
+  "id": "20261116-142800-khao-sat-tai-chinh-vn-bo-sung",
+  "name": "Khao sat tai chinh VN - bo sung",
+  "channels": ["@sitcomtaichinh", "@viethoangstockvsa", "@chungkhoanviethoang"],
+  "refresh": true,
+  "style": 0,
+  "limit": 50
+}
