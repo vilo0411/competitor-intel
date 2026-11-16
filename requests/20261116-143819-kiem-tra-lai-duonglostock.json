@@ -1,0 +1,8 @@
+{
+  "id": "20261116-143819-kiem-tra-lai-duonglostock",
+  "name": "Kiem tra lai duonglostock",
+  "channels": ["@duonglostock"],
+  "refresh": true,
+  "style": 0,
+  "limit": 50
+}
