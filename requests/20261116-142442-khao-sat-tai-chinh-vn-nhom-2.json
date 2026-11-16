@@ -1,0 +1,8 @@
+{
+  "id": "20261116-142442-khao-sat-tai-chinh-vn-nhom-2",
+  "name": "Khao sat tai chinh VN - nhom 2",
+  "channels": ["@nguyentrangtkneu", "@duonglostock", "@chungkhoanviethoang"],
+  "refresh": true,
+  "style": 0,
+  "limit": 50
+}
