@@ -1,0 +1,8 @@
+{
+  "id": "20261116-142616-khao-sat-tai-chinh-vn-nhom-3",
+  "name": "Khao sat tai chinh VN - nhom 3",
+  "channels": ["@thayqueo", "@kimkhanhchungkhoan", "@intelligentmoneyvietnam"],
+  "refresh": true,
+  "style": 0,
+  "limit": 50
+}
