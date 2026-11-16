@@ -92,6 +92,26 @@
       ]
     },
     {
+      "slug": "khao-sat-tai-chinh-vn-bo-sung",
+      "name": "Khao sat tai chinh VN - bo sung",
+      "updated": "2026-11-16",
+      "todo": [
+        "gắn nhãn",
+        "nhận định"
+      ],
+      "report": "khao-sat-tai-chinh-vn-bo-sung/khao-sat-tai-chinh-vn-bo-sung.html",
+      "summary": "khao-sat-tai-chinh-vn-bo-sung/summary.json",
+      "channels": [
+        {
+          "handle": "sitcomtaichinh",
+          "followers": 187400,
+          "medianViews": 13750,
+          "labelsTodo": "khao-sat-tai-chinh-vn-bo-sung/tiktok/sitcomtaichinh/labels.todo.json",
+          "styles": []
+        }
+      ]
+    },
+    {
       "slug": "khao-sat-tai-chinh-vn-nhom-1",
       "name": "Khao sat tai chinh VN - nhom 1",
       "updated": "2026-11-16",
@@ -209,6 +229,14 @@
   ],
   "runs": [
     {
+      "id": "20261116-142800-khao-sat-tai-chinh-vn-bo-sung",
+      "status": "error",
+      "slug": "khao-sat-tai-chinh-vn-bo-sung",
+      "name": "Khao sat tai chinh VN - bo sung",
+      "finishedAt": "2026-11-16T14:29:01.394Z",
+      "seconds": 15
+    },
+    {
       "id": "20261116-142616-khao-sat-tai-chinh-vn-nhom-3",
       "status": "error",
       "slug": "khao-sat-tai-chinh-vn-nhom-3",
@@ -279,14 +307,6 @@
       "name": "Cafe Chung Cung Minh",
       "finishedAt": "2026-11-16T07:31:43.125Z",
       "seconds": 190
-    },
-    {
-      "id": "20261112-003907-cafe-chung-cung-minh",
-      "status": "ok",
-      "slug": "cafe-chung-cung-minh",
-      "name": "Cafe Chung Cung Minh",
-      "finishedAt": "2026-11-12T00:49:24.285Z",
-      "seconds": 47
     }
   ]
 }
