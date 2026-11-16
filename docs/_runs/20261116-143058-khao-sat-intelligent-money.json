@@ -1,0 +1,20 @@
+{
+  "id": "20261116-143058-khao-sat-intelligent-money",
+  "request": {
+    "id": "20261116-143058-khao-sat-intelligent-money",
+    "name": "Khao sat Intelligent Money",
+    "channels": [
+      "@intelligentmoneyvietnam"
+    ],
+    "refresh": true,
+    "style": 0,
+    "limit": 50
+  },
+  "finishedAt": "2026-11-16T14:32:16.445Z",
+  "status": "ok",
+  "slug": "khao-sat-intelligent-money",
+  "name": "Khao sat Intelligent Money",
+  "report": "khao-sat-intelligent-money/khao-sat-intelligent-money.html",
+  "seconds": 11,
+  "log": "↓ @intelligentmoneyvietnam: lấy danh sách video…\n✓ @intelligentmoneyvietnam: 50 video, view trung vị 911, 50 video chưa gắn nhãn\n\nBáo cáo: /home/runner/work/competitor-intel/competitor-intel/docs/khao-sat-intelligent-money/khao-sat-intelligent-money.html\n         /home/runner/work/competitor-intel/competitor-intel/docs/khao-sat-intelligent-money/khao-sat-intelligent-money.md"
+}

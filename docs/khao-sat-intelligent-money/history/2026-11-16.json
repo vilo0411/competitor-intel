@@ -1,0 +1,768 @@
+{
+  "name": "Khao sat Intelligent Money",
+  "updated": "2026-11-16",
+  "tiktok": [
+    {
+      "handle": "intelligentmoneyvietnam",
+      "profile": {
+        "followers": 8902,
+        "hearts": 18400,
+        "videoCount": 167,
+        "nickname": "Intelligent Money",
+        "bio": "Intelligent Money - Đội ngũ chuyên gia tài chính & đầu tư thuộc AYP.\nTìm hiểu các chương trình đạo tạo tại link bên dưới: 👇"
+      },
+      "stats": {
+        "n": 50,
+        "first": "2024-05-01",
+        "last": "2026-11-01",
+        "daysSinceLast": 15,
+        "totalViews": 97832,
+        "meanViews": 1956.64,
+        "medianViews": 911,
+        "maxViews": 47000,
+        "minViews": 171,
+        "medianER": 0.022097103231142876,
+        "postsPerWeek": 0.3830028308519419,
+        "medianGapDays": 2.3488541666666665,
+        "postsLast30": 1,
+        "medianDuration": 75,
+        "originalSoundShare": 0.06,
+        "viralCount": 3
+      },
+      "takeaways": {
+        "category": "Chưa đủ nhóm có nhãn để so sánh",
+        "viral": "1/50 video đạt từ 9,1k view (10× trung vị kênh) và mang về 48,0% tổng view; top 3 chiếm 54,1%",
+        "trend": "View tích lũy trung vị tăng: 745 ở 3 tháng có bài đầu → 1,4k ở 3 tháng có bài cuối; chưa so ở cùng tuổi bài",
+        "hits": "Số hit (từ 9,1k view) theo quý gần nhất: 1/17 → 0/20 → 0/4 → 0/1",
+        "cadence": "Đăng 0,4 video/tuần; tháng dày nhất T9/24 có 12 video; 30 ngày qua: 1 video",
+        "time": "Không khung giờ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 903–1,3k)",
+        "weekday": "Không thứ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 828–1,2k)",
+        "duration": "Không mức độ dài nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 799–996)",
+        "tags": "Hashtag đi kèm view cao hơn hẳn trung vị: #cophieu, #warrenbuffett; không chứng minh hashtag làm tăng view"
+      },
+      "evidence": {
+        "channelMedian": 911,
+        "hitThreshold": 9110,
+        "periodUnit": "quý",
+        "labeledCount": 0,
+        "totalCount": 50,
+        "youngCount": 0,
+        "categories": [],
+        "sensitivity": [
+          {
+            "remove": 0,
+            "excluded": [],
+            "categories": [],
+            "leaders": []
+          },
+          {
+            "remove": 1,
+            "excluded": [
+              "7411522804954303760"
+            ],
+            "categories": [],
+            "leaders": []
+          },
+          {
+            "remove": 3,
+            "excluded": [
+              "7411522804954303760",
+              "7417457995824614663",
+              "7421573287857147154"
+            ],
+            "categories": [],
+            "leaders": []
+          }
+        ],
+        "periods": [],
+        "durationStrata": [],
+        "timeline": [
+          {
+            "period": "2024-Q2",
+            "key": "2024-Q2",
+            "count": 8,
+            "young": 0,
+            "median": 766.5,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "2024-Q3",
+            "key": "2024-Q3",
+            "count": 17,
+            "young": 0,
+            "median": 1038,
+            "hits": 1,
+            "hitRate": 0.058823529411764705
+          },
+          {
+            "period": "2024-Q4",
+            "key": "2024-Q4",
+            "count": 20,
+            "young": 0,
+            "median": 883,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "2025-Q1",
+            "key": "2025-Q1",
+            "count": 4,
+            "young": 0,
+            "median": 1492,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "2026-Q4",
+            "key": "2026-Q4",
+            "count": 1,
+            "young": 0,
+            "median": 171,
+            "hits": 0,
+            "hitRate": 0
+          }
+        ],
+        "pairs": []
+      },
+      "era": null,
+      "scope": {
+        "count": 50,
+        "medianViews": 911,
+        "categories": [
+          {
+            "name": "Chưa phân loại",
+            "count": 50,
+            "median": 911,
+            "mean": 1956.64,
+            "q25": 685.25,
+            "q75": 1201,
+            "relMedian": 0.946236559139785,
+            "relQ25": 0.7444921316165951,
+            "relQ75": 1.2039170506912442
+          }
+        ],
+        "note": "timeBuckets, weekdays, durations, tags and scope.categories only cover the current format when era is set"
+      },
+      "timeBuckets": [
+        {
+          "name": "Sáng (5–11h)",
+          "count": 5,
+          "median": 1301,
+          "mean": 1090.6,
+          "q25": 792,
+          "q75": 1316,
+          "relMedian": 0.946236559139785,
+          "relQ25": 0.7444921316165951,
+          "relQ75": 1.137586471944658
+        },
+        {
+          "name": "Trưa (11–14h)",
+          "count": 3,
+          "median": 682,
+          "mean": 852.3333333333334,
+          "q25": 666,
+          "q75": 953.5,
+          "relMedian": 0.8897586431833007,
+          "relQ25": 0.8573158698150005,
+          "relQ75": 1.0349563928825944
+        },
+        {
+          "name": "Chiều (14–18h)",
+          "count": 3,
+          "median": 921,
+          "mean": 983,
+          "q25": 546,
+          "q75": 1389,
+          "relMedian": 1.1628787878787878,
+          "relQ25": 1.1628787878787878,
+          "relQ75": 1.1628787878787878
+        },
+        {
+          "name": "Tối (18–23h)",
+          "count": 38,
+          "median": 902.5,
+          "mean": 2257.7368421052633,
+          "q25": 699.25,
+          "q75": 1107.5,
+          "relMedian": 0.9961612284069098,
+          "relQ25": 0.7069498173221578,
+          "relQ75": 1.2442396313364055
+        },
+        {
+          "name": "Đêm (23–5h)",
+          "count": 1,
+          "median": 1079,
+          "mean": 1079,
+          "q25": 1079,
+          "q75": 1079,
+          "relMedian": 0.7759798633585041,
+          "relQ25": 0.7759798633585041,
+          "relQ75": 0.7759798633585041
+        }
+      ],
+      "categories": [
+        {
+          "name": "Chưa phân loại",
+          "count": 50,
+          "median": 911,
+          "mean": 1956.64,
+          "q25": 685.25,
+          "q75": 1201,
+          "relMedian": 0.946236559139785,
+          "relQ25": 0.7444921316165951,
+          "relQ75": 1.2039170506912442
+        }
+      ],
+      "months": [
+        {
+          "name": "2024-05",
+          "count": 7,
+          "median": 745,
+          "mean": 775.7142857142857,
+          "q25": 666,
+          "q75": 792,
+          "relMedian": 1.0684563758389263,
+          "relQ25": 0.8623613829093281,
+          "relQ75": 1.0983951114554455
+        },
+        {
+          "name": "2024-06",
+          "count": 1,
+          "median": 2241,
+          "mean": 2241,
+          "q25": 2241,
+          "q75": 2241,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "2024-07",
+          "count": 1,
+          "median": 608,
+          "mean": 608,
+          "q25": 608,
+          "q75": 608,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "2024-08",
+          "count": 4,
+          "median": 731,
+          "mean": 709,
+          "q25": 638.25,
+          "q75": 801.75,
+          "relMedian": 0.7042389210019269,
+          "relQ25": 0.6188578441627668,
+          "relQ75": 0.8050961657249491
+        },
+        {
+          "name": "2024-09",
+          "count": 12,
+          "median": 1152,
+          "mean": 5147.333333333333,
+          "q25": 1023.25,
+          "q75": 1490.75,
+          "relMedian": 1.000007396477058,
+          "relQ25": 0.7844897575062927,
+          "relQ75": 1.338069204213744
+        },
+        {
+          "name": "2024-10",
+          "count": 7,
+          "median": 1110,
+          "mean": 1318.4285714285713,
+          "q25": 906.5,
+          "q75": 1551,
+          "relMedian": 0.809009009009009,
+          "relQ25": 0.6671861736916076,
+          "relQ75": 1.3697808902933166
+        },
+        {
+          "name": "2024-11",
+          "count": 9,
+          "median": 695,
+          "mean": 661.1111111111111,
+          "q25": 505,
+          "q75": 837,
+          "relMedian": 0.946236559139785,
+          "relQ25": 0.6033452807646356,
+          "relQ75": 1.095959595959596
+        },
+        {
+          "name": "2024-12",
+          "count": 4,
+          "median": 1052.5,
+          "mean": 940.5,
+          "q25": 923,
+          "q75": 1070,
+          "relMedian": 1.212557603686636,
+          "relQ25": 1.0707088723557825,
+          "relQ75": 1.2327188940092166
+        },
+        {
+          "name": "2025-01",
+          "count": 3,
+          "median": 1406,
+          "mean": 1326.6666666666667,
+          "q25": 1201,
+          "q75": 1492,
+          "relMedian": 1.1243186582809224,
+          "relQ25": 1.0232704402515724,
+          "relQ75": 1.2253668763102725
+        },
+        {
+          "name": "2025-02",
+          "count": 1,
+          "median": 1857,
+          "mean": 1857,
+          "q25": 1857,
+          "q75": 1857,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "2026-11",
+          "count": 1,
+          "median": 171,
+          "mean": 171,
+          "q25": 171,
+          "q75": 171,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        }
+      ],
+      "weekdays": [
+        {
+          "name": "T2",
+          "count": 1,
+          "median": 792,
+          "mean": 792,
+          "q25": 792,
+          "q75": 792,
+          "relMedian": 0.946236559139785,
+          "relQ25": 0.946236559139785,
+          "relQ75": 0.946236559139785
+        },
+        {
+          "name": "T3",
+          "count": 5,
+          "median": 1225,
+          "mean": 1102,
+          "q25": 663,
+          "q75": 1480,
+          "relMedian": 0.8881573978220401,
+          "relQ25": 0.6188578441627668,
+          "relQ75": 1.1482283896039656
+        },
+        {
+          "name": "T4",
+          "count": 5,
+          "median": 979,
+          "mean": 956.4,
+          "q25": 799,
+          "q75": 1079,
+          "relMedian": 0.9395393474088292,
+          "relQ25": 0.7759798633585041,
+          "relQ75": 1.0684563758389263
+        },
+        {
+          "name": "T5",
+          "count": 12,
+          "median": 911,
+          "mean": 1129.4166666666667,
+          "q25": 785.5,
+          "q75": 1059,
+          "relMedian": 0.8573158698150005,
+          "relQ25": 0.7694116195196647,
+          "relQ75": 0.9980843124419839
+        },
+        {
+          "name": "T6",
+          "count": 12,
+          "median": 941,
+          "mean": 4786.333333333333,
+          "q25": 556,
+          "q75": 1304.75,
+          "relMedian": 1.0568181818181819,
+          "relQ25": 0.6846583302908604,
+          "relQ75": 1.267551921010806
+        },
+        {
+          "name": "T7",
+          "count": 3,
+          "median": 1622,
+          "mean": 1408,
+          "q25": 1183.5,
+          "q75": 1739.5,
+          "relMedian": 1.347175337605445,
+          "relQ25": 1.21977535208718,
+          "relQ75": 1.4745753231237102
+        },
+        {
+          "name": "CN",
+          "count": 12,
+          "median": 828,
+          "mean": 961.25,
+          "q25": 582.25,
+          "q75": 1012,
+          "relMedian": 1.1001872261507861,
+          "relQ25": 0.8567786475320722,
+          "relQ75": 1.2066183144812177
+        }
+      ],
+      "durations": [
+        {
+          "name": "≤30s",
+          "count": 5,
+          "median": 921,
+          "mean": 1257,
+          "q25": 557,
+          "q75": 1480,
+          "relMedian": 1.137586471944658,
+          "relQ25": 0.6982323232323232,
+          "relQ75": 1.1628787878787878
+        },
+        {
+          "name": "31–45s",
+          "count": 5,
+          "median": 868,
+          "mean": 1449.4,
+          "q25": 792,
+          "q75": 2015,
+          "relMedian": 1.095959595959596,
+          "relQ25": 0.946236559139785,
+          "relQ75": 1.5488086087624904
+        },
+        {
+          "name": "46–60s",
+          "count": 14,
+          "median": 943,
+          "mean": 939.7142857142857,
+          "q25": 723.75,
+          "q75": 1102.25,
+          "relMedian": 0.7873263888888888,
+          "relQ25": 0.7156673114119922,
+          "relQ75": 1.0568181818181819
+        },
+        {
+          "name": "61–90s",
+          "count": 9,
+          "median": 799,
+          "mean": 982.2222222222222,
+          "q25": 650,
+          "q75": 1316,
+          "relMedian": 0.8248730964467005,
+          "relQ25": 0.6989462192316158,
+          "relQ75": 1.051393429333092
+        },
+        {
+          "name": ">90s",
+          "count": 17,
+          "median": 996,
+          "mean": 3664.9411764705883,
+          "q25": 745,
+          "q75": 1100,
+          "relMedian": 1.0684563758389263,
+          "relQ25": 0.9059904327027615,
+          "relQ75": 1.2355990783410138
+        }
+      ],
+      "tags": [
+        {
+          "name": "#intelligentmoney",
+          "count": 41,
+          "median": 979,
+          "mean": 2232.560975609756,
+          "q25": 745,
+          "q75": 1316,
+          "relMedian": 1.0038535645472062,
+          "relQ25": 0.7873263888888888,
+          "relQ75": 1.2672811059907834
+        },
+        {
+          "name": "#learnontiktok",
+          "count": 34,
+          "median": 914,
+          "mean": 1133.235294117647,
+          "q25": 699.25,
+          "q75": 1312.25,
+          "relMedian": 1.0361549701930661,
+          "relQ25": 0.7927470439189188,
+          "relQ75": 1.2109371531569928
+        },
+        {
+          "name": "#dautu",
+          "count": 31,
+          "median": 979,
+          "mean": 2582.8387096774195,
+          "q25": 728.5,
+          "q75": 1361,
+          "relMedian": 0.9222222222222223,
+          "relQ25": 0.7816531261236965,
+          "relQ75": 1.200676149631958
+        },
+        {
+          "name": "#vtvcab",
+          "count": 29,
+          "median": 810,
+          "mean": 1085.344827586207,
+          "q25": 682,
+          "q75": 1316,
+          "relMedian": 0.9111361079865017,
+          "relQ25": 0.7444921316165951,
+          "relQ75": 1.1801541425818882
+        },
+        {
+          "name": "#chungkhoan",
+          "count": 22,
+          "median": 797.5,
+          "mean": 2985.590909090909,
+          "q25": 642.5,
+          "q75": 1021.75,
+          "relMedian": 0.829918609541028,
+          "relQ25": 0.6629953339369037,
+          "relQ75": 1.1063663149558616
+        },
+        {
+          "name": "#theintelligentinvestor",
+          "count": 14,
+          "median": 943,
+          "mean": 1161.7142857142858,
+          "q25": 696.25,
+          "q75": 1262,
+          "relMedian": 0.9308807848155257,
+          "relQ25": 0.8154864195572475,
+          "relQ75": 1.1700101304561894
+        },
+        {
+          "name": "#taichinh",
+          "count": 12,
+          "median": 1180.5,
+          "mean": 1209.9166666666667,
+          "q25": 915.25,
+          "q75": 1504.5,
+          "relMedian": 1.137586471944658,
+          "relQ25": 0.9222222222222223,
+          "relQ75": 1.2211981566820276
+        },
+        {
+          "name": "#taichinhcanhan",
+          "count": 8,
+          "median": 913,
+          "mean": 952,
+          "q25": 736.75,
+          "q75": 1063.75,
+          "relMedian": 1.0481144655580605,
+          "relQ25": 0.9695605821010075,
+          "relQ75": 1.1127077602426467
+        },
+        {
+          "name": "#adsam",
+          "count": 7,
+          "median": 1060,
+          "mean": 1101.5714285714287,
+          "q25": 980,
+          "q75": 1200.5,
+          "relMedian": 1.137586471944658,
+          "relQ25": 0.8278141198015484,
+          "relQ75": 1.212557603686636
+        },
+        {
+          "name": "#cophieu",
+          "count": 6,
+          "median": 1620,
+          "mean": 9126,
+          "q25": 1115.5,
+          "q75": 2584.25,
+          "relMedian": 1.3644813756721894,
+          "relQ25": 0.8770234331643502,
+          "relQ75": 1.9863566487317448
+        },
+        {
+          "name": "#money",
+          "count": 6,
+          "median": 1019.5,
+          "mean": 1091.3333333333333,
+          "q25": 935.5,
+          "q75": 1252,
+          "relMedian": 1.150232629911723,
+          "relQ25": 0.9940740373410033,
+          "relQ75": 1.2066183144812177
+        },
+        {
+          "name": "#dautuchungkhoan",
+          "count": 5,
+          "median": 695,
+          "mean": 644.2,
+          "q25": 430,
+          "q75": 810,
+          "relMedian": 0.9111361079865017,
+          "relQ25": 0.6187050359712231,
+          "relQ75": 1.095959595959596
+        },
+        {
+          "name": "#warrenbuffett",
+          "count": 5,
+          "median": 1225,
+          "mean": 1600,
+          "q25": 1079,
+          "q75": 2015,
+          "relMedian": 1.1801541425818882,
+          "relQ25": 0.7873263888888888,
+          "relQ75": 1.5488086087624904
+        },
+        {
+          "name": "#xuhuongtiktok",
+          "count": 4,
+          "median": 1620,
+          "mean": 1773.25,
+          "q25": 1188.5,
+          "q75": 2204.75,
+          "relMedian": 1.3644813756721894,
+          "relQ25": 1.0791105727760422,
+          "relQ75": 1.6946579554189085
+        },
+        {
+          "name": "#im",
+          "count": 3,
+          "median": 788,
+          "mean": 866.3333333333334,
+          "q25": 735,
+          "q75": 958.5,
+          "relMedian": 1.1044148563419762,
+          "relQ25": 0.9970867497626384,
+          "relQ75": 1.3433777154870357
+        }
+      ],
+      "styles": [],
+      "top": [
+        {
+          "id": "7411522804954303760",
+          "title": "2 chỉ số bạn cần biết khi đầu tư cổ phiếu ngành ngân hàng #intelligentmoney #dautu #chungkhoan #learontiktok #cophieu",
+          "url": "https://www.tiktok.com/@intelligentmoneyvietnam/video/7411522804954303760",
+          "views": 47000,
+          "er": 0.04429787234042553,
+          "duration": 149,
+          "date": "2024-09-06",
+          "time": "20:37",
+          "category": "Chưa phân loại",
+          "ratio": 51.59165751920966
+        },
+        {
+          "id": "7417457995824614663",
+          "title": "Khách hàng mua nhà của Novagroup rơi vào cảnh nợ xấu!? Chuyện gì đã xảy ra? #intelligentmoney #theintelligentinvestor #vtvcabs #learnontiktok #novaland",
+          "url": "https://www.tiktok.com/@intelligentmoneyvietnam/video/7417457995824614663",
+          "views": 3154,
+          "er": 0.017438173747622066,
+          "duration": 40,
+          "date": "2024-09-22",
+          "time": "20:25",
+          "category": "Chưa phân loại",
+          "ratio": 3.4621295279912183
+        },
+        {
+          "id": "7421573287857147154",
+          "title": "@Thầy Quéo (Nguyễn Hữu Trí) #vtvcab #learnontiktok #dautu #warrenbuffett #cophieu #xuhuongtiktok #intelligentmoney #chungkhoanhomnay ",
+          "url": "https://www.tiktok.com/@intelligentmoneyvietnam/video/7421573287857147154",
+          "views": 2774,
+          "er": 0.012977649603460706,
+          "duration": 23,
+          "date": "2024-10-03",
+          "time": "22:34",
+          "category": "Chưa phân loại",
+          "ratio": 3.0450054884742044
+        },
+        {
+          "id": "7380368563896388865",
+          "title": "2 điều kiện để xuất hiện lãi kép trong thị trường chứng khoán #intelligentmoney #vtvcab #dautu #learnontiktok #chungkhoan #theintelligentinvestor #vnindex ",
+          "url": "https://www.tiktok.com/@intelligentmoneyvietnam/video/7380368563896388865",
+          "views": 2241,
+          "er": 0.038375725122713075,
+          "duration": 93,
+          "date": "2024-06-14",
+          "time": "21:39",
+          "category": "Chưa phân loại",
+          "ratio": 2.45993413830955
+        },
+        {
+          "id": "7418953059285470472",
+          "title": "@Thầy Quéo (Nguyễn Hữu Trí) #vtvcab #learnontiktok #dautu #warrenbuffett #cophieu #xuhuongtiktok #intelligentmoney ",
+          "url": "https://www.tiktok.com/@intelligentmoneyvietnam/video/7418953059285470472",
+          "views": 2015,
+          "er": 0.030272952853598014,
+          "duration": 35,
+          "date": "2024-09-26",
+          "time": "21:07",
+          "category": "Chưa phân loại",
+          "ratio": 2.21185510428101
+        },
+        {
+          "id": "7474180935240486152",
+          "title": "Vì sao người trẻ nên đầu tư từ sớm? #vtvcab #learnontiktok #intelligentmoney #chungkhoan #dautu #taichinh ",
+          "url": "https://www.tiktok.com/@intelligentmoneyvietnam/video/7474180935240486152",
+          "views": 1857,
+          "er": 0.021540118470651588,
+          "duration": 53,
+          "date": "2025-02-22",
+          "time": "16:59",
+          "category": "Chưa phân loại",
+          "ratio": 2.038419319429199
+        },
+        {
+          "id": "7424846464653823240",
+          "title": "Nhà nước mình quản lý tỷ giá như thế nào? #vtvcab #learnontiktok #giado #tygia #intelligentmoney #taichinh",
+          "url": "https://www.tiktok.com/@intelligentmoneyvietnam/video/7424846464653823240",
+          "views": 1622,
+          "er": 0.02527743526510481,
+          "duration": 85,
+          "date": "2024-10-12",
+          "time": "18:16",
+          "category": "Chưa phân loại",
+          "ratio": 1.7804610318331504
+        },
+        {
+          "id": "7462364876015521032",
+          "title": "Mức ph.ạ.t vượt đèn đỏ của VIỆT NAM có cao hơn thế giới? --- #intelligentmoney #learnontiktok #vtvcab #taichinhdautu #taichinh #dautu",
+          "url": "https://www.tiktok.com/@intelligentmoneyvietnam/video/7462364876015521032",
+          "views": 1578,
+          "er": 0.017743979721166033,
+          "duration": 81,
+          "date": "2025-01-21",
+          "time": "20:47",
+          "category": "Chưa phân loại",
+          "ratio": 1.7321624588364435
+        },
+        {
+          "id": "7420647586744257810",
+          "title": "Chúng ta nên làm gì lúc này??? #intelligentmoney #dautu #vtvcab #learnontiktok #adsam #taichinh #theintelligentinvestor #money #chungkhoan #taichinhcanhan ",
+          "url": "https://www.tiktok.com/@intelligentmoneyvietnam/video/7420647586744257810",
+          "views": 1480,
+          "er": 0.02027027027027027,
+          "duration": 8,
+          "date": "2024-10-01",
+          "time": "10:42",
+          "category": "Chưa phân loại",
+          "ratio": 1.6245883644346872
+        },
+        {
+          "id": "7456409604096871681",
+          "title": "4 dấu hiệu giúp bạn nhận biết lừa đảo đầu tư (p2) --- #intelligentmoney #mrpips #luadao #dautu #taichinh",
+          "url": "https://www.tiktok.com/@intelligentmoneyvietnam/video/7456409604096871681",
+          "views": 1406,
+          "er": 0.04694167852062589,
+          "duration": 166,
+          "date": "2025-01-05",
+          "time": "20:00",
+          "category": "Chưa phân loại",
+          "ratio": 1.5433589462129529
+        }
+      ]
+    }
+  ]
+}

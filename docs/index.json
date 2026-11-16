@@ -92,6 +92,26 @@
       ]
     },
     {
+      "slug": "khao-sat-intelligent-money",
+      "name": "Khao sat Intelligent Money",
+      "updated": "2026-11-16",
+      "todo": [
+        "gắn nhãn",
+        "nhận định"
+      ],
+      "report": "khao-sat-intelligent-money/khao-sat-intelligent-money.html",
+      "summary": "khao-sat-intelligent-money/summary.json",
+      "channels": [
+        {
+          "handle": "intelligentmoneyvietnam",
+          "followers": 8902,
+          "medianViews": 911,
+          "labelsTodo": "khao-sat-intelligent-money/tiktok/intelligentmoneyvietnam/labels.todo.json",
+          "styles": []
+        }
+      ]
+    },
+    {
       "slug": "khao-sat-tai-chinh-vn-bo-sung",
       "name": "Khao sat tai chinh VN - bo sung",
       "updated": "2026-11-16",
@@ -229,6 +249,14 @@
   ],
   "runs": [
     {
+      "id": "20261116-143058-khao-sat-intelligent-money",
+      "status": "ok",
+      "slug": "khao-sat-intelligent-money",
+      "name": "Khao sat Intelligent Money",
+      "finishedAt": "2026-11-16T14:32:16.445Z",
+      "seconds": 11
+    },
+    {
       "id": "20261116-142919-khao-sat-viet-hoang",
       "status": "error",
       "slug": "khao-sat-viet-hoang",
@@ -299,14 +327,6 @@
       "name": "heotaichinh102",
       "finishedAt": "2026-11-16T07:37:55.241Z",
       "seconds": 2
-    },
-    {
-      "id": "20261116-072803-gorillanomics",
-      "status": "ok",
-      "slug": "gorillanomics",
-      "name": "Gorillanomics",
-      "finishedAt": "2026-11-16T07:37:53.138Z",
-      "seconds": 370
     }
   ]
 }
