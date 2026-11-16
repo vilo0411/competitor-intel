@@ -1,0 +1,8 @@
+{
+  "id": "20261116-143533-kiem-tra-lai-seriestaichinh",
+  "name": "Kiem tra lai seriestaichinh",
+  "channels": ["@seriestaichinh"],
+  "refresh": true,
+  "style": 0,
+  "limit": 50
+}
