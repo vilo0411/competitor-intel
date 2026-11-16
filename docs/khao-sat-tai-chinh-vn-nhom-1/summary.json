@@ -1,0 +1,1157 @@
+{
+  "name": "Khao sat tai chinh VN - nhom 1",
+  "updated": "2026-11-16",
+  "tiktok": [
+    {
+      "handle": "moneyvtv",
+      "profile": {
+        "followers": 113,
+        "hearts": 2242,
+        "videoCount": 6,
+        "nickname": "Vũ Thahn",
+        "bio": ""
+      },
+      "stats": {
+        "n": 5,
+        "first": "2026-06-29",
+        "last": "2026-11-15",
+        "daysSinceLast": 0,
+        "totalViews": 1640,
+        "meanViews": 328,
+        "medianViews": 281,
+        "maxViews": 695,
+        "minViews": 94,
+        "medianER": 0.027338129496402876,
+        "postsPerWeek": 0.2505542601598344,
+        "medianGapDays": 23.548194444444444,
+        "postsLast30": 2,
+        "medianDuration": 32,
+        "originalSoundShare": 0.6,
+        "viralCount": 0
+      },
+      "takeaways": {
+        "category": "Chưa đủ nhóm có nhãn để so sánh",
+        "viral": "0/5 video đạt từ 2,8k view (10× trung vị kênh) và mang về 0,0% tổng view; top 3 chiếm 82,3%",
+        "trend": "View tích lũy trung vị đi ngang: 234 ở 2 tháng có bài đầu → 281 ở 2 tháng có bài cuối; chưa so ở cùng tuổi bài",
+        "cadence": "Đăng 0,3 video/tuần; tháng dày nhất T11/26 có 2 video; 30 ngày qua: 2 video",
+        "time": "Chưa đủ mẫu để so sánh khung giờ",
+        "weekday": "Chưa đủ mẫu để so sánh thứ",
+        "duration": "Chưa đủ mẫu để so sánh mức độ dài",
+        "tags": "Không hashtag đủ mẫu nào đi kèm view cao hơn hẳn trung vị; không chứng minh hashtag làm tăng view"
+      },
+      "evidence": {
+        "channelMedian": 281,
+        "hitThreshold": 2810,
+        "periodUnit": "quý",
+        "labeledCount": 0,
+        "totalCount": 5,
+        "youngCount": 2,
+        "categories": [],
+        "sensitivity": [
+          {
+            "remove": 0,
+            "excluded": [],
+            "categories": [],
+            "leaders": []
+          },
+          {
+            "remove": 1,
+            "excluded": [
+              "7692056904327122177"
+            ],
+            "categories": [],
+            "leaders": []
+          },
+          {
+            "remove": 3,
+            "excluded": [
+              "7692056904327122177",
+              "7690578731634658581",
+              "7708419450130713876"
+            ],
+            "categories": [],
+            "leaders": []
+          }
+        ],
+        "periods": [],
+        "durationStrata": [],
+        "timeline": [
+          {
+            "period": "2026-Q2",
+            "key": "2026-Q2",
+            "count": 1,
+            "young": 0,
+            "median": 94,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "2026-Q3",
+            "key": "2026-Q3",
+            "count": 1,
+            "young": 0,
+            "median": 373,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "2026-Q4",
+            "key": "2026-Q4",
+            "count": 3,
+            "young": 2,
+            "median": 281,
+            "hits": 0,
+            "hitRate": 0
+          }
+        ],
+        "pairs": []
+      },
+      "era": null,
+      "scope": {
+        "count": 5,
+        "medianViews": 281,
+        "categories": [
+          {
+            "name": "Chưa phân loại",
+            "count": 5,
+            "median": 281,
+            "mean": 328,
+            "q25": 197,
+            "q75": 373,
+            "relMedian": null,
+            "relQ25": null,
+            "relQ75": null
+          }
+        ],
+        "note": "timeBuckets, weekdays, durations, tags and scope.categories only cover the current format when era is set"
+      },
+      "timeBuckets": [
+        {
+          "name": "Sáng (5–11h)",
+          "count": 1,
+          "median": 94,
+          "mean": 94,
+          "q25": 94,
+          "q75": 94,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "Trưa (11–14h)",
+          "count": 0,
+          "median": 0,
+          "mean": 0,
+          "q25": 0,
+          "q75": 0,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "Chiều (14–18h)",
+          "count": 0,
+          "median": 0,
+          "mean": 0,
+          "q25": 0,
+          "q75": 0,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "Tối (18–23h)",
+          "count": 4,
+          "median": 327,
+          "mean": 386.5,
+          "q25": 260,
+          "q75": 453.5,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "Đêm (23–5h)",
+          "count": 0,
+          "median": 0,
+          "mean": 0,
+          "q25": 0,
+          "q75": 0,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        }
+      ],
+      "categories": [
+        {
+          "name": "Chưa phân loại",
+          "count": 5,
+          "median": 281,
+          "mean": 328,
+          "q25": 197,
+          "q75": 373,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        }
+      ],
+      "months": [
+        {
+          "name": "2026-06",
+          "count": 1,
+          "median": 94,
+          "mean": 94,
+          "q25": 94,
+          "q75": 94,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "2026-09",
+          "count": 1,
+          "median": 373,
+          "mean": 373,
+          "q25": 373,
+          "q75": 373,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "2026-10",
+          "count": 1,
+          "median": 695,
+          "mean": 695,
+          "q25": 695,
+          "q75": 695,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "2026-11",
+          "count": 2,
+          "median": 239,
+          "mean": 239,
+          "q25": 218,
+          "q75": 260,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        }
+      ],
+      "weekdays": [
+        {
+          "name": "T2",
+          "count": 2,
+          "median": 233.5,
+          "mean": 233.5,
+          "q25": 163.75,
+          "q75": 303.25,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "T3",
+          "count": 0,
+          "median": 0,
+          "mean": 0,
+          "q25": 0,
+          "q75": 0,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "T4",
+          "count": 0,
+          "median": 0,
+          "mean": 0,
+          "q25": 0,
+          "q75": 0,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "T5",
+          "count": 0,
+          "median": 0,
+          "mean": 0,
+          "q25": 0,
+          "q75": 0,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "T6",
+          "count": 1,
+          "median": 695,
+          "mean": 695,
+          "q25": 695,
+          "q75": 695,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "T7",
+          "count": 1,
+          "median": 197,
+          "mean": 197,
+          "q25": 197,
+          "q75": 197,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "CN",
+          "count": 1,
+          "median": 281,
+          "mean": 281,
+          "q25": 281,
+          "q75": 281,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        }
+      ],
+      "durations": [
+        {
+          "name": "≤30s",
+          "count": 2,
+          "median": 233.5,
+          "mean": 233.5,
+          "q25": 163.75,
+          "q75": 303.25,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "31–45s",
+          "count": 2,
+          "median": 488,
+          "mean": 488,
+          "q25": 384.5,
+          "q75": 591.5,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": ">90s",
+          "count": 1,
+          "median": 197,
+          "mean": 197,
+          "q25": 197,
+          "q75": 197,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        }
+      ],
+      "tags": [
+        {
+          "name": "#bienhoa",
+          "count": 2,
+          "median": 239,
+          "mean": 239,
+          "q25": 218,
+          "q75": 260,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "#capcut",
+          "count": 1,
+          "median": 94,
+          "mean": 94,
+          "q25": 94,
+          "q75": 94,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "#xuhuong",
+          "count": 1,
+          "median": 695,
+          "mean": 695,
+          "q25": 695,
+          "q75": 695,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        }
+      ],
+      "styles": [],
+      "top": [
+        {
+          "id": "7692056904327122177",
+          "title": "Old Money #xuhuong ",
+          "url": "https://www.tiktok.com/@moneyvtv/video/7692056904327122177",
+          "views": 695,
+          "er": 0.027338129496402876,
+          "duration": 32,
+          "date": "2026-10-02",
+          "time": "20:09",
+          "category": "Chưa phân loại",
+          "ratio": 2.473309608540925
+        },
+        {
+          "id": "7690578731634658581",
+          "title": "Hello quảng trị",
+          "url": "https://www.tiktok.com/@moneyvtv/video/7690578731634658581",
+          "views": 373,
+          "er": 0.013404825737265416,
+          "duration": 28,
+          "date": "2026-09-28",
+          "time": "20:33",
+          "category": "Chưa phân loại",
+          "ratio": 1.3274021352313168
+        },
+        {
+          "id": "7708419450130713876",
+          "title": "Ngoại thất nội lực nhưng nội công là công chúa #bienhoa ",
+          "url": "https://www.tiktok.com/@moneyvtv/video/7708419450130713876",
+          "views": 281,
+          "er": 0.0071174377224199285,
+          "duration": 42,
+          "date": "2026-11-15",
+          "time": "22:24",
+          "category": "Chưa phân loại",
+          "ratio": 1
+        },
+        {
+          "id": "7708055514994707733",
+          "title": "🫠🫠 #bienhoa ",
+          "url": "https://www.tiktok.com/@moneyvtv/video/7708055514994707733",
+          "views": 197,
+          "er": 0.030456852791878174,
+          "duration": 517,
+          "date": "2026-11-14",
+          "time": "22:52",
+          "category": "Chưa phân loại",
+          "ratio": 0.701067615658363
+        },
+        {
+          "id": "7656582443369008405",
+          "title": "#CapCut ",
+          "url": "https://www.tiktok.com/@moneyvtv/video/7656582443369008405",
+          "views": 94,
+          "er": 0.0425531914893617,
+          "duration": 14,
+          "date": "2026-06-29",
+          "time": "05:50",
+          "category": "Chưa phân loại",
+          "ratio": 0.33451957295373663
+        }
+      ]
+    },
+    {
+      "handle": "hocvienbovagauoffcial",
+      "profile": {
+        "followers": 246500,
+        "hearts": 2400000,
+        "videoCount": 107,
+        "nickname": "Học viện Bò và Gấu",
+        "bio": "Kênh Tiktok chính thức của Học viện Bò và Gấu (thề luôn)"
+      },
+      "stats": {
+        "n": 50,
+        "first": "2023-04-14",
+        "last": "2023-11-20",
+        "daysSinceLast": 1092,
+        "totalViews": 15723000,
+        "meanViews": 314460,
+        "medianViews": 197750,
+        "maxViews": 1200000,
+        "minViews": 38700,
+        "medianER": 0.03380582384085142,
+        "postsPerWeek": 1.591210456525857,
+        "medianGapDays": 3.0416666666666665,
+        "postsLast30": 0,
+        "medianDuration": 277,
+        "originalSoundShare": 0,
+        "viralCount": 10
+      },
+      "takeaways": {
+        "category": "Chưa đủ nhóm có nhãn để so sánh",
+        "viral": "0/50 video đạt từ 2 tr view (10× trung vị kênh) và mang về 0,0% tổng view; top 3 chiếm 20,1%",
+        "trend": "View tích lũy trung vị giảm: 264k ở 3 tháng có bài đầu → 163k ở 3 tháng có bài cuối; chưa so ở cùng tuổi bài",
+        "cadence": "Đăng 1,6 video/tuần; tháng dày nhất T6/23 có 8 video; 30 ngày qua: 0 video",
+        "time": "Chưa đủ mẫu để so sánh khung giờ",
+        "weekday": "Không thứ nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 143k–505k)",
+        "duration": "Không mức độ dài nào nổi trội rõ: chênh lệch giữa các nhóm còn trong mức ngẫu nhiên (trung vị 214k–235k)",
+        "tags": "Không hashtag đủ mẫu nào đi kèm view cao hơn hẳn trung vị; không chứng minh hashtag làm tăng view"
+      },
+      "evidence": {
+        "channelMedian": 197750,
+        "hitThreshold": 1977500,
+        "periodUnit": "quý",
+        "labeledCount": 0,
+        "totalCount": 50,
+        "youngCount": 0,
+        "categories": [],
+        "sensitivity": [
+          {
+            "remove": 0,
+            "excluded": [],
+            "categories": [],
+            "leaders": []
+          },
+          {
+            "remove": 1,
+            "excluded": [
+              "7280101775871446280"
+            ],
+            "categories": [],
+            "leaders": []
+          },
+          {
+            "remove": 3,
+            "excluded": [
+              "7280101775871446280",
+              "7280104668972223751",
+              "7256347233438747906"
+            ],
+            "categories": [],
+            "leaders": []
+          }
+        ],
+        "periods": [],
+        "durationStrata": [],
+        "timeline": [
+          {
+            "period": "2023-Q2",
+            "key": "2023-Q2",
+            "count": 16,
+            "young": 0,
+            "median": 263700,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "2023-Q3",
+            "key": "2023-Q3",
+            "count": 21,
+            "young": 0,
+            "median": 262400,
+            "hits": 0,
+            "hitRate": 0
+          },
+          {
+            "period": "2023-Q4",
+            "key": "2023-Q4",
+            "count": 13,
+            "young": 0,
+            "median": 137900,
+            "hits": 0,
+            "hitRate": 0
+          }
+        ],
+        "pairs": []
+      },
+      "era": null,
+      "scope": {
+        "count": 50,
+        "medianViews": 197750,
+        "categories": [
+          {
+            "name": "Chưa phân loại",
+            "count": 50,
+            "median": 197750,
+            "mean": 314460,
+            "q25": 105025,
+            "q75": 411650,
+            "relMedian": 1.0214590583528529,
+            "relQ25": 0.45519331678679903,
+            "relQ75": 2.269611408598576
+          }
+        ],
+        "note": "timeBuckets, weekdays, durations, tags and scope.categories only cover the current format when era is set"
+      },
+      "timeBuckets": [
+        {
+          "name": "Sáng (5–11h)",
+          "count": 1,
+          "median": 44100,
+          "mean": 44100,
+          "q25": 44100,
+          "q75": 44100,
+          "relMedian": 0.2897503285151117,
+          "relQ25": 0.2897503285151117,
+          "relQ75": 0.2897503285151117
+        },
+        {
+          "name": "Trưa (11–14h)",
+          "count": 0,
+          "median": 0,
+          "mean": 0,
+          "q25": 0,
+          "q75": 0,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        },
+        {
+          "name": "Chiều (14–18h)",
+          "count": 2,
+          "median": 105900,
+          "mean": 105900,
+          "q25": 100800,
+          "q75": 111000,
+          "relMedian": 0.7298979077560137,
+          "relQ25": 0.5334348693709646,
+          "relQ75": 0.9263609461410629
+        },
+        {
+          "name": "Tối (18–23h)",
+          "count": 47,
+          "median": 213600,
+          "mean": 329087.2340425532,
+          "q25": 112050,
+          "q75": 460550,
+          "relMedian": 1.040368722186904,
+          "relQ25": 0.4785447823238521,
+          "relQ75": 2.423408571294675
+        },
+        {
+          "name": "Đêm (23–5h)",
+          "count": 0,
+          "median": 0,
+          "mean": 0,
+          "q25": 0,
+          "q75": 0,
+          "relMedian": null,
+          "relQ25": null,
+          "relQ75": null
+        }
+      ],
+      "categories": [
+        {
+          "name": "Chưa phân loại",
+          "count": 50,
+          "median": 197750,
+          "mean": 314460,
+          "q25": 105025,
+          "q75": 411650,
+          "relMedian": 1.0214590583528529,
+          "relQ25": 0.45519331678679903,
+          "relQ75": 2.269611408598576
+        }
+      ],
+      "months": [
+        {
+          "name": "2023-04",
+          "count": 5,
+          "median": 116100,
+          "mean": 301300,
+          "q25": 68600,
+          "q75": 416200,
+          "relMedian": 1.122823984526112,
+          "relQ25": 0.590869939707149,
+          "relQ75": 4.025145067698259
+        },
+        {
+          "name": "2023-05",
+          "count": 3,
+          "median": 103400,
+          "mean": 120366.66666666667,
+          "q25": 73750,
+          "q75": 158500,
+          "relMedian": 0.38232575337400626,
+          "relQ25": 0.33603804094455897,
+          "relQ75": 1.164283605616388
+        },
+        {
+          "name": "2023-06",
+          "count": 8,
+          "median": 320950,
+          "mean": 369087.5,
+          "q25": 282425,
+          "q75": 412025,
+          "relMedian": 1.0595449661123588,
+          "relQ25": 0.898585982639374,
+          "relQ75": 1.4040464930961147
+        },
+        {
+          "name": "2023-07",
+          "count": 6,
+          "median": 213850,
+          "mean": 366300,
+          "q25": 126900,
+          "q75": 581300,
+          "relMedian": 0.7062579466405171,
+          "relQ25": 0.41432473178390467,
+          "relQ75": 1.841178867031303
+        },
+        {
+          "name": "2023-08",
+          "count": 8,
+          "median": 234800,
+          "mean": 262337.5,
+          "q25": 101850,
+          "q75": 360425,
+          "relMedian": 1.028021706375365,
+          "relQ25": 0.46032886508238624,
+          "relQ75": 1.9997820351002609
+        },
+        {
+          "name": "2023-09",
+          "count": 7,
+          "median": 284000,
+          "mean": 516171.4285714286,
+          "q25": 164250,
+          "q75": 826700,
+          "relMedian": 0.8163265306122449,
+          "relQ25": 0.39609973227844014,
+          "relQ75": 3.876570704587751
+        },
+        {
+          "name": "2023-10",
+          "count": 6,
+          "median": 149700,
+          "mean": 196683.33333333334,
+          "q25": 68525,
+          "q75": 257050,
+          "relMedian": 0.9993324432576769,
+          "relQ25": 0.5714230816527299,
+          "relQ75": 2.495716510903427
+        },
+        {
+          "name": "2023-11",
+          "count": 7,
+          "median": 131700,
+          "mean": 258985.7142857143,
+          "q25": 86150,
+          "q75": 385250,
+          "relMedian": 1.444078947368421,
+          "relQ25": 0.6541381928625665,
+          "relQ75": 3.0382685883227003
+        }
+      ],
+      "weekdays": [
+        {
+          "name": "T2",
+          "count": 14,
+          "median": 176100,
+          "mean": 302121.4285714286,
+          "q25": 106850,
+          "q75": 365300,
+          "relMedian": 0.6965469077543553,
+          "relQ25": 0.37236227383513865,
+          "relQ75": 1.9398934486064325
+        },
+        {
+          "name": "T3",
+          "count": 6,
+          "median": 142600,
+          "mean": 170933.33333333334,
+          "q25": 86300,
+          "q75": 253500,
+          "relMedian": 0.7557153436853502,
+          "relQ25": 0.41156988521338866,
+          "relQ75": 1.039181094444248
+        },
+        {
+          "name": "T4",
+          "count": 7,
+          "median": 314600,
+          "mean": 366142.85714285716,
+          "q25": 93450,
+          "q75": 580000,
+          "relMedian": 1.0025493945188018,
+          "relQ25": 0.5737633876833313,
+          "relQ75": 3.5860588874975114
+        },
+        {
+          "name": "T5",
+          "count": 5,
+          "median": 504900,
+          "mean": 514500,
+          "q25": 284000,
+          "q75": 644900,
+          "relMedian": 2.9682539682539684,
+          "relQ25": 0.8163265306122449,
+          "relQ75": 3.1124517374517375
+        },
+        {
+          "name": "T6",
+          "count": 12,
+          "median": 294850,
+          "mean": 351250,
+          "q25": 112925,
+          "q75": 483650,
+          "relMedian": 1.1173393345192701,
+          "relQ25": 0.5757555245556517,
+          "relQ75": 2.3878728652627594
+        },
+        {
+          "name": "T7",
+          "count": 3,
+          "median": 207200,
+          "mean": 238533.33333333334,
+          "q25": 183850,
+          "q75": 277550,
+          "relMedian": 0.7896341463414634,
+          "relQ25": 0.6978759855574387,
+          "relQ75": 1.5131070120971222
+        },
+        {
+          "name": "CN",
+          "count": 3,
+          "median": 131700,
+          "mean": 133866.66666666666,
+          "q25": 120050,
+          "q75": 146600,
+          "relMedian": 1.0781041388518025,
+          "relQ25": 0.711773548074722,
+          "relQ75": 1.2610915431101117
+        }
+      ],
+      "durations": [
+        {
+          "name": "1–3 phút",
+          "count": 2,
+          "median": 44750,
+          "mean": 44750,
+          "q25": 44425,
+          "q75": 45075,
+          "relMedian": 0.296410544764899,
+          "relQ25": 0.2930804366400053,
+          "relQ75": 0.2997406528897926
+        },
+        {
+          "name": "3–4 phút",
+          "count": 10,
+          "median": 234800,
+          "mean": 314920,
+          "q25": 144400,
+          "q75": 502025,
+          "relMedian": 1.3685119459009094,
+          "relQ25": 0.8223657966719855,
+          "relQ75": 2.223961358357718
+        },
+        {
+          "name": "4–6 phút",
+          "count": 37,
+          "median": 213600,
+          "mean": 334618.91891891893,
+          "q25": 115700,
+          "q75": 416200,
+          "relMedian": 1.040368722186904,
+          "relQ25": 0.45564168819982775,
+          "relQ75": 2.9682539682539684
+        },
+        {
+          "name": ">6 phút",
+          "count": 1,
+          "median": 103400,
+          "mean": 103400,
+          "q25": 103400,
+          "q75": 103400,
+          "relMedian": 0.38232575337400626,
+          "relQ25": 0.38232575337400626,
+          "relQ75": 0.38232575337400626
+        }
+      ],
+      "tags": [
+        {
+          "name": "#hocvienbovagau",
+          "count": 45,
+          "median": 207200,
+          "mean": 315633.3333333333,
+          "q25": 103900,
+          "q75": 416200,
+          "relMedian": 1.040368722186904,
+          "relQ25": 0.45564168819982775,
+          "relQ75": 2.280621918847175
+        },
+        {
+          "name": "#manchesterunited",
+          "count": 4,
+          "median": 266150,
+          "mean": 363400,
+          "q25": 104225,
+          "q75": 525325,
+          "relMedian": 2.573984526112185,
+          "relQ25": 0.9898354733213713,
+          "relQ75": 4.961227821274833
+        },
+        {
+          "name": "#mu",
+          "count": 4,
+          "median": 266150,
+          "mean": 363400,
+          "q25": 104225,
+          "q75": 525325,
+          "relMedian": 2.573984526112185,
+          "relQ25": 0.9898354733213713,
+          "relQ75": 4.961227821274833
+        },
+        {
+          "name": "#tinder",
+          "count": 3,
+          "median": 45400,
+          "mean": 74933.33333333333,
+          "q25": 43450,
+          "q75": 91650,
+          "relMedian": 0.4550438596491228,
+          "relQ25": 0.37905731033190454,
+          "relQ75": 0.6878023036563371
+        },
+        {
+          "name": "#billgates",
+          "count": 2,
+          "median": 158500,
+          "mean": 158500,
+          "q25": 130950,
+          "q75": 186050,
+          "relMedian": 1.164283605616388,
+          "relQ25": 0.7733046794951972,
+          "relQ75": 1.555262531737579
+        },
+        {
+          "name": "#microsoft",
+          "count": 2,
+          "median": 158500,
+          "mean": 158500,
+          "q25": 130950,
+          "q75": 186050,
+          "relMedian": 1.164283605616388,
+          "relQ25": 0.7733046794951972,
+          "relQ75": 1.555262531737579
+        },
+        {
+          "name": "#lol",
+          "count": 2,
+          "median": 695350,
+          "mean": 695350,
+          "q25": 648375,
+          "q75": 742325,
+          "relMedian": 2.636897990140311,
+          "relQ25": 2.458759954493743,
+          "relQ75": 2.815036025786879
+        },
+        {
+          "name": "#lmhtvn",
+          "count": 2,
+          "median": 695350,
+          "mean": 695350,
+          "q25": 648375,
+          "q75": 742325,
+          "relMedian": 2.636897990140311,
+          "relQ25": 2.458759954493743,
+          "relQ75": 2.815036025786879
+        },
+        {
+          "name": "#mc",
+          "count": 2,
+          "median": 198200,
+          "mean": 198200,
+          "q25": 133650,
+          "q75": 262750,
+          "relMedian": 0.6278335276302958,
+          "relQ25": 0.42156593035199164,
+          "relQ75": 0.8341011249085999
+        },
+        {
+          "name": "#manchestercity",
+          "count": 2,
+          "median": 198200,
+          "mean": 198200,
+          "q25": 133650,
+          "q75": 262750,
+          "relMedian": 0.6278335276302958,
+          "relQ25": 0.42156593035199164,
+          "relQ75": 0.8341011249085999
+        },
+        {
+          "name": "#harleydavidson",
+          "count": 2,
+          "median": 251450,
+          "mean": 251450,
+          "q25": 219875,
+          "q75": 283025,
+          "relMedian": 0.7946225707599461,
+          "relQ25": 0.6906591588805183,
+          "relQ75": 0.898585982639374
+        },
+        {
+          "name": "#môtôpkl",
+          "count": 2,
+          "median": 251450,
+          "mean": 251450,
+          "q25": 219875,
+          "q75": 283025,
+          "relMedian": 0.7946225707599461,
+          "relQ25": 0.6906591588805183,
+          "relQ75": 0.898585982639374
+        },
+        {
+          "name": "#jeffbezos",
+          "count": 2,
+          "median": 476600,
+          "mean": 476600,
+          "q25": 371900,
+          "q75": 581300,
+          "relMedian": 1.4962519341900755,
+          "relQ25": 1.1513250013488479,
+          "relQ75": 1.841178867031303
+        },
+        {
+          "name": "#amazon",
+          "count": 2,
+          "median": 476600,
+          "mean": 476600,
+          "q25": 371900,
+          "q75": 581300,
+          "relMedian": 1.4962519341900755,
+          "relQ25": 1.1513250013488479,
+          "relQ75": 1.841178867031303
+        },
+        {
+          "name": "#netflix",
+          "count": 2,
+          "median": 484200,
+          "mean": 484200,
+          "q25": 296300,
+          "q75": 672100,
+          "relMedian": 2.851849204505519,
+          "relQ25": 1.5986460809015803,
+          "relQ75": 4.105052328109457
+        }
+      ],
+      "styles": [],
+      "top": [
+        {
+          "id": "7280101775871446280",
+          "title": "Không nản lòng trước thất bại, Honda cho rằng Tokai Seiki chỉ là đen thôi chứ đỏ thì là red. Ông tiếp tục mạo hiểm lần thứ hai. #honda #hocvienbovagau",
+          "url": "https://www.tiktok.com/@hocvienbovagauoffcial/video/7280101775871446280",
+          "views": 1200000,
+          "er": 0.045623333333333335,
+          "duration": 278,
+          "date": "2023-09-18",
+          "time": "19:00",
+          "category": "Chưa phân loại",
+          "ratio": 6.06826801517067
+        },
+        {
+          "id": "7280104668972223751",
+          "title": "Sang đầu những năm 70, những gì đã diễn ra dường như là một sự sắp đặt cho Honda để trở thành kẻ thống trị thị trường ô tô. #honda #hocvienbovagau",
+          "url": "https://www.tiktok.com/@hocvienbovagauoffcial/video/7280104668972223751",
+          "views": 1100000,
+          "er": 0.026845454545454544,
+          "duration": 288,
+          "date": "2023-09-21",
+          "time": "19:00",
+          "category": "Chưa phân loại",
+          "ratio": 5.562579013906448
+        },
+        {
+          "id": "7256347233438747906",
+          "title": "NETFLIX - Kẻ thay đổi cuộc chơi và thói quen xem phim của cả thế giới #netflix #net #netflixseries",
+          "url": "https://www.tiktok.com/@hocvienbovagauoffcial/video/7256347233438747906",
+          "views": 860000,
+          "er": 0.035172093023255815,
+          "duration": 283,
+          "date": "2023-07-19",
+          "time": "20:00",
+          "category": "Chưa phân loại",
+          "ratio": 4.348925410872313
+        },
+        {
+          "id": "7224460643288567042",
+          "title": "Sau 3 mùa đầu tiên đầy khó khăn. Với cương vị là huấn luyện viên trưởng. Alex Ferguson đã mang tới Mờ U 38 danh hiệu lớn nhỏ khác nhau trong suốt 27 năm #hocvienbovagau #MU #manchesterunited",
+          "url": "https://www.tiktok.com/@hocvienbovagauoffcial/video/7224460643288567042",
+          "views": 852700,
+          "er": 0.0415890700129002,
+          "duration": 355,
+          "date": "2023-04-21",
+          "time": "19:40",
+          "category": "Chưa phân loại",
+          "ratio": 4.312010113780025
+        },
+        {
+          "id": "7240035098920324354",
+          "title": "Tháng 9 năm 2006, với số tiền 1,5 triệu đô la Mỹ tài trợ từ bạn bè, gia đình và những nhà đầu tư, Riot Games chính thức được thành lập. Văn phòng đầu tiên được mở đằng sau một cửa hàng sửa chữa linh kiện máy tính ở Santa Monica, California. #hocvienbovagau #lol #lmhtvn",
+          "url": "https://www.tiktok.com/@hocvienbovagauoffcial/video/7240035098920324354",
+          "views": 789300,
+          "er": 0.05491828202204485,
+          "duration": 251,
+          "date": "2023-06-02",
+          "time": "21:00",
+          "category": "Chưa phân loại",
+          "ratio": 3.991403286978508
+        },
+        {
+          "id": "7300873106929814802",
+          "title": "Arsenal ban đầu là một đội bóng do David Danskin - một ông quản lý xưởng đạn Royal Arsenal ở phía nam London, và các nhân viên lập nên vào năm 1886,  lấy tên là Dial Square theo tên của công ty con của Royal Arsenal #arsenal #hocvienbovagau",
+          "url": "https://www.tiktok.com/@hocvienbovagauoffcial/video/7300873106929814802",
+          "views": 696700,
+          "er": 0.031189895220324386,
+          "duration": 336,
+          "date": "2023-11-13",
+          "time": "19:00",
+          "category": "Chưa phân loại",
+          "ratio": 3.5231352718078384
+        },
+        {
+          "id": "7253035074227014913",
+          "title": "Ngày 12 tháng 1 năm 1964, tại Albuquerque, Hoa Kỳ. Một đứa trẻ tên là Jeffrey Preston Jorgensen cất tiếng khóc chào đời. #jeffbezos #amazon #hocvienbovagau",
+          "url": "https://www.tiktok.com/@hocvienbovagauoffcial/video/7253035074227014913",
+          "views": 686000,
+          "er": 0.035823615160349855,
+          "duration": 240,
+          "date": "2023-07-07",
+          "time": "21:00",
+          "category": "Chưa phân loại",
+          "ratio": 3.4690265486725664
+        },
+        {
+          "id": "7263019367212846354",
+          "title": "Nắm trong tay giấc mơ của người bạn, ông Vũ tiến thẳng lên Sài gòn lập nghiệp. Ngày 20/8/1998, Trung Nguyên khai trương cửa hàng đầu tiên trên đất Sài Thành. #Trungnguyen #hocvienbovagau #danglenguyenvu",
+          "url": "https://www.tiktok.com/@hocvienbovagauoffcial/video/7263019367212846354",
+          "views": 644900,
+          "er": 0.043453248565669095,
+          "duration": 191,
+          "date": "2023-08-03",
+          "time": "19:00",
+          "category": "Chưa phân loại",
+          "ratio": 3.261188369152971
+        },
+        {
+          "id": "7300876185586765058",
+          "title": "Các thương vụ bán \"siêu sao trẻ triển vọng của nhà trồng được\" hoặc các cầu thủ \"mua rẻ - bán đắt\" trở thành thương hiệu của Arsenal thời đại Wenger #arsenal #hocvienbovagau",
+          "url": "https://www.tiktok.com/@hocvienbovagauoffcial/video/7300876185586765058",
+          "views": 606600,
+          "er": 0.03022584899439499,
+          "duration": 313,
+          "date": "2023-11-15",
+          "time": "19:00",
+          "category": "Chưa phân loại",
+          "ratio": 3.0675094816687736
+        },
+        {
+          "id": "7240036230161845506",
+          "title": "Là trò chơi phối hợp đồng đội 5 đấu 5 đầy tính chiến thuật. Nơi mà mỗi người chơi chọn 1 vị tướng để đối đầu với nhau và phá nhà đối phương. Về lý thuyết là trò chơi chiến thuật nhưng vào game thì mỗi ông lại đánh một kiểu. #hocvienbovagau #lol #lmhtvn",
+          "url": "https://www.tiktok.com/@hocvienbovagauoffcial/video/7240036230161845506",
+          "views": 601400,
+          "er": 0.05285167941469904,
+          "duration": 276,
+          "date": "2023-06-05",
+          "time": "20:00",
+          "category": "Chưa phân loại",
+          "ratio": 3.0412136536030343
+        }
+      ]
+    }
+  ]
+}

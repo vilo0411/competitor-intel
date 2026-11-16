@@ -92,6 +92,33 @@
       ]
     },
     {
+      "slug": "khao-sat-tai-chinh-vn-nhom-1",
+      "name": "Khao sat tai chinh VN - nhom 1",
+      "updated": "2026-11-16",
+      "todo": [
+        "gắn nhãn",
+        "nhận định"
+      ],
+      "report": "khao-sat-tai-chinh-vn-nhom-1/khao-sat-tai-chinh-vn-nhom-1.html",
+      "summary": "khao-sat-tai-chinh-vn-nhom-1/summary.json",
+      "channels": [
+        {
+          "handle": "moneyvtv",
+          "followers": 113,
+          "medianViews": 281,
+          "labelsTodo": "khao-sat-tai-chinh-vn-nhom-1/tiktok/moneyvtv/labels.todo.json",
+          "styles": []
+        },
+        {
+          "handle": "hocvienbovagauoffcial",
+          "followers": 246500,
+          "medianViews": 197750,
+          "labelsTodo": "khao-sat-tai-chinh-vn-nhom-1/tiktok/hocvienbovagauoffcial/labels.todo.json",
+          "styles": []
+        }
+      ]
+    },
+    {
       "slug": "kinh-te-don-gian",
       "name": "Kinh Tế Đơn Giản",
       "updated": "2026-11-16",
@@ -141,6 +168,14 @@
     }
   ],
   "runs": [
+    {
+      "id": "20261116-142250-khao-sat-tai-chinh-vn-nhom-1",
+      "status": "error",
+      "slug": "khao-sat-tai-chinh-vn-nhom-1",
+      "name": "Khao sat tai chinh VN - nhom 1",
+      "finishedAt": "2026-11-16T14:24:12.358Z",
+      "seconds": 16
+    },
     {
       "id": "20261116-142032-cafef",
       "status": "ok",
@@ -212,14 +247,6 @@
       "name": "Gorillanomics",
       "finishedAt": "2026-11-11T09:10:31.762Z",
       "seconds": 13
-    },
-    {
-      "id": "20261111-082710-gorillanomics",
-      "status": "ok",
-      "slug": "gorillanomics",
-      "name": "Gorillanomics",
-      "finishedAt": "2026-11-11T08:36:21.153Z",
-      "seconds": 455
     }
   ]
 }
