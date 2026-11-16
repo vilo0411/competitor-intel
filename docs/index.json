@@ -249,6 +249,14 @@
   ],
   "runs": [
     {
+      "id": "20261116-143941-kiem-tra-lai-kimkhanhchungkhoan",
+      "status": "error",
+      "slug": "kiem-tra-lai-kimkhanhchungkhoan",
+      "name": "Kiem tra lai kimkhanhchungkhoan",
+      "finishedAt": "2026-11-16T14:40:52.969Z",
+      "seconds": 2
+    },
+    {
       "id": "20261116-143819-kiem-tra-lai-duonglostock",
       "status": "error",
       "slug": "kiem-tra-lai-duonglostock",
@@ -319,14 +327,6 @@
       "name": "Khao sat tai chinh VN - nhom 1",
       "finishedAt": "2026-11-16T14:24:12.358Z",
       "seconds": 16
-    },
-    {
-      "id": "20261116-142032-cafef",
-      "status": "ok",
-      "slug": "cafef",
-      "name": "CafeF",
-      "finishedAt": "2026-11-16T14:22:29.353Z",
-      "seconds": 6
     }
   ]
 }
