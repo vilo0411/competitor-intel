@@ -229,6 +229,14 @@
   ],
   "runs": [
     {
+      "id": "20261116-142919-khao-sat-viet-hoang",
+      "status": "error",
+      "slug": "khao-sat-viet-hoang",
+      "name": "Khao sat Viet Hoang",
+      "finishedAt": "2026-11-16T14:30:40.793Z",
+      "seconds": 2
+    },
+    {
       "id": "20261116-142800-khao-sat-tai-chinh-vn-bo-sung",
       "status": "error",
       "slug": "khao-sat-tai-chinh-vn-bo-sung",
@@ -299,14 +307,6 @@
       "name": "Gorillanomics",
       "finishedAt": "2026-11-16T07:37:53.138Z",
       "seconds": 370
-    },
-    {
-      "id": "20261116-072803-cafe-chung-cung-minh",
-      "status": "ok",
-      "slug": "cafe-chung-cung-minh",
-      "name": "Cafe Chung Cung Minh",
-      "finishedAt": "2026-11-16T07:31:43.125Z",
-      "seconds": 190
     }
   ]
 }
