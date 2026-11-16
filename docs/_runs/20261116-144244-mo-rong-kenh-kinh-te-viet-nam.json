@@ -1,0 +1,23 @@
+{
+  "id": "20261116-144244-mo-rong-kenh-kinh-te-viet-nam",
+  "request": {
+    "id": "20261116-144244-mo-rong-kenh-kinh-te-viet-nam",
+    "name": "Mo rong kenh kinh te Viet Nam",
+    "channels": [
+      "@nqs.kinhte",
+      "@5phutchuyenthitruong",
+      "@bovagau",
+      "@tinhbao.kinhte"
+    ],
+    "refresh": true,
+    "style": 0,
+    "limit": 50
+  },
+  "finishedAt": "2026-11-16T14:44:16.526Z",
+  "status": "error",
+  "slug": "mo-rong-kenh-kinh-te-viet-nam",
+  "name": "Mo rong kenh kinh te Viet Nam",
+  "report": null,
+  "seconds": 27,
+  "log": "↓ @nqs.kinhte: lấy danh sách video…\n✓ @nqs.kinhte: 50 video, view trung vị 171k, 50 video chưa gắn nhãn\n↓ @5phutchuyenthitruong: lấy danh sách video…\n✓ @5phutchuyenthitruong: 50 video, view trung vị 7,3k, 50 video chưa gắn nhãn\n↓ @bovagau: lấy danh sách video…\n✓ @bovagau: 50 video, view trung vị 5k, 50 video chưa gắn nhãn\n↓ @tinhbao.kinhte: lấy danh sách video…\nfile:///home/runner/work/competitor-intel/competitor-intel/scripts/competitors.mjs:59\n  if (r.status !== 0) throw new Error(`yt-dlp lỗi với @${handle}: ${(r.stderr || '').trim().split('\\n').pop()}`);\n                            ^\n\nError: yt-dlp lỗi với @tinhbao.kinhte: ERROR: [tiktok:user] tinhbao.kinhte: Unable to extract secondary user ID. If you are able to get the channel_id from a video posted by this user, try using \"tiktokuser:channel_id\" as the input URL (replacing `channel_id` with its actual value)\n    at scrapeVideos (file:///home/runner/work/competitor-intel/competitor-intel/scripts/competitors.mjs:59:29)\n    at file:///home/runner/work/competitor-intel/competitor-intel/scripts/competitors.mjs:684:113\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n\nNode.js v22.23.4"
+}

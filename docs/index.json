@@ -245,9 +245,51 @@
           ]
         }
       ]
+    },
+    {
+      "slug": "mo-rong-kenh-kinh-te-viet-nam",
+      "name": "Mo rong kenh kinh te Viet Nam",
+      "updated": "2026-11-16",
+      "todo": [
+        "gắn nhãn",
+        "nhận định"
+      ],
+      "report": "mo-rong-kenh-kinh-te-viet-nam/mo-rong-kenh-kinh-te-viet-nam.html",
+      "summary": "mo-rong-kenh-kinh-te-viet-nam/summary.json",
+      "channels": [
+        {
+          "handle": "nqs.kinhte",
+          "followers": 1200000,
+          "medianViews": 170700,
+          "labelsTodo": "mo-rong-kenh-kinh-te-viet-nam/tiktok/nqs.kinhte/labels.todo.json",
+          "styles": []
+        },
+        {
+          "handle": "5phutchuyenthitruong",
+          "followers": 807500,
+          "medianViews": 7282.5,
+          "labelsTodo": "mo-rong-kenh-kinh-te-viet-nam/tiktok/5phutchuyenthitruong/labels.todo.json",
+          "styles": []
+        },
+        {
+          "handle": "bovagau",
+          "followers": 149800,
+          "medianViews": 4994,
+          "labelsTodo": "mo-rong-kenh-kinh-te-viet-nam/tiktok/bovagau/labels.todo.json",
+          "styles": []
+        }
+      ]
     }
   ],
   "runs": [
+    {
+      "id": "20261116-144244-mo-rong-kenh-kinh-te-viet-nam",
+      "status": "error",
+      "slug": "mo-rong-kenh-kinh-te-viet-nam",
+      "name": "Mo rong kenh kinh te Viet Nam",
+      "finishedAt": "2026-11-16T14:44:16.526Z",
+      "seconds": 27
+    },
     {
       "id": "20261116-144059-kiem-tra-lai-viethoangstockvsa",
       "status": "error",
@@ -319,14 +361,6 @@
       "name": "Khao sat tai chinh VN - nhom 3",
       "finishedAt": "2026-11-16T14:27:25.572Z",
       "seconds": 9
-    },
-    {
-      "id": "20261116-142442-khao-sat-tai-chinh-vn-nhom-2",
-      "status": "error",
-      "slug": "khao-sat-tai-chinh-vn-nhom-2",
-      "name": "Khao sat tai chinh VN - nhom 2",
-      "finishedAt": "2026-11-16T14:25:45.114Z",
-      "seconds": 15
     }
   ]
 }

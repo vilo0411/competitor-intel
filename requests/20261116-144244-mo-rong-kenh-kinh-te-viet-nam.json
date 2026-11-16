@@ -1,8 +1,0 @@
-{
-  "id": "20261116-144244-mo-rong-kenh-kinh-te-viet-nam",
-  "name": "Mo rong kenh kinh te Viet Nam",
-  "channels": ["@nqs.kinhte", "@5phutchuyenthitruong", "@bovagau", "@tinhbao.kinhte"],
-  "refresh": true,
-  "style": 0,
-  "limit": 50
-}
